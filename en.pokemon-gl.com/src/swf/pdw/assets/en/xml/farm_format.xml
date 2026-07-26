@@ -17,5 +17,12 @@
 	<string id="k_al_1" size="12" letterSpacing="1.0" />
 	<string id="k_am_1" size="16" letterSpacing="1.0" />
 	<string id="k_am_3" letterSpacing="1.0" />
+	<string id="s_ac_1" letterSpacing="1.0" bold="true" />
+	<string id="s_ad_1" letterSpacing="1.0" />
 	<string id="s_ad_2" letterSpacing="1.0" bold="true" />
+	<string id="s_af_1" letterSpacing="1.0" />
+	<string id="s_ai_2" letterSpacing="1.0" />
+	<string id="s_aj_3" letterSpacing="1.0" bold="true" />
+	<string id="s_aj_4" letterSpacing="1.0" bold="true" />
+	<string id="s_an_4" letterSpacing="1.0" bold="true" />
 </data>
