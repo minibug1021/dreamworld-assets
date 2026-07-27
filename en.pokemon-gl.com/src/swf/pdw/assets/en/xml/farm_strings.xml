@@ -50,7 +50,7 @@
 	<string id="k_det_1">k_det_1</string>
 	<string id="k_det_2">k_det_2</string>
 	<string id="s_ac_1">Place the item on the Share Shelf?</string>
-	<string id="s_ad_1" unofficial="true">Placed the [arg0] on the Share Shelf.</string>
+	<string id="s_ad_1">Placed the [arg0]&amp;#xD;on the Share Shelf.</string>
 	<string id="s_ad_2">Close</string>
 	<string id="s_af_1" unofficial="true">The [arg0] has been&amp;#xD;sent to the Treasure Chest.</string>
 	<string id="s_ag_1" unofficial="true">Trade Summary</string>
