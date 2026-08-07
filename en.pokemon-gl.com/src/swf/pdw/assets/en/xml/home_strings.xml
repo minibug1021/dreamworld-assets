@@ -9,11 +9,11 @@
 	<string id="b_af_2">Choose "Leave the Pokémon Dream World" to wake&amp;#xD;your Pokémon and go to the Entree Forest.&amp;#xD;You can receive your item(s) at the entrance.</string>
 	<string id="dialog_32">dialog_32</string>
 	<string id="dialog_35">Close</string>
-	<string id="fr_aa_1">fr_aa_1</string>
+	<string id="fr_aa_1">Dream Pal Request</string>
 	<string id="fr_aa_2">fr_aa_2</string>
 	<string id="fr_aa_3">fr_aa_3</string>
 	<string id="fr_aa_4">Enter room.</string>
-	<string id="fr_aa_5">fr_aa_5</string>
+	<string id="fr_aa_5">Return to your home.</string>
 	<string id="fr_aa_6">Check Dream Pal map.</string>
 	<string id="h_ca_1">[PGLニックネーム]'s home</string>
 	<string id="h_ca_2">Check Footprint Mat.</string>
@@ -30,6 +30,14 @@
 	<string id="h_cc_2">Yes</string>
 	<string id="h_cc_3">No</string>
 	<string id="h_cc_4">Go to the Island of Dreams.</string>
+	<string id="h_da_1">h_da_1</string>
+	<string id="h_da_2">Check Dream Pals</string>
+	<string id="h_da_3">Return to your home.</string>
+	<string id="h_da_4">[PGLニックネーム]'s Dream Pal map</string>
+	<string id="h_db_1">Dream Pal list</string>
+	<string id="h_db_2">Sort by visit</string>
+	<string id="h_db_3">Sort by name</string>
+	<string id="h_db_4">Sort by region</string>
 	<string id="h_ea_1">Redecorate</string>
 	<string id="h_ea_2">Check Treasure Chest</string>
 	<string id="h_ea_3">Check Dream Catalogue</string>
@@ -53,6 +61,9 @@
 	<string id="h_ha_1">Home</string>
 	<string id="h_ha_2">Dream Bridge</string>
 	<string id="i_ab_3">Dream Catalogue</string>
+	<string id="i_aj_1">Set position.</string>
+	<string id="i_aj_2">i_aj_2</string>
+	<string id="i_aj_3" unofficial="true">Unmovable</string>
 	<string id="m_aa_1">Footprint</string>
 	<string id="m_aa_2">See more</string>
 	<string id="m_af_1">See Details</string>

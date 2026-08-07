@@ -26,6 +26,14 @@
 	<string id="h_cc_2" letterSpacing="1.0" bold="true" />
 	<string id="h_cc_3" letterSpacing="1.0" bold="true" />
 	<string id="h_cc_4" letterSpacing="1.0" />
+	<string id="h_da_1" letterSpacing="1.0" />
+	<string id="h_da_2" letterSpacing="1.0" bold="true" />
+	<string id="h_da_3" letterSpacing="1.0" bold="true" />
+	<string id="h_da_4" letterSpacing="1.0" />
+	<string id="h_db_1" letterSpacing="1.0" bold="true" />
+	<string id="h_db_2" letterSpacing="1.0" />
+	<string id="h_db_3" letterSpacing="1.0" />
+	<string id="h_db_4" letterSpacing="1.0" />
 	<string id="h_ea_1" letterSpacing="1.0" bold="true" />
 	<string id="h_ea_2" letterSpacing="1.0" bold="true" />
 	<string id="h_ea_3" letterSpacing="1.0" bold="true" />
@@ -49,6 +57,8 @@
 	<string id="h_ha_1" letterSpacing="1.0" color="0x333333" bold="true" />
 	<string id="h_ha_2" letterSpacing="1.0" color="0x333333" bold="true" />
 	<string id="i_ab_3" letterSpacing="1.0" bold="true" />
+	<string id="i_aj_1" letterSpacing="1.0" bold="true" />
+	<string id="i_aj_3" letterSpacing="1.0" />
 	<string id="m_aa_1" letterSpacing="1.0" />
 	<string id="m_aa_2" letterSpacing="1.0" />
 	<string id="m_af_1" letterSpacing="1.0" />
