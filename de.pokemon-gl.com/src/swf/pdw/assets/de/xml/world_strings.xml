@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="de">
+	<string id="h_da_1">Haus von...
+[PGLニックネーム]</string>
+	<string id="h_da_2">Traumfreunde einsehen</string>
+	<string id="h_da_3">Zurück auf deine Insel</string>
+	<string id="h_da_4">Karte der Traumfreunde von [PGLニックネーム]</string>
+	
+	<string id="h_db_1">Traumfreundesliste</string>
+	<string id="h_db_2">Besuche</string>
+	<string id="h_db_3">Name</string>
+	<string id="h_db_4">Nach Regionen ordnen</string>
+</data>

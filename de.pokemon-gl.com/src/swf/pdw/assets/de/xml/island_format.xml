@@ -1,36 +1,94 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <data locale="de">
-	<string id="s_aa_2" letterSpacing="1.0" bold="true" />
-	<string id="t_aa_1" letterSpacing="1.0" />
-	<string id="y_aa_1" letterSpacing="1.0" />
-	<string id="y_aa_2" letterSpacing="1.0" />
-	<string id="y_aa_6" letterSpacing="1.0" bold="true" />
-	<string id="y_aa_13" letterSpacing="1.0" bold="true" />
-	<string id="y_ad_4" letterSpacing="1.0" bold="true" />
-	<string id="y_ad_8" letterSpacing="1.0" bold="true" />
-	<string id="y_ad_11" letterSpacing="1.0" bold="true" />
-	<string id="y_ad_14" letterSpacing="1.0" bold="true" />
-	<string id="y_ad_16" letterSpacing="1.0" bold="true" />
-	<string id="y_ad_19" letterSpacing="1.0" bold="true" />
-	<string id="y_ad_21" letterSpacing="1.0" bold="true" />
-	<string id="y_ad_23" letterSpacing="1.0" bold="true" />
-	<string id="y_ad_25" letterSpacing="1.0" bold="true" />
-	<string id="y_ad_27" letterSpacing="1.0" bold="true" />
-	<string id="y_ad_31" letterSpacing="1.0" bold="true" />
-	<string id="y_af_1" letterSpacing="1.0" />
-	<string id="y_af_2" letterSpacing="1.0" />
-	<string id="y_af_3" letterSpacing="1.0" />
-	<string id="y_af_4" letterSpacing="1.0" />
-	<string id="y_af_5" letterSpacing="1.0" />
-	<string id="y_af_6" letterSpacing="1.0" />
-	<string id="y_af_7" letterSpacing="1.0" bold="true" />
-	<string id="y_ag_1" letterSpacing="1.0" bold="true" />
-	<string id="y_ag_3" size="12" letterSpacing="1.0" bold="true" />
-	<string id="y_ag_5" letterSpacing="1.0" bold="true" />
-	<string id="y_ag_7" letterSpacing="1.0" bold="true" />
-	<string id="y_ag_9" letterSpacing="1.0" bold="true" />
-	<string id="y_ag_16" letterSpacing="1.0" bold="true" />
-	<string id="y_ah_1" letterSpacing="1.0" bold="true" />
-	<string id="y_ai_1" letterSpacing="1.0" bold="true" />
-	<string id="y_aj_1" letterSpacing="1.0" bold="true" />
+	<string id="y_aa_3" bold="true" letterSpacing="1" baselineMode="mem" />
+	<string id="y_za_1" letterSpacing="1" baselineMode="mem" />
+
+	<string id="y_aa_4" bold="true" letterSpacing="1" baselineMode="mem" />
+	<string id="y_zb_2" letterSpacing="1" baselineMode="mem" />
+
+	<string id="y_aa_5" bold="true" letterSpacing="1" baselineMode="mem" />
+	<string id="y_zc_3" letterSpacing="1" baselineMode="mem" />
+
+	<string id="y_aa_9" bold="true" letterSpacing="1"  baselineMode="mem" />
+	<string id="y_zd_4" letterSpacing="1"  baselineMode="mem" />
+
+	<string id="y_aa_16" bold="true" letterSpacing="1"  baselineMode="mem" />
+	<string id="y_zc_4" letterSpacing="1"  baselineMode="mem" />
+
+	<string id="y_aa_17" bold="true" letterSpacing="1"  baselineMode="mem" />
+	<string id="y_zc_5" letterSpacing="1"  baselineMode="mem" />
+
+	<string id="y_aa_10" bold="true" letterSpacing="1"  baselineMode="mem" />
+	<string id="y_aa_11" letterSpacing="1"  baselineMode="mem" />
+
+
+	<string id="y_ad_20" letterSpacing="1"  baselineMode="mem" />
+	<string id="y_ad_21" letterSpacing="1" baselineShift="3"  baselineMode="mem" />
+	<string id="y_ag_14" letterSpacing="1"  baselineMode="mem" />
+	<string id="y_ag_15" letterSpacing="1"  baselineMode="mem" />
+
+	<string id="y_ad_18" letterSpacing="1"  baselineMode="mem" />
+	<string id="y_ad_19" letterSpacing="1" baselineShift="3"  baselineMode="mem" />
+	<string id="y_ag_12" letterSpacing="1"  baselineMode="mem" />
+	<string id="y_ag_13" letterSpacing="1"  baselineMode="mem" />
+
+	<string id="y_aa_12" letterSpacing="1"  baselineMode="mem" />
+	<string id="y_aa_13" letterSpacing="1" baselineShift="3"  baselineMode="mem" />
+	<string id="y_aa_14" letterSpacing="1"  baselineMode="mem" />
+	<string id="y_aa_15" letterSpacing="1"  baselineMode="mem" />
+
+	<string id="y_ad_10" letterSpacing="1" baselineMode="mem" />
+	<string id="y_ad_11" letterSpacing="1" baselineShift="3" baselineMode="mem" />
+	<string id="y_ag_5" letterSpacing="1" baselineMode="mem" />
+	<string id="y_ag_6" letterSpacing="1" baselineMode="mem" />
+
+	<string id="y_ad_2" letterSpacing="1" baselineMode="mem" />
+	<string id="y_ad_4" letterSpacing="1" baselineShift="3" baselineMode="mem" />
+	<string id="y_ag_1" letterSpacing="1" baselineMode="mem" />
+	<string id="y_ag_2" letterSpacing="1" baselineMode="mem" />
+
+	<string id="y_ad_7" letterSpacing="1" baselineMode="mem" />
+	<string id="y_ad_8" letterSpacing="1" baselineShift="3" baselineMode="mem" />
+	<string id="y_ag_3" letterSpacing="1" baselineMode="mem" />
+	<string id="y_ag_4" letterSpacing="1" baselineMode="mem" />
+
+	<string id="y_ad_13" letterSpacing="1" baselineMode="mem" />
+	<string id="y_ad_14" letterSpacing="1" baselineShift="3" baselineMode="mem" />
+	<string id="y_ag_7" letterSpacing="1" baselineMode="mem" />
+	<string id="y_ag_8" letterSpacing="1" baselineMode="mem" />
+
+
+	<string id="y_af_2" letterSpacing="1" baselineShift="3" baselineMode="mem" />
+	<string id="y_af_3" letterSpacing="1" baselineShift="2" baselineMode="mem" />
+	<string id="y_af_4" letterSpacing="1" baselineShift="2" baselineMode="mem" />
+	<string id="y_af_5" letterSpacing="1" baselineShift="2" baselineMode="mem" />
+	<string id="y_af_6" letterSpacing="1" baselineMode="mem" />
+	<string id="y_af_8" letterSpacing="1" baselineShift="0" baselineMode="mem" />
+	<string id="y_af_9" letterSpacing="1" baselineShift="0" baselineMode="mem" />
+	<string id="y_af_10" letterSpacing="1" baselineShift="0" baselineMode="mem" />
+	<string id="y_af_11" letterSpacing="1" baselineShift="0" baselineMode="mem" />
+
+	<string id="b_ae_3" letterSpacing="1" baselineMode="mem" />
+	<string id="b_ae_4" letterSpacing="1" baselineMode="mem" />
+
+	<string id="y_aa_6" letterSpacing="0.5" baselineMode="mem" />
+	<string id="y_aa_1" letterSpacing="1" baselineMode="mem" />
+	<string id="y_aa_2" size="11" letterSpacing="1" baselineMode="mem" />
+	<string id="y_aa_7" letterSpacing="1" baselineMode="mem" />
+	<string id="y_aa_8" size="10" baselineShift="2" letterSpacing="0"  baselineMode="mem" />
+
+	<string id="y_ai_1" letterSpacing="1" baselineShift="1" baselineMode="mem" ></string>
+	<string id="y_ah_1" letterSpacing="1" baselineMode="mem" ></string>
+	<string id="y_aj_1" letterSpacing="1" baselineShift="1" baselineMode="mem" ></string>
+	<string id="y_ag_9" letterSpacing="1" baselineMode="mem" ></string>
+	<string id="y_af_7" letterSpacing="1" baselineShift="2" baselineMode="mem" ></string>
+	<string id="y_ad_1" letterSpacing="1" color="#41200B" baselineMode="mem" ></string>
+	<string id="y_ad_3" letterSpacing="1" color="#41200B" baselineMode="mem" ></string>
+	<string id="y_af_1" letterSpacing="1" baselineMode="mem" ></string>
+
+	<string id="Y_af_6" letterSpacing="0" baselineMode="mem" ></string>
+
+	<string id="t_ai_3" size="12" letterSpacing="1"  baselineMode="mem" />
+
 </data>
+

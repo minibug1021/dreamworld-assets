@@ -1,4 +1,44 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <data locale="ja">
-    <string id="lo_a_1">読みこみ中です。</string>
+
+	<string id="s_aj_3">たからばこに入れる</string>
+	<string id="s_aj_4">入れ替える</string>
+	<string id="s_an_4">記録を見る</string>
+	<string id="fs_ab_3">交換する</string>
+
+	<string id="s_aa_1">[arg0]のおすそわけ</string>
+
+	<string id="s_ad_1">[arg0]を
+おすそわけだなに置きました。</string>
+
+	<string id="s_af_1">[arg0]を
+たからばこにもどしました。</string>
+
+	<string id="s_ag_1">[arg0]は[arg1]と
+交換されました。</string>
+	<string id="s_ml_1">[arg0]は[arg1]と
+入れ替わりました。</string>
+
+	<string id="s_ag_3">ニックネーム:</string>
+	<string id="s_ag_4">PGLニックネーム:</string>
+
+	<string id="s_ac_1">おすそわけだなに置きますか？</string>
+	<string id="s_al_1">このどうぐと入れ替えますか？</string>
+	<string id="fs_ad_1">このどうぐと交換しますか？</string>
+	
+	<string id="s_ai_2">どうぐを置くことができます。</string>
+	<string id="s_ap_1">[arg0]は
+もう持っています。</string>
+	<string id="s_ap_2">自分が持っている道具とこうかんすることはできません。</string>
+	<string id="s_ao_1">自分がこうかんした道具です。
+だれかがこうかんしてくれるのを
+待ってみましょう。</string>
+	<string id="s_aq_1">s_aq_1</string>
+	<string id="s_aq_2">ポケモングローバルリンク上でゲームシンクIDコードを登録すると、おすそわけだなで他のユーザーとどうぐを交換することができます。</string>
+
+	<string id="fs_ad_6">一度おすそわけだなに置くと、自分のたからばこに戻すことができません。</string>
+
+	<string id="s_aq_3">ただいま、体験版をプレイ中です。</string>
+	<string id="s_aq_4">体験版ではおすそわけだなを使うことは
+できません。</string>
 </data>

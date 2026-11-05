@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="de">
+
+	<string id="s_aj_3">In die Schatztruhe</string>
+	<string id="s_aj_4">Auswechseln</string>
+	<string id="s_an_4">Verlauf ansehen</string>
+	<string id="fs_ab_3">Austauschen</string>
+
+	<string id="s_aa_1">Tauschbörse von [arg0]</string>
+
+	<string id="s_ad_1">[arg0] wurde auf dem
+Tauschregal abgelegt.</string>
+
+	<string id="s_af_1">[arg0] zurücklegen</string>
+
+	<string id="s_ag_1">[arg0] wurde gegen
+[arg1] ausgetauscht.</string>
+	<string id="s_ml_1">[arg0] wurde gegen
+[arg1] ausgewechselt.</string>
+
+	<string id="s_ag_3">Spitzname</string>
+	<string id="s_ag_4">PGL-Spitzname</string>
+
+	<string id="s_ac_1">Auf dem Tauschregal ablegen?</string>
+	<string id="s_al_1">Gegen dieses Item auswechseln?</string>
+	<string id="fs_ad_1">Gegen dieses Item austauschen?</string>
+	
+	<string id="s_ai_2">Ablage für Tauschitems. </string>
+	<string id="s_ap_1">Du besitzt das Item [arg0] schon.</string>
+	<string id="s_ap_2">Items, die du bereits dein Eigen nennst, kannst du dir nicht ertauschen.</string>
+	<string id="s_ao_1">Warte, bis jemand auf den Tausch des von dir angeboteten Items eingehen will.</string>
+	<string id="s_aq_1">s_aq_1</string>
+	<string id="s_aq_2">Um über die Tauschbörse mit anderen Nutzern Items zu tauschen, musst du beim Pokémon Global Link eine Spielsynchro ID registrieren.</string>
+
+	<string id="fs_ad_6">Items, die du in die Tauschbörse gibst, können nicht wieder in die Schatztruhe zurückgelegt werden.</string>
+
+	<string id="s_aq_3">Du spielst gegenwärtig die Demoversion.</string>
+	<string id="s_aq_4">Die Nutzung des Tauschregals ist in der Demoversion nicht möglich.</string>
+</data>

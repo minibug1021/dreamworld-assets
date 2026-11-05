@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="ko">
+
+	<string id="s_aj_3">보물상자에 넣기</string>
+	<string id="s_aj_4">교체하기</string>
+	<string id="s_an_4">기록 보기</string>
+	<string id="fs_ab_3">교환하기</string>
+
+	<string id="s_aa_1">[arg0]의 나눠주기</string>
+
+	<string id="s_ad_1">[arg0]를(을) 나눠주기선반에 두었습니다.</string>
+
+	<string id="s_af_1">[arg0]를(을) 보물상자에 다시 넣었습니다</string>
+
+	<string id="s_ag_1">[arg0]는(은) [arg1]와(과) 교환됐습니다.</string>
+	<string id="s_ml_1">[arg0]는(은) [arg1]와(과) 교체됐습니다.</string>
+
+	<string id="s_ag_3">닉네임:</string>
+	<string id="s_ag_4">PGL 닉네임:</string>
+
+	<string id="s_ac_1">나눠주기선반에 두겠습니까?</string>
+	<string id="s_al_1">이 도구와 교체하겠습니까?</string>
+	<string id="fs_ad_1">이 도구와 교환하겠습니까?</string>
+	
+	<string id="s_ai_2">도구나 나무열매를 둘 수 있습니다.</string>
+	<string id="s_ap_1">[arg0]는(은) 이미 지니고 있습니다.</string>
+	<string id="s_ap_2">내가 지니고 있는 도구와 교환할 수 없습니다.</string>
+	<string id="s_ao_1">내가 교환한 도구입니다. 누군가 교환해 주기를 기다려 봅시다.</string>
+	<string id="s_aq_1">s_aq_1</string>
+	<string id="s_aq_2">포켓몬 글로벌 링크 상에서 게임싱크 ID 코드를 등록하면 나눠주기선반으로 다른 유저와 도구를 교환할 수 있습니다.</string>
+
+	<string id="fs_ad_6">한번 나눠주기선반에 놓아 두면 내 보물상자에 다시 넣을 수 없습니다.</string>
+
+	<string id="s_aq_3">현재 체험판을 플레이 중입니다.</string>
+	<string id="s_aq_4">체험판에서는 나눠주기선반을 사용할 수 없습니다.</string>
+</data>

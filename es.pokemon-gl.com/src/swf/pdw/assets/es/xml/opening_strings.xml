@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <data locale="es">
-	<string id="op_b_1">¡Te damos la bienvenida a Pokémon Dream World!</string>
-	<string id="op_b_2">Saltar animación.</string>
+	<string id="op_b_1">Este es el mundo de los sueños Pokémon.</string>
+	<string id="op_b_2">Saltar animación</string>
 </data>

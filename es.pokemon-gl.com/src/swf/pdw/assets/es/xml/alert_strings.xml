@@ -1,70 +1,67 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<data locale="es">
-	<string id="da_aa_1">da_aa_1</string>
-	<string id="da_aa_2">da_aa_2</string>
-	<string id="da_aa_3">da_aa_3</string>
-	<string id="da_aa_4">da_aa_4</string>
-	<string id="da_aa_5">da_aa_5</string>
-	<string id="da_aa_6">da_aa_6</string>
-	<string id="da_ab_1">da_ab_1</string>
-	<string id="da_ab_2">da_ab_2</string>
-	<string id="da_ab_3">da_ab_3</string>
-	<string id="da_ab_4">da_ab_4</string>
-	<string id="da_ad_1">da_ad_1</string>
-	<string id="da_ad_2">da_ad_2</string>
-	<string id="da_ad_6">da_ad_6</string>
-	<string id="da_af_1">da_af_1</string>
-	<string id="da_af_2">da_af_2</string>
-	<string id="dc_aa_1">dc_aa_1</string>
-	<string id="dc_aa_2">dc_aa_2</string>
-	<string id="dc_aa_3">dc_aa_3</string>
-	<string id="dc_aa_4">dc_aa_4</string>
-	<string id="dc_aa_5">dc_aa_5</string>
-	<string id="dc_aa_6">dc_aa_6</string>
-	<string id="dc_ac_1">dc_ac_1</string>
-	<string id="dc_ac_2">dc_ac_2</string>
-	<string id="dc_ac_3">dc_ac_3</string>
-	<string id="dc_ac_4">dc_ac_4</string>
-	<string id="dc_ae_2">dc_ae_2</string>
-	<string id="dc_af_2">dc_af_2</string>
-	<string id="o_abb_1" unofficial="true">Has salido de Pokémon Dream World.&amp;#xD;Puedes despertar a tu Pokémon mediante la función Sincronizar Juego.</string>
-	<string id="o_az_1">o_az_1</string>
-	<string id="pg_ade_1">pg_ade_1</string>
-	<string id="pg_ade_2">pg_ade_2</string>
-	<string id="pg_ade_3">pg_ade_3</string>
-	<string id="pg_ade_4">pg_ade_4</string>
-	<string id="pg_ade_5">pg_ade_5</string>
-	<string id="pg_adi_1">pg_adi_1</string>
-	<string id="pg_adi_2">pg_adi_2</string>
-	<string id="pg_adi_3">pg_adi_3</string>
-	<string id="pg_adi_4">pg_adi_4</string>
-	<string id="pg_adi_5">pg_adi_5</string>
-	<string id="pg_adi_6">pg_adi_6</string>
-	<string id="pg_adi_7">pg_adi_7</string>
-	<string id="pg_alc_1">pg_alc_1</string>
-	<string id="pg_alc_2">pg_alc_2</string>
-	<string id="pg_ald_1">pg_ald_1</string>
-	<string id="pg_ald_2">pg_ald_2</string>
-	<string id="pg_ale_1">pg_ale_1</string>
-	<string id="pg_ale_2">pg_ale_2</string>
-	<string id="pg_alf_1">pg_alf_1</string>
-	<string id="pg_alf_2">pg_alf_2</string>
-	<string id="pg_alf_3">pg_alf_3</string>
-	<string id="pg_alg_1">pg_alg_1</string>
-	<string id="pg_alg_2">pg_alg_2</string>
-	<string id="pg_alg_3">pg_alg_3</string>
-	<string id="pg_amc_1">pg_amc_1</string>
-	<string id="pg_amc_2">pg_amc_2</string>
-	<string id="pg_amc_3">pg_amc_3</string>
-	<string id="pg_amd_1">pg_amd_1</string>
-	<string id="pg_amd_2">pg_amd_2</string>
+<data locale="es">	
+	<string id="pg_amd_1">No tienes ningún Pokémon durmiendo.</string>
 	<string id="pg_amd_3">pg_amd_3</string>
-	<string id="pg_ame_1">pg_ame_1</string>
-	<string id="pg_amf_1">pg_amf_1</string>
-	<string id="pg_amh_1">pg_amh_1</string>
-	<string id="pg_amh_2">pg_amh_2</string>
-	<string id="pg_amh_3">pg_amh_3</string>
-	<string id="pg_amh_4">pg_amh_4</string>
-	<string id="pg_amk_1">pg_amk_1</string>
-	<string id="pg_ay_2">Vale</string>
+	<string id="pg_amd_2">Cerrar</string>
+	<string id="pg_amc_1">No se ha recibido el Pokémon o el objeto que intentaste transferir la última vez. Despierta al Pokémon que has acostado pulsando el botón que se muestra más abajo y accede a la función Sincronizar Juego para transferir tu Pokémon o el objeto que desees.</string>
+	<string id="pg_amc_2">Cerrar</string>
+	<string id="pg_amc_3">Despertar al Pokémon</string>
+	<string id="pg_amh_1">¡Te damos la bienvenida a Pokémon Dream World!</string>
+	<string id="pg_amh_2">Dispones de una hora para jugar en Pokémon Dream World.</string>
+	<string id="pg_amh_3">
+Tu sesión finalizará automáticamente cuando haya transcurrido una hora.
+Es posible que tu partida no se grabe correctamente si dejas que tu sesión finalice automáticamente. Para evitar que suceda esto, finaliza tu sesión cuando se te notifique en pantalla que has agotado tu tiempo de juego.</string>
+	<string id="pg_amh_4">Cerrar</string>
+	<string id="pg_ade_1">El servidor de Pokémon Dream World
+está ocupado. Espera unos minutos
+y vuelve a intentarlo.
+
+Acerca de la versión de prueba
+La versión de prueba de
+Pokémon Dream World
+ya no está disponible.</string>
+	<string id="pg_ade_2">Para poder disfrutar de Pokémon Dream World, deberás haber acostado antes a tu Pokémon y haber iniciado tu sesión en Pokémon Global Link.</string>
+	<string id="pg_ade_3">Puedes despertar al Pokémon que has acostado haciendo clic en el botón "Despertar al Pokémon" que se muestra más abajo y usando después la función Sincronizar Juego en tu copia del juego.</string>
+	<string id="pg_ade_4">Cerrar</string>
+	<string id="pg_ade_5">Despertar al Pokémon</string>
+	<string id="pg_adi_1">Te conectaste por última vez: [DD]-[MM] a las [HH1].
+Podrás volver a conectarte una vez que hayan transcurrido las siguientes horas: [HH2].</string>
+	<string id="pg_adi_2">Te conectaste por última vez: [DD]-[MM] a las [HH1].
+Podrás volver a conectarte una vez que hayan transcurrido los siguientes minutos: [HH2]. </string>
+	<string id="pg_adi_3">Te conectaste por última vez: [DD]-[MM] a las [HH1].
+Podrás volver a conectarte en menos de un minuto.</string>
+	<string id="pg_adi_4">Debido a un elevado tráfico de datos en el servidor, no se puede acceder a Pokémon Dream World. Espera unos minutos y vuelve a intentarlo. </string>
+	<string id="pg_adi_5">Puedes despertar al Pokémon que has acostado haciendo clic en el botón "Despertar al Pokémon" que se muestra más abajo y usando después la función Sincronizar Juego en tu copia del juego.</string>
+	<string id="pg_adi_6">Cerrar</string>
+	<string id="pg_adi_7">Despertar al Pokémon</string>
+	<string id="pg_ala_1">pg_ala_1</string>
+	<string id="pg_ala_2">pg_ala_2</string>
+	<string id="pg_alc_1">Los datos de tus aventuras en Pokémon Dream World están siendo procesados. Intenta acceder dentro de un rato.</string>
+	<string id="pg_alc_2">Volver</string>
+	<string id="pg_ald_1">Estamos procesando tus datos de registro. 
+Este proceso puede tardar cinco minutos o un poco más. 
+Por favor, espera antes de intentarlo de nuevo.</string>
+	<string id="pg_ald_2">Volver</string>
+	<string id="pg_alf_1">No hay ningún Pokémon soñando. 
+Puedes despertar a tu Pokémon mediante la función Sincronizar Juego. Para poder jugar en Pokémon Dream World de nuevo, es necesario que vuelvas a acostar a tu Pokémon.</string>
+	<string id="pg_alf_2">Nota: Puedes acceder a Sincronizar Juego una vez al día.</string>
+	<string id="pg_alf_3">Volver</string>
+	<string id="pg_ale_1">No hay ningún Pokémon soñando. 
+Usa la función Sincronizar Juego para acostar a un Pokémon.</string>
+	<string id="pg_ale_2">Volver</string>
+	<string id="pg_alg_1">Estamos procesando tus datos para Pokémon Dream World. 
+Este proceso puede tardar cinco minutos o un poco más. 
+Por favor, espera antes de intentarlo de nuevo.</string>
+	<string id="pg_alg_2">Nota: Puede darse el caso de que, tras haber acostado a tu Pokémon, tengas que esperar unos minutos hasta que este empiece a soñar.</string>
+	<string id="pg_alg_3">Volver</string>
+	<string id="pg_amb_1">Para poder disfrutar de este contenido, debes registrar el ID para Sincronizar de tu juego en Pokémon Global Link.</string>
+	<string id="pg_amb_2">Una vez que hayas avanzado lo suficiente en tu aventura, tras conseguir el C-Gear, accede a "SINCRO. JUEGO" desde la pantalla "EN LÍNEA" o selecciona "CONFIG. SINCRONIZAR JUEGO" en el menú de inicio de tu juego Pokémon Edición Negra,  Pokémon Edición Blanca, Pokémon Edición Negra 2 o Pokémon Edición Blanca 2 para saber cuál es tu ID para Sincronizar. Una vez que tengas tu ID, puedes consultarlo accediendo a "CONFIG. SINCRO. JUEGO" en el menú de inicio.
+    
+Si quieres registrar tu ID para Sincronizar, ve a la página de tu perfil y haz clic en "Registrar tarjeta de juego". Para efectuar el registro, es necesario que tu Pokémon esté acostado.</string>
+	<string id="pg_amb_3">Cerrar</string>
+	<string id="pg_amb_4">Registrar</string>
+	<string id="pg_amk_1">El Pokémon está listo para despertarse. </string>
+	<string id="pg_amk_2">pg_amk_2</string>
+	<string id="pg_amk_3">pg_amk_3</string>
+	<string id="pg_amk_4">pg_amk_4</string>
 </data>

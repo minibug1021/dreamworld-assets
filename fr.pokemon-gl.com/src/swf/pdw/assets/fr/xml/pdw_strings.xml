@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="fr">
+	
+	
+	<string id="Xz_an_1">Voulez-vous sortir du Pokémon Dream World et vous rendre sur votre profil ?</string>
+	<string id="h_cc_2">Oui</string>
+	<string id="h_cc_3">Non</string>
+	
+	<string id="h_ca_9">Voir les notifications</string>
+	<string id="h_ca_10">Quitter le Pokémon Dream World</string>
+	
+	<string id="h_ee_1">Surnom du Pokémon :</string>
+	<string id="h_ee_2">Surnom PGL :</string>
+	<string id="h_ee_3">Pokémon :</string>
+	<string id="h_ee_4">D.O. :</string>
+	<string id="h_ee_5">Niveau :</string>
+	<string id="h_ee_6">Type :</string>
+	<string id="h_ee_7">Sexe :</string>
+	<string id="h_ee_8">Nature :</string>
+	<string id="h_ee_9">Attrapé dans une :</string>
+	
+	
+	
+	
+	<string id="da_aa_1">Vous quittez le Pokémon Dream World.</string>
+	<string id="da_aa_2">Fin après avoir préparé le réveil</string>
+	<string id="da_aa_3">Vous quittez le Pokémon Dream World en permettant à votre Pokémon de se réveiller. Vous n'avez plus qu'à utiliser la Synchro-Jeu.
+Vous pourrez voir les Pokémon et les objets que vous enverrez au Heylink.</string>
+	<string id="da_aa_4">Fin sans préparer le réveil</string>
+	<string id="da_aa_5">Si vous préparez le réveil de votre Pokémon, puis que vous quittez le Pokémon Dream World</string>
+	<string id="da_aa_6">Si vous quittez en laissant le Pokémon dormir</string>
+	
+	<string id="da_ab_1">Si vous voulez interrompre un court instant.</string>
+	<string id="da_ab_2">[!] Si un Pokémon avec lequel vous êtes devenu ami grâce à l'Arbre des Rêves se trouve sur le panneau des compagnons et que vous continuez à jouer, l'arc-en-ciel vers l'Île des Rêves disparaîtra.</string>
+	<string id="da_ab_3">Attention ! Le Pokémon Dream World se ferme automatiquement une heure après que vous avez commencé à y jouer.</string>
+	<string id="da_ab_4">Revenir dans le Pokémon Dream World</string>
+	
+	<string id="da_ad_1">Une heure s'est écoulée depuis que vous avez commencé à jouer.</string>
+	<string id="da_ad_2">Une heure s'est bientôt écoulée depuis que vous avez commencé à jouer.
+Choisissez l'un des boutons pour quitter le Pokémon Dream World.</string>
+	<string id="da_ad_6">Si vous voulez interrompre un court instant.</string>
+	
+	<string id="da_af_1">Une heure s'est écoulée depuis que vous avez commencé à jouer.</string>
+	<string id="da_af_2">Une heure s'est écoulée depuis que vous avez commencé à jouer.
+Choisissez l'un des boutons pour quitter le Pokémon Dream World.</string>
+	
+	
+	<string id="dc_aa_1">Liste des Pokémon à emmener</string>
+	<string id="dc_aa_2">Il s'agit des Pokémon qui apparaîtront dans la Forêt du Heylink, lorsque vous aurez réveillé votre Pokémon avec la Synchro-Jeu.</string>
+	<string id="dc_aa_3">Si vous vouliez ramener un autre Pokémon, cliquez sur "Retour" pour consulter votre panneau des compagnons.</string>
+	<string id="dc_aa_4">Lorsque vous faites le souhait de devenir ami avec un Pokémon à l'Arbre des Rêves, il peut arriver qu'il n'apparaisse pas tout de suite sur votre panneau des compagnons</string>
+	<string id="dc_aa_5">Suite</string>
+	<string id="dc_aa_6">Retour</string>
+	
+	<string id="dc_ac_1">Liste des objets à envoyer au Heylink</string>
+	<string id="dc_ac_2">Vous pourrez recevoir ces objets après avoir réveillé votre Pokémon grâce à la Synchro-Jeu, en parlant au garçon à l'entrée du Heylink qui vous les remettra sous forme de fragments de rêves.</string>
+	<string id="dc_ac_3">Si vous changez d'avis, cliquez sur "Retour" et ouvrez votre coffre pour choisir les objets que vous désirez envoyer.</string>
+	<string id="dc_ac_4">Quitter le Pokémon Dream World</string>
+	
+	<string id="dc_ae_2">Vous n'avez aucun Pokémon à emmener.</string>
+	
+	<string id="dc_af_2">Vous n'avez aucun objet à envoyer.</string>
+	
+	<string id="dialog_33">Voulez-vous quitter le Pokémon Dream World ?</string>
+	<string id="o_ak_1">Alors, comment était le monde du Pokémon Dream World ?
+
+Vous pourrez revenir ici et ramener un Pokémon, voire des objets, en entrant l'ID de Synchro-Jeu de Pokémon Version Noire, Pokémon Version Blanche, Pokémon Version Noire 2 ou Pokémon Version Blanche 2. Revenez nous voir bientôt !</string>
+	<string id="o_ak_2">Oui</string>
+	<string id="o_ak_3">Non</string>
+	
+	<string id="dialog_35">Fermer</string>
+	
+	<string id="o_abb_1">Vous avez quitté le Pokémon Dream World. 
+Vous pouvez désormais utiliser la Synchro-Jeu 
+pour réveiller votre Pokémon.</string>
+	<string id="o_az_1">Vous avez quitté le Pokémon Dream World.</string>
+	
+	<string id="lo_a_1">Chargement...</string>
+	
+	<string id="dialog_30">Erreur de connexion.
+En cas d'échec d'un nouvel essai, veuillez
+renouveler votre accès ultérieurement.</string>
+	<string id="dialog_31">Réessayer</string>
+	<string id="new_home_3">Il n'y a pas d'annonce.</string>
+	<string id="de_ad_1">Une heure s'est écoulée depuis que vous avez commencé à jouer.</string>
+	<string id="de_ad_2">Veuillez sortir du Pokémon Dream World.</string>
+	<string id="de_ad_3">Avez-vous apprécié le monde du Pokémon Dream World ?
+Si vous enregistrez un ID de Synchro-Jeu de Pokémon Version Noire, Pokémon Version Blanche, Pokémon Version Noire 2 ou Pokémon Version Blanche 2, vous pourrez y emmener des Pokémon et des objets.
+Revenez vous y amuser souvent !</string>
+	<string id="de_ad_4">Sortir du Pokémon Dream World</string>
+	<string id="de_af_1">Une heure s'est écoulée depuis que vous avez commencé à jouer.</string>
+	<string id="de_af_2">Veuillez sortir du Pokémon Dream World.</string>
+	<string id="de_af_3">Avez-vous apprécié le monde du Pokémon Dream World ?
+Si vous enregistrez un ID de Synchro-Jeu de Pokémon Version Noire, Pokémon Version Blanche, Pokémon Version Noire 2 ou Pokémon Version Blanche 2, vous pourrez y emmener des Pokémon et des objets.
+Revenez vous y amuser souvent !</string>
+	<string id="de_af_4">Sortir du Pokémon Dream World</string>
+	<string id="de_af_5">Rester dans le Pokémon Dream World</string>
+	<string id="h_ca_13">Aucune maison spéciale accessible.</string>
+</data>

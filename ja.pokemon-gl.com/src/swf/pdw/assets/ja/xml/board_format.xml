@@ -1,8 +1,36 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <data locale="ja">
-	<fonts>
-		<font id="f01" name="FFF Compact"></font>
-		<font id="f02" name="FFF Corporate Bold"></font>
-	</fonts>
-    <string id="lo_a_1" size="18" color="0x333333" kerning="true" letterSpacing="0" bold="true"/>
+	
+	<string id="p_aa_1" size="18" bold="true" letterSpacing="0"></string>
+
+	<string id="p_aa_6" size="11" letterSpacing="0"></string>
+	<string id="p_aa_5" size="11" letterSpacing="0"></string>
+
+	<string id="p_ah_1" size="12" letterSpacing="0"></string>
+	<string id="p_ai_1" size="12" letterSpacing="0"></string>
+	<string id="p_aj_1" size="12" letterSpacing="0"></string>
+	<string id="p_aj_2" size="12" letterSpacing="0"></string>
+	<string id="p_aj_3" size="12" letterSpacing="0"></string>
+	<string id="p_aj_4" size="12" letterSpacing="0"></string>
+	<string id="p_aj_7" size="12" letterSpacing="0"></string>
+	<string id="p_aj_5" size="12" letterSpacing="0"></string>
+	<string id="p_aj_6" size="12" letterSpacing="0"></string>
+
+	<string id="p_aa_4" size="12" letterSpacing="0"></string>
+
+	<string id="p_ab_5" size="12" letterSpacing="0"></string>
+	<string id="p_ag_1" size="12" letterSpacing="0"></string>
+	<string id="p_af_1" size="12" letterSpacing="0"></string>
+
+	<string id="p_ab_1" size="12" letterSpacing="0"></string>
+	<string id="p_ab_2" size="12" letterSpacing="0"></string>
+	<string id="p_ab_6" size="12" letterSpacing="0"></string>
+	<string id="p_ab_3" size="12" letterSpacing="0"></string>
+	<string id="p_ab_4" size="12" letterSpacing="0"></string>
+
+	<string id="p_aa_8" size="12" bold="true" letterSpacing="0"></string>
+
+
+
+	<string id="p_aa_3" size="11" letterSpacing="0"></string>
 </data>

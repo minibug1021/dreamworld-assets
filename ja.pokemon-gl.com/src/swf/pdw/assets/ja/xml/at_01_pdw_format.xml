@@ -1,4 +1,71 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <data locale="ja">
-	<string id="lo_a_1" size="18" color="0x333333" bold="true" />
+	<fonts>
+		<font id="f01" name="FFF Compact"></font>
+		<font id="f02" name="FFF Corporate Bold"></font>
+	</fonts>
+	<string id="h_ee_10" size="10" bold="true" >アイコンの説明</string>
+	<string id="h_ee_11" size="10" bold="true" >PGLニックネーム</string>
+	<string id="h_ee_12" size="10" bold="true" >ポケモンのニックネーム</string>
+	<string id="h_ee_13" size="10" bold="true" >トレーナーネーム</string>
+	<string id="h_ee_14" size="12" bold="true" >トレーナーネーム:</string>
+	<string id="h_ee_15" size="12" bold="true" >トレーナーネーム:</string>
+	<string id="h_ee_16" size="12" bold="true" >トレーナーネーム:</string>
+<string id="h_ha_22" size="12" bold="true" >h_ha_22</string>
+<string id="h_ha_3" size="12" bold="true" >しばらくのあいだ たからばこに入ったままだったきのみが、ゆめの木にはこばれました。</string>
+<string id="h_ha_4" size="12" bold="true" >h_ha_4</string>
+<string id="h_ha_5" size="12" bold="true" >h_ha_5</string>
+<string id="h_ha_6" size="12" bold="true" >h_ha_6</string>
+<string id="h_ha_7" size="12" bold="true" >h_ha_7</string>
+<string id="h_ha_8" size="12" bold="true" >h_ha_8</string>
+<string id="h_ha_9" size="12" bold="true" >h_ha_9</string>
+<string id="h_ha_10" size="12" bold="true" >h_ha_10</string>
+<string id="h_ha_11" size="12" bold="true" >h_ha_11</string>
+<string id="h_ha_12" size="12" bold="true" >h_ha_12</string>
+<string id="h_ha_13" size="12" bold="true" >h_ha_13</string>
+<string id="h_ha_14" size="12" bold="true" >h_ha_14</string>
+<string id="h_ha_15" size="19" >たからばこの中のきのみがゆめの木にはこばれたため、
+減ってしまいました。</string>
+<string id="h_ha_16">減ったきのみのぶん、ゆめポイントが追加されました。</string>
+<string id="h_ha_17">ふえたゆめポイント：</string>
+<string id="h_ha_18" size="12" bold="true" >きのみ名</string>
+<string id="h_ha_19" size="12" bold="true" >個数</string>
+<string id="h_ha_20" size="12" bold="true" >※残ったきのみは、部屋の中の「たからばこ」から確認してください。</string>
+<string id="h_ha_21" size="12" bold="true" >とじる</string>
+
+<string id="y_aa_18" size="12" bold="true" >ゆめしま　「ひんやり穴」</string>
+<string id="y_ad_22" size="12" bold="true">[ポケモン名]は氷の上で遊びたいみたい。</string>
+<string id="y_ad_23" size="12" bold="true">[ポケモン名]と氷の上で遊びますか？</string>
+<string id="y_ag_16" size="12" bold="true">スイーツキャッチに失敗した。</string>
+<string id="y_ag_17" size="12" bold="true">スイーツキャッチをやめた。</string>
+<string id="y_zc_6" size="12" bold="true">ゆめしまについた。「ひんやり穴」を進むことにした。</string>
+<string id="y_aa_19" size="12" bold="true">ゆめしま　「ゆめパーク」</string>
+<string id="y_ad_24" size="12" bold="true">[ポケモン名]は湖で遊びたいみたい。</string>
+<string id="y_ad_25" size="12" bold="true">[ポケモン名]と湖で遊びますか？</string>
+<string id="y_ag_18" size="12" bold="true">湖渡りに失敗した。</string>
+<string id="y_ag_19" size="12" bold="true">湖渡りをやめた。</string>
+<string id="y_zc_7" size="12" bold="true">ゆめしまについた。「ゆめパーク」を進むことにした。</string>
+<string id="y_ad_26" size="12" bold="true">[ポケモン名]は宝箱に興味があるみたい。</string>
+<string id="y_ad_27" size="12" bold="true">[ポケモン名]と宝箱を開けますか？</string>
+<string id="y_ad_28" size="12" bold="true">宝箱開けに失敗した。</string>
+<string id="y_ad_29" size="12" bold="true">宝箱開けをやめた。</string>
+<string id="y_ad_30" size="12" bold="true">[ポケモン名]はのどがかわいているみたい。</string>
+<string id="y_ad_31" size="12" bold="true">[ポケモン名]とドリンクはこびをしますか？</string>
+<string id="y_ad_32" size="12" bold="true">ドリンクはこびに失敗した。</string>
+<string id="y_ad_33" size="12" bold="true">ドリンクはこびをやめた。</string>
+<string id="Xz_be_5" size="12" bold="true">そうそう！
+ひとつ 大事なことを 言い忘れていたわ</string>
+<string id="Xz_be_6" size="12" bold="true"><![CDATA[ずっと「ポケモンドリームワールド」に 遊びに来ないでいると
+たからばこの中の　<span class='emphasis'>きのみ</span>が　減ってしまうの]]></string>
+<string id="Xz_be_7" size="12" bold="true">アタシの研究だと 100日ほど遊びに来ないと
+減ってしまうみたいだから 気をつけて！</string>
+	<string id="y_ad_34" size="12" bold="true" letterSpacing="0" baselineShift="2">ゲームフレンドを見る</string>
+	<string id="y_ad_35" size="15" bold="true" letterSpacing="0" baselineShift="2">ゲームフレンドリスト</string>
+	<string id="y_ad_36" size="12" bold="true" letterSpacing="0" baselineShift="0">名前順</string>
+	<string id="y_ad_37" size="12" bold="true" letterSpacing="0" baselineShift="0">地域順</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+
 </data>

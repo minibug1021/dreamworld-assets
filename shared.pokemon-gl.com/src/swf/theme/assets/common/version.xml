@@ -45,6 +45,24 @@
 				<es>1.0</es>
 				<ko>1.0</ko>
 			</format>
+			<at_01_strings>
+				<ja>1.0</ja>
+				<en>1.0</en>
+				<fr>1.0</fr>
+				<it>1.0</it>
+				<de>1.0</de>
+				<es>1.0</es>
+				<ko>1.0</ko>
+			</at_01_strings>
+			<at_01_format>
+				<ja>1.0</ja>
+				<en>1.0</en>
+				<fr>1.0</fr>
+				<it>1.0</it>
+				<de>1.0</de>
+				<es>1.0</es>
+				<ko>1.0</ko>
+			</at_01_format>
 		</campaign>
 		<present>
 			<swf>2.0</swf>
@@ -140,20 +158,22 @@
 		<board>1.0</board>
 
 		<pdw_arc>4.0</pdw_arc>
-		<pdw_farm>3.0</pdw_farm>
+		<pdw_farm>4.0</pdw_farm>
 		<pdw_footprint>3.0</pdw_footprint>
 		<pdw_garden>5.0</pdw_garden>
-		<pdw_home>6.0</pdw_home>
+		<pdw_home>7.0</pdw_home>
 		<pdw_island>3.5</pdw_island>
 		<pdw_island_campaign2>2.0</pdw_island_campaign2>
+		<pdw_island_campaign4>1.0</pdw_island_campaign4>
 		<pdw_main>5.0</pdw_main>
 		<pdw_move>3.0</pdw_move>
 		<pdw_opening>3.0</pdw_opening>
 		<pdw_room>4.0</pdw_room>
+		<pdw_room_4>1.0</pdw_room_4>
 		<pdw_share>3.0</pdw_share>
 		<pdw_sound>3.0</pdw_sound>
-		<pdw_world>3.0</pdw_world>
-		<pdw_world_ca>2.0</pdw_world_ca>
+		<pdw_world>4.0</pdw_world>
+		<pdw_world_ca>3.0</pdw_world_ca>
 		<takarabako>3.0</takarabako>
 		<tutorial0>3.0</tutorial0>
 		<tutorial1>3.0</tutorial1>
@@ -301,6 +321,8 @@
 		<bgm5>1.0</bgm5>
 		<bgm6>1.0</bgm6>
 		<bgm7>1.0</bgm7>
+		<bgm8>1.0</bgm8>
+		<bgm9>1.0</bgm9>
 		<bgm50>1.0</bgm50>
 		<bgm51>1.0</bgm51>
 		<bgm52>1.0</bgm52>
@@ -309,10 +331,13 @@
 		<template4>1.0</template4>
 		<template5>1.0</template5>
 		<template6>1.0</template6>
+		<template7>1.0</template7>
+		<template8>1.0</template8>
+		<template9>1.0</template9>
 		<template50>1.0</template50>
 		<template51>2.0</template51>
 		<template52>1.0</template52>
-		<template53>1.0</template53>
+		<template53>2.0</template53>
 		<pdw_dreamtree>1.0</pdw_dreamtree>
 	</yumeshima>
 	<yumenoki>

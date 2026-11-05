@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="en">
+	<string id="Xz_aa_1">Welcome!</string>
+	<string id="Xz_ab_1"><![CDATA[I'm <span class='emphasis'>Fennel</span>, and as you can see, I'm a scientist.]]></string>
+	<string id="Xz_ac_1">As a result of my research, we can experience the dreams of Pokémon!</string>
+	<string id="Xz_ad_1"><![CDATA[Are you wondering how we do that?
+By entering the <span class='emphasis'>Pokémon Dream World</span>!]]></string>
+	<string id="Xz_ae_1"><![CDATA[With the help of Dream Mist and <span class='emphasis'>Game Sync</span>, we can explore the memories of sleeping Pokémon.]]></string>
+	<string id="Xz_af_1"><![CDATA[We discovered that using <span class='emphasis'>Game Sync</span> to tuck in a Pokémon will make the Pokémon have dreams.]]></string>
+	<string id="Xz_ag_1"><![CDATA[When you use <span class='emphasis'>Game Sync</span> to wake the Pokémon, its dream becomes reality in a space called the <span class='emphasis'>Entralink</span> in the Unova region.]]></string>
+	<string id="Xz_ah_1"><![CDATA[Isn't <span class='emphasis'>Game Sync</span> amazing?]]></string>
+	<string id="Xz_ai_1"><![CDATA[In this <span class='emphasis'>Pokémon Dream World</span>, if you register your <span class='emphasis'>Game Sync ID</span> in the <span class='emphasis'>Pokémon Global Link</span>, you can experience the dream of the Pokémon you tucked in!]]></string>
+	<string id="Xz_aj_1"><![CDATA[Oh, you have not registered your <span class='emphasis'>Game Sync ID</span>.]]></string>
+	<string id="Xz_ak_1"><![CDATA[You can check your <span class='emphasis'>Game Sync ID</span> by selecting <span class='emphasis'>GAME SYNC SETTINGS</span> from the <span class='emphasis'>main menu</span> in Pokémon Black Version,  Pokémon White Version, Pokémon Black Version 2 or Pokémon White Version 2. More on <a href='event:MouseEvent' id='about_gamesync_idcode'><span class='emphasis'>Game Sync ID</span></a>.]]></string>
+	<string id="Xz_al_1"><![CDATA[Please register your <span class='emphasis'>Game Sync ID</span> by clicking…]]></string>
+	
+	<string id="Xz_ao_1"><![CDATA[Activate your <span class='emphasis'>C-Gear</span> in Pokémon Black Version,  Pokémon White Version, Pokémon Black Version 2 or Pokémon White Version 2 to tuck in your Pokémon with <span class='emphasis'>Game Sync</span>!]]></string>
+	<string id="Xz_ap_1"><![CDATA[Touch <span class='emphasis'>ONLINE</span> on your <span class='emphasis'>C-Gear</span> screen, touch
+<span class='emphasis'>GAME SYNC</span>, and choose a Pokémon you want to tuck in.]]></string>
+	<string id="Xz_aq_1"><![CDATA[After playing in the <span class='emphasis'>Pokémon Dream World</span>, wake up your sleeping Pokémon.]]></string>
+	<string id="Xz_ar_1"><![CDATA[After you use <span class='emphasis'>Game Sync</span> to wake up your Pokémon, go to the <span class='emphasis'>Entralink</span>, and you'll find that your Pokémon's dream has become reality.]]></string>
+	<string id="Xz_as_1"><![CDATA[I have to warn you about something. Running the <span class='emphasis'>Game Sync</span>
+requires an enormous amount of energy. So you can tuck in your Pokémon only once a day.]]></string>
+	<string id="Xz_at_1">And this system is still under development…
+So there are some Pokémon that you can't tuck in.</string>
+	<string id="Xz_au_1">Every day, I'm researching the saved data from users all over the world, so I can figure out how to tuck in more kinds of Pokémon!</string>
+	<string id="Xz_aw_1"><![CDATA[When you arrive in the <span class='emphasis'>Pokémon Dream World</span>, the first place you'll visit is a little island. I call it a <span class='emphasis'>home</span>.]]></string>
+	<string id="Xz_ax_1">I gave you a special house, see? 
+I'm counting on you to take good care of it. </string>
+	<string id="Xz_ba_1"><![CDATA[In the <span class='emphasis'>Pokémon Dream World</span>, you can grow <span class='emphasis'>Berries</span>, visit other people's <span class='emphasis'>homes</span>, and explore an island called the <span class='emphasis'>Island of Dreams</span>, where Pokémon live.]]></string>
+	<string id="Xz_bb_1"><![CDATA[I gave you some <span class='emphasis'>Berries</span>, so try to grow them!]]></string>
+	<string id="Xz_bd_1"><![CDATA[That's all from me, the dreaming <span class='emphasis'>Fennel</span>!]]></string>
+	
+	<string id="Xz_bf_1"><![CDATA[Activate your <span class='emphasis'>C-Gear</span> in Pokémon Black Version,  Pokémon White Version, Pokémon Black Version 2 or Pokémon White Version 2 to tuck in your Pokémon with <span class='emphasis'>Game Sync</span>!]]></string>
+	<string id="Xz_bg_1"><![CDATA[Touch <span class='emphasis'>ONLINE</span> on your <span class='emphasis'>C-Gear</span> screen, touch
+<span class='emphasis'>GAME SYNC</span>, and choose a Pokémon you want to tuck in.]]></string>
+	<string id="Xz_bh_1"><![CDATA[After playing in the <span class='emphasis'>Pokémon Dream World</span>, wake up your sleeping Pokémon.]]></string>
+	<string id="Xz_bi_1"><![CDATA[After you use <span class='emphasis'>Game Sync</span> to wake up your Pokémon, go to the <span class='emphasis'>Entralink</span>, and you'll find that your Pokémon's dream has become reality.]]></string>
+	<string id="Xz_bj_1"><![CDATA[I have to warn you about something. Running the <span class='emphasis'>Game Sync</span> requires an enormous amount of energy.
+So you can tuck in your Pokémon only once a day.]]></string>
+	<string id="Xz_bk_1">And this system is still under development…
+So there are some Pokémon that you can't tuck in.</string>
+	<string id="Xz_bl_1">Every day, I'm researching the saved data from users all over the world, so I can figure out how to tuck in more kinds of Pokémon!</string>
+	<string id="Xz_bm_1"><![CDATA[When you arrive in the <span class='emphasis'>Pokémon Dream World</span>, the first place you'll visit is a little island. I call it a <span class='emphasis'>home</span>.]]></string>
+	<string id="Xz_bn_1">I gave you a special house, see? 
+I'm counting on you to take good care of it. </string>
+	<string id="Xz_bo_1"><![CDATA[In the <span class='emphasis'>Pokémon Dream World</span>, you can grow <span class='emphasis'>Berries</span>, visit other people's <span class='emphasis'>homes</span>, and explore an island called the <span class='emphasis'>Island of Dreams</span>, where Pokémon live.]]></string>
+	<string id="Xz_bp_1"><![CDATA[I gave you some <span class='emphasis'>Berries</span>, so try to grow them!]]></string>
+	<string id="Xz_bq_1"><![CDATA[That's all from me, the dreaming <span class='emphasis'>Fennel</span>!]]></string>
+	<string id="Xz_br_1">I wonder what kind of dreams Pokémon have...</string>
+	<string id="Xz_bs_1">It seems you haven't tucked in a Pokémon yet...</string>
+	<string id="Xz_bt_1"><![CDATA[Activate your <span class='emphasis'>C-Gear</span> in Pokémon Black Version,  Pokémon White Version, Pokémon Black Version 2 or Pokémon White Version 2 to tuck in your Pokémon with <span class='emphasis'>Game Sync</span>!]]></string>
+	<string id="Xz_bu_1"><![CDATA[Touch <span class='emphasis'>ONLINE</span> on your <span class='emphasis'>C-Gear</span> screen, touch
+<span class='emphasis'>GAME SYNC</span>, and choose a Pokémon you want to tuck in.]]></string>
+	<string id="Xz_bv_1"><![CDATA[After playing in the <span class='emphasis'>Pokémon Dream World</span>, wake up your sleeping Pokémon.]]></string>
+	<string id="Xz_bw_1"><![CDATA[After you use <span class='emphasis'>Game Sync</span> to wake up your Pokémon, go to the <span class='emphasis'>Entralink</span>, and you'll find that your Pokémon's dream has become reality.]]></string>
+	<string id="Xz_bx_1"><![CDATA[I have to warn you about something. Running the <span class='emphasis'>Game Sync</span> requires an enormous amount of energy.
+So you can tuck in your Pokémon only once a day.]]></string>
+	<string id="Xz_by_1">And this system is still under development…
+So there are some Pokémon that you can't tuck in.</string>
+	<string id="Xz_bz_1">Every day, I'm researching the saved data from users all over the world, so I can figure out how to tuck in more kinds of Pokémon!</string>
+	<string id="Xz_ca_1"><![CDATA[Please come back to the <span class='emphasis'>Pokémon Dream World</span> after tucking in a Pokémon.]]></string>
+	<string id="Xv_aa_1"><![CDATA[This is your house.
+This island is called a <span class='emphasis'>home</span>.]]></string>
+	<string id="Xv_ab_1"><![CDATA[You can do a lot of things at your <span class='emphasis'>home</span>!]]></string>
+	<string id="Xv_ac_1"><![CDATA[You can move using the <img/><img/><img/><img/> arrows.]]></string>
+	<string id="Xv_ad_1"><![CDATA[You can grow <span class='emphasis'>Berries</span>...]]></string>
+	<string id="Xv_ae_1"><![CDATA[...and you can swap <span class='emphasis'>items</span> and <span class='emphasis'>Berries</span> with other users.]]></string>
+	<string id="Xv_af_1"><![CDATA[You can also go to the <span class='emphasis'>Island of Dreams</span> by crossing a bridge.]]></string>
+	<string id="Xv_ag_1"><![CDATA[If you push the <span class='emphasis'>door</span> of your house, you can go inside.]]></string>
+	<string id="Xv_ah_1"><![CDATA[The mat in front of your house is a <span class='emphasis'>Footprint Mat</span>.
+Pokémon that visited your <span class='emphasis'>home</span> will leave their footprints.]]></string>
+	<string id="Xv_ai_1"><![CDATA[When you click the <img/> button in the upper-left corner...]]></string>
+	<string id="Xv_aj_1"><![CDATA[You can see your <span class='emphasis'>Dream Pals'</span> <span class='emphasis'>homes</span>!]]></string>
+	<string id="Xv_ak_1"><![CDATA[If you click this <img/> button, you can exit the <span class='emphasis'>Pokémon Dream World</span> and wake your Pokémon.]]></string>
+	<string id="Xv_al_1"><![CDATA[If you leave the <span class='emphasis'>Pokémon Dream World</span> without clicking
+the <img/> button, you cannot wake up your Pokémon.
+So be careful!]]></string>
+	<string id="Xv_am_1"><![CDATA[Now, enjoy a Pokémon's dream in the <span class='emphasis'>Pokémon Dream World</span>!]]></string>
+	<string id="Xe_aa_1"><![CDATA[Here, you can see <span class='emphasis'>Dream Pals</span> who became your friends in the <span class='emphasis'>Pokémon DW.</span>]]></string>
+	<string id="Xe_ab_1">Please check your privacy setting in your Profile.</string>
+	<string id="Xe_ac_1"><![CDATA[If you choose the <span class='emphasis'>Everyone</span> privacy setting in your Profile, you can communicate with <span class='emphasis'>Dream Pals</span> and other users.]]></string>
+	<string id="Xf_aa_1"><![CDATA[This is your <span class='emphasis'>room</span>.
+Let me explain how it works.]]></string>
+	<string id="Xf_ab_1"><![CDATA[You have your very own <span class='emphasis'>Treasure Chest</span>!]]></string>
+	<string id="Xf_ac_1"><![CDATA[The <span class='emphasis'>Treasure Chest</span> is where you can store <span class='emphasis'>Berries</span> and <span class='emphasis'>items</span> that you collected in the <span class='emphasis'>Pokémon Dream World</span>.]]></string>
+	<string id="Xf_ad_1"><![CDATA[You can send those <span class='emphasis'>Berries</span> and <span class='emphasis'>items</span> to a boy
+at the entrance of the <span class='emphasis'>Entree Forest</span> as <span class='emphasis'>Dream Remnants</span>.]]></string>
+	<string id="Xf_ae_1"><![CDATA[When your Pokémon wakes up from a dream, you can talk to the boy at the entrance of the <span class='emphasis'>Entree Forest</span> to receive the <span class='emphasis'>Dream Remnants</span>.]]></string>
+	<string id="Xf_af_1"><![CDATA[This is a <span class='emphasis'>Friend Board</span>.]]></string>
+	<string id="Xf_ag_1"><![CDATA[You can make a wish to add a Pokémon you've met on the <span class='emphasis'>Island of Dreams</span> to your party. A photo of the Pokémon you wished for will appear on this <span class='emphasis'>Friend Board</span>.
+]]></string>
+	<string id="Xf_ah_1"><![CDATA[The Pokémon from the <span class='emphasis'>Friend Board</span> will be sent to a <span class='emphasis'>Forest Clearing</span> in the <span class='emphasis'>Entree Forest</span>.]]></string>
+	<string id="Xf_ai_1"><![CDATA[I'm sure the Pokémon in the <span class='emphasis'>Forest Clearing</span> will join your party!]]></string>
+	<string id="Xf_aj_1"><![CDATA[Another thing... 
+If you have 50 or more photos on your <span class='emphasis'>Friend Board</span>, you can't go to the <span class='emphasis'>Island of Dreams</span>. So keep an eye on that!]]></string>
+	<string id="Xf_ak_1"><![CDATA[This is a <span class='emphasis'>Dream Catalogue</span>.
+You can buy <span class='emphasis'>Décor</span> items for your <span class='emphasis'>home</span>!]]></string>
+	<string id="Xf_al_1"><![CDATA[You can buy <span class='emphasis'>Décor</span> items by trading <span class='emphasis'>Berries</span> for them.]]></string>
+	<string id="Xf_am_1"><![CDATA[You can place your <span class='emphasis'>Décor</span> items anywhere you want by clicking the <img/> button. ]]></string>
+	<string id="Xc_aa_1"><![CDATA[This is the <span class='emphasis'>Share Shelf</span>.
+You can swap <span class='emphasis'>items</span> and <span class='emphasis'>Berries</span> with other users.]]></string>
+	<string id="Xc_ab_1"><![CDATA[Here's how the <span class='emphasis'>Share Shelf</span> can help you!]]></string>
+	<string id="Xc_ac_1"><![CDATA[If you click an empty space on the shelf, your <span class='emphasis'>Treasure Chest</span> will open!]]></string>
+	<string id="Xc_ad_1"><![CDATA[Pick an item that you'd like to <span class='emphasis'>swap</span>.]]></string>
+	<string id="Xc_ae_1">That item is now available on the shelf!
+People who visit your home will be able to swap their items for yours!</string>
+	<string id="Xd_ab_1"><![CDATA[You can swap <span class='emphasis'>items</span> and <span class='emphasis'>Berries</span> with other users.]]></string>
+	<string id="Xd_ac_1">If you don't mind, I'll explain how to use it.</string>
+	<string id="Xd_ad_1">Choose which one you want.</string>
+	<string id="Xd_ae_1"><![CDATA[Your <span class='emphasis'>Treasure Chest</span> will open, so pick an item to swap.]]></string>
+	<string id="Xd_af_1"><![CDATA[You can collect <span class='emphasis'>items</span> and <span class='emphasis'>Berries</span> on the <span class='emphasis'>Island of Dreams</span>.
+It's fun to swap items with other players!]]></string>
+	<string id="Xg_aa_1"><![CDATA[This is the <span class='emphasis'>Island of Dreams</span>.]]></string>
+	<string id="Xg_ab_1"><![CDATA[The <span class='emphasis'>Island of Dreams</span> is a mysterious place where a lot of Pokémon live...]]></string>
+	<string id="Xg_ac_1"><![CDATA[Even if you walk a different path every time, you'll end up at a huge tree. It's called the <span class='emphasis'>Tree of Dreams</span>, and people say it can make your wishes come true!]]></string>
+	<string id="Xg_ad_1">Are you ready? Let's go! 
+I hope you'll meet a lot of Pokémon!</string>
+	<string id="Xg_ae_1"><![CDATA[You can move using the <img/><img/><img/><img/> arrows.]]></string>
+	<string id="Xg_ag_1">Oh! Something is moving.
+Maybe a Pokémon is hiding there!</string>
+	<string id="Xg_ah_1">Click the signs of movement to investigate.</string>
+	<string id="Xg_ai_1">The Pokémon wants to become your friend!</string>
+	<string id="Xg_aj_1">Let's play with the Pokémon!</string>
+	<string id="Xg_ak_1">If you're good at the Pokémon's game, the Pokémon will become your friend!</string>
+	<string id="Xg_al_1">Click the sparkles in the air...</string>
+	<string id="Xg_am_1"><![CDATA[You can collect <span class='emphasis'>items</span> and <span class='emphasis'>Berries</span> on the <span class='emphasis'>Island of Dreams</span>.]]></string>
+	<string id="Xg_an_1"><![CDATA[This is the <span class='emphasis'>Tree of Dreams</span>. It's beautiful, isn't it?]]></string>
+	<string id="Xg_ao_1">There are a lot of Pokémon whose wishes came true!</string>
+	<string id="Xg_ap_1">I'll bet you'd like to know how to make a wish.</string>
+	<string id="Xg_aq_1"><![CDATA[Click the Wishing Hollow at the base of the tree, and place a <span class='emphasis'>Berry</span> inside.]]></string>
+	<string id="Xg_ar_1">The Island of Dreams remembers the Pokémon that became your friends there.</string>
+	<string id="Xg_as_1">The tree will ask you which Pokémon you want to add to your party. Pick one to make your wish!</string>
+	<string id="Xg_at_1"><![CDATA[After you make a wish, you'll go back to your <font>home</font>. If you didn't befriend any Pokémon, you'll go back to your <font>home</font> without making a wish.]]></string>
+	<string id="Xg_au_1"><![CDATA[Oh, you didn't become friends with any Pokémon on the <span class='emphasis'>Island of Dreams</span>.]]></string>
+	<string id="Xg_av_1">If you see movement while exploring the Island of Dreams, click to investigate.
+You might find a hiding Pokémon!</string>
+	<string id="Xg_aw_1">If you meet a Pokémon, play with the Pokémon!</string>
+	<string id="Xg_ax_1">If you're good at the Pokémon's game, the Pokémon will become your friend!</string>
+	<string id="Xg_ay_1"><![CDATA[Go back to your <span class='emphasis'>home</span> and come back to the <span class='emphasis'>Tree of Dreams</span> again.]]></string>
+	<string id="Xa_aa_1"><![CDATA[This is your garden.
+You can grow <span class='emphasis'>Berries</span> here.]]></string>
+	<string id="Xa_ab_1"><![CDATA[<span class='emphasis'>Berries</span> are very useful in the <span class='emphasis'>Pokémon Dream World</span>.
+You can trade Berries to buy <span class='emphasis'>Décor</span> items for your house.
+Sometimes you need Berries to play games with Pokémon.]]></string>
+	<string id="Xa_ac_1"><![CDATA[I'll explain about how to grow <span class='emphasis'>Berries</span>!]]></string>
+	<string id="Xa_ad_1"><![CDATA[Click the <span class='emphasis'>soil</span>, and you can see the <span class='emphasis'>Berries</span> you have.]]></string>
+	<string id="Xa_ae_1"><![CDATA[Choose the <span class='emphasis'>Berry</span> you want to grow.]]></string>
+	<string id="Xa_af_1"><![CDATA[That <span class='emphasis'>Berry</span> is planted!]]></string>
+	<string id="Xa_ag_1"><![CDATA[Water the plants with a watering system and grow even more <span class='emphasis'>Berries</span>!]]></string>
+	<string id="Xa_ah_1"><![CDATA[Click the place where you planted a <span class='emphasis'>Berry</span>…]]></string>
+	<string id="Xa_ai_1">...and you can water it with a watering system.</string>
+	<string id="Xa_aj_1"><![CDATA[When it grows more <span class='emphasis'>Berries</span>…]]></string>
+	<string id="Xa_ak_1"><![CDATA[...you can harvest the <span class='emphasis'>Berries</span>!]]></string>
+	<string id="Xa_al_1"><![CDATA[The harvested <span class='emphasis'>Berries</span> will be put in your <span class='emphasis'>Treasure Chest</span>.]]></string>
+	<string id="Xa_am_1"><![CDATA[Grow a lot of <span class='emphasis'>Berries</span> and enjoy the <span class='emphasis'>Pokémon Dream World</span>!]]></string>
+	<string id="Xb_aa_1"><![CDATA[You can cross this bridge to go to the <span class='emphasis'>Island of Dreams</span>.]]></string>
+	<string id="Xb_ab_1"><![CDATA[The <span class='emphasis'>Island of Dreams</span> is a mysterious place where a lot of Pokémon live...]]></string>
+	<string id="Xb_ac_1">I'm still investigating how Pokémon live in dreams...</string>
+	<string id="Xb_ad_1">If you'll send me your saved data, I can make more progress in my research.
+I'm counting on you!</string>
+	<string id="Xz_am_3">Register now</string>
+	<string id="Xz_am_4">Register later</string>
+	<string id="Xz_am_2"><![CDATA[<span class='emphasis'>My Page</span>, then <span class='emphasis'>Register Game Card</span>.]]></string>
+	<string id="Xz_be_2"><![CDATA[Do you want to try to see <span class='emphasis'>Munna</span>'s dream?]]></string>
+	<string id="Xz_be_3">Yes</string>
+	<string id="Xz_be_4">Listen Again</string>
+</data>

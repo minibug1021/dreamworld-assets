@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="ko">
+
+	<string id="i_aj_1">위치 결정하기</string>
+	<string id="h_ea_1">모양바꾸기 하기</string>
+	<string id="h_ea_2">보물상자 보기</string>
+	<string id="h_ea_3">꿈카탈로그 보기</string>
+	<string id="h_ea_4">단짝보드 보기</string>
+	<string id="h_ea_5">방 나가기</string>
+
+	<string id="h_ea_7">보물상자 보기</string>
+	<string id="h_ea_6">꿈카탈로그 보기</string>
+	<string id="h_ea_8">단짝보드 보기</string>
+	<string id="h_ea_9">방 나가기</string>
+
+	<string id="i_an_1">정리하기</string>
+	<string id="h_ea_10">옆으로 가기</string>
+	<string id="i_aj_3">이 가구는 이동할 수 없습니다.</string>
+
+	<string id="h_ea_11">[arg0]의 방 안</string>
+
+	<string id="i_aj_2">인테리어를 옆 화면으로 이동</string>
+
+	<string id="s_ah_1">보물상자에 도구가 없습니다.</string>
+	<string id="s_ah_2">도구는 꿈섬에서 발견할 수 있습니다.</string>
+
+	<string id="i_ae_1">이 인테리어를 나무열매와 교환하겠습니까?</string>
+	<string id="i_bb_1">이 인테리어를 받겠습니까?</string>
+	<string id="i_ae_6">[arg0]개</string>
+	<string id="i_ae_7">（지닌 [arg0]개）</string>
+
+	<string id="i_bc_1">[arg0]를(을) 교환했습니다.</string>
+	<string id="i_bca_2">꿈카탈로그의「교환하기」버튼으로 바꿀 수 있습니다.</string>
+	<string id="i_bc_2">밭 왼쪽위 메뉴로 물뿌리개를 바꿀 수 있습니다.</string>
+
+	<string id="i_ba_1">[arg0]를(을) 정리하겠습니까?</string>
+	<string id="i_ah_1">[arg0]를(을) 정리했습니다.</string>
+	<string id="i_ah_3">꿈카탈로그의 「방에 놓기」버튼을 사용하여
+당신의 방에 놓을 수 있습니다.</string>
+
+	<string id="i_am_1">방에 놓을 곳이 없습니다.</string>
+	<string id="i_am_2">방을 정리해 주십시오.</string>
+
+	<string id="i_bcc_1">[arg0](으)로 바꾸겠습니까?</string>
+	<string id="i_bcd_1">[arg0](으)로 바꿨습니다.</string>
+
+	<string id="i_ab_3">꿈카탈로그</string>
+
+	<string id="i_ab_2">꿈카탈로그 선택하기</string>
+
+	<string id="i_ac_1">목차</string>
+	<string id="i_ad_8">목차</string>
+	<string id="i_ad_18">목차</string>
+
+	<string id="i_ad_4">i_ad_4</string>
+	<string id="i_ad_5">디자인가구</string>
+	<string id="i_ad_6">신규</string>
+
+	<string id="i_ad_2">[arg0] [arg1]개</string>
+	<string id="i_ad_16">나무열매는 필요없습니다</string>
+
+	<string id="i_ad_10">나무열매가 부족합니다</string>
+	<string id="i_ad_11">나무열매와 교환</string>
+	<string id="i_ad_15">선물</string>
+	<string id="i_az_1">사용할 수 있습니다.</string>
+	<string id="i_ad_17">설치 중</string>
+	<string id="i_ad_12">방에 놓기</string>
+	<string id="i_ad_14">교체하기</string>
+	<string id="i_ad_13">정리하기</string>
+
+	<string id="i_ada_1">보물상자</string>
+	<string id="i_ada_2">기타</string>
+	<string id="i_ada_3">단짝보드</string>
+
+</data>

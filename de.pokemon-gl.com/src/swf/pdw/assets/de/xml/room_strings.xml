@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="de">
+
+	<string id="i_aj_1">Standort festlegen</string>
+	<string id="h_ea_1">Neu dekorieren</string>
+	<string id="h_ea_2">Schatztruhe öffnen</string>
+	<string id="h_ea_3">Traumkatalog ansehen</string>
+	<string id="h_ea_4">Freundestafel ansehen</string>
+	<string id="h_ea_5">Nach draußen</string>
+
+	<string id="h_ea_7">Schatztruhe öffnen</string>
+	<string id="h_ea_6">Traumkatalog ansehen</string>
+	<string id="h_ea_8">Freundestafel ansehen</string>
+	<string id="h_ea_9">Nach draußen</string>
+
+	<string id="i_an_1">Wegräumen</string>
+	<string id="h_ea_10">Umschauen</string>
+	<string id="i_aj_3">Einrichtungsst. nicht bewegbar</string>
+
+	<string id="h_ea_11">Haus von [arg0]</string>
+
+	<string id="i_aj_2">Einrichtungsstück in nächsten Bildschirm verschieben</string>
+
+	<string id="s_ah_1">Keine Items in der Schatztruhe.</string>
+	<string id="s_ah_2">Schnapp dir ein Item auf der Trauminsel!</string>
+
+	<string id="i_ae_1">Diesen Artikel mit Beeren kaufen?</string>
+	<string id="i_bb_1">Ist dies das gewünschte Einrichtungsstück?</string>
+	<string id="i_ae_6">[arg0] Stück</string>
+	<string id="i_ae_7">（[arg0] Stück）</string>
+
+	<string id="i_bc_1">[arg0] erworben!</string>
+	<string id="i_bca_2">Drücke den „Tausch“-Knopf im Traumkatalog,
+um Änderungen vorzunehmen.</string>
+	<string id="i_bc_2">Wechsle deine Kanne im Menü
+links über dem Garten.</string>
+
+	<string id="i_ba_1">[arg0]
+wegräumen?</string>
+	<string id="i_ah_1">[arg0] weggeräumt.</string>
+	<string id="i_ah_3">Wähl im Traumkatalog „Ins Haus stellen“, um das Einrichtungsstück in dein Haus zu stellen.</string>
+
+	<string id="i_am_1">In deinem Haus ist kein Platz.</string>
+	<string id="i_am_2">Bitte räum auf.</string>
+
+	<string id="i_bcc_1">[arg0] austauschen?</string>
+	<string id="i_bcd_1">Einrichtung wurde
+mit [arg0] ausgetauscht!</string>
+
+	<string id="i_ab_3">Traumkatalog</string>
+
+	<string id="i_ab_2">Einrichtungsstück aus dem Traumkatalog wählen</string>
+
+	<string id="i_ac_1">Inhalt</string>
+	<string id="i_ad_8">Inhalt</string>
+	<string id="i_ad_18">Inhalt</string>
+
+	<string id="i_ad_4">Zeitlich begrenzt</string>
+	<string id="i_ad_5">Designer-Möbel</string>
+	<string id="i_ad_6">Neue Möbel</string>
+
+	<string id="i_ad_2">[arg0]　[arg1] Stück</string>
+	<string id="i_ad_16">Kostenlos</string>
+
+	<string id="i_ad_10">Nicht genug Beeren!</string>
+	<string id="i_ad_11">Mit Beeren kaufen</string>
+	<string id="i_ad_15">Geschenk</string>
+	<string id="i_az_1">Verwendbar</string>
+	<string id="i_ad_17">Schon deins</string>
+	<string id="i_ad_12">Ins Haus stellen</string>
+	<string id="i_ad_14">Auswechseln</string>
+	<string id="i_ad_13">Wegräumen</string>
+
+	<string id="i_ada_1">Schatztruhe</string>
+	<string id="i_ada_2">Sonstiges</string>
+	<string id="i_ada_3">Die Freundestafel</string>
+
+</data>

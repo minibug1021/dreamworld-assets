@@ -1,4 +1,76 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <data locale="ja">
-    <string id="lo_a_1">lo_a_1</string>
+
+	<string id="i_aj_1">位置を決定する</string>
+	<string id="h_ea_1">もようがえをする</string>
+	<string id="h_ea_2">たからばこを見る</string>
+	<string id="h_ea_3">ゆめカタログを見る</string>
+	<string id="h_ea_4">なかよしボードを見る</string>
+	<string id="h_ea_5">外に出る</string>
+
+	<string id="h_ea_7">たからばこを見る</string>
+	<string id="h_ea_6">ゆめカタログを見る</string>
+	<string id="h_ea_8">なかよしボードを見る</string>
+	<string id="h_ea_9">外に出る</string>
+
+	<string id="i_an_1">かたづける</string>
+	<string id="h_ea_10">となりを見る</string>
+	<string id="i_aj_3">このインテリアは移動できません。</string>
+
+	<string id="h_ea_11">[arg0]の部屋の中</string>
+
+	<string id="i_aj_2">インテリアをとなりの画面に移動する</string>
+
+	<string id="s_ah_1">たからばこに道具がありません。</string>
+	<string id="s_ah_2">道具はゆめしまで見つけることができます。</string>
+
+	<string id="i_ae_1">このインテリアをきのみと交換しますか？</string>
+	<string id="i_bb_1">このインテリアをもらいますか？</string>
+	<string id="i_ae_6">[arg0]コ</string>
+	<string id="i_ae_7">（てもち　[arg0]コ）</string>
+
+	<string id="i_bc_1">[arg0]を交換しました。
+</string>
+	<string id="i_bca_2">ゆめカタログの[交換する]ボタンを押すと変更できます。</string>
+	<string id="i_bc_2">はたけの左上のメニューからじょうろを変更できます。</string>
+
+	<string id="i_ba_1">[arg0]をかたづけますか？</string>
+	<string id="i_ah_1">[arg0]をかたづけました。</string>
+	<string id="i_ah_3">ゆめカタログの[部屋に置く]ボタン押すと
+あなたの部屋に置くことができます。</string>
+
+	<string id="i_am_1">部屋にインテリアを置く場所がありません。</string>
+	<string id="i_am_2">家具をかたづけてください。</string>
+
+	<string id="i_bcc_1">[arg0]に変更しますか？</string>
+	<string id="i_bcd_1">[arg0]に変更しました。</string>
+
+	<string id="i_ab_3">ゆめカタログ</string>
+
+	<string id="i_ab_2">ゆめカタログからインテリアを選ぶ</string>
+
+	<string id="i_ac_1">目次</string>
+	<string id="i_ad_8">もくじ</string>
+	<string id="i_ad_18">もくじ</string>
+
+	<string id="i_ad_4">i_ad_4</string>
+	<string id="i_ad_5">デザイン家具</string>
+	<string id="i_ad_6">新着</string>
+
+	<string id="i_ad_2">[arg0]　[arg1]コ</string>
+	<string id="i_ad_16">きのみは必要ありません</string>
+
+	<string id="i_ad_10">きのみが足りません</string>
+	<string id="i_ad_11">きのみと交換</string>
+	<string id="i_ad_15">プレゼント</string>
+	<string id="i_az_1">使えます</string>
+	<string id="i_ad_17">せっちちゅう</string>
+	<string id="i_ad_12">部屋に置く</string>
+	<string id="i_ad_14">いれかえる</string>
+	<string id="i_ad_13">かたづける</string>
+
+	<string id="i_ada_1">たからばこ</string>
+	<string id="i_ada_2">そのほか</string>
+	<string id="i_ada_3">なかよしボード</string>
+
 </data>

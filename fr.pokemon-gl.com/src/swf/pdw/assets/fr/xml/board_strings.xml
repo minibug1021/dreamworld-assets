@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="fr">
+
+	<string id="p_aa_1" >Panneau des compagnons</string>
+
+	<string id="p_aa_6">Pokémon emmenés</string>
+	<string id="p_aa_5">Pokémon liés d'amitié</string>
+
+	<string id="p_ah_1">Aucun Pokémon ne s'est lié d'amitié avec vous.</string>
+	<string id="p_ai_1">Vous n'avez pas encore envoyé de Pokémon dans le Heylink.</string>
+	<string id="p_aj_1">Aucun Pokémon n'a pu être transféré.</string>
+	<string id="p_aj_2">Votre sélection n'a pas pu être sauvergardée.</string>
+	
+	<string id="p_aj_7">p_aj_7</string>
+	<string id="p_aj_5">Échec lors de l'affichage de la liste des Pokémon qui vous apprécient.</string>
+	<string id="p_aj_6">Échec lors de l'affichage de la liste des Pokémon envoyés.</string>
+
+	<string id="p_aa_4">Pokémon à emmener
+[arg0]/10</string>
+
+	<string id="p_ab_5">Retour</string>
+	<string id="p_ag_1">Voir détails</string>
+	<string id="p_af_1">Emmener ce Pokémon</string>
+
+	<string id="p_ab_1">Pokémon</string>
+	<string id="p_ab_2">Cap. spé: :</string>
+	<string id="p_ab_6">Type :</string>
+	<string id="p_ab_3">Sexe</string>
+	<string id="p_ab_4">Capacités 
+apprises :</string>
+
+	<string id="p_aj_4">p_aj_4</string>
+</data>

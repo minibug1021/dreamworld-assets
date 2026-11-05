@@ -1,4 +1,70 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <data locale="ko">
-	<string id="h_da_3" bold="true" />
+	<fonts>
+		<font id="f01" name="FFF Compact"></font>
+		<font id="f02" name="FFF Corporate Bold"></font>
+	</fonts>
+
+	<string id="k_ad_15" size="11" letterSpacing="0" ></string>
+	<string id="k_ad_2" size="11" letterSpacing="0" ></string>
+
+	<string id="k_ad_1" size="18" bold="true" letterSpacing="0" ></string>
+
+	<string id="k_afff_1" size="18" letterSpacing="0" ></string>
+	<string id="k_aff_1" size="18" letterSpacing="0" ></string>
+
+	<string id="k_ag_2" size="12" letterSpacing="0" ></string>
+	<string id="k_ai_1" size="12" letterSpacing="0" ></string>
+	<string id="k_aj_1" size="12" letterSpacing="0" ></string>
+	<string id="k_ak_1" size="12" letterSpacing="0" ></string>
+	<string id="k_al_1" size="12" letterSpacing="0" ></string>
+	<string id="k_ada_1" size="12" letterSpacing="0" ></string>
+	<string id="k_ae_2" size="12" letterSpacing="0" ></string>
+	<string id="k_ag_1" size="10" letterSpacing="0" ></string>
+	<string id="k_aha_1" size="12" letterSpacing="0" ></string>
+
+	<string id="k_ama_1" size="18" letterSpacing="0" ></string>
+	<string id="k_am_1" size="18" letterSpacing="0" ></string>
+	<string id="k_am_3" size="12" letterSpacing="0" ></string>
+
+	<string id="k_ca_1" size="18" letterSpacing="0" ></string>
+	<string id="k_ca_2" size="12" letterSpacing="0" ></string>
+
+	<string id="k_as_1" size="18" letterSpacing="0" ></string>
+	<string id="k_at_1" size="18" letterSpacing="0" ></string>
+	<string id="k_au_1" size="18" letterSpacing="0" ></string>
+	<string id="k_ar_1" size="18" letterSpacing="0" ></string>
+	<string id="k_asa_1" size="18" letterSpacing="0" ></string>
+
+	<string id="k_ad_4" size="11" letterSpacing="0" ></string>
+	<string id="k_ad_14" size="11" letterSpacing="0" ></string>
+	<string id="k_ad_6" size="11" letterSpacing="0" ></string>
+	<string id="k_ad_10" size="11" letterSpacing="0" ></string>
+	<string id="k_ad_12" size="11" letterSpacing="0" ></string>
+	<string id="k_ad_8" size="11" letterSpacing="0" ></string>
+
+	<string id="k_ahb_1" size="18" letterSpacing="0" ></string>
+	<string id="k_ahb_2" size="12" letterSpacing="0" ></string>
+	<string id="k_bb_1" size="11" letterSpacing="0" ></string>
+	<string id="k_bb_2" size="11" letterSpacing="0" ></string>
+
+
+
+	<string id="k_afff_2" size="14" letterSpacing="0" ></string>
+	<string id="k_ad_17" size="18" letterSpacing="0" ></string>
+	<string id="k_ad_16" size="18" letterSpacing="0" ></string>
+
+	<string id="k_ad_18" size="12" letterSpacing="0" ></string>
+	<string id="k_ad_3" size="12" letterSpacing="0" ></string>
+	<string id="k_ad_5" size="12" letterSpacing="0" ></string>
+	<string id="k_ad_7" size="12" letterSpacing="0" ></string>
+	<string id="k_ad_9" size="12" letterSpacing="0" ></string>
+	<string id="k_ad_11" size="12" letterSpacing="0" ></string>
+	<string id="k_ad_13" size="12" letterSpacing="0" ></string>
+
+	<string id="k_bb_3" size="18" letterSpacing="0" ></string>
+
+	<string id="k_det_1" size="14" letterSpacing="0" ></string>
+	<string id="k_det_2" size="12" letterSpacing="0" ></string>
+
 </data>

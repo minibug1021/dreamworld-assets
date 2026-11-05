@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="en">
+	
+	
+	<string id="Xz_an_1">Do you want to leave the Pokémon Dream World
+and move to  My Page?</string>
+	<string id="h_cc_2">Yes</string>
+	<string id="h_cc_3">No</string>
+	
+	<string id="h_ca_9">Check info.</string>
+	<string id="h_ca_10">Leave the Pokémon Dream World.</string>
+	
+	<string id="h_ee_1">Pokémon Nickname</string>
+	<string id="h_ee_2">PGL Nickname</string>
+	<string id="h_ee_3">Pokémon</string>
+	<string id="h_ee_4">O.T.</string>
+	<string id="h_ee_5">Lv.</string>
+	<string id="h_ee_6">Type</string>
+	<string id="h_ee_7">Gender</string>
+	<string id="h_ee_8">Nature</string>
+	<string id="h_ee_9">Poké Ball Used</string>
+	
+	
+	
+	
+	<string id="da_aa_1">Your time in the Pokémon Dream World is about to end.</string>
+	<string id="da_aa_2">Exit and prepare to wake up</string>
+	<string id="da_aa_3">Prepare to exit the Pokémon DW
+and use Game Sync to wake up
+your Pokémon. You can check the
+Pokémon and items you're
+sending to your Entralink.</string>
+	<string id="da_aa_4">Exit and continue sleeping</string>
+	<string id="da_aa_5">Exit the Pokémon DW and wake up</string>
+	<string id="da_aa_6">Exit the Pokémon DW without waking</string>
+	
+	<string id="da_ab_1">Choose this option to exit the
+Pokémon DW temporarily.</string>
+	<string id="da_ab_2">If the Pokémon that you wished for at the Tree of Dreams 
+is on the board, the rainbow to the Island of Dreams 
+won't appear!</string>
+	<string id="da_ab_3">The Pokémon DW will automatically end one hour after you start playing. </string>
+	<string id="da_ab_4">Keep playing in the Pokémon DW</string>
+	
+	<string id="da_ad_1">An hour has passed since you began playing.</string>
+	<string id="da_ad_2">One hour has passed since you started playing. Please click one of the buttons and exit the Pokémon DW.</string>
+	<string id="da_ad_6">Select this option to exit the Pokémon DW 
+temporarily.</string>
+	
+	<string id="da_af_1">An hour has passed since you began playing.</string>
+	<string id="da_af_2">One hour has passed since you started playing. Please click one of the buttons and exit the Pokémon DW.</string>
+	
+	
+	<string id="dc_aa_1">List of Pokémon to take</string>
+	<string id="dc_aa_2">After using Game Sync to wake up your Pokémon, go to the Entree Forest to meet the Pokémon you took.</string>
+	<string id="dc_aa_3">If there is another Pokémon you'd like to take, click "Back" and check the Friend Board in your home.</string>
+	<string id="dc_aa_4">It may take some time for the Pokémon you wished for at the Tree of Dreams to appear on the Friend Board.</string>
+	<string id="dc_aa_5">Next</string>
+	<string id="dc_aa_6">Back</string>
+	
+	<string id="dc_ac_1">List of items to send to the Entralink</string>
+	<string id="dc_ac_2">Get the items you sent to the Entralink from the boy at the Entree Forest after waking your Pokémon.</string>
+	<string id="dc_ac_3">If you want to change items, click "Back" and select items to send to the Entralink from the Treasure Chest in your room.</string>
+	<string id="dc_ac_4">Exit the Pokémon DW</string>
+	
+	<string id="dc_ae_2">Sorry, there is no Pokémon to take.</string>
+	
+	<string id="dc_af_2">Sorry, there's no item to send to the Entralink.</string>
+	
+	<string id="dialog_33">Exit the Pokémon Dream World?</string>
+	<string id="o_ak_1">Did you enjoy the Pokémon Dream World?
+Register your Game Sync ID of Pokémon Black Version,  Pokémon White Version, Pokémon Black Version 2 or Pokémon White Version 2 to bring Pokémon and items
+to your Nintendo DS game. See you again soon!
+</string>
+	<string id="o_ak_2">Yes</string>
+	<string id="o_ak_3">No</string>
+	
+	<string id="dialog_35">Close</string>
+	
+	<string id="o_abb_1">You have left the Pokémon Dream World.
+Now, wake your Pokémon with Game Sync.</string>
+	<string id="o_az_1">You have left the Pokémon Dream World.</string>
+	
+	<string id="lo_a_1">Loading…</string>
+	
+	<string id="dialog_30">Connection error. Please retry.
+If you still can't connect,
+please try again later.</string>
+	<string id="dialog_31">Retry</string>
+	<string id="new_home_3">No info is available.</string>
+	<string id="de_ad_1">An hour has passed since you began playing.</string>
+	<string id="de_ad_2">Please leave the Pokémon Dream World.</string>
+	<string id="de_ad_3">Did you enjoy playing in the Pokémon Dream World?
+Register your Game Sync ID for Pokémon Black Version,  Pokémon White Version, Pokémon Black Version 2 or Pokémon White Version 2, and you can bring Pokémon and items to your Nintendo DS game. Looking forward to seeing you again!</string>
+	<string id="de_ad_4">Leave the Pokémon Dream World</string>
+	<string id="de_af_1">One hour has passed since you started playing the Pokémon DW.</string>
+	<string id="de_af_2">Please leave the Pokémon Dream World.</string>
+	<string id="de_af_3">Did you enjoy playing in the Pokémon Dream World?
+Register your Game Sync ID for Pokémon Black Version,  Pokémon White Version, Pokémon Black Version 2 or Pokémon White Version 2, and you can bring Pokémon and items to your Nintendo DS game. Looking forward to seeing you again!</string>
+	<string id="de_af_4">Leave the Pokémon Dream World</string>
+	<string id="de_af_5">Keep playing in the Pokémon DW</string>
+	<string id="h_ca_13">No special home is available at this time.</string>
+</data>

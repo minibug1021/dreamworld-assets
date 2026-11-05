@@ -1,17 +1,31 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <data locale="fr">
-	<string id="B_aa_10">B_aa_10</string>
-	<string id="B_aa_11">B_aa_11</string>
-	<string id="B_az_2">B_az_2</string>
-	<string id="B_az_3">B_az_3</string>
-	<string id="b_ad_1">b_ad_1</string>
-	<string id="b_ad_2">b_ad_2</string>
-	<string id="b_ad_3">b_ad_3</string>
-	<string id="b_ad_6">b_ad_6</string>
-	<string id="b_ad_7">b_ad_7</string>
-	<string id="b_ae_1">b_ae_1</string>
-	<string id="b_af_1">b_af_1</string>
-	<string id="b_ah_1">b_ah_1</string>
-	<string id="b_ai_1">b_ai_1</string>
-	<string id="b_az_1">b_az_1</string>
+	<string id="b_af_1">Objets à envoyer sélectionnés.
+</string>
+	<string id="b_af_2">Cliquez sur "Quitter le Pokémon Dream World" et réveillez le Pokémon avec la Synchro-Jeu, puis allez voir le garçon à l'entrée de la Forêt du Heylink pour recevoir vos objets.</string>
+	<string id="b_ai_1">Objets à envoyer enlevés.</string>
+	<string id="b_ah_1">Enlever les objets à envoyer ?</string>
+	<string id="b_ae_1">Voulez-vous envoyer ces objets au Heylink ?</string>
+	<string id="b_ae_2">b_ae_2</string>
+
+	<string id="b_ad_1">Objets à envoyer au Heylink</string>
+	<string id="b_ad_2" >Nom de l'objet</string>
+	<string id="b_ad_3" >Quantité</string>
+	<string id="b_ad_4" >Baie</string>
+
+	<string id="b_aa_1" >Tri par date</string>
+	<string id="b_aa_2" >Tri par nom</string>
+	<string id="b_aa_3" >Tri par espèce</string>
+	<string id="b_aa_4" >Envoyer</string>
+
+	<string id="b_az_1">Fermer</string>
+	<string id="b_ae_4">Non</string>
+	<string id="b_ad_6">Confirmer</string>
+	<string id="b_ad_7">Annuler</string>
+	<string id="b_ae_3">Oui</string>
+	<string id="b_ae_4">Non</string>
+
+	<string id="k_af_1">Baies en votre possession</string>
+	<string id="b_aa_6">Coffre</string>
 </data>
+

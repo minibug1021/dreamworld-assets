@@ -1,8 +1,24 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <data locale="en">
-	<string id="b_ae_3">Yes</string>
-	<string id="b_ae_4">No</string>
-	<string id="k_af_1">Your Berries</string>
+	<string id="s_aa_2">Return to your home.</string>
+	<string id="t_aa_1">Tree of Dreams</string>
+	<string id="t_ai_1">Made a wish at the Tree of Dreams.</string>
+	<string id="t_ai_3">Close</string>
+	<string id="t_ap_1">You didn't befriend any Pokémon.</string>
+	<string id="t_ao_1">You have no Berries in your Treasure Chest.</string>
+	<string id="t_ah_1">Make a wish to add this
+Pokémon to your party?</string>
+	<string id="t_ag_2">Pokémon Name</string>
+	<string id="t_ag_3">Ability</string>
+	<string id="t_ag_4">Gender</string>
+	<string id="t_ag_5">Learned Moves</string>
+	<string id="t_ag_1">Choose the Pokémon you want to add to your party.</string>
+	<string id="t_ag_7">t_ag_7</string>
+	<string id="t_ag_8">｛ポケモン名｝</string>
+	<string id="t_ag_9">t_ag_9</string>
+	<string id="t_ag_10">｛性格｝</string>
+	<string id="t_ag_6">Choose</string>
+
 	<string id="t_ac_1">Pokémon Nickname</string>
 	<string id="t_ac_2">PGL Nickname</string>
 	<string id="t_ac_3">Pokémon</string>
@@ -11,7 +27,13 @@
 	<string id="t_ac_6">Type</string>
 	<string id="t_ac_7">Gender</string>
 	<string id="t_ac_8">Nature</string>
-	<string id="t_ac_9">t_ac_9</string>
-	<string id="t_ac_10">Poké Ball Used</string>
+	<string id="t_ac_10">Poké Ball used</string>
 	<string id="t_ad_1">Make a wish? You'll need one Berry.</string>
+	<string id="t_af_2">Use this Berry?</string>
+	<string id="t_ai_2">[ポケモン名] was sent
+to your Friend Board.
+Check the Friend Board
+at your house. </string>
+	<string id="t_ao_2">You need one Berry to make a wish.</string>
+
 </data>

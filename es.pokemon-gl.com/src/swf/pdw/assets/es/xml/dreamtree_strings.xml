@@ -1,17 +1,38 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <data locale="es">
-	<string id="b_ae_3">Sí</string>
-	<string id="b_ae_4">No</string>
-	<string id="k_af_1">Tus Bayas</string>
-	<string id="t_ac_1">Apodo del Pokémon</string>
-	<string id="t_ac_2">Apodo en PGL</string>
-	<string id="t_ac_3">Pokémon</string>
-	<string id="t_ac_4">Entrenador Original</string>
-	<string id="t_ac_5">Nv.</string>
-	<string id="t_ac_6">Tipo</string>
-	<string id="t_ac_7">Sexo</string>
-	<string id="t_ac_8">Naturaleza</string>
-	<string id="t_ac_9">t_ac_9</string>
-	<string id="t_ac_10">Poké Ball usada</string>
+	<string id="s_aa_2">Volver a mi casa</string>
+	<string id="t_aa_1">Árbol de los Sueños</string>
+	<string id="t_ai_1">Has pedido un deseo.</string>
+	<string id="t_ai_3">Cerrar</string>
+	<string id="t_ap_1">No tienes ningún Pokémon con el que hayas entablado amistad.</string>
+	<string id="t_ao_1">No tienes Bayas en el cofre.</string>
+	<string id="t_ah_1">¿Quieres llevarte este
+Pokémon contigo?</string>
+	<string id="t_ag_2">Nombre del Pokémon</string>
+	<string id="t_ag_3">Habilidad</string>
+	<string id="t_ag_4">Sexo</string>
+	<string id="t_ag_5">Movs. aprendidos</string>
+	<string id="t_ag_1">Elige el Pokémon que quieres llevar contigo.</string>
+	<string id="t_ag_7">t_ag_7</string>
+	<string id="t_ag_8">Nombre del Pokémon</string>
+	<string id="t_ag_9">t_ag_9</string>
+	<string id="t_ag_10">Habilidad</string>
+	<string id="t_ag_6">Este Pokémon</string>
+
+	<string id="t_ac_1">Apodo del Pokémon:</string>
+	<string id="t_ac_2">Apodo en PGL:</string>
+	<string id="t_ac_3">Pokémon:</string>
+	<string id="t_ac_4">Entrenador original:</string>
+	<string id="t_ac_5">Nv.:</string>
+	<string id="t_ac_6">Tipo:</string>
+	<string id="t_ac_7">Sexo:</string>
+	<string id="t_ac_8">Naturaleza:</string>
+	<string id="t_ac_10">Poké Ball usada:</string>
 	<string id="t_ad_1">¿Quieres pedir un deseo? Necesitas una Baya.</string>
+	<string id="t_af_2">¿Usar esta Baya?</string>
+	<string id="t_ai_2">[ポケモン名] se irá contigo.
+Consulta el Tablón de Pokémon
+amigos de tu casa.</string>
+	<string id="t_ao_2">Para pedir un deseo, necesitas una Baya.</string>
+
 </data>

@@ -1,11 +1,70 @@
-/* AUTO-GENERATED PGL STUB: /en.pokemon-gl.com/src/swf/report/en/lang.css */
-/* offline report language fallback (en) for missing asset /en.pokemon-gl.com/src/swf/report/en/lang.css */
-#report .label {
-  font-weight: 600;
+
+#gts-top h2 { background-image: url(report-headers.png); }
+.gts-top-trade-deposit .types li { background-image: url(types-large.png); }
+.gts-top-trade-deposit .moves li .type { background-image: url(types-small.png); }
+.nav-back { background-image: url(report-buttons.png); }
+.nav-back a { background-image: url(report-buttons.png); }
+#gts-ranking h2 { background-image: url(report-headers.png); }
+
+#gts-ranking-selector a { background-image: url(report-buttons.png); }
+.gts-ranking-balloon .types li { background-image: url(types-small.png); }
+
+#gts-pokemon h2 { background-image: url(report-headers.png); }
+.pokemon-spec .types li { background-image: url(types-large.png); }
+#gts-pokemon-ranking .types li { background-image: url(types-small.png); }
+#gts-area h2 { background-image: url(report-headers.png); }
+.local-info .gts-record-switcher a { background-image: url(report-buttons.png); }
+#gbu h2 { background-image: url(report-headers.png); }
+.gbu-season-selector h3 { background-image: url(report-buttons.png); }
+#gbu-season-ranking h2 { background-image: url(report-headers.png); }
+
+
+.gbu-regulation-selector div { background-image: url(report-buttons.png); }
+#gbu-season-ranking .myranking { background-image: url(report-buttons.png); }
+
+#gbu-ranking-area-filter { background-image: url(report-buttons.png); }
+#gbu-season-trend h2 { background-image: url(report-headers.png); }
+
+#gbu-season-trend-pokemon-select { background-image: url(report-buttons.png); }
+#gbu-season-trend .pokemon-ranking .pokemon-spec .types li { background-image: url(types-small.png); }
+
+.gbu-ranking-balloon .types li { background-image: url(types-small.png); }
+
+
+#wifi-comp-list h2 { background-image: url(report-headers.png); }
+#wifi-comp-detail h2 { background-image: url(report-headers.png); }
+
+#wifi-comp-detail .comp-spec .pdf { background-image: url(report-buttons.png); }
+#wifi-comp-detail-ranking .myranking { background-image: url(report-buttons.png); }
+
+#global-records h2 { background-image: url(report-headers.png); }
+#global-records-general .most-slept-pokemon .types li { background-image: url(types-small.png); }
+#global-records-general-more { background-image: url(report-buttons.png); }
+
+
+
+#report-header,
+#report-header h1,
+#report-header a {
+  background-image: url(report-header.png);
 }
-#report .unit {
-  color: #4f4f4f;
+
+
+.gts-nav-top,
+.gts-nav-ranking,
+.gts-nav-pokemon,
+.gts-nav-pokemon-select,
+.gts-nav-area,
+.gts-nav-area-select,
+.gbu-nav-ranking,
+.gbu-nav-trend,
+.gbu-nav-yourrecords,
+.wifi-competitions-nav-wifi,
+.global-records-nav-area {
+  background-image: url(report-buttons.png);
 }
-#report .squeeze {
-  letter-spacing: 0;
+
+#dialog-pokemon-selector .tabs a {
+  background-image: url(dialog-pokemon-selector-buttons.png);
 }
+

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="it">
+
+	<string id="p_aa_1" >Bacheca</string>
+
+	<string id="p_aa_6">Pokémon da inviare</string>
+	<string id="p_aa_5">Pokémon amici</string>
+
+	<string id="p_ah_1">Non ci sono Pokémon amici.</string>
+	<string id="p_ai_1">Nessun Pokémon inviato nell'Intramondo.</string>
+	<string id="p_aj_1">Nessun Pokémon inviato nell'Intramondo.</string>
+	<string id="p_aj_2">Impossibile salvare le scelte
+effettuate.</string>
+	
+	<string id="p_aj_7">p_aj_7</string>
+	<string id="p_aj_5">Impossibile salvare la lista
+dei Pokémon con cui hai
+fatto amicizia.</string>
+	<string id="p_aj_6">Impossibile accedere alla lista di Pokémon
+che hai inviato nell'Intramondo.</string>
+
+	<string id="p_aa_4">Pokémon che voglio portare con me: [arg0]/10</string>
+
+	<string id="p_ab_5">Indietro</string>
+	<string id="p_ag_1">Dettagli</string>
+	<string id="p_af_1">Pokémon che porto con me</string>
+
+	<string id="p_ab_1">Pokémon</string>
+	<string id="p_ab_2">Abilità</string>
+	<string id="p_ab_6">Tipo</string>
+	<string id="p_ab_3">Sesso</string>
+	<string id="p_ab_4">Mosse conosciute</string>
+
+	<string id="p_aj_4">p_aj_4</string>
+</data>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="ko">
+	<string id="h_cb_1">내 홈으로 돌아가기</string>
+	<string id="h_cb_2">꿈의 다리</string>
+	<string id="h_cb_3">꿈섬에 가기</string>
+	<string id="h_cc_1">꿈섬에 가겠습니까?</string>
+	<string id="h_cc_2">예</string>
+	<string id="h_cc_3">아니오</string>
+	<string id="h_cc_4">꿈섬에 가기</string>
+</data>

@@ -1,17 +1,42 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <data locale="es">
-	<string id="b_ae_3" letterSpacing="1.0" />
-	<string id="b_ae_4" letterSpacing="1.0" />
-	<string id="k_af_1" letterSpacing="1.0" />
-	<string id="t_ac_1" letterSpacing="1.0" />
-	<string id="t_ac_2" letterSpacing="1.0" />
-	<string id="t_ac_3" letterSpacing="1.0" />
-	<string id="t_ac_4" letterSpacing="1.0" />
-	<string id="t_ac_5" letterSpacing="1.0" />
-	<string id="t_ac_6" letterSpacing="1.0" />
-	<string id="t_ac_7" letterSpacing="1.0" />
-	<string id="t_ac_8" letterSpacing="1.0" />
-	<string id="t_ac_9" letterSpacing="1.0" />
-	<string id="t_ac_10" letterSpacing="1.0" />
-	<string id="t_ad_1" letterSpacing="1.0" bold="true" />
+	<fonts>
+		<font id="f01" name="FFF Compact"></font>
+		<font id="f02" name="FFF Corporate Bold"></font>
+	</fonts>
+
+	<string id="s_aa_2" size="12" letterSpacing="1"  baselineMode="mem" baselineShift="1" />
+	<string id="t_aa_1" size="18" letterSpacing="1"  baselineMode="mem" />
+	<string id="t_ai_1" size="16" letterSpacing="1"  baselineMode="mem" />
+	<string id="t_ai_3" size="12" letterSpacing="1"  baselineMode="mem" />
+	<string id="t_ap_1" size="16" letterSpacing="1"  baselineMode="mem" />
+	<string id="t_ao_1" size="16" letterSpacing="1"  baselineMode="mem" />
+	<string id="t_ah_1" size="16" letterSpacing="1"  baselineMode="mem" />
+	<string id="t_ag_2" size="12" letterSpacing="0"  baselineMode="mem" />
+	<string id="t_ag_3" size="12" letterSpacing="1" baselineShift="1"  baselineMode="mem" />
+	<string id="t_ag_4" size="12" letterSpacing="1" baselineShift="1"  baselineMode="mem" />
+	<string id="t_ag_5" size="12" letterSpacing="1"  baselineMode="mem" />
+	<string id="t_ag_1" size="16" letterSpacing="1"  baselineMode="mem" />
+	<string id="t_ag_7" size="12" letterSpacing="1"  baselineMode="mem" />
+	<string id="t_ag_8" size="12" letterSpacing="1"  baselineMode="mem" />
+	<string id="t_ag_9" size="12" letterSpacing="1"  baselineMode="mem" />
+	<string id="t_ag_10" size="12" letterSpacing="1"  baselineMode="mem" />
+	<string id="t_ag_6" size="12" letterSpacing="0.5" baselineShift="2"  baselineMode="mem" />
+
+	<string id="t_ac_1" size="12" letterSpacing="0.5"  baselineMode="mem" />
+	<string id="t_ac_2" size="12" letterSpacing="0.5"  baselineMode="mem" />
+	<string id="t_ac_3" size="12" letterSpacing="0.5"  baselineMode="mem" />
+	<string id="t_ac_4" size="12" letterSpacing="0.5"  baselineMode="mem" />
+	<string id="t_ac_5" size="12" letterSpacing="0.5"  baselineMode="mem" />
+	<string id="t_ac_6" size="12" letterSpacing="0.5"  baselineMode="mem" />
+	<string id="t_ac_7" size="12" letterSpacing="0.5"  baselineMode="mem" />
+	<string id="t_ac_8" size="12" letterSpacing="0.5"  baselineMode="mem" />
+	<string id="t_ac_10" size="12" letterSpacing="0.5"  baselineMode="mem" />
+	<string id="t_ad_1" size="12" letterSpacing="1" baselineShift="3"  baselineMode="mem" />
+	<string id="t_af_2" size="12" letterSpacing="1"  baselineMode="mem" />
+	<string id="t_ai_2" size="12" leading="0" letterSpacing="1"  baselineMode="mem" />
+	<string id="t_ao_2" letterSpacing="1"  baselineMode="mem" />
+
+	<string id="T_ac_10" letterSpacing="0" color="#333333"  baselineMode="mem" />
+	<string id="t_ah_5" letterSpacing="0" color="#333333"  baselineMode="mem" />
 </data>

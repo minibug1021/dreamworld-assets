@@ -1,30 +1,59 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <data locale="es">
-	<string id="f_af_1">f_af_1</string>
-	<string id="f_af_2">f_af_2</string>
-	<string id="f_af_3">f_af_3</string>
-	<string id="f_af_4">f_af_4</string>
-	<string id="f_af_6">f_af_6</string>
-	<string id="f_af_7">f_af_7</string>
-	<string id="f_af_8">f_af_8</string>
-	<string id="f_af_9">f_af_9</string>
-	<string id="f_af_10">f_af_10</string>
-	<string id="f_af_13">f_af_13</string>
-	<string id="f_af_14">f_af_14</string>
-	<string id="f_af_15">f_af_15</string>
-	<string id="f_af_16">f_af_16</string>
-	<string id="f_af_17">f_af_17</string>
-	<string id="f_af_18">f_af_18</string>
-	<string id="m_ac_1">m_ac_1</string>
-	<string id="m_ac_2">m_ac_2</string>
-	<string id="m_ac_3">m_ac_3</string>
-	<string id="m_ac_4">m_ac_4</string>
-	<string id="m_ac_6">Entrenador original</string>
-	<string id="m_ac_7">Nv.</string>
-	<string id="m_ac_8">m_ac_8</string>
-	<string id="m_ac_9">m_ac_9</string>
-	<string id="m_ac_10">m_ac_10</string>
-	<string id="m_ac_12">m_ac_12</string>
-	<string id="m_ac_16">m_ac_16</string>
-	<string id="m_ac_17">m_ac_17</string>
+	<string id="m_aa_1">Felpudo</string>
+	<string id="m_aa_2">Ver más</string>
+	
+	<string id="f_af_1">Solicitud de sueñamigo</string>
+	<string id="f_af_2">Si vas a casa de este Pokémon, puedes hacerte
+su sueñamigo. ¿Quieres ir a su casa?
+</string>
+	<string id="f_af_3">Apodo:</string>
+	<string id="f_af_4">Apodo en PGL:</string>
+	<string id="f_af_5">[arg0]</string>
+	<string id="f_af_6">Entrenador original:</string>
+	<string id="f_af_7">Nv.:</string>
+	<string id="f_af_8">Tipo:</string>
+	<string id="f_af_9">Sexo:</string>
+	<string id="f_af_10">Naturaleza:</string>
+	<string id="f_af_12">[dd-mm-yyyy hh:mm]</string>
+	<string id="f_af_13">Actividades</string>
+	<string id="f_af_14">Solicitud de sueñamigo</string>
+	<string id="f_af_15">Regar</string>
+	<string id="f_af_16">Intercambiar</string>
+	<string id="f_af_17">Cerrar</string>
+	<string id="f_af_18">Ir a su casa</string>
+	
+	<string id="m_af_1">Ver detalles</string>
+	<string id="m_af_2">Ver felpudo</string>
+	<string id="m_af_3">Historial de visitas</string>
+	<string id="m_af_4">Fecha</string>
+	<string id="m_af_5">Pokémon</string>
+	<string id="m_af_6">Apodo</string>
+	<string id="m_af_7">Relación</string>
+	<string id="m_af_8">Acción</string>
+	<string id="m_af_9">[dd-mm-yyyy hh:mm]</string>
+	<string id="m_af_10">[arg0]</string>
+	<string id="m_af_11">Apodo:</string>
+	<string id="m_af_12">Apodo en PGL:</string>
+	<string id="m_af_13">[arg0]</string>
+	<string id="m_af_14">Foto</string>
+	
+	<string id="m_ac_1">Han dejado huellas.</string>
+	<string id="m_ac_2">Puedes solicitar ser sueñamigo del Pokémon
+que te ha visitado. Para ello, ve a su casa.</string>
+	<string id="m_ac_3">Apodo:</string>
+	<string id="m_ac_4">Apodo en PGL:</string>
+	<string id="m_ac_5">[arg0]</string>
+	<string id="m_ac_6">Entrenador original:</string>
+	<string id="m_ac_7">Nv.:</string>
+	<string id="m_ac_8">Tipo:</string>
+	<string id="m_ac_9">Sexo:</string>
+	<string id="m_ac_10">Naturaleza:</string>
+	<string id="m_ac_11">[dd-mm-yyyy hh:mm]</string>
+	<string id="m_ac_12">Actividades:</string>
+	<string id="m_ac_13">Solicitud de sueñamigo</string>
+	<string id="m_ac_14">Regar</string>
+	<string id="m_ac_15">Intercambiar</string>
+	<string id="m_ac_16">Ir a su casa</string>
+	<string id="m_ac_17">Cerrar</string>
 </data>

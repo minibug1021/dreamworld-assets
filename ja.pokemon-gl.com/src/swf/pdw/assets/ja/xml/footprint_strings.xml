@@ -1,30 +1,59 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <data locale="ja">
-	<string id="f_af_1">f_af_1</string>
-	<string id="f_af_2">f_af_2</string>
-	<string id="f_af_3">f_af_3</string>
-	<string id="f_af_4">f_af_4</string>
-	<string id="f_af_6">f_af_6</string>
-	<string id="f_af_7">f_af_7</string>
-	<string id="f_af_8">f_af_8</string>
-	<string id="f_af_9">f_af_9</string>
-	<string id="f_af_10">f_af_10</string>
-	<string id="f_af_13">f_af_13</string>
-	<string id="f_af_14">f_af_14</string>
-	<string id="f_af_15">f_af_15</string>
-	<string id="f_af_16">f_af_16</string>
-	<string id="f_af_17">f_af_17</string>
-	<string id="f_af_18">f_af_18</string>
-	<string id="m_ac_1">m_ac_1</string>
-	<string id="m_ac_2">m_ac_2</string>
-	<string id="m_ac_3">m_ac_3</string>
-	<string id="m_ac_4">m_ac_4</string>
-	<string id="m_ac_6">m_ac_6</string>
-	<string id="m_ac_7">m_ac_7</string>
-	<string id="m_ac_8">m_ac_8</string>
-	<string id="m_ac_9">m_ac_9</string>
-	<string id="m_ac_10">m_ac_10</string>
-	<string id="m_ac_12">m_ac_12</string>
-	<string id="m_ac_16">m_ac_16</string>
-	<string id="m_ac_17">m_ac_17</string>
+	<string id="m_aa_1">あしあとマット</string>
+	<string id="m_aa_2">もっと見る</string>
+	
+	<string id="f_af_1">ゆめともに申し込まれました。</string>
+	<string id="f_af_2">このポケモンのホームから、ゆめともになることができます。
+このポケモンのホームへ行きますか？
+</string>
+	<string id="f_af_3">ポケモンのニックネーム:</string>
+	<string id="f_af_4">PGLニックネーム:</string>
+	<string id="f_af_5">[arg0]</string>
+	<string id="f_af_6">親:</string>
+	<string id="f_af_7">レベル:</string>
+	<string id="f_af_8">タイプ:</string>
+	<string id="f_af_9">性別:</string>
+	<string id="f_af_10">性格:</string>
+	<string id="f_af_12">[YYYY/MM/DD　hh:mm]</string>
+	<string id="f_af_13">やったこと:</string>
+	<string id="f_af_14">ゆめともに申し込む</string>
+	<string id="f_af_15">水やり</string>
+	<string id="f_af_16">こうかん</string>
+	<string id="f_af_17">とじる</string>
+	<string id="f_af_18">このポケモンのホームへ行く</string>
+	
+	<string id="m_af_1">くわしく見る</string>
+	<string id="m_af_2">マットを見る</string>
+	<string id="m_af_3">ほうもんの記録</string>
+	<string id="m_af_4">日付</string>
+	<string id="m_af_5">ポケモン</string>
+	<string id="m_af_6">ニックネーム</string>
+	<string id="m_af_7">かんけい</string>
+	<string id="m_af_8">アクション</string>
+	<string id="m_af_9">[YYYY/MM/DD　hh:mm]</string>
+	<string id="m_af_10">[arg0]</string>
+	<string id="m_af_11">ポケモンのニックネーム:</string>
+	<string id="m_af_12">PGLニックネーム:</string>
+	<string id="m_af_13">[arg0]</string>
+	<string id="m_af_14">m_af_14</string>
+	
+	<string id="m_ac_1">あしあとがありました。</string>
+	<string id="m_ac_2">あしあとをつけてくれたポケモンは、ゆめともに申し込むことができます。
+このポケモンのホームへ行って、申し込んでみましょう。</string>
+	<string id="m_ac_3">ポケモンのニックネーム:</string>
+	<string id="m_ac_4">PGLニックネーム:</string>
+	<string id="m_ac_5">[arg0]</string>
+	<string id="m_ac_6">親:</string>
+	<string id="m_ac_7">レベル:</string>
+	<string id="m_ac_8">タイプ:</string>
+	<string id="m_ac_9">性別:</string>
+	<string id="m_ac_10">性格:</string>
+	<string id="m_ac_11">[YYYY/MM/DD　hh:mm]</string>
+	<string id="m_ac_12">やったこと:</string>
+	<string id="m_ac_13">ゆめともに申し込む</string>
+	<string id="m_ac_14">水やり</string>
+	<string id="m_ac_15">交換</string>
+	<string id="m_ac_16">このポケモンのホームへ行く</string>
+	<string id="m_ac_17">とじる</string>
 </data>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="ko">
+	<string id="h_da_1">어딘가의
+[PGLニックネーム]님</string>
+	<string id="h_da_2">꿈친구를 보기</string>
+	<string id="h_da_3">내 홈으로 돌아가기</string>
+	<string id="h_da_4">[PGLニックネーム]의 꿈친구 맵</string>
+	
+	<string id="h_db_1">꿈친구 리스트</string>
+	<string id="h_db_2">놀러온순</string>
+	<string id="h_db_3">이름순</string>
+	<string id="h_db_4">지역순</string>
+</data>

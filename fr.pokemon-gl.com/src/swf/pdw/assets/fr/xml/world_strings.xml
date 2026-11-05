@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="fr">
+	<string id="h_da_1">Et quelque part...
+[PGLニックネーム]</string>
+	<string id="h_da_2">Voir vos Rêvamis</string>
+	<string id="h_da_3">Retourner chez soi</string>
+	<string id="h_da_4">Carte des Rêvamis de [PGLニックネーム]</string>
+	
+	<string id="h_db_1">Liste de Rêvamis</string>
+	<string id="h_db_2">Tri par visites</string>
+	<string id="h_db_3">Tri par nom</string>
+	<string id="h_db_4">Tri par région</string>
+</data>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="es">
+	
+	
+	<string id="Xz_an_1">¿Quieres salir de Pokémon Dream World
+e ir a la página de tu perfil?</string>
+	<string id="h_cc_2">SÍ</string>
+	<string id="h_cc_3">NO</string>
+	
+	<string id="h_ca_9">Ver avisos</string>
+	<string id="h_ca_10">Salir de Pokémon Dream World</string>
+	
+	<string id="h_ee_1">Apodo del Pokémon:</string>
+	<string id="h_ee_2">Apodo en PGL:</string>
+	<string id="h_ee_3">Pokémon:</string>
+	<string id="h_ee_4">Entrenador original:</string>
+	<string id="h_ee_5">Nivel:</string>
+	<string id="h_ee_6">Tipo:</string>
+	<string id="h_ee_7">Sexo:</string>
+	<string id="h_ee_8">Naturaleza:</string>
+	<string id="h_ee_9">Poké Ball usada:</string>
+	
+	
+	
+	
+	<string id="da_aa_1">Salir de Pokémon Dream World</string>
+	<string id="da_aa_2">Finalizar tu sesión despertando a tu Pokémon</string>
+	<string id="da_aa_3">Finaliza tu sesión en Pokémon Dream World despertando a tu Pokémon. Tu Pokémon se despertará al usar Sincronizar Juego. 
+A continuación, asegúrate de enviar los objetos a la Zona Nexo.</string>
+	<string id="da_aa_4">Finalizar tu sesión con tu Pokémon dormido</string>
+	<string id="da_aa_5">Salir despertando a tu Pokémon</string>
+	<string id="da_aa_6">Salir sin despertar a tu Pokémon</string>
+	
+	<string id="da_ab_1">Haz clic aquí para finalizar temporalmente tu sesión.</string>
+	<string id="da_ab_2">Nota: Si el Pokémon con el que has trabado amistad pidiendo un deseo en el Árbol de los Sueños aparece en el Tablón, el arcoíris que comunica con Isla Ensueño no aparecerá.</string>
+	<string id="da_ab_3">Ten presente que tu sesión en Pokémon Dream World finalizará automáticamente una vez que haya transcurrido una hora desde que la iniciaste.</string>
+	<string id="da_ab_4">Continuar en Pokémon Dream World</string>
+	
+	<string id="da_ad_1">Ha transcurrido una hora desde que iniciaste tu sesión.</string>
+	<string id="da_ad_2">Haz clic en cualquiera de los botones para finalizar la sesión en Pokémon Dream World.</string>
+	<string id="da_ad_6">Haz clic aquí para finalizar temporalmente tu sesión.</string>
+	
+	<string id="da_af_1">Ha transcurrido una hora desde que iniciaste tu sesión.</string>
+	<string id="da_af_2">Haz clic en cualquiera de los botones para finalizar la sesión en Pokémon Dream World.</string>
+	
+	
+	<string id="dc_aa_1">Pokémon que irán contigo</string>
+	<string id="dc_aa_2">Los Pokémon que irán contigo aparecerán en los claros del Bosque Nexo una vez que los hayas despertado mediante Sincronizar Juego.</string>
+	<string id="dc_aa_3">En caso de que quieras que otro Pokémon vaya contigo, haz clic en el botón Atrás, vuelve a tu casa y elige a otro Pokémon del Tablón de Pokémon amigos.</string>
+	<string id="dc_aa_4">Puede darse el caso de que el Pokémon con el que has trabado amistad pidiendo un deseo en el Árbol de los Sueños no aparezca en el Tablón de Pokémon amigos si no ha transcurrido el tiempo necesario.</string>
+	<string id="dc_aa_5">Siguiente</string>
+	<string id="dc_aa_6">Atrás</string>
+	
+	<string id="dc_ac_1">Lista de objetos para enviar a la Zona Nexo</string>
+	<string id="dc_ac_2">Podrás recibir los objetos que hayas enviado a la Zona Nexo tras haber despertado a tu Pokémon mediante Sincronizar Juego. Los objetos te serán entregados en forma de fragmentos de sueños. Para recibir un fragmento, dirígete al Bosque Nexo y habla con el joven que se encuentra en la entrada.</string>
+	<string id="dc_ac_3">Si quieres modificar los objetos, haz clic en el botón “Atrás” y elige los objetos que vas a enviar a la Zona Nexo del cofre de tu casa. </string>
+	<string id="dc_ac_4">Finalizar tu sesión en Pokémon Dream World</string>
+	
+	<string id="dc_ae_2">No hay ningún Pokémon que vaya contigo.</string>
+	
+	<string id="dc_af_2">No hay ningún objeto para enviar a la Zona Nexo.</string>
+	
+	<string id="dialog_33">¿Salir de Pokémon Dream World?</string>
+	<string id="o_ak_1">¿Te lo has pasado bien en Pokémon Dream World? 
+Introduce el ID para Sincronizar de tu juego Pokémon Edición Negra,
+Pokémon Edición Blanca, Pokémon Edición Negra 2 o
+Pokémon Edición Blanca 2 para traerte Pokémon u objetos al juego. 
+¡Vuelve a jugar pronto! </string>
+	<string id="o_ak_2">SÍ</string>
+	<string id="o_ak_3">NO</string>
+	
+	<string id="dialog_35">Cerrar</string>
+	
+	<string id="o_abb_1">Has salido de Pokémon Dream World. 
+Puedes despertar a tu Pokémon mediante la función Sincronizar Juego.</string>
+	<string id="o_az_1">Has salido de Pokémon Dream World.</string>
+	
+	<string id="lo_a_1">Cargando</string>
+	
+	<string id="dialog_30">Error de conexión.
+Si no logras conectar al reintentarlo, deja pasar un tiempo y prueba de nuevo más adelante.</string>
+	<string id="dialog_31">Reintentar</string>
+	<string id="new_home_3">No hay ningún aviso.</string>
+	<string id="de_ad_1">Ha transcurrido una hora desde que iniciaste tu sesión.</string>
+	<string id="de_ad_2">Finaliza tu sesión en Pokémon Dream World.</string>
+	<string id="de_ad_3">¿Te lo has pasado bien en Pokémon Dream World? 
+Introduce el ID para Sincronizar de tu juego Pokémon Edición Negra, Pokémon Edición Blanca, Pokémon Edición Negra 2 o Pokémon Edición Blanca 2 para traerte Pokémon u objetos al juego. 
+¡Vuelve a jugar  pronto! </string>
+	<string id="de_ad_4">Salir de Pokémon Dream World</string>
+	<string id="de_af_1">Ha transcurrido una hora desde que iniciaste tu sesión.</string>
+	<string id="de_af_2">Finaliza tu sesión en Pokémon Dream World.</string>
+	<string id="de_af_3">¿Te lo has pasado bien en Pokémon Dream World? 
+Introduce el ID para Sincronizar de tu juego Pokémon Edición Negra, Pokémon Edición Blanca, Pokémon Edición Negra 2 o Pokémon Edición Blanca 2 para traerte Pokémon u objetos al juego. 
+¡Vuelve a jugar  pronto! </string>
+	<string id="de_af_4">Salir de Pokémon Dream World</string>
+	<string id="de_af_5">Continuar jugando en Pokémon Dream World</string>
+	<string id="h_ca_13">No hay ninguna casa especial.</string>
+</data>

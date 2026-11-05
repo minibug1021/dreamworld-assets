@@ -1,26 +1,33 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <data locale="fr">
-	<string id="c_aa_1">c_aa_1</string>
-	<string id="c_aa_3">c_aa_3</string>
-	<string id="c_aa_4">c_aa_4</string>
-	<string id="c_ad_1">c_ad_1</string>
-	<string id="c_ad_2">c_ad_2</string>
-	<string id="c_ad_3">c_ad_3</string>
-	<string id="c_ad_4">c_ad_4</string>
-	<string id="c_ad_11">c_ad_11</string>
-	<string id="c_ba_1">c_ba_1</string>
-	<string id="c_ba_2">c_ba_2</string>
-	<string id="c_ba_3">c_ba_3</string>
-	<string id="c_bb_1">c_bb_1</string>
-	<string id="c_bb_3">c_bb_3</string>
-	<string id="c_bb_7">c_bb_7</string>
-	<string id="c_bd_1">c_bd_1</string>
-	<string id="c_be_1">c_be_1</string>
-	<string id="c_bf_1">c_bf_1</string>
-	<string id="c_bg_1">c_bg_1</string>
-	<string id="c_bh_1">c_bh_1</string>
-	<string id="c_bi_1">c_bi_1</string>
-	<string id="c_bj_1">c_bj_1</string>
-	<string id="c_bk_1">c_bk_1</string>
-	<string id="c_bl_1">c_bl_1</string>
+	<string id="s_aa_3">Retour à la maison spéciale</string>
+	<string id="h_ca_20">Voir la carte des maisons spéciales</string>
+	<string id="fr_aa_8">Aller à la maison spéciale</string>
+	<string id="y_aa_8">Retour à la maison spéciale</string>
+	<string id="h_ca_11">Lire le panneau</string>
+	<string id="h_ca_12">En savoir plus</string>
+	<string id="sp2_pokemon_comment_01">C'est le Chacripan de la maison spéciale « Film Pokémon ». Il s'amuse avec le Chinchidou !</string>
+	<string id="sp2_pokemon_comment_02">C'est le Chinchidou de la maison spéciale « Film Pokémon ». Il s'amuse avec le Chacripan !</string>
+	<string id="sp2_pokemon_comment_03">C'est le Cryptéro de la maison spéciale « Film Pokémon ».</string>
+	<string id="sp2_pokemon_comment_04">C'est le Vivaldaim de la maison spéciale « Film Pokémon ». Il regarde le dessus du drap.</string>
+	<string id="sp2_pokemon_comment_05">C'est le Baggiguane de la maison spéciale « Film Pokémon ». Il est ravi que vous soyez venu le voir !</string>
+	<string id="sp2_pokemon_comment_06">C'est l'Emolga de la maison spéciale « Film Pokémon ». Il regarde derrière lui !</string>
+	<string id="h_da_5">Aller à la maison spéciale</string>
+	<string id="h_da_7">Carte des maisons spéciales</string>
+	<string id="dialog_36">Fermer</string>
+
+	<string id="sp2_interior_1_doll">C'est une poupée Victini. Le code cadeau est « Film Pokémon » !</string>
+
+	<string id="y_aa_10"></string>
+	<string id="y_aa_11">Voilà l'Île des Rêves. Serait-ce Victini, là-bas ?</string>
+	<string id="y_aa_12">[ポケモン名] est intrigué par un coffre…</string>
+	<string id="y_aa_13">Aidez [ポケモン名] !</string>
+	<string id="y_aa_14">Vous n'avez pas réussi à ouvrir le coffre.</string>
+	<string id="y_aa_15">Vous renoncez à ouvrir le coffre.</string>
+
+	<string id="h_ca_21">Voir la bande-annonce.</string>
+	<string id="fr_aa_16">Entrer</string>
+
 </data>
+
+

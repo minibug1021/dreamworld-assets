@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="de">
+
+	<string id="p_aa_1" >Freundestafel</string>
+
+	<string id="p_aa_6">Mitnahme-Pokémon</string>
+	<string id="p_aa_5">Pokémon-Freunde</string>
+
+	<string id="p_ah_1">Du bist noch mit keinem Pokémon befreundet.</string>
+	<string id="p_ai_1">Du hast noch kein Pokémon in die Kontaktebene geschickt.</string>
+	<string id="p_aj_1">Pokémon-Transfer fehlgeschlagen.</string>
+	<string id="p_aj_2">Auswahldaten verloren.</string>
+	
+	<string id="p_aj_7">p_aj_7</string>
+	<string id="p_aj_5">Kein Überblick über Pokémon-Freunde möglich.</string>
+	<string id="p_aj_6">Erhalt der Übersicht der versendeten Pokémon fehlgeschlagen.</string>
+
+	<string id="p_aa_4">Wunsch-Pokémon
+[arg0]/10</string>
+
+	<string id="p_ab_5">Zurück</string>
+	<string id="p_ag_1">Einzelheiten</string>
+	<string id="p_af_1">Dieses Pokémon mitnehmen</string>
+
+	<string id="p_ab_1">Pokémon:</string>
+	<string id="p_ab_2">Fähigkeit:</string>
+	<string id="p_ab_6">Typ(en):</string>
+	<string id="p_ab_3">Geschlecht:</string>
+	<string id="p_ab_4">Erlernte 
+Attacken:</string>
+
+	<string id="p_aj_4">p_aj_4</string>
+</data>

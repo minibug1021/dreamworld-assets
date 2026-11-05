@@ -1,9 +1,24 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <data locale="it">
-	<string id="b_ae_3">Sì</string>
-	<string id="b_ae_4">No</string>
-	<string id="k_af_1">Bacche possedute</string>
-	<string id="t_ac_1">Soprannome</string>
+	<string id="s_aa_2">Pagina iniziale</string>
+	<string id="t_aa_1">Albero dei sogni</string>
+	<string id="t_ai_1">Hai espresso un desiderio.</string>
+	<string id="t_ai_3">Chiudi</string>
+	<string id="t_ap_1">Non hai fatto amicizia con alcun Pokémon.</string>
+	<string id="t_ao_1">Non hai Bacche.</string>
+	<string id="t_ah_1">Desideri che questo Pokémon diventi tuo amico?</string>
+	<string id="t_ag_2">Pokémon</string>
+	<string id="t_ag_3">Natura</string>
+	<string id="t_ag_4">Sesso</string>
+	<string id="t_ag_5">Mosse apprese</string>
+	<string id="t_ag_1">Scegli il Pokémon che vuoi come amico.</string>
+	<string id="t_ag_7">t_ag_7</string>
+	<string id="t_ag_8">Nome Pokémon</string>
+	<string id="t_ag_9">t_ag_9</string>
+	<string id="t_ag_10">Natura</string>
+	<string id="t_ag_6">Scegli</string>
+
+	<string id="t_ac_1">Soprannome del Pokémon</string>
 	<string id="t_ac_2">Nome PGL</string>
 	<string id="t_ac_3">Pokémon</string>
 	<string id="t_ac_4">A.O.</string>
@@ -11,7 +26,11 @@
 	<string id="t_ac_6">Tipo</string>
 	<string id="t_ac_7">Sesso</string>
 	<string id="t_ac_8">Natura</string>
-	<string id="t_ac_9">Poké Ball usata&amp;#xD;per la cattura</string>
-	<string id="t_ac_10">Poké Ball usata&amp;#xD;per la cattura</string>
-	<string id="t_ad_1">Esprimi un desiderio? Ti serve una bacca.</string>
+	<string id="t_ac_10">Poké Ball usata</string>
+	<string id="t_ad_1">Esprimi un desiderio? Ti serve una Bacca.</string>
+	<string id="t_af_2">Va bene questa Bacca?</string>
+	<string id="t_ai_2">[ポケモン名] è ora un tuo amico.
+Controlla la bacheca in casa.</string>
+	<string id="t_ao_2">Ti serve una Bacca.</string>
+
 </data>

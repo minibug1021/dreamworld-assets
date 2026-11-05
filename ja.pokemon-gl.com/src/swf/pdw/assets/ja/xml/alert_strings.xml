@@ -1,70 +1,23 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<data locale="ja">
-	<string id="da_aa_1">ポケモンドリームワールドを終了します。</string>
-	<string id="da_aa_2">ポケモンを起こす準備をして終了</string>
-	<string id="da_aa_3">ゲームソフトで「ゲームシンク」をしてポケモンを起こせるようになるため、ゆめからさまさせて、「ポケモンドリームワールド」を終了します。&amp;#xD;引きつづき、連れて行くポケモンやハイリンクに送るどうぐを確認します。</string>
-	<string id="da_aa_4">ポケモンを起こす準備をしないで終了</string>
-	<string id="da_aa_5">ポケモンを起こす準備をして終了する場合</string>
-	<string id="da_aa_6">ポケモンを起こす準備をしないで終了する場合</string>
-	<string id="da_ab_1">いったん終了する場合やポケモンを起こさずにつづきを楽しみたい場合は、こちらを選びます。</string>
-	<string id="da_ab_2">[！]ゆめの木でねがいごとをして、なかよくなったポケモンがいると、つづけて遊ぶときに虹がかからず、ゆめしまへいくことができません。</string>
-	<string id="da_ab_3">※ポケモンドリームワールドは、遊びはじめてから１時間たつと、自動的に終了します。注意してください。</string>
-	<string id="da_ab_4">ポケモンドリームワールドをつづける</string>
-	<string id="da_ad_1">da_ad_1</string>
-	<string id="da_ad_2">da_ad_2</string>
-	<string id="da_ad_6">da_ad_6</string>
-	<string id="da_af_1">da_af_1</string>
-	<string id="da_af_2">da_af_2</string>
-	<string id="dc_aa_1">連れて行くポケモン</string>
-	<string id="dc_aa_2">連れて行くポケモンには、ゲームソフトで「ゲームシンク」をしてポケモンを起こしたあと、ハイリンクへ行くと、ハイリンクのもりの中で出会えます。</string>
-	<string id="dc_aa_3">※ほかに連れて行きたいポケモンがいる場合は、[もどる]ボタンを押して、ホームの部屋の中にあるなかよしボードを確認してください。</string>
-	<string id="dc_aa_4">※ゆめの木でねがいごとをしてなかよくなったポケモンは、時間がたたないと、なかよしボードに反映されない場合があります。</string>
-	<string id="dc_aa_5">つぎへ</string>
-	<string id="dc_aa_6">もどる</string>
-	<string id="dc_ac_1">dc_ac_1</string>
-	<string id="dc_ac_2">dc_ac_2</string>
-	<string id="dc_ac_3">dc_ac_3</string>
-	<string id="dc_ac_4">dc_ac_4</string>
-	<string id="dc_ae_2">dc_ae_2</string>
-	<string id="dc_af_2">dc_af_2</string>
-	<string id="o_abb_1">o_abb_1</string>
-	<string id="o_az_1">ポケモンドリームワールドを終了しました。</string>
-	<string id="pg_ade_1">pg_ade_1</string>
-	<string id="pg_ade_2">pg_ade_2</string>
-	<string id="pg_ade_3">pg_ade_3</string>
-	<string id="pg_ade_4">pg_ade_4</string>
-	<string id="pg_ade_5">pg_ade_5</string>
-	<string id="pg_adi_1">pg_adi_1</string>
-	<string id="pg_adi_2">pg_adi_2</string>
-	<string id="pg_adi_3">pg_adi_3</string>
-	<string id="pg_adi_4">pg_adi_4</string>
-	<string id="pg_adi_5">pg_adi_5</string>
-	<string id="pg_adi_6">pg_adi_6</string>
-	<string id="pg_adi_7">pg_adi_7</string>
-	<string id="pg_alc_1">pg_alc_1</string>
-	<string id="pg_alc_2">pg_alc_2</string>
-	<string id="pg_ald_1">pg_ald_1</string>
-	<string id="pg_ald_2">pg_ald_2</string>
-	<string id="pg_ale_1">pg_ale_1</string>
-	<string id="pg_ale_2">pg_ale_2</string>
-	<string id="pg_alf_1">pg_alf_1</string>
-	<string id="pg_alf_2">pg_alf_2</string>
-	<string id="pg_alf_3">pg_alf_3</string>
-	<string id="pg_alg_1">pg_alg_1</string>
-	<string id="pg_alg_2">pg_alg_2</string>
-	<string id="pg_alg_3">pg_alg_3</string>
-	<string id="pg_amc_1">pg_amc_1</string>
-	<string id="pg_amc_2">pg_amc_2</string>
-	<string id="pg_amc_3">pg_amc_3</string>
-	<string id="pg_amd_1">pg_amd_1</string>
-	<string id="pg_amd_2">pg_amd_2</string>
-	<string id="pg_amd_3">pg_amd_3</string>
-	<string id="pg_ame_1">pg_ame_1</string>
-	<string id="pg_amf_1">ポケモンドリームワールドが終了しました。</string>
-	<string id="pg_amh_1">ポケモンドリームワールドへようこそ！</string>
-	<string id="pg_amh_2">今回ポケモンドリームワールドでプレイできる時間は、&amp;#xD;ただいまより１時間です。</string>
-	<string id="pg_amh_3">1時間以上たつと、自動的にポケモンドリームワールドが終了します。&amp;#xD;注意してください。&amp;#xD;自動的に終了した場合、プレイ中のデータが保存されない場合があります。1時間にたつとメッセージが表示されますので、指定に従ってポケモンドリームワールドを終了してください。</string>
-	<string id="pg_amh_4">とじる</string>
-	<string id="pg_amk_1">pg_amk_1</string>
-	<string id="pg_ay_2">とじる</string>
-</data>
+<?xml version="1.0" encoding="utf-8" ?><data locale="ja">	<string id="pg_adi_1">前回のアクセス時間は、[MM]月[DD]日 [HH1]時です。
+次回は、[HH2]時間後から受け付けます。</string><string id="pg_adi_2">前回のアクセス時間は、[MM]月[DD]日 [HH1]時です。
+次回は、[HH2]分後から受け付けます。</string><string id="pg_adi_3">前回のアクセス時間は、[MM]月[DD]日 [HH1]時です。
+次回は、1分以内から受け付けます。</string><string id="pg_adi_4">混雑状況によって、受付時間内でもアクセスできない場合があります。しばらく時間がたってから、もう一度おためしください。</string><string id="pg_adi_5">ねむらせているポケモンは、下の［ポケモンを起こす準備をする］ボタンを押すことで、ゲームソフトで「ゲームシンク」をして、起こすことができるようになります。</string><string id="pg_adi_6">とじる</string><string id="pg_adi_7">ポケモンを起こす準備をする</string><string id="pg_ade_1">ポケモンドリームワールドは、ただいま大変混雑しています。しばらく時間がたってから、もう一度アクセスしてください。《体験版をご利用の方へ》体験版のポケモンドリームワールドはサービスを終了しました。ポケモンドリームワールドをご利用いただくことはできません。</string><string id="pg_ade_2">ポケモンドリームワールドを利用するためには、まず最初にポケモンをねむらせてから、「ポケモングローバルリンク」にログインしてください。
+</string><string id="pg_ade_3">ねむらせているポケモンは、下の［ポケモンを起こす準備をする］ボタンを押すことで、ゲームソフトで「ゲームシンク」をして、起こすことができるようになります。</string><string id="pg_ade_4">とじる</string><string id="pg_ade_5">ポケモンを起こす準備をする</string><string id="pg_amh_1">ポケモンドリームワールドへようこそ！</string><string id="pg_amh_2">今回ポケモンドリームワールドでプレイできる時間は、
+ただいまより1時間です。</string><string id="pg_amh_3">1時間以上たつと、自動的にポケモンドリームワールドが終了します。
+注意してください。
+自動的に終了した場合、プレイ中のデータが保存されない場合があります。1時間たつとメッセージが表示されますので、指示に従ってポケモンドリームワールドを終了してください。</string><string id="pg_amh_4">とじる</string><string id="pg_amc_1">前回連れて行こうとしたポケモン、または送ろうとしたどうぐをゲームソフトで受け取っていません。下のボタンを押してポケモンを起こす準備をしたあと、ゲームソフトで「ゲームシンク」をしてポケモンを起こしてから、ポケモンやどうぐを受け取ってください。</string><string id="pg_amc_2">とじる</string><string id="pg_amc_3">ポケモンを起こす準備をする</string><string id="pg_amd_1">まだポケモンがねむっていないようです。</string><string id="pg_amd_3">ポケモンをねむらせていない場合は、ゲームソフトで「ゲームシンク」をして、ポケモンをねむらせてください。
+
+すでに「ゲームシンク」をしてポケモンをねむらせていても、「ポケモングローバルリンク」でゆめを見るまで、時間がかかる場合があります。しばらく時間がたってから、もう一度アクセスしてください。
+
+すでにポケモンを起こす準備をしてポケモンドリームワールドを終了した場合は、ゲームソフトで「ゲームシンク」をして、ポケモンを起こしてください。</string><string id="pg_amd_2">とじる</string><string id="pg_ala_1">pg_ala_1</string><string id="pg_ala_2">pg_ala_2</string><string id="pg_alc_1">ポケモンドリームワールドのプレイデータを反映するのに時間がかかっています。しばらく時間がたってから、もう一度アクセスしてください。</string><string id="pg_alc_2">とじる</string><string id="pg_ald_1">登録情報を反映するのに時間がかかっています。
+しばらく時間がたってから、
+もう一度アクセスしてください。
+準備が整うのに、5分以上かかることがあります。</string><string id="pg_ald_2">とじる</string><string id="pg_alf_1">ゆめを見ているポケモンがいません。
+ゲームソフトで「ゲームシンク」をすると、ポケモンを起こすことができます。「ポケモンドリームワールド」を遊ぶためには、そのあとでもう一度「ゲームシンク」をして、ポケモンをねむらせる必要があります。</string><string id="pg_alf_2">※「ゲームシンク」をしてポケモンをねむらせることができるのは、1日1回までです。</string><string id="pg_alf_3">とじる</string><string id="pg_ale_1">ゆめを見ているポケモンがいません。
+ゲームソフトで「ゲームシンク」をして、ポケモンをねむらせてください。</string><string id="pg_ale_2">とじる</string><string id="pg_alg_1">ポケモンドリームワールドで
+遊ぶためのデータを準備中です。
+しばらく時間がたってから、
+もう一度アクセスしてください。
+準備が整うのに、5分以上かかることがあります。</string><string id="pg_alg_2">※「ゲームシンク」をしてポケモンをねむらせてからポケモンがゆめを見るまで、少し時間がかかることがあります。</string><string id="pg_alg_3">とじる</string>	<string id="pg_amb_1">このコンテンツを楽しむためには、「ポケモングローバルリンク」でゲームシンクIDコードを登録してください。</string>	<string id="pg_amb_2">ゲームシンクIDコードは『ポケットモンスターブラック・ホワイト』『ポケットモンスターブラック２・ホワイト２』である程度冒険を進めてCギアを受け取った後、「Wi-Fi」から「ゲームシンク」をタッチしたときか、タイトルメニュー→「ゲームシンクせってい」から、発行することができます。発行後は、タイトルメニュー→「ゲームシンクせってい」から見ることができます。
+ゲームシンクIDコードは「マイページ」→「ゲームソフトの登録」より登録することができます。登録はポケモンをねむらせた状態で行ってください。</string>	<string id="pg_amb_3">とじる</string>	<string id="pg_amb_4">登録する</string>	<string id="pg_amk_1">ポケモンを起こす準備をしました。</string>	<string id="pg_amk_2">あと[MM1]分以内であれば、再びポケモンドリームワールドにアクセスし、[MM2]分遊ぶことができます。</string>	<string id="pg_amk_3">混雑状況によって、上記時間内でもアクセスできない場合があります。
+上記時間内にアクセスがなかった場合、次回のアクセスは、[arg0]時間後から受け付けます。</string>	<string id="pg_amk_4">とじる</string></data>

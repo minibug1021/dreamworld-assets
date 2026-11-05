@@ -1,25 +1,35 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <data locale="es">
-	<string id="c_aa_1" size="10" color="0xFFFFFF" />
-	<string id="c_aa_3" size="13" color="0xFFFFFF" />
-	<string id="c_aa_4" size="13" color="0xFFFFFF" bold="true" />
-	<string id="c_ad_1" size="18" color="0x333333" bold="true" />
-	<string id="c_ad_2" size="10" color="0xFFFFFF" />
-	<string id="c_ad_3" size="10" color="0xFFFFFF" />
-	<string id="c_ad_4" size="10" color="0xFFFFFF" />
-	<string id="c_ad_11" size="12" color="0xFFFFFF" />
-	<string id="c_ba_1" size="15" color="0xE98C22" bold="true" />
-	<string id="c_ba_2" size="10" letterSpacing="0.4" color="0xF95D18" />
-	<string id="c_ba_3" size="13" color="0xFFFFFF" />
-	<string id="c_bb_1" size="15" color="0xE98C22" bold="true" />
-	<string id="c_bb_7" size="13" color="0xFFFFFF" />
-	<string id="c_bd_1" size="15" color="0xE98C22" bold="true" />
-	<string id="c_be_1" size="15" color="0xE98C22" bold="true" />
-	<string id="c_bf_1" size="15" color="0xE98C22" bold="true" />
-	<string id="c_bg_1" size="15" color="0xE98C22" bold="true" />
-	<string id="c_bh_1" size="15" color="0xE98C22" bold="true" />
-	<string id="c_bi_1" size="15" color="0xE98C22" bold="true" />
-	<string id="c_bj_1" size="15" color="0xE98C22" bold="true" />
-	<string id="c_bk_1" size="15" color="0xE98C22" bold="true" />
-	<string id="c_bl_1" size="16" color="00000000" />
+	<string id="s_aa_3" size="10" baselineShift="3" letterSpacing="0"  baselineMode="mem" />
+	<string id="h_ca_20" size="12" bold="true" letterSpacing="0" baselineShift="1" />
+	<string id="fr_aa_8" size="12" bold="true" letterSpacing="0" baselineShift="2" />
+	<string id="y_aa_9" bold="true" letterSpacing="0"  baselineMode="mem" />
+	<string id="y_zd_4" letterSpacing="0"  baselineMode="mem" />
+	<string id="y_aa_8" size="10" baselineShift="2" letterSpacing="0"  baselineMode="mem" />
+	<string id="h_ca_11" size="12" bold="true" letterSpacing="0" baselineShift="1" />
+	<string id="h_ca_12" size="12" bold="true" letterSpacing="0" baselineShift="1" baselineMode="mem" />
+	<string id="sp2_pokemon_comment_01" size="10" />
+	<string id="sp2_pokemon_comment_02" size="10" />
+	<string id="sp2_pokemon_comment_03" size="10" />
+	<string id="sp2_pokemon_comment_04" size="10" />
+	<string id="sp2_pokemon_comment_05" size="10" />
+	<string id="sp2_pokemon_comment_06" size="10" />
+	<string id="h_da_5" size="12" bold="true" letterSpacing="0" baselineShift="2" />
+	<string id="h_da_7" size="12" bold="true" letterSpacing="0" baselineShift="2" />
+	<string id="dialog_36" size="12" bold="true" letterSpacing="0" baselineShift="2"  baselineMode="mem"/>
+
+	<string id="sp2_interior_1_doll" size="10" />
+
+	<string id="y_aa_10" bold="true" letterSpacing="0"  baselineMode="mem" />
+	<string id="y_aa_11" letterSpacing="0"  baselineMode="mem" />
+	<string id="y_aa_12" letterSpacing="0"  baselineMode="mem" />
+	<string id="y_aa_13" letterSpacing="0" baselineShift="3"  baselineMode="mem" />
+	<string id="y_aa_14" letterSpacing="0"  baselineMode="mem" />
+	<string id="y_aa_15" letterSpacing="0"  baselineMode="mem" />
+
+	<string id="h_ca_21" size="12" bold="true" letterSpacing="0" baselineShift="1" />
+	<string id="fr_aa_16" size="12" bold="true" letterSpacing="0" baselineShift="2" />
+
 </data>
+
+

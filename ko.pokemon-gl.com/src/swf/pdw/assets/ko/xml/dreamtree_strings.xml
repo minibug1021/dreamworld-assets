@@ -1,8 +1,23 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <data locale="ko">
-	<string id="b_ae_3">예</string>
-	<string id="b_ae_4">아니오</string>
-	<string id="k_af_1">k_af_1</string>
+	<string id="s_aa_2">내 홈으로 돌아가기</string>
+	<string id="t_aa_1">꿈의나무</string>
+	<string id="t_ai_1">꿈의나무에 소원을 빌었습니다</string>
+	<string id="t_ai_3">닫기</string>
+	<string id="t_ap_1">사이가 좋아진 포켓몬이 없습니다</string>
+	<string id="t_ao_1">보물상자에 나무열매가 없습니다.</string>
+	<string id="t_ah_1">이 포켓몬과 동료가 되고 싶다고 빌겠습니까?</string>
+	<string id="t_ag_2">포켓몬이름</string>
+	<string id="t_ag_3">특성</string>
+	<string id="t_ag_4">성별</string>
+	<string id="t_ag_5">알고 있는 기술</string>
+	<string id="t_ag_1">동료로 할 포켓몬을 선택해 주십시오</string>
+	<string id="t_ag_7">숫자(페이지넘김)</string>
+	<string id="t_ag_8">｛ポケモン名｝</string>
+	<string id="t_ag_9">｛おぼえているわざ名｝</string>
+	<string id="t_ag_10">｛性格｝</string>
+	<string id="t_ag_6">이 포켓몬</string>
+
 	<string id="t_ac_1">포켓몬 닉네임:</string>
 	<string id="t_ac_2">PGL 닉네임:</string>
 	<string id="t_ac_3">포켓몬:</string>
@@ -11,7 +26,10 @@
 	<string id="t_ac_6">타입:</string>
 	<string id="t_ac_7">성별:</string>
 	<string id="t_ac_8">성격:</string>
-	<string id="t_ac_9">t_ac_9</string>
 	<string id="t_ac_10">잡은 몬스터볼:</string>
 	<string id="t_ad_1">꿈의나무에 소원을 빌겠습니까? 나무열매가 1개 필요합니다</string>
+	<string id="t_af_2">이것으로 하겠습니까?</string>
+	<string id="t_ai_2">[ポケモン名]와(과) 사이가 좋아졌습니다. 홈에서 「단짝보드」를 확인해 주십시오.</string>
+	<string id="t_ao_2">소원 빌기에는 나무열매가 1개 필요합니다.</string>
+
 </data>

@@ -1,4 +1,67 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <data locale="en">
-	<string id="lo_a_1">Loading...</string>
+	<string id="h_ee_10">Key</string>
+	<string id="h_ee_11">PGL Nickname</string>
+	<string id="h_ee_12">Pokémon Nickname</string>
+	<string id="h_ee_13">Trainer Name</string>
+	<string id="h_ee_14">Trainer Name:</string>
+	<string id="h_ee_15">Trainer Name:</string>
+	<string id="h_ee_16">Trainer Name:</string>
+	<string id="h_ha_22">h_ha_22</string>
+	<string id="h_ha_3">Most of the Berries that were stored in your Treasure Chest for a long time have been sent to the Tree of Dreams.</string>
+	<string id="h_ha_4">h_ha_4</string>
+	<string id="h_ha_5">h_ha_5</string>
+	<string id="h_ha_6">h_ha_6</string>
+	<string id="h_ha_7">h_ha_7</string>
+	<string id="h_ha_8">h_ha_8</string>
+	<string id="h_ha_9">h_ha_9</string>
+	<string id="h_ha_10">h_ha_10</string>
+	<string id="h_ha_11">h_ha_11</string>
+	<string id="h_ha_12">h_ha_12</string>
+	<string id="h_ha_13">h_ha_13</string>
+	<string id="h_ha_14">h_ha_14</string>
+	<string id="h_ha_15">Because most of your Berries were sent to the Tree of Dreams, you don't have as many Berries now.</string>
+	<string id="h_ha_16">You've received Dream Points for the lost Berries.</string>
+	<string id="h_ha_17">Dream Points gained:</string>
+	<string id="h_ha_18">Berry name</string>
+	<string id="h_ha_19">Number</string>
+	<string id="h_ha_20">*Visit your Treasure Chest to check your remaining Berries.</string>
+	<string id="h_ha_21">Close</string>
+
+	<string id="y_aa_18">Island of Dreams—Icy Cave</string>
+	<string id="y_ad_22">It looks like [ポケモン名] wants to play on the ice.</string>
+	<string id="y_ad_23">Play on the ice with [ポケモン名]?</string>
+	<string id="y_ag_16">You didn't succeed at Frozen Treat Sweep.</string>
+	<string id="y_ag_17">You quit playing Frozen Treat Sweep.</string>
+	<string id="y_zc_6">You arrive at the Island of Dreams and decide to explore the Icy Cave.</string>
+
+	<string id="y_aa_19">Island of Dreams—Dream Park</string>
+	<string id="y_ad_24">It looks like [ポケモン名] wants to play on the lake.</string>
+	<string id="y_ad_25">Play on the lake with [ポケモン名]?</string>
+	<string id="y_ag_18">You didn't succeed at Lake Skip.</string>
+	<string id="y_ag_19">You quit playing Lake Skip.</string>
+	<string id="y_zc_7">You arrive at the Island of Dreams and decide to explore the Dream Park.</string>
+
+	<string id="y_ad_26">[ポケモン名] is interested in the treasure box.</string>
+	<string id="y_ad_27">Open the treasure box with [ポケモン名]?</string>
+	<string id="y_ad_28">Couldn't open the treasure box.</string>
+	<string id="y_ad_29">Quit opening the treasure box.</string>
+
+	<string id="y_ad_30">It looks like [ポケモン名] is thirsty.</string>
+	<string id="y_ad_31">Serve drinks with [ポケモン名]?</string>
+	<string id="y_ad_32">You didn't succeed at Pokémon Bistro.</string>
+
+	<string id="Xz_be_5">I forgot to tell you one more important thing.</string>
+	<string id="Xz_be_6"><![CDATA[If you leave <span class='emphasis'>Berries</span> in your <span class='emphasis'>Treasure Chest</span> for a long time and don't return to the <span class='emphasis'>Pokémon Dream World</span>, many of those Berries will be lost.]]></string>
+	<string id="Xz_be_7">My research indicates that if you haven't come to play for about 100 days, you'll lose those Berries. So be careful!</string>
+	<string id="y_ad_33">You quit playing Pokémon Bistro.</string>
+	<string id="b_ae_5">OK</string>
+	<string id="t_ao_3">Sorry! Your wish couldn’t be granted at this time.
+The selected Pokémon hasn’t been added to your
+Friend Board, so please try wishing again later!
+Now, you’ll be returned to your home. </string>
+	<string id="y_ad_34">Check Game Pals</string>
+	<string id="y_ad_35">Game Pal Roster</string>
+	<string id="y_ad_36">Sort by name</string>
+	<string id="y_ad_37">Sort by region</string>
 </data>

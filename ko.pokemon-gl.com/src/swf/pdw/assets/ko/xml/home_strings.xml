@@ -1,46 +1,74 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <data locale="ko">
-	<string id="b_aa_1">날짜순</string>
-	<string id="b_aa_2">이름순</string>
-	<string id="b_aa_3">종류순</string>
-	<string id="b_aa_4">보내기</string>
-	<string id="b_aa_5">b_aa_5</string>
-	<string id="b_aa_6">보물상자</string>
-	<string id="b_af_2">b_af_2</string>
-	<string id="dialog_32">dialog_32</string>
-	<string id="dialog_35">닫기</string>
-	<string id="fr_aa_1">fr_aa_1</string>
-	<string id="fr_aa_2">fr_aa_2</string>
-	<string id="fr_aa_3">fr_aa_3</string>
-	<string id="fr_aa_4">방에 가기</string>
-	<string id="fr_aa_5">fr_aa_5</string>
-	<string id="fr_aa_6">「꿈친구」 맵 보기</string>
+	
 	<string id="h_ca_1">[PGLニックネーム]의 홈</string>
 	<string id="h_ca_2">발자국매트</string>
 	<string id="h_ca_5">밭</string>
 	<string id="h_ca_6">나눠주기</string>
 	<string id="h_ca_7">방에 가기</string>
 	<string id="h_ca_8">발자국매트 보기</string>
-	<string id="h_ca_9">h_ca_9</string>
-	<string id="h_ca_10">PDW를 종료한다</string>
-	<string id="h_cb_1">내 홈으로 돌아가기</string>
-	<string id="h_cb_2">꿈의 다리</string>
-	<string id="h_cb_3">꿈섬에 가기</string>
-	<string id="h_cc_1">꿈섬에 가겠습니까?</string>
-	<string id="h_cc_2">예</string>
-	<string id="h_cc_3">아니오</string>
-	<string id="h_cc_4">꿈섬에 가기</string>
-	<string id="h_ea_1">모양바꾸기 하기</string>
-	<string id="h_ea_2">보물상자 보기</string>
-	<string id="h_ea_3">꿈카탈로그 보기</string>
-	<string id="h_ea_4">단짝보드 보기</string>
-	<string id="h_ea_5">방 나가기</string>
-	<string id="h_ea_6">꿈카탈로그 보기</string>
-	<string id="h_ea_7">보물상자 보기</string>
-	<string id="h_ea_8">단짝보드 보기</string>
-	<string id="h_ea_9">방 나가기</string>
-	<string id="h_ea_10">h_ea_10</string>
-	<string id="h_ea_11">[arg0]의 방 안</string>
+	
+	<string id="h_ha_1">홈</string>
+	<string id="h_ha_2">꿈의 다리</string>
+	<string id="fr_aa_1">꿈친구 신청하기</string>
+	<string id="fr_aa_2">꿈친구 신청 중</string>
+	<string id="fr_aa_3">꿈친구 되기</string>
+	<string id="fr_aa_4">방에 가기</string>
+	<string id="fr_aa_5">내 홈으로 돌아가기</string>
+	<string id="fr_aa_6">「꿈친구」맵 보기</string>
+	<string id="fr_aa_7">fr_aa_7</string>
+	
+	<string id="bl_a_1">bl_a_1</string>
+	<string id="bl_a_2">bl_a_2</string>
+	<string id="bl_a_3">bl_a_3</string>
+	<string id="bl_a_4">bl_a_4</string>
+	<string id="bl_a_5">bl_a_5</string>
+	<string id="bl_a_6">bl_a_6</string>
+	<string id="bl_a_7">bl_a_7</string>
+	<string id="bl_a_8">bl_a_8</string>
+	<string id="bl_a_9">bl_a_9</string>
+	<string id="bl_a_11">bl_a_11</string>
+	<string id="bl_a_12">bl_a_12</string>
+	
+	<string id="bl_b_1">bl_b_1</string>
+	<string id="bl_b_2">bl_b_2</string>
+	<string id="bl_b_3">bl_b_3</string>
+	
+	<string id="f_ab_1">꿈친구를 신청합니까?</string>
+	<string id="f_ab_2">포켓몬 닉네임:</string>
+	<string id="f_ab_3">PGL 닉네임:</string>
+	<string id="f_ab_4">[arg0]</string>
+	<string id="f_ab_5">어버이:</string>
+	<string id="f_ab_6">레벨:</string>
+	<string id="f_ab_7">타입:</string>
+	<string id="f_ab_8">성별:</string>
+	<string id="f_ab_9">성격:</string>
+	
+	
+	<string id="f_ab_12">보류하기</string>
+	<string id="f_ab_13">꿈친구 신청하기</string>
+	
+	<string id="f_ac_1">꿈친구를 신청을 했습니다.</string>
+	<string id="f_ac_2">OK</string>
+	<string id="f_ac_3">꿈친구가 되면 알림이 도착합니다.</string>
+	
+	<string id="f_ag_1">꿈친구가 되겠습니까?</string>
+	<string id="f_ag_2">포켓몬 닉네임:</string>
+	<string id="f_ag_3">PGL 닉네임:</string>
+	<string id="f_ag_4">[arg0]</string>
+	<string id="f_ag_5">어버이:</string>
+	<string id="f_ag_6">레벨:</string>
+	<string id="f_ag_7">타입:</string>
+	<string id="f_ag_8">성별:</string>
+	<string id="f_ag_9">성격:</string>
+	
+	
+	<string id="f_ag_12">꿈친구가 되기</string>
+	<string id="f_ag_13">보류하기</string>
+	
+	<string id="f_ah_1">꿈친구가 되었습니다.</string>
+	<string id="f_ah_2">OK</string>
+	
 	<string id="h_ee_1">포켓몬 닉네임:</string>
 	<string id="h_ee_2">PGL 닉네임:</string>
 	<string id="h_ee_3">포켓몬:</string>
@@ -50,26 +78,4 @@
 	<string id="h_ee_7">성별:</string>
 	<string id="h_ee_8">성격:</string>
 	<string id="h_ee_9">잡은 몬스터볼:</string>
-	<string id="h_ha_1">홈</string>
-	<string id="h_ha_2">꿈의 다리</string>
-	<string id="i_ab_3">꿈카탈로그 보기</string>
-	<string id="m_aa_1">발자국매트</string>
-	<string id="m_aa_2">더 보기</string>
-	<string id="m_af_1">m_af_1</string>
-	<string id="m_af_2">m_af_2</string>
-	<string id="m_af_3">m_af_3</string>
-	<string id="m_af_4">m_af_4</string>
-	<string id="m_af_5">m_af_5</string>
-	<string id="m_af_6">m_af_6</string>
-	<string id="m_af_7">타입</string>
-	<string id="m_af_8">m_af_8</string>
-	<string id="m_af_11">m_af_11</string>
-	<string id="m_af_12">m_af_12</string>
-	<string id="new_home_3">new_home_3</string>
-	<string id="p_aa_1">단짝보드</string>
-	<string id="p_aa_4">데리고 가고 싶은 포켓몬</string>
-	<string id="p_aa_5">동료가 된 포켓몬</string>
-	<string id="p_aa_6">데리고 갈 포켓몬</string>
-	<string id="p_ah_1">p_ah_1</string>
-	<string id="s_aa_1">[arg0]의 나눠주기</string>
 </data>

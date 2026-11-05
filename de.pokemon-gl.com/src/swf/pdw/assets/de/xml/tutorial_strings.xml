@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="de">
+	<string id="Xz_aa_1">Willkommen!</string>
+	<string id="Xz_ab_1"><![CDATA[Mein Name ist <span class='emphasis'>Vivian</span>, und wie du siehst, bin ich von Beruf Wissenschaftlerin.]]></string>
+	<string id="Xz_ac_1">Dank meiner Forschungsergebnisse ist es nun möglich, Einblick in die Träume der Pokémon zu erhalten! Unglaublich, oder?
+</string>
+	<string id="Xz_ad_1"><![CDATA[Das ist das Besondere an der <span class='emphasis'>Pokémon Dream World</span>!]]></string>
+	<string id="Xz_ae_1"><![CDATA[Die Funktionen der <span class='emphasis'>Spielsynchro</span> ermöglichen es uns, mithilfe des Traumdunstes die Erinnerungen träumender Pokémon zum Vorschein zu bringen!]]></string>
+	<string id="Xz_af_1"><![CDATA[Und das ist noch längst nicht alles!
+Pokémon, die du über die <span class='emphasis'>Spielsynchro</span> zu Bett gebracht hast, träumen, während sie schlafen!]]></string>
+	<string id="Xz_ag_1"><![CDATA[Wenn du ein <span class='emphasis'>Pokémon</span> aufweckst, das du über die <span class='emphasis'>Spielsynchro</span> schlafen gelegt hast, nehmen seine Träume in der <span class='emphasis'>Kontaktebene</span> im Zentrum der Einall-Region Gestalt an!]]></string>
+	<string id="Xz_ah_1"><![CDATA[Die Möglichkeiten der <span class='emphasis'>Spielsynchro</span> sind überwältigend!]]></string>
+	<string id="Xz_ai_1"><![CDATA[Du musst nur eine <span class='emphasis'>Spielsynchro ID</span> beim <span class='emphasis'>Pokémon Global Link</span> registrieren und schon kannst du hautnah die Träume eines schlafenden Pokémon in der <span class='emphasis'>Pokémon Dream World</span> miterleben!]]></string>
+	<string id="Xz_aj_1"><![CDATA[Oha, du hast wohl noch keine registrierte <span class='emphasis'>Spielsynchro ID</span>!]]></string>
+	<string id="Xz_ak_1"><![CDATA[Deine <span class='emphasis'>Spielsynchro ID</span> kannst du abrufen, indem du nach dem Start deiner Spielesoftware Pokémon Schwarze Edition, Pokémon Weiße Edition, Pokémon Schwarze Edition 2 oder Pokémon Weiße Edition 2 im <span class='emphasis'>Titelmenü</span> die <span class='emphasis'>EINST. DER SPIELSYNCHRO-FUNKT.</span> überprüfst.      →Mehr zum Thema <a href='event:MouseEvent' id='about_gamesync_idcode'><span class='emphasis'>Spielsynchro ID</span></a>]]></string>
+	<string id="Xz_al_1"><![CDATA[Registriere deine <span class='emphasis'>Spielsynchro ID</span> über <span class='emphasis'>Meine Seite</span> im <span class='emphasis'>Pokémon Global Link</span>.]]></string>
+	
+	<string id="Xz_ao_1"><![CDATA[Möchtest du ein Pokémon per <span class='emphasis'>Spielsynchro</span> schlafen legen, so aktiviere in Pokémon Schwarze Edition, Pokémon Weiße Edition, Pokémon Schwarze Edition 2 oder Pokémon Weiße Edition 2 dein <span class='emphasis'>C-Gear</span>!]]></string>
+	<string id="Xz_ap_1"><![CDATA[Öffne hierfür den WLAN-Bereich des <span class='emphasis'>C-Gears</span> und berühre das Schaltfeld „<span class='emphasis'>SPIELSYNCHRO</span>“.]]></string>
+	<string id="Xz_aq_1"><![CDATA[Nachdem du dich in der Traumwelt der <span class='emphasis'>Pokémon Dream World</span> vergnügt hast, wecke das schlafende Pokémon wieder auf.]]></string>
+	<string id="Xz_ar_1"><![CDATA[Teleportiere dich mit dem <span class='emphasis'>C-Gear</span> in die <span class='emphasis'>Kontaktebene</span>, wenn du das per <span class='emphasis'>Spielsynchro</span> schlafen gelegte Pokémon aufgeweckt hast. 
+Dort werden seine Träume Wirklichkeit!]]></string>
+	<string id="Xz_as_1"><![CDATA[Oh, ein kleiner Hinweis noch, bevor ich's vergesse: So eine <span class='emphasis'>Spielsynchro</span> frisst leider einiges an Strom.
+Deshalb lässt sich pro Tag auch nur eine durchführen!]]></string>
+	<string id="Xz_at_1">Mein System ist übrigens noch nicht vollkommen ausgereift...
+Manche Pokémon kann man damit nämlich nicht schlafen legen.</string>
+	<string id="Xz_au_1">Aber meine Forschung macht dank der Daten, die mir Nutzer von überall auf der Welt zuschicken, täglich Fortschritte!</string>
+	<string id="Xz_aw_1"><![CDATA[Hier beginnt jeder Besuch in der <span class='emphasis'>Pokémon Dream World</span>.
+Das ist deine ganz eigene <span class='emphasis'>Insel</span>!]]></string>
+	<string id="Xz_ax_1"><![CDATA[Ich habe ein ganz besonderes Geschenk für dich! Ein <span class='emphasis'>Haus</span>!
+Dass du es mir auch ja gut in Schuss hältst!]]></string>
+	<string id="Xz_ba_1"><![CDATA[In der <span class='emphasis'>Pokémon Dream World</span> kannst du außerdem <span class='emphasis'>Beeren</span> anpflanzen, die <span class='emphasis'>Inseln</span> deiner Freunde besuchen oder die von
+Pokémon bewohnte <span class='emphasis'>Trauminsel</span> erkunden!]]></string>
+	<string id="Xz_bb_1"><![CDATA[Ich habe dir ein paar <span class='emphasis'>Beeren</span> als Geschenk hinterlassen.
+Versuch dich doch mal als Gärtner und pflanze sie ein!]]></string>
+	<string id="Xz_bd_1">So, jetzt aber genug der vielen Worte! Ich alte Träumerin habe dich schon wieder lang genug zugequasselt!</string>
+	
+	<string id="Xz_bf_1"><![CDATA[Möchtest du ein Pokémon per <span class='emphasis'>Spielsynchro</span> schlafen legen, so aktiviere in Pokémon Schwarze Edition, Pokémon Weiße Edition, Pokémon Schwarze Edition 2 oder Pokémon Weiße Edition 2 dein <span class='emphasis'>C-Gear</span>!]]></string>
+	<string id="Xz_bg_1"><![CDATA[Öffne hierfür den WLAN-Bereich des <span class='emphasis'>C-Gears</span> und berühre das Schaltfeld „<span class='emphasis'>SPIELSYNCHRO</span>“.]]></string>
+	<string id="Xz_bh_1"><![CDATA[Nachdem du dich in der Traumwelt der <span class='emphasis'>Pokémon Dream World</span> vergnügt hast, wecke das schlafende Pokémon wieder auf.]]></string>
+	<string id="Xz_bi_1"><![CDATA[Teleportiere dich mit dem <span class='emphasis'>C-Gear</span> in die <span class='emphasis'>Kontaktebene</span>, wenn du das per <span class='emphasis'>Spielsynchro</span> schlafen gelegte Pokémon aufgeweckt hast. 
+Dort werden seine Träume Wirklichkeit!]]></string>
+	<string id="Xz_bj_1"><![CDATA[Oh, ein kleiner Hinweis noch, bevor ich's vergesse: So eine <span class='emphasis'>Spielsynchro</span> frisst leider einiges an Strom.
+Deshalb lässt sich pro Tag auch nur eine durchführen!]]></string>
+	<string id="Xz_bk_1">Mein System ist übrigens noch nicht vollkommen ausgereift...
+Manche Pokémon kann man damit nämlich nicht schlafen legen.</string>
+	<string id="Xz_bl_1">Aber meine Forschung macht dank der Daten, die mir Nutzer von überall auf der Welt zuschicken, täglich Fortschritte!</string>
+	<string id="Xz_bm_1"><![CDATA[Hier beginnt jeder Besuch in der <span class='emphasis'>Pokémon Dream World</span>.
+Das ist deine ganz eigene <span class='emphasis'>Insel</span>!]]></string>
+	<string id="Xz_bn_1"><![CDATA[Ich habe ein ganz besonderes Geschenk für dich! Ein <span class='emphasis'>Haus</span>!
+Dass du es mir auch ja gut in Schuss hältst!]]></string>
+	<string id="Xz_bo_1"><![CDATA[In der <span class='emphasis'>Pokémon Dream World</span> kannst du außerdem auch <span class='emphasis'>Beeren</span> anpflanzen, die <span class='emphasis'>Inseln</span> deiner Freunde besuchen oder die von
+Pokémon bewohnte <span class='emphasis'>Trauminsel</span> erkunden gehen!]]></string>
+	<string id="Xz_bp_1"><![CDATA[Ich habe dir ein paar <span class='emphasis'>Beeren</span> als Geschenk hinterlassen.
+Versuch dich doch mal als Gärtner und pflanze sie ein!]]></string>
+	<string id="Xz_bq_1">So, jetzt aber genug der vielen Worte! Ich alte Träumerin habe dich schon wieder lang genug zugequasselt!</string>
+	<string id="Xz_br_1">Wie es in den Traumwelten der Pokémon aussieht, ist schon eine ungeheuer spannende Frage, nicht wahr?</string>
+	<string id="Xz_bs_1">Du hast offenbar noch kein Pokémon schlafen gelegt...</string>
+	<string id="Xz_bt_1"><![CDATA[Möchtest du ein Pokémon per <span class='emphasis'>Spielsynchro</span> schlafen legen, so aktiviere in Pokémon Schwarze Edition, Pokémon Weiße Edition, Pokémon Schwarze Edition 2 oder Pokémon Weiße Edition 2 dein <span class='emphasis'>C-Gear</span>!]]></string>
+	<string id="Xz_bu_1"><![CDATA[Öffne hierfür den WLAN-Bereich des <span class='emphasis'>C-Gears</span> und berühre das Schaltfeld „<span class='emphasis'>SPIELSYNCHRO</span>“.]]></string>
+	<string id="Xz_bv_1"><![CDATA[Nachdem du dich in der Traumwelt der <span class='emphasis'>Pokémon Dream World</span> vergnügt hast, wecke das schlafende Pokémon wieder auf.]]></string>
+	<string id="Xz_bw_1"><![CDATA[Teleportiere dich mit dem <span class='emphasis'>C-Gear</span> in die <span class='emphasis'>Kontaktebene</span>, wenn du das per <span class='emphasis'>Spielsynchro</span> schlafen gelegte Pokémon aufgeweckt hast. 
+Dort werden seine Träume Wirklichkeit!]]></string>
+	<string id="Xz_bx_1"><![CDATA[Oh, ein kleiner Hinweis noch, bevor ich's vergesse: So eine <span class='emphasis'>Spielsynchro</span> frisst leider einiges an Strom.
+Deshalb lässt sich pro Tag auch nur eine durchführen!]]></string>
+	<string id="Xz_by_1">Mein System ist übrigens noch nicht vollkommen ausgereift...
+Manche Pokémon kann man damit nämlich nicht schlafen legen.</string>
+	<string id="Xz_bz_1">Aber meine Forschung macht dank der Daten, die mir Nutzer von überall auf der Welt zuschicken, täglich Fortschritte!</string>
+	<string id="Xz_ca_1"><![CDATA[Komm in die <span class='emphasis'>Pokémon Dream World</span>, sobald du ein Pokémon zu Bett gebracht hast!]]></string>
+	<string id="Xv_aa_1"><![CDATA[Dies ist dein trautes Heim. Dein Haus befindet sich auf einer <span class='emphasis'>Insel</span>!]]></string>
+	<string id="Xv_ab_1"><![CDATA[Auf deiner <span class='emphasis'>Insel</span> kannst du viele spannende Sachen machen!]]></string>
+	<string id="Xv_ac_1"><![CDATA[Benutze die Pfeile (<img/><img/><img/><img/>), um dich umherzubewegen!]]></string>
+	<string id="Xv_ad_1"><![CDATA[Du kannst dort zum Beispiel <span class='emphasis'>Beeren</span> anpflanzen...]]></string>
+	<string id="Xv_ae_1"><![CDATA[...mit anderen Nutzern <span class='emphasis'>Items</span> und <span class='emphasis'>Beeren</span> tauschen...]]></string>
+	<string id="Xv_af_1"><![CDATA[Oh, und hinter der Brücke wartet außerdem noch die <span class='emphasis'>Trauminsel</span> darauf, von dir erkundet zu werden!]]></string>
+	<string id="Xv_ag_1"><![CDATA[Klick die <span class='emphasis'>Tür</span> an, um das Haus zu betreten.]]></string>
+	<string id="Xv_ah_1"><![CDATA[Vor deinem Haus findest du die <span class='emphasis'>Fußmatte</span>.
+Jedes Pokémon, das deine <span class='emphasis'>Insel</span> besucht, hinterlässt dort seine Fußabdrücke!]]></string>
+	<string id="Xv_ai_1"><![CDATA[Klick doch mal auf das Feld<img/> links oben!]]></string>
+	<string id="Xv_aj_1"><![CDATA[Auf diese Weise gelangst du zu einer Übersicht der <span class='emphasis'>Inseln</span> deiner <span class='emphasis'>Traumfreunde</span>!]]></string>
+	<string id="Xv_ak_1"><![CDATA[Klickst du auf das Feld <img/>, kannst du die <span class='emphasis'>Pokémon DW</span> verlassen und dein Pokémon wieder aufwecken.]]></string>
+	<string id="Xv_al_1"><![CDATA[Aber Vorsicht: Verlässt du die <span class='emphasis'>Pokémon DW</span>, ohne auf <img/> zu klicken, entgeht dir die Gelegenheit, dein Pokémon zu wecken!]]></string>
+	<string id="Xv_am_1"><![CDATA[Ich wünsche dir viel Spaß mit den Träumen deiner Pokémon in der <span class='emphasis'>Pokémon Dream World</span>!]]></string>
+	<string id="Xe_aa_1"><![CDATA[Hier werden all deine <span class='emphasis'>Traumfreunde</span> angezeigt, mit denen du dich in der <span class='emphasis'>Pokémon DW</span> angefreundet hast.]]></string>
+	<string id="Xe_ab_1">Bitte prüfe deine Privateinstellungen im Profilmenü!</string>
+	<string id="Xe_ac_1"><![CDATA[Wenn du dein Profil auf <span class='emphasis'>„Alle“</span> stellst, kannst du auch mit Nutzern außerhalb deines <span class='emphasis'>Freundeskreises</span> kommunizieren, die dadurch deine Profilinformationen einsehen können.]]></string>
+	<string id="Xf_aa_1"><![CDATA[Das hier ist dein <span class='emphasis'>Zimmer</span>! Ich erkläre dir kurz, was du hier so alles unternehmen kannst.]]></string>
+	<string id="Xf_ab_1"><![CDATA[Hier haben wir deine <span class='emphasis'>Schatztruhe</span>...]]></string>
+	<string id="Xf_ac_1"><![CDATA[In dieser Truhe werden <span class='emphasis'>Beeren</span> und <span class='emphasis'>Items</span> aufbewahrt, die du
+in der <span class='emphasis'>Pokémon Dream World</span> gesammelt hast.]]></string>
+	<string id="Xf_ad_1"><![CDATA[<span class='emphasis'>Beeren</span> und <span class='emphasis'>Items</span> aus der <span class='emphasis'>Pokémon Dream World</span> kannst du in Form eines <span class='emphasis'>Traumsplitters</span> an den Jungen am Eingang zum <span class='emphasis'>Kontaktebenenhain</span> verschicken.]]></string>
+	<string id="Xf_ae_1"><![CDATA[Wenn dein Pokémon wieder wach ist, lohnt es sich, am Eingang zum <span class='emphasis'>Kontaktebenenhain</span> vorbeizuschauen!
+Hol dir vom Jungen dort deinen <span class='emphasis'>Traumsplitter</span> ab!]]></string>
+	<string id="Xf_af_1"><![CDATA[Hier drüben findest du deine <span class='emphasis'>Freundestafel</span>.]]></string>
+	<string id="Xf_ag_1"><![CDATA[Wenn du ein Pokémon von der <span class='emphasis'>Trauminsel</span> darum bittest, mit dir Freundschaft zu schließen, erscheint zum Ausdruck deines Wunsches sein Foto auf der <span class='emphasis'>Freundestafel</span>.]]></string>
+	<string id="Xf_ah_1"><![CDATA[Pokémon, deren Fotos an deiner <span class='emphasis'>Freundestafel</span> hängen, erscheinen in den <span class='emphasis'>Waldlichtungen</span> des <span class='emphasis'>Kontaktebenenhains</span>.]]></string>
+	<string id="Xf_ai_1"><![CDATA[Lässt sich ein Pokémon in einer der <span class='emphasis'>Waldlichtungen</span> blicken, schließt es ganz bestimmt auch Freundschaft mit dir.]]></string>
+	<string id="Xf_aj_1"><![CDATA[Oh, eine ganz wichtige Sache noch!
+Wenn mehr als 50 Fotos an deiner <span class='emphasis'>Freundestafel</span> hängen, kannst du die <span class='emphasis'>Trauminsel</span> nicht mehr betreten!]]></string>
+	<string id="Xf_ak_1"><![CDATA[Hier hätten wir dann noch einen <span class='emphasis'>Traumkatalog</span>.
+Darin findest du <span class='emphasis'>Einrichtungsstücke</span>, mit denen du dein <span class='emphasis'>Zimmer</span> dekorieren kannst!]]></string>
+	<string id="Xf_al_1"><![CDATA[<span class='emphasis'>Einrichtungsstücke</span> erhältst du im Tausch gegen <span class='emphasis'>Beeren</span>.]]></string>
+	<string id="Xf_am_1"><![CDATA[Klick auf <img/>, um ein <span class='emphasis'>Einrichtungsstück</span> an einem beliebigen Ort abzustellen.]]></string>
+	<string id="Xc_aa_1"><![CDATA[Willkommen bei der <span class='emphasis'>Tauschbörse</span>!
+Hier kannst du mit anderen Nutzern <span class='emphasis'>Items</span> und <span class='emphasis'>Beeren</span> tauschen.]]></string>
+	<string id="Xc_ab_1">Ich erkläre dir mal, wie das funktioniert!</string>
+	<string id="Xc_ac_1"><![CDATA[Klick auf eine freie Stelle auf dem Tauschregal, um den Inhalt deiner <span class='emphasis'>Schatztruhe</span> zu sehen!]]></string>
+	<string id="Xc_ad_1"><![CDATA[Such nun ein Item für die Auslage der <span class='emphasis'>Tauschbörse</span> aus!]]></string>
+	<string id="Xc_ae_1">Geschafft, das Item liegt jetzt auf dem Regal!
+Bleibt nur noch zu hoffen, dass bald ein anderer Spieler vorbeikommt, der gern tauschen möchte!</string>
+	<string id="Xd_ab_1"><![CDATA[Hier bist du richtig, wenn du mit einem anderen Nutzer <span class='emphasis'>Beeren</span> oder <span class='emphasis'>Items</span> tauschen willst.]]></string>
+	<string id="Xd_ac_1">Ich erkläre dir mal, wie das funktioniert!</string>
+	<string id="Xd_ad_1"><![CDATA[Such dir ein <span class='emphasis'>Item</span> aus, das du haben möchtest!]]></string>
+	<string id="Xd_ae_1"><![CDATA[Dir wird nun der Inhalt deiner <span class='emphasis'>Schatztruhe</span> angezeigt.
+Wähle eines deiner <span class='emphasis'>Items</span> aus, das du tauschen willst!]]></string>
+	<string id="Xd_af_1"><![CDATA[<span class='emphasis'>Items</span> und <span class='emphasis'>Beeren</span> findest du zum Beispiel auf der <span class='emphasis'>Trauminsel</span>.
+Viel Spaß beim Tauschen mit anderen Benutzern!]]></string>
+	<string id="Xg_aa_1"><![CDATA[Dies ist die <span class='emphasis'>Trauminsel</span>.]]></string>
+	<string id="Xg_ab_1"><![CDATA[Die <span class='emphasis'>Trauminsel</span> ist ein geheimnisvoller Ort, der viele verschiedene Pokémon beheimatet.]]></string>
+	<string id="Xg_ac_1"><![CDATA[Die Anordnung der Wege dort mag sich zwar von Besuch zu Besuch ändern, aber letzten Endes führt dich dein Weg immer zur <span class='emphasis'>Traumeiche</span>, einem Baum, der angeblich Wünsche erfüllt!]]></string>
+	<string id="Xg_ad_1">Na gut, dann lass uns gleich mal aufbrechen!
+Ich hoffe, wir begegnen jeder Menge Pokémon!</string>
+	<string id="Xg_ae_1"><![CDATA[Benutze die Pfeile (<img/><img/><img/><img/>), um dich umherzubewegen!]]></string>
+	<string id="Xg_ag_1">Oh! Da bewegt sich doch was!
+Vielleicht versteckt sich dort ja ein Pokémon!</string>
+	<string id="Xg_ah_1">Klick auf die Stelle, die sich bewegt!</string>
+	<string id="Xg_ai_1">Das Pokémon will sich offenbar mit uns anfreunden!</string>
+	<string id="Xg_aj_1">Lass uns mit dem Pokémon spielen!</string>
+	<string id="Xg_ak_1">Schlagen wir uns beim Spielen gut genug, wird das Pokémon unser Freund!</string>
+	<string id="Xg_al_1">Klick auf die leuchtende Stelle!</string>
+	<string id="Xg_am_1"><![CDATA[<span class='emphasis'>Items</span> und <span class='emphasis'>Beeren</span> findest du auf der <span class='emphasis'>Trauminsel</span>.]]></string>
+	<string id="Xg_an_1"><![CDATA[Dies ist die <span class='emphasis'>Traumeiche</span>...
+Ist sie nicht wunderschön?]]></string>
+	<string id="Xg_ao_1">Hier gibt es viele Pokémon, deren Wünsche erfüllt wurden!</string>
+	<string id="Xg_ap_1">Jetzt zeige ich dir, wie du einen Wunsch äußerst.</string>
+	<string id="Xg_aq_1"><![CDATA[Klick auf die Baumhöhle und leg eine <span class='emphasis'>Beere</span> hinein!]]></string>
+	<string id="Xg_ar_1">Die Traumeiche merkt sich die Pokémon, mit denen du auf der Trauminsel Freundschaft geschlossen hast.</string>
+	<string id="Xg_as_1">Nun wirst du gefragt werden, welches Pokémon dein Freund werden soll. Jetzt musst du eine Wahl treffen!</string>
+	<string id="Xg_at_1"><![CDATA[Klickst du auf die <span class='emphasis'>Baumhöhle</span> und es ist kein Pokémon vorhanden, mit dem du Freundschaft schließen kannst, kehrst du automatisch auf deine Insel zurück. ]]></string>
+	<string id="Xg_au_1"><![CDATA[Oh, du konntest auf der <span class='emphasis'>Trauminsel</span> wohl mit keinem Pokémon Freundschaft schließen...]]></string>
+	<string id="Xg_av_1">Wenn du irgendwo in deiner Umgebung etwas siehst, das sich bewegt, dann klick doch einfach mal drauf!
+Wer weiß, vielleicht verbirgt sich ja ein Pokémon dahinter!</string>
+	<string id="Xg_aw_1">Wenn du einem Pokémon begegnest, dann spiel mit ihm!</string>
+	<string id="Xg_ax_1">Schlagen wir uns beim Spielen gut genug, wird das Pokémon unser Freund!</string>
+	<string id="Xg_ay_1"><![CDATA[Kehr fürs Erste auf deine <span class='emphasis'>Insel</span> zurück und komm dann noch einmal zur <span class='emphasis'>Traumeiche</span>!]]></string>
+	<string id="Xa_aa_1"><![CDATA[Das hier ist dein Garten.
+Hier kannst du <span class='emphasis'>Beeren</span> anpflanzen!]]></string>
+	<string id="Xa_ab_1"><![CDATA[In der <span class='emphasis'>Pokémon Dream World</span> kannst du mit <span class='emphasis'>Beeren</span> <span class='emphasis'>Einrichtungsstücke</span> kaufen oder an besonderen Spielen teilnehmen, für die du <span class='emphasis'>Beeren</span> benötigst.]]></string>
+	<string id="Xa_ac_1"><![CDATA[Gut, dann will ich dir nun mal erklären, wie man <span class='emphasis'>Beeren</span> anpflanzt!]]></string>
+	<string id="Xa_ad_1"><![CDATA[Wenn du den <span class='emphasis'>Lehmboden</span> anklickst, erscheint eine Übersicht aller <span class='emphasis'>Beeren</span>, die sich aktuell in deinem Besitz befinden.]]></string>
+	<string id="Xa_ae_1"><![CDATA[Wähl nun eine  <span class='emphasis'>Beerensorte</span> aus, die du anpflanzen willst.]]></string>
+	<string id="Xa_af_1"><![CDATA[Die <span class='emphasis'>Beere</span> wurde in deinen Boden gepflanzt!]]></string>
+	<string id="Xa_ag_1">Gieß deinen Garten regelmäßig mit einer Gießkanne, damit der Boden nicht austrocknet!</string>
+	<string id="Xa_ah_1"><![CDATA[Klick den Fleck, an dem du eine <span class='emphasis'>Beere</span> gepflanzt hast, an...]]></string>
+	<string id="Xa_ai_1">...um dort mit deiner Kanne tüchtig zu gießen!</string>
+	<string id="Xa_aj_1"><![CDATA[Wenn die <span class='emphasis'>Beeren</span> reif sind...]]></string>
+	<string id="Xa_ak_1">...kannst du zur Ernte übergehen!</string>
+	<string id="Xa_al_1"><![CDATA[Abgeerntete <span class='emphasis'>Beeren</span> wandern in deine <span class='emphasis'>Schatztruhe</span>.]]></string>
+	<string id="Xa_am_1"><![CDATA[Bau so viele Beeren an, wie du kannst, um dir deinen Aufenthalt in der <span class='emphasis'>Pokémon Dream World</span> weiter zu versüßen!]]></string>
+	<string id="Xb_aa_1"><![CDATA[Über diese Brücke gelangst du zur <span class='emphasis'>Trauminsel</span>.]]></string>
+	<string id="Xb_ab_1"><![CDATA[Auf der <span class='emphasis'>Trauminsel</span> leben jede Menge Pokémon...]]></string>
+	<string id="Xb_ac_1">Ein Teil meiner Forschung besteht darin zu untersuchen, was für ein Leben die Pokémon in der Welt ihrer Träume führen.</string>
+	<string id="Xb_ad_1">Wenn du mir immer schön fleißig deine Spieldaten schickst, beschleunigst du meine Forschungsarbeit damit ungemein!
+Ich zähle auf deine Mithilfe!</string>
+	<string id="Xz_am_3">Jetzt registrieren</string>
+	<string id="Xz_am_4">Später registrieren</string>
+	<string id="Xz_am_2"><![CDATA[Wähle hierzu die Funktion <span class='emphasis'>Spielesoftware registrieren</span> aus. ]]></string>
+	<string id="Xz_be_2"><![CDATA[Wie wär's probehalber mit einem Blick in die Träume von <span class='emphasis'>Somniam</span>?]]></string>
+	<string id="Xz_be_3">Gern</string>
+	<string id="Xz_be_4">Erklär's nochmal</string>
+</data>

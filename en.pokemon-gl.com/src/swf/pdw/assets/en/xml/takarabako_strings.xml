@@ -1,17 +1,32 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <data locale="en">
-	<string id="B_aa_10">B_aa_10</string>
-	<string id="B_aa_11">B_aa_11</string>
-	<string id="B_az_2">B_az_2</string>
-	<string id="B_az_3">B_az_3</string>
+	<string id="b_af_1">Sending Items to the Entralink</string>
+	<string id="b_af_2">Choose "Leave the Pokémon Dream World" to wake
+your Pokémon and go to the Entree Forest.
+You can receive your item(s) at the entrance.</string>
+	<string id="b_ai_1">List cleared.</string>
+	<string id="b_ah_1">Clear the list?</string>
+	<string id="b_ae_1">Send the item(s) in the list?</string>
+	<string id="b_ae_2">b_ae_2</string>
+
 	<string id="b_ad_1">Items to be sent to the Entralink</string>
-	<string id="b_ad_2">Item Name</string>
-	<string id="b_ad_3">Number</string>
+	<string id="b_ad_2" >Item Name</string>
+	<string id="b_ad_3" >Number</string>
+	<string id="b_ad_4" >Berry name</string>
+
+	<string id="b_aa_1" >By date</string>
+	<string id="b_aa_2" >By name</string>
+	<string id="b_aa_3" >By type</string>
+	<string id="b_aa_4" >Send</string>
+
+	<string id="b_az_1">Close</string>
+	<string id="b_ae_4">No</string>
 	<string id="b_ad_6">OK</string>
 	<string id="b_ad_7">Cancel</string>
-	<string id="b_ae_1">Send the item(s) in the list?</string>
-	<string id="b_af_1">Item(s) going to the Entralink.</string>
-	<string id="b_ah_1">b_ah_1</string>
-	<string id="b_ai_1">b_ai_1</string>
-	<string id="b_az_1">Close</string>
+	<string id="b_ae_3">Yes</string>
+	<string id="b_ae_4">No</string>
+
+	<string id="k_af_1">Your Berries</string>
+	<string id="b_aa_6">Treasure Chest</string>
 </data>
+

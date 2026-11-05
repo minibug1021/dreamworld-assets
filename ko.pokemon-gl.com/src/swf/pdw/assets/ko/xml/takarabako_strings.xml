@@ -1,17 +1,30 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <data locale="ko">
-	<string id="B_aa_10">B_aa_10</string>
-	<string id="B_aa_11">B_aa_11</string>
-	<string id="B_az_2">B_az_2</string>
-	<string id="B_az_3">B_az_3</string>
+	<string id="b_af_1">하일링크에 보낼 도구를 선택했습니다.</string>
+	<string id="b_af_2">[PDW를 종료한다] 버튼을 눌러 게임 소프트웨어에서 「게임싱크」로 포켓몬을 깨운 후 하일링크에 가면 하일링크의 숲 입구에 있는 소년에게 도구를 받을 수 있습니다.</string>
+	<string id="b_ai_1">하일링크에 보낼 도구를 비웠습니다.</string>
+	<string id="b_ah_1">하일링크에 보낼 도구를 비우겠습니까?</string>
+	<string id="b_ae_1">이 도구를 하일링크로 보냅니까?</string>
+	<string id="b_ae_2">b_ae_2</string>
+
 	<string id="b_ad_1">하일링크에 보낼 것</string>
-	<string id="b_ad_2">도구명</string>
-	<string id="b_ad_3">수</string>
+	<string id="b_ad_2" >도구명</string>
+	<string id="b_ad_3" >수</string>
+	<string id="b_ad_4" >나무열매명</string>
+
+	<string id="b_aa_1" >날짜순</string>
+	<string id="b_aa_2" >이름순</string>
+	<string id="b_aa_3" >종류순</string>
+	<string id="b_aa_4" >보내기</string>
+
+	<string id="b_az_1">닫기</string>
+	<string id="b_ae_4">아니오</string>
 	<string id="b_ad_6">OK</string>
 	<string id="b_ad_7">취소</string>
-	<string id="b_ae_1">b_ae_1</string>
-	<string id="b_af_1">b_af_1</string>
-	<string id="b_ah_1">b_ah_1</string>
-	<string id="b_ai_1">b_ai_1</string>
-	<string id="b_az_1">b_az_1</string>
+	<string id="b_ae_3">예</string>
+	<string id="b_ae_4">아니오</string>
+
+	<string id="k_af_1">지닌 나무열매</string>
+	<string id="b_aa_6">보물상자</string>
 </data>
+

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="it">
+
+	<string id="s_aj_3">Conserva nel baule</string>
+	<string id="s_aj_4">Sostituisci</string>
+	<string id="s_an_4">Dati passati</string>
+	<string id="fs_ab_3">Scambia</string>
+
+	<string id="s_aa_1">Dispensa doni di [arg0]</string>
+
+	<string id="s_ad_1">Hai messo [arg0] nella
+Dispensa doni.</string>
+
+	<string id="s_af_1">[arg0] è nel baule.</string>
+
+	<string id="s_ag_1">Hai scambiato [arg0]
+con [arg1].</string>
+	<string id="s_ml_1">Hai sostituito [arg0] con [arg1].</string>
+
+	<string id="s_ag_3">Soprannome</string>
+	<string id="s_ag_4">Nome PGL</string>
+
+	<string id="s_ac_1">Vuoi collocare questo strumento sullo scaffale?</string>
+	<string id="s_al_1">Vuoi sostituire con questo strumento?</string>
+	<string id="fs_ad_1">Vuoi scambiare questo strumento?</string>
+	
+	<string id="s_ai_2">Puoi depositare strumenti da donare.</string>
+	<string id="s_ap_1">Hai già [arg0].</string>
+	<string id="s_ap_2">Non puoi scambiarlo con uno tuo.</string>
+	<string id="s_ao_1">Questo è lo strumento che hai depositato. Aspetta che qualcuno depositi il suo in cambio.</string>
+	<string id="s_aq_1">s_aq_1</string>
+	<string id="s_aq_2">Per usare la Dispensa doni e scambiare strumenti con altri giocatori devi prima registrare il tuo ID Sincrogioco nel Pokémon Global Link.</string>
+
+	<string id="fs_ad_6">Una volta depositato uno strumento nella Dispensa doni, non potrai più riprenderlo.</string>
+
+	<string id="s_aq_3">Stai giocando alla versione demo.</string>
+	<string id="s_aq_4">Non è possibile usare la Dispensa doni nella versione demo.</string>
+</data>

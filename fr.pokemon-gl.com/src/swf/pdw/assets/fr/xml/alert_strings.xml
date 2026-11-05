@@ -1,70 +1,74 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<data locale="fr">
-	<string id="da_aa_1">da_aa_1</string>
-	<string id="da_aa_2">da_aa_2</string>
-	<string id="da_aa_3">da_aa_3</string>
-	<string id="da_aa_4">da_aa_4</string>
-	<string id="da_aa_5">da_aa_5</string>
-	<string id="da_aa_6">da_aa_6</string>
-	<string id="da_ab_1">da_ab_1</string>
-	<string id="da_ab_2">da_ab_2</string>
-	<string id="da_ab_3">da_ab_3</string>
-	<string id="da_ab_4">da_ab_4</string>
-	<string id="da_ad_1">da_ad_1</string>
-	<string id="da_ad_2">da_ad_2</string>
-	<string id="da_ad_6">da_ad_6</string>
-	<string id="da_af_1">da_af_1</string>
-	<string id="da_af_2">da_af_2</string>
-	<string id="dc_aa_1">dc_aa_1</string>
-	<string id="dc_aa_2">dc_aa_2</string>
-	<string id="dc_aa_3">dc_aa_3</string>
-	<string id="dc_aa_4">dc_aa_4</string>
-	<string id="dc_aa_5">dc_aa_5</string>
-	<string id="dc_aa_6">dc_aa_6</string>
-	<string id="dc_ac_1">dc_ac_1</string>
-	<string id="dc_ac_2">dc_ac_2</string>
-	<string id="dc_ac_3">dc_ac_3</string>
-	<string id="dc_ac_4">dc_ac_4</string>
-	<string id="dc_ae_2">dc_ae_2</string>
-	<string id="dc_af_2">dc_af_2</string>
-	<string id="o_abb_1">o_abb_1</string>
-	<string id="o_az_1">o_az_1</string>
-	<string id="pg_ade_1">pg_ade_1</string>
-	<string id="pg_ade_2">pg_ade_2</string>
-	<string id="pg_ade_3">pg_ade_3</string>
-	<string id="pg_ade_4">pg_ade_4</string>
-	<string id="pg_ade_5">pg_ade_5</string>
-	<string id="pg_adi_1">pg_adi_1</string>
-	<string id="pg_adi_2">pg_adi_2</string>
-	<string id="pg_adi_3">pg_adi_3</string>
-	<string id="pg_adi_4">pg_adi_4</string>
-	<string id="pg_adi_5">pg_adi_5</string>
-	<string id="pg_adi_6">pg_adi_6</string>
-	<string id="pg_adi_7">pg_adi_7</string>
-	<string id="pg_alc_1">pg_alc_1</string>
-	<string id="pg_alc_2">pg_alc_2</string>
-	<string id="pg_ald_1">pg_ald_1</string>
-	<string id="pg_ald_2">pg_ald_2</string>
-	<string id="pg_ale_1">pg_ale_1</string>
-	<string id="pg_ale_2">pg_ale_2</string>
-	<string id="pg_alf_1">pg_alf_1</string>
-	<string id="pg_alf_2">pg_alf_2</string>
-	<string id="pg_alf_3">pg_alf_3</string>
-	<string id="pg_alg_1">pg_alg_1</string>
-	<string id="pg_alg_2">pg_alg_2</string>
-	<string id="pg_alg_3">pg_alg_3</string>
-	<string id="pg_amc_1">pg_amc_1</string>
-	<string id="pg_amc_2">pg_amc_2</string>
-	<string id="pg_amc_3">pg_amc_3</string>
-	<string id="pg_amd_1">pg_amd_1</string>
-	<string id="pg_amd_2">pg_amd_2</string>
-	<string id="pg_amd_3">pg_amd_3</string>
-	<string id="pg_ame_1">pg_ame_1</string>
-	<string id="pg_amf_1">pg_amf_1</string>
-	<string id="pg_amh_1">Bienvenue au Pokémon Dream World. </string>
-	<string id="pg_amh_2">pg_amh_2</string>
-	<string id="pg_amh_3">pg_amh_3</string>
-	<string id="pg_amh_4">pg_amh_4</string>
-	<string id="pg_amk_1">pg_amk_1</string>
-	<string id="pg_ay_2">pg_ay_2</string>
+<data locale="fr">	
+	<string id="pg_amd_1">Il n'y a pas de Pokémon endormi.</string>
+	<string id="pg_amd_3">Vous devez endormir un Pokémon avec la Synchro-Jeu.
+
+Si vous venez de le faire, sachez qu'il faut parfois un peu de temps pour que le Pokémon Global Link se mette à jour. Dans ce cas, tentez de vous reconnecter ultérieurement.
+
+Si vous avez quitté le Pokémon Dream World en préparant le réveil de votre Pokémon, veuillez le réveiller via la Synchro-Jeu.</string>
+	<string id="pg_amd_2">Fermer</string>
+	<string id="pg_amc_1">Vous n'avez pas récupéré dans votre carte de jeu les Pokémon ou les objets envoyés lors de votre dernière partie.
+Réveillez le Pokémon avec le bouton indiqué et recevez les Pokémon ou les objets avec la Synchro-Jeu.</string>
+	<string id="pg_amc_2">Fermer</string>
+	<string id="pg_amc_3">Réveiller le Pokémon</string>
+	<string id="pg_amh_1">Bienvenue au Pokémon Dream World !</string>
+	<string id="pg_amh_2">Vous avez une heure à partir de maintenant pour profiter du Pokémon Dream World.</string>
+	<string id="pg_amh_3">Attention ! Après une heure de jeu, l'accès au Pokémon Dream World sera automatiquement interrompu.
+En cas d'interruption automatique, il existe un risque que votre progression ne soit pas correctement sauvegardée. Veuillez sortir du Pokémon Dream World lorsque le site vous y invite.</string>
+	<string id="pg_amh_4">Fermer</string>
+	
+	<string id="pg_ade_1">Le trafic du Pokémon Dream World est très perturbé.
+Veuillez réessayer ultérieurement.
+
+À propos de la version d'essai
+La version d'essai du Pokémon Dream
+World n'est plus disponible.</string>
+	<string id="pg_ade_2">Si vous voulez utiliser le Pokémon Dream World, vous devrez d'abord endormir un Pokémon avant de vous identifier sur le Pokémon Global Link.</string>
+	<string id="pg_ade_3">Cliquez sur le bouton ci-dessous pour préparer le réveil de votre Pokémon.
+Vous pourrez ensuite le réveiller grâce à la Synchro-Jeu.</string>
+	<string id="pg_ade_4">Fermer</string>
+	<string id="pg_ade_5">Réveiller le Pokémon</string>
+	
+	<string id="pg_adi_1">Votre accès précédent date du [DD]/[MM] à [HH1] h.
+Vous pourrez y accéder à nouveau dans [HH2] heures.</string>
+	<string id="pg_adi_2">Votre accès précédent date du [DD]/[MM] à [HH1] h.
+Vous pourrez y accéder à nouveau dans [HH2] minutes.</string>
+	<string id="pg_adi_3">Votre accès précédent date du [DD]/[MM] à [HH1] h.
+Vous pourrez y accéder à nouveau dans 1 minute.</string>
+	<string id="pg_adi_4">À cause d'un fort trafic, vous ne pouvez pas profiter de votre période d'accès tout de suite. Revenez un peu plus tard !</string>
+	<string id="pg_adi_5">Cliquez sur le bouton ci-dessous pour préparer le réveil de votre Pokémon.
+Vous pourrez ensuite le réveiller grâce à la Synchro-Jeu.</string>
+	<string id="pg_adi_6">Fermer</string>
+	<string id="pg_adi_7">Réveiller le Pokémon</string>
+	<string id="pg_ala_1">pg_ala_1</string>
+	<string id="pg_ala_2">pg_ala_2</string>
+	<string id="pg_alc_1">Une maintenance est effectuée dans vos données du Pokémon Dream World. Nous vous prions de renouveler votre connexion ultérieurement.</string>
+	<string id="pg_alc_2">Fermer</string>
+	<string id="pg_ald_1">Traitement des données d'enregistrement.
+ Veuillez patienter avant de réessayer. 
+Cette procédure peut durer 5 minutes ou plus.</string>
+	<string id="pg_ald_2">Fermer</string>
+	<string id="pg_alf_1">Aucun Pokémon ne rêve. Vous pouvez réveiller votre Pokémon via la Synchro-Jeu. Il faudra ensuite endormir un Pokémon une nouvelle fois pour retourner au Pokémon Dream World.</string>
+	<string id="pg_alf_2">La Synchro-Jeu n'est disponible qu'une fois par jour.</string>
+	<string id="pg_alf_3">Fermer</string>
+	<string id="pg_ale_1">Aucun Pokémon ne rêve. Veuillez endormir un Pokémon via la Synchro-Jeu.</string>
+	<string id="pg_ale_2">Fermer</string>
+	<string id="pg_alg_1">Traitement de vos données en cours pour le Pokémon Dream World. 
+Veuillez patienter avant de réessayer. 
+Cette procédure peut durer 5 minutes ou plus.</string>
+	<string id="pg_alg_2">Il peut arriver qu'il faille un certain temps avant qu'un Pokémon endormi se mette à rêver.</string>
+	<string id="pg_alg_3">Fermer</string>
+	<string id="pg_amb_1">Pour profiter pleinement du Pokémon Global Link, il vous faut y enregistrer votre ID de Synchro-Jeu. </string>
+	<string id="pg_amb_2">Vous recevrez votre ID de Synchro-Jeu grâce au C-Gear, que vous pouvez obtenir dans les jeux Pokémon Version Noire, Pokémon Version Blanche, Pokémon Version Noire 2 ou Pokémon Version Blanche 2.
+Choisissez PARAMÈTRES SYNCHRO-JEU dans le menu principal ou INTERNET puis SYNCHRO-JEU dans le C-Gear, et connectez-vous avec la 
+CWF Nintendo pour recevoir votre ID de Synchro-Jeu. Vous pourrez par la suite le consulter à tout moment dans PARAMÈTRES SYNCHRO-JEU depuis le menu de démarrage.
+
+Vous pourrez enregister cet ID de Synchro-Jeu en allant dans votre profil, puis en cliquant sur ID de Synchro-Jeu. Veuillez endormir un Pokémon avant de procéder à cet enregistrement.</string>
+	<string id="pg_amb_3">Fermer</string>
+	<string id="pg_amb_4">Enregistrer</string>
+	<string id="pg_amk_1">Vous avez préparé le réveil du Pokémon avant de fermer le Pokémon Dream World. Vous pouvez le réveiller grâce à la Synchro-Jeu.</string>
+	<string id="pg_amk_2">Si vous vous connectez à nouveau dans moins de [MM1] minutes, vous pouvez vous reconnecter au Pokémon Dream World et y jouer pendant [MM2] minutes.</string>
+	<string id="pg_amk_3">Si le trafic est limité, il n'est pas sûr que vous puissiez vous connecter à ce moment.
+Si vous ne vous connectez pas dans l'intervalle de temps indiqué ci-dessus, votre prochain accès ne pourra se faire que [arg0] heures plus tard.</string>
+	<string id="pg_amk_4">Fermer</string>
 </data>

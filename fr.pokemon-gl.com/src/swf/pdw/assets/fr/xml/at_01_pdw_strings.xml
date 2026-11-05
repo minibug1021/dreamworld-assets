@@ -1,4 +1,71 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <data locale="fr">
-	<string id="lo_a_1">lo_a_1</string>
+	<string id="h_ee_10">Légende</string>
+	<string id="h_ee_11">Surnom PGL</string>
+	<string id="h_ee_12">Surnom du Pokémon</string>
+	<string id="h_ee_13">Nom de Dresseur</string>
+	<string id="h_ee_14">Nom de Dresseur :</string>
+	<string id="h_ee_15">Nom de Dresseur :</string>
+	<string id="h_ee_16">Nom de Dresseur :</string>
+	<string id="h_ha_22">h_ha_22</string>
+	<string id="h_ha_3">Les Baies restées trop longtemps dans le coffre de la Maison ont été apportées à l'Arbre des Rêves.</string>
+	<string id="h_ha_4">h_ha_4</string>
+	<string id="h_ha_5">h_ha_5</string>
+	<string id="h_ha_6">h_ha_6</string>
+	<string id="h_ha_7">h_ha_7</string>
+	<string id="h_ha_8">h_ha_8</string>
+	<string id="h_ha_9">h_ha_9</string>
+	<string id="h_ha_10">h_ha_10</string>
+	<string id="h_ha_11">h_ha_11</string>
+	<string id="h_ha_12">h_ha_12</string>
+	<string id="h_ha_13">h_ha_13</string>
+	<string id="h_ha_14">h_ha_14</string>
+	<string id="h_ha_15">Des Baies ont été apportées à l'Arbre des Rêves.
+Elles ont disparu du coffre de la Maison.</string>
+	<string id="h_ha_16">Les Baies ont été converties en Points Rêves.</string>
+	<string id="h_ha_17">Points Rêve reçus : </string>
+	<string id="h_ha_18">Baie</string>
+	<string id="h_ha_19">Nombre</string>
+	<string id="h_ha_20">*Les Baies restantes se trouvent dans le coffre de la Maison.</string>
+	<string id="h_ha_21">Fermer</string>
+
+	<string id="y_aa_18">Île des Rêves - Caverne Gelée</string>
+	<string id="y_ad_22">Ce [ポケモン名] a l'air de vouloir jouer sur la glace.</string>
+	<string id="y_ad_23">Voulez-vous aller jouer sur la glace avec ce [ポケモン名] ?</string>
+	<string id="y_ag_16">Vous n'avez pas réussi le jeu Attrape-Sucreries.</string>
+	<string id="y_ag_17">Vous avez arrêté de jouer à Attrape-Sucreries.</string>
+	<string id="y_zc_6">Voici l'Île des Rêves. Vous décidez d'aller à la Caverne Gelée.</string>
+
+	<string id="y_aa_19">Île des Rêves - Parc des Songes</string>
+	<string id="y_ad_24">Ce [ポケモン名] a l'air de vouloir jouer dans le lac.</string>
+	<string id="y_ad_25">Voulez-vous aller jouer dans le lac avec ce [ポケモン名] ?</string>
+	<string id="y_ag_18">Vous n'avez pas réussi le jeu de la Planche Volante.</string>
+	<string id="y_ag_19">Vous avez arrêté le jeu de la Planche Volante.</string>
+	<string id="y_zc_7">Voici l'Île des Rêves. Vous décidez d'aller aux Parc des Songes.</string>
+
+	<string id="y_ad_26">[ポケモン名] est intrigué par un coffre…</string>
+	<string id="y_ad_27">Voulez-vous aider le [ポケモン名] à ouvrir le coffre ?</string>
+	<string id="y_ad_28">Vous n'avez pas réussi à ouvrir le coffre.</string>
+	<string id="y_ad_29">Vous renoncez à ouvrir le coffre.</string>
+
+	<string id="y_ad_30">Ce [ポケモン名] a l'air d'avoir soif.</string>
+	<string id="y_ad_31">Voulez-vous jouer à Service Express avec [ポケモン名] ?</string>
+	<string id="y_ad_32">Vous n'avez pas réussi le jeu du Service Express.</string>
+
+	<string id="Xz_be_5">Ah oui !
+J'ai oublié de te dire quelque chose !</string>
+	<string id="Xz_be_6"><![CDATA[Si tu ne viens pas jouer dans le <span class='emphasis'>Pokémon Dream World</span>
+pendant trop longtemps, les <span class='emphasis'>Baies</span> stockées dans ton
+<span class='emphasis'>coffre</span> disparaissent. Mais pas de panique !]]></string>
+	<string id="Xz_be_7">D'après mes observations, les Baies ne disparaissent d'un coffre qu'après 100 jours d'inactivité !</string>
+	<string id="y_ad_33">Vous avez arrêté le jeu du Service Express.</string>
+	<string id="b_ae_5">Confirmer</string>
+	<string id="t_ao_3">Votre vœu n'a pu être exaucé.
+Le Pokémon choisi ne s'est pas encore lié d'amitié avec vous.
+Faites un nouveau vœu plus tard.
+Vous rentrez chez vous pour le moment. </string>
+	<string id="y_ad_34">Voir vos contacts</string>
+	<string id="y_ad_35">Liste de Contacts</string>
+	<string id="y_ad_36">Tri par nom</string>
+	<string id="y_ad_37">Tri par région</string>
 </data>

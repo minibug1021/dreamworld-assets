@@ -1,4 +1,73 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <data locale="es">
-	<string id="lo_a_1">lo_a_1</string>
+	<string id="h_ee_10">Leyenda:</string>
+	<string id="h_ee_11">Apodo en PGL</string>
+	<string id="h_ee_12">Apodo del Pokémon</string>
+	<string id="h_ee_13">Entrenador</string>
+	<string id="h_ee_14">Entrenador:</string>
+	<string id="h_ee_15">Entrenador:</string>
+	<string id="h_ee_16">Entrenador:</string>
+	<string id="h_ha_22">h_ha_22</string>
+	<string id="h_ha_3">La mayoría de las Bayas que llevaban demasiado tiempo en el cofre se han enviado al Árbol de los Sueños.</string>
+	<string id="h_ha_4">h_ha_4</string>
+	<string id="h_ha_5">h_ha_5</string>
+	<string id="h_ha_6">h_ha_6</string>
+	<string id="h_ha_7">h_ha_7</string>
+	<string id="h_ha_8">h_ha_8</string>
+	<string id="h_ha_9">h_ha_9</string>
+	<string id="h_ha_10">h_ha_10</string>
+	<string id="h_ha_11">h_ha_11</string>
+	<string id="h_ha_12">h_ha_12</string>
+	<string id="h_ha_13">h_ha_13</string>
+	<string id="h_ha_14">h_ha_14</string>
+	<string id="h_ha_15">La mayoría de las Bayas ya no están en el cofre.
+Se han enviado al Árbol de los Sueños.</string>
+	<string id="h_ha_16">Has obtenido Puntos Oníricos por las Bayas enviadas.</string>
+	<string id="h_ha_17">Puntos Oníricos:</string>
+	<string id="h_ha_18">Clase de Baya</string>
+	<string id="h_ha_19">Cant.</string>
+	<string id="h_ha_20">Nota: Comprueba que el resto de Bayas esté en el cofre.
+</string>
+	<string id="h_ha_21">Cerrar</string>
+
+	<string id="y_aa_18">Isla Ensueño: Cueva Helada</string>
+	<string id="y_ad_22">[ポケモン名] quiere jugar
+en el hielo.</string>
+	<string id="y_ad_23">¿Quieres jugar en el hielo con [ポケモン名]?</string>
+	<string id="y_ag_16">No has recogido bastantes dulces.</string>
+	<string id="y_ag_17">Has dejado de recoger dulces.</string>
+	<string id="y_zc_6">Has llegado a Isla Ensueño y has ido a la Cueva Helada.</string>
+
+	<string id="y_aa_19">Isla Ensueño: Parque de los Sueños</string>
+	<string id="y_ad_24">[ポケモン名] quiere jugar
+en el lago.</string>
+	<string id="y_ad_25">¿Quieres jugar en el lago con [ポケモン名]?</string>
+	<string id="y_ag_18">No has surfeado lo bastante lejos.</string>
+	<string id="y_ag_19">Has dejado de surfear.</string>
+	<string id="y_zc_7">Has llegado a Isla Ensueño y has ido al Parque de los Sueños.</string>
+
+	<string id="y_ad_26">[ポケモン名] è incuriosito dal baule.</string>
+	<string id="y_ad_27">¿Quieres abrir el cofre con [ポケモン名]?</string>
+	<string id="y_ad_28">Impossibile aprire il baule.</string>
+	<string id="y_ad_29">Hai rinunciato ad aprire il baule.</string>
+
+	<string id="y_ad_30">[ポケモン名] tiene sed.</string>
+	<string id="y_ad_31">¿Quieres darle una bebida a [ポケモン名]?</string>
+	<string id="y_ad_32">No has servido bastantes bebidas.</string>
+
+	<string id="Xz_be_5">¡Ah, se me olvidaba decirte una cosa muy importante!</string>
+	<string id="Xz_be_6"><![CDATA[Si pasas mucho tiempo sin visitar <span class='emphasis'>Pokémon Dream World</span>,
+las <span class='emphasis'>Bayas</span> de tu <span class='emphasis'>cofre</span> disminuyen.]]></string>
+	<string id="Xz_be_7">Según mis hallazgos, las Bayas del cofre disminuyen si pasan 100 días
+sin que hayas venido a jugar.</string>
+	<string id="y_ad_33">Has dejado de servir bebidas.</string>
+	<string id="b_ae_5">Vale</string>
+	<string id="t_ao_3">Tu deseo no ha podido ser concedido en estos momentos.
+El Pokémon que has seleccionado no se ha enviado a tu Tablón de Pokémon amigos.
+Vuelve a pedir tu deso más tarde para poder llevártelo contigo.
+Ahora volverás a tu casa.</string>
+	<string id="y_ad_34">Ver compis de juego</string>
+	<string id="y_ad_35">Lista de compis de juego</string>
+	<string id="y_ad_36">Por nombre</string>
+	<string id="y_ad_37">Filtrar por región</string>
 </data>

@@ -1,9 +1,42 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<data locale="en">
-	<string id="b_ad_1" size="18" letterSpacing="1.0" />
-	<string id="b_ad_2" size="12" letterSpacing="1.0" />
-	<string id="b_ad_3" size="12" letterSpacing="1.0" />
-	<string id="b_ad_6" size="12" letterSpacing="1.0" />
-	<string id="b_ad_7" size="12" letterSpacing="1.0" />
-	<string id="b_az_1" size="12" letterSpacing="1.0" />
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="ja">
+	<fonts>
+		<font id="f01" name="FFF Compact"></font>
+		<font id="f02" name="FFF Corporate Bold"></font>
+	</fonts>
+
+	<string id="b_af_1" size="18" bold="true" letterSpacing="1" baselineMode="mem" />
+	<string id="b_af_2" size="12" bold="true" letterSpacing="1" baselineMode="mem" />
+	<string id="b_ai_1" size="18" letterSpacing="1" baselineMode="mem" />
+	<string id="b_ah_1" size="18" letterSpacing="1" baselineMode="mem" />
+	<string id="b_ae_1" size="18" bold="true" letterSpacing="1" baselineMode="mem" />
+	<string id="b_ae_2" size="12" bold="true" letterSpacing="1" baselineMode="mem" />
+
+	<string id="b_ad_1" size="18" letterSpacing="1" baselineMode="mem" />
+	<string id="b_ad_2" size="11" letterSpacing="1" baselineMode="mem" />
+	<string id="b_ad_3" size="11" letterSpacing="1" baselineMode="mem" />
+	<string id="b_ad_4" size="11" letterSpacing="1" baselineMode="mem" />
+
+	<string id="b_aa_1" size="11" letterSpacing="1" baselineMode="mem" />
+	<string id="b_aa_2" size="11" letterSpacing="1" baselineMode="mem" />
+	<string id="b_aa_3" size="11" letterSpacing="1" baselineMode="mem" />
+	<string id="b_aa_4" size="11" letterSpacing="1" baselineMode="mem" />
+
+	<string id="b_az_1" size="12" letterSpacing="1" baselineMode="mem" />
+	<string id="b_ae_4" size="12" letterSpacing="1" baselineMode="mem" />
+	<string id="b_ad_6" size="12" letterSpacing="1" baselineMode="mem" />
+	<string id="b_ad_7" size="12" letterSpacing="1" baselineMode="mem" />
+	<string id="b_ae_3" size="12" letterSpacing="1" baselineMode="mem" />
+	<string id="b_ae_4" size="12" letterSpacing="1" baselineMode="mem" />
+
+	<string id="k_af_1" letterSpacing="1" baselineMode="mem" ></string>
+	<string id="b_aa_6" letterSpacing="1" baselineMode="mem" ></string>
+
+	<string id="B_aa_10" size="12" letterSpacing="0" color="#323232" baselineMode="mem" ></string>
+	<string id="B_aa_11" size="12" letterSpacing="0" color="#323232" baselineMode="mem" ></string>
+	<string id="B_az_2" size="16" letterSpacing="0" color="#482C0E" baselineMode="mem" ></string>
+	<string id="B_az_3" letterSpacing="0" color="#482C0E" baselineMode="mem" ></string>
+	<string id="B_ad_4" size="12" letterSpacing="0" color="#323232" baselineMode="mem" ></string>
+	<string id="B_ad_5" size="12" letterSpacing="0" color="#323232" baselineMode="mem" ></string>
+
 </data>

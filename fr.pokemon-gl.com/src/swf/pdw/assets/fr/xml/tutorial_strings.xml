@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="fr">
+	<string id="Xz_aa_1">Saluuut !</string>
+	<string id="Xz_ab_1"><![CDATA[Je m'appelle <span class='emphasis'>Oryse</span> !
+Comme tu le vois, je suis une scientifique !]]></string>
+	<string id="Xz_ac_1">Et figure-toi que grâce à mes recherches...
+on peut maintenant vivre les rêves de ses Pokémon !</string>
+	<string id="Xz_ad_1"><![CDATA[Tout ça grâce au <span class='emphasis'>Pokémon Dream World</span> !]]></string>
+	<string id="Xz_ae_1"><![CDATA[La <span class='emphasis'>Synchro-Jeu</span> permet d'extraire les souvenirs des Pokémon endormis, grâce à la Brume des Rêves.]]></string>
+	<string id="Xz_af_1"><![CDATA[Et c'est là qu'on a découvert un truc encore mieux !
+Les Pokémon qu'on endort grâce à la <span class='emphasis'>Synchro-Jeu</span> rêvent !]]></string>
+	<string id="Xz_ag_1"><![CDATA[Lorsque les Pokémon se réveillent de la <span class='emphasis'>Synchro-Jeu</span>, leurs rêves se matérialisent dans un endroit appelé <span class='emphasis'>Heylink</span>, au centre de la région d'Unys !]]></string>
+	<string id="Xz_ah_1"><![CDATA[La <span class='emphasis'>Synchro-Jeu</span> est vraiment incroyable, non ?]]></string>
+	<string id="Xz_ai_1"><![CDATA[Si l'on enregistre son <span class='emphasis'>ID de Synchro-Jeu</span> dans le <span class='emphasis'>Pokémon Global Link</span>, on peut vivre les rêves des Pokémon endormis dans le <span class='emphasis'>Pokémon Dream World</span> !]]></string>
+	<string id="Xz_aj_1"><![CDATA[Ah, tu n'as pas encore enregistré ton <span class='emphasis'>ID de Synchro-Jeu</span>...]]></string>
+	<string id="Xz_ak_1"><![CDATA[Tu peux trouver ton <span class='emphasis'>ID de Synchro-Jeu</span> dans Pokémon Version Noire, Pokémon Version Blanche, Pokémon Version Noire 2 ou Pokémon Version Blanche 2 en choisissant <span class='emphasis'>PARAMÈTRES SYNCHRO-JEU</span> depuis le <span class='emphasis'>menu principal</span>.
+<a href='event:MouseEvent' id='about_gamesync_idcode'><span class='textlink'>En savoir plus</span> sur les <span class='emphasis'>PARAMÈTRES SYNCHRO-JEU</span>.</a>]]></string>
+	<string id="Xz_al_1"><![CDATA[Enregistre ton <span class='emphasis'>ID de Synchro-Jeu</span> dans ton <span class='emphasis'>profil</span> du <span class='emphasis'>Pokémon Global Link</span>.]]></string>
+	
+	<string id="Xz_ao_1"><![CDATA[Pour endormir ton Pokémon avec la <span class='emphasis'>Synchro-Jeu</span>,
+allume ton <span class='emphasis'>C-Gear</span> dans Pokémon Version Noire, Pokémon Version Blanche, Pokémon Version Noire 2 ou Pokémon Version Blanche 2 !]]></string>
+	<string id="Xz_ap_1"><![CDATA[Sur ton <span class='emphasis'>C-Gear</span>, touche <span class='emphasis'>INTERNET</span>, puis <span class='emphasis'>Synchro-Jeu</span>,
+et enfin choisis le Pokémon que tu veux faire dormir !]]></string>
+	<string id="Xz_aq_1"><![CDATA[Après vous être amusés ensemble dans le <span class='emphasis'>Pokémon Dream World</span>,
+n'oublie pas de réveiller ton Pokémon !]]></string>
+	<string id="Xz_ar_1"><![CDATA[Après l'avoir réveillé avec la <span class='emphasis'>Synchro-Jeu</span>,
+va au <span class='emphasis'>Heylink</span> via ton <span class='emphasis'>C-Gear</span> pour que le rêve de ton Pokémon devienne réalité !]]></string>
+	<string id="Xz_as_1"><![CDATA[Ah, je dois t'avertir d'une chose, cependant.
+La <span class='emphasis'>Synchro-Jeu</span> consomme énormément d'énergie.
+On ne peut donc y endormir qu'un seul Pokémon par jour.]]></string>
+	<string id="Xz_at_1">Et puis le système n'est pas totalement au point... Il reste des Pokémon qu'on ne peut pas encore endormir.</string>
+	<string id="Xz_au_1">Mais ne crains rien ! Mes recherches progressent, grâce aux données que les utilisateurs du monde entier m'envoient chaque jour !
+Nous ferons en sorte de bientôt faire dormir encore plus de Pokémon !</string>
+	<string id="Xz_aw_1"><![CDATA[Voilà le premier endroit du <span class='emphasis'>Pokémon Dream World</span> que tu verras.
+Tu peux le considérer comme ton <span class='emphasis'>chez toi</span> !]]></string>
+	<string id="Xz_ax_1">Tiens, je vais t'offrir un cadeau ! Ta propre maison !</string>
+	<string id="Xz_ba_1"><![CDATA[Dans le <span class='emphasis'>Pokémon Dream World</span>, tu peux aussi planter des <span class='emphasis'>Baies</span>, aller <span class='emphasis'>voir des gens</span>, ou explorer <span class='emphasis'>l'Île des Rêves</span>, 
+où vivent de nombreux Pokémon.]]></string>
+	<string id="Xz_bb_1"><![CDATA[Je t'ai laissé quelques <span class='emphasis'>Baies</span> pour que tu les plantes !]]></string>
+	<string id="Xz_bd_1">Et voilà ! Fin des explications ! Place aux rêves, maintenant !</string>
+	
+	<string id="Xz_bf_1"><![CDATA[Pour endormir ton Pokémon avec la <span class='emphasis'>Synchro-Jeu</span>,
+allume ton <span class='emphasis'>C-Gear</span> dans ton jeu Pokémon !]]></string>
+	<string id="Xz_bg_1"><![CDATA[Sur ton <span class='emphasis'>C-Gear</span>, touche <span class='emphasis'>INTERNET</span>, puis <span class='emphasis'>Synchro-Jeu</span>,
+et enfin choisis le Pokémon que tu veux faire dormir !]]></string>
+	<string id="Xz_bh_1"><![CDATA[Après vous être amusés ensemble dans le <span class='emphasis'>Pokémon Dream World</span>,
+n'oublie pas de réveiller ton Pokémon !]]></string>
+	<string id="Xz_bi_1"><![CDATA[Après l'avoir réveillé avec la <span class='emphasis'>Synchro-Jeu</span>,
+va au <span class='emphasis'>Heylink</span> via ton <span class='emphasis'>C-Gear</span>
+pour que le rêve de ton Pokémon devienne réalité !]]></string>
+	<string id="Xz_bj_1"><![CDATA[Ah, je dois t'avertir d'une chose, cependant.
+La <span class='emphasis'>Synchro-Jeu</span> consomme énormément d'énergie.
+On ne peut donc y endormir qu'un seul Pokémon par jour.]]></string>
+	<string id="Xz_bk_1">Et puis le système n'est pas totalement au point... Il reste des Pokémon qu'on ne peut pas encore endormir.</string>
+	<string id="Xz_bl_1">Mais ne crains rien ! Mes recherches progressent, grâce aux données que les utilisateurs du monde entier m'envoient chaque jour !
+Nous ferons en sorte de bientôt faire dormir encore plus de Pokémon !</string>
+	<string id="Xz_bm_1"><![CDATA[Voilà le premier endroit du <span class='emphasis'>Pokémon Dream World</span> que tu verras.
+Tu peux le considérer comme ton <span class='emphasis'>chez toi</span> !]]></string>
+	<string id="Xz_bn_1">Tiens, je vais t'offrir un cadeau ! Ta propre maison !</string>
+	<string id="Xz_bo_1"><![CDATA[Dans le <span class='emphasis'>Pokémon Dream World</span>, tu peux
+planter des <span class='emphasis'>Baies</span>, aller <span class='emphasis'>voir des gens</span>,
+ou explorer <span class='emphasis'>l'Île des Rêves</span>, où vivent de nombreux Pokémon.]]></string>
+	<string id="Xz_bp_1"><![CDATA[Je t'ai laissé quelques <span class='emphasis'>Baies</span> pour que tu les plantes !]]></string>
+	<string id="Xz_bq_1">Et voilà ! Fin des explications ! Place aux rêves, maintenant !</string>
+	<string id="Xz_br_1">Peux-tu imaginer quels genres de rêves font les Pokémon quand ils dorment... ?</string>
+	<string id="Xz_bs_1">Tu n'as pas encore de Pokémon que l'on peut endormir...</string>
+	<string id="Xz_bt_1"><![CDATA[Active le <span class='emphasis'>C-Gear</span> dans ton jeu pour endormir tes Pokémon avec la <span class='emphasis'>Synchro-Jeu</span> !]]></string>
+	<string id="Xz_bu_1"><![CDATA[Touche <span class='emphasis'>INTERNET</span> sur ton <span class='emphasis'>C-Gear</span>, puis touche <span class='emphasis'>Synchro-Jeu</span> et choisis un Pokémon à endormir.]]></string>
+	<string id="Xz_bv_1"><![CDATA[Après avoir joué dans le <span class='emphasis'>Pokémon Dream World</span>, réveille ton Pokémon endormi.]]></string>
+	<string id="Xz_bw_1"><![CDATA[Si tu te rends au <span class='emphasis'>Heylink</span> après avoir réveillé ton Pokémon avec la <span class='emphasis'>Synchro-Jeu</span>, tu verras que le rêve de ton Pokémon est devenu réalité.]]></string>
+	<string id="Xz_bx_1"><![CDATA[Une dernière chose : Le fonctionnement de la <span class='emphasis'>Synchro-Jeu</span> consome énormément d'énergie. Tu ne pourras donc endormir de Pokémon qu'une seule fois par jour.]]></string>
+	<string id="Xz_by_1">Et puis le système n'est pas totalement au point... Il reste des Pokémon qu'on ne peut pas encore endormir.</string>
+	<string id="Xz_bz_1">Mais ne crains rien ! Mes recherches progressent, grâce aux données que les utilisateurs du monde entier m'envoient chaque jour !
+Nous ferons en sorte de bientôt faire dormir encore plus de Pokémon !</string>
+	<string id="Xz_ca_1"><![CDATA[Il vaut mieux venir dans le <span class='emphasis'>Pokémon Dream World</span>
+après avoir fait dormir un Pokémon !]]></string>
+	<string id="Xv_aa_1"><![CDATA[Voici ta maison.
+Et cette île, c'est <span class='emphasis'>chez toi</span> !]]></string>
+	<string id="Xv_ab_1"><![CDATA[Tu peux faire des tas de choses <span class='emphasis'>chez toi</span> !]]></string>
+	<string id="Xv_ac_1">Déplace-toi en cliquant sur les flèches !</string>
+	<string id="Xv_ad_1"><![CDATA[Tu peux planter des <span class='emphasis'>Baies</span>...]]></string>
+	<string id="Xv_ae_1"><![CDATA[... Échanger tes <span class='emphasis'>objets</span> ou tes <span class='emphasis'>Baies</span> avec les autres utilisateurs...]]></string>
+	<string id="Xv_af_1"><![CDATA[... Ou encore traverser la <span class='emphasis'>Passerelle des Rêves</span> pour te rendre sur <span class='emphasis'>l'Île des Rêves</span> !]]></string>
+	<string id="Xv_ag_1"><![CDATA[Pousse la <span class='emphasis'>porte</span> de ta maison pour entrer à l'intérieur !]]></string>
+	<string id="Xv_ah_1"><![CDATA[Devant ta porte, tu trouveras un <span class='emphasis'>Mémotapis</span>.
+Il garde l'empreinte de tous les Pokémon qui sont venus s'amuser <span class='emphasis'>chez toi</span> !]]></string>
+	<string id="Xv_ai_1">Clique sur le bouton Carte des Rêvamis en haut à gauche !</string>
+	<string id="Xv_aj_1"><![CDATA[Tu peux voir ici où vivent tes <span class='emphasis'>Rêvamis</span> !]]></string>
+	<string id="Xv_ak_1"><![CDATA[Clique sur le bouton ◎ pour quitter le <span class='emphasis'>Pokémon Dream World</span>
+et pouvoir réveiller ton Pokémon.]]></string>
+	<string id="Xv_al_1"><![CDATA[Attention, car si tu quittes le <span class='emphasis'>Pokémon Dream World</span> sans cliquer sur ◎,
+tu ne pourras pas réveiller ton Pokémon !]]></string>
+	<string id="Xv_am_1"><![CDATA[J'espère que tu vas bien t'amuser avec les rêves dans le <span class='emphasis'>Pokémon Dream World</span> !]]></string>
+	<string id="Xe_aa_1"><![CDATA[Ici, tu peux voir les <span class='emphasis'>Rêvamis</span> avec qui tu as fraternisé dans le <span class='emphasis'>Pokémon Dream World</span>.]]></string>
+	<string id="Xe_ab_1">Vérifie les paramètres de confidentialité de ton profil !</string>
+	<string id="Xe_ac_1"><![CDATA[En réglant la confidentialité de ton profil sur <span class='emphasis'>Public</span>, même les utilisateurs qui ne sont pas encore tes <span class='emphasis'>Rêvamis</span> pourront communiquer avec toi.]]></string>
+	<string id="Xf_aa_1"><![CDATA[Voici ta <span class='emphasis'>maison</span> !
+Je vais t'expliquer ce que tu peux y faire !]]></string>
+	<string id="Xf_ab_1"><![CDATA[Voici ton <span class='emphasis'>coffre</span>.]]></string>
+	<string id="Xf_ac_1"><![CDATA[C'est là que tu trouveras les <span class='emphasis'>Baies</span> et les <span class='emphasis'>objets</span> que tu as ramassés dans le <span class='emphasis'>Pokémon Dream World</span>.]]></string>
+	<string id="Xf_ad_1"><![CDATA[Tu peux envoyer les <span class='emphasis'>Baies</span> et les <span class='emphasis'>objets</span> au jeune garçon à l'entrée de la <span class='emphasis'>Forêt du Heylink</span> sous forme de <span class='emphasis'>fragment de rêve</span>.]]></string>
+	<string id="Xf_ae_1"><![CDATA[Lorsque ton Pokémon se réveille, file vite à la <span class='emphasis'>Forêt du Heylink</span> !
+Le jeune garçon à l'entrée de la forêt te donnera les <span class='emphasis'>fragments de rêves</span> !]]></string>
+	<string id="Xf_af_1"><![CDATA[Ceci est le <span class='emphasis'>panneau des compagnons</span>.]]></string>
+	<string id="Xf_ag_1"><![CDATA[Lorsque tu as fait le vœu de devenir ami avec un Pokémon sur l'<span class='emphasis'>Île des Rêves</span>,
+une photo de ce Pokémon apparaîtra sur ce <span class='emphasis'>panneau des compagnons</span> pour montrer la force de ton souhait.]]></string>
+	<string id="Xf_ah_1"><![CDATA[Les Pokémon sur le <span class='emphasis'>panneau des compagnons</span> apparaîtront ensuite dans l'une des <span class='emphasis'>clairières de la Forêt du Heylink</span>.]]></string>
+	<string id="Xf_ai_1"><![CDATA[Les Pokémon apparus dans l'une des <span class='emphasis'>clairières</span> deviendront tes amis à coup sûr !]]></string>
+	<string id="Xf_aj_1"><![CDATA[Ah, au fait !
+Si tu arrives à 50 photos sur ton <span class='emphasis'>panneau des compagnons</span>, tu ne pourras plus retourner sur l'<span class='emphasis'>Île des Rêves</span> ! Alors fais attention !]]></string>
+	<string id="Xf_ak_1"><![CDATA[Ceci est le <span class='emphasis'>Catalogue des rêves</span>.
+Il te permettra d'acheter des <span class='emphasis'>articles</span> pour décorer ta <span class='emphasis'>maison</span> !]]></string>
+	<string id="Xf_al_1"><![CDATA[Tu peux acheter des <span class='emphasis'>articles</span> en les échangeant contre des <span class='emphasis'>Baies</span>.]]></string>
+	<string id="Xf_am_1"><![CDATA[Le bouton <img/> te permet de placer tes <span class='emphasis'>articles</span> où bon te semble.]]></string>
+	<string id="Xc_aa_1"><![CDATA[Ici, tu entreposes ton <span class='emphasis'>Surplus</span> !
+Cela te permet d'échanger des <span class='emphasis'>objets</span> ou des <span class='emphasis'>Baies</span> avec les autres utilisateurs !]]></string>
+	<string id="Xc_ab_1">Je vais t'expliquer comment !</string>
+	<string id="Xc_ac_1"><![CDATA[Clique sur un emplacement vide, et ton <span class='emphasis'>coffre</span> s'ouvrira !]]></string>
+	<string id="Xc_ad_1"><![CDATA[Y a-t-il quelque chose que tu considères comme un <span class='emphasis'>Surplus</span> ?]]></string>
+	<string id="Xc_ae_1">Alors tu peux le déposer là !
+Les utilisateurs venus te rendre visite pourront échanger avec toi !</string>
+	<string id="Xd_ab_1"><![CDATA[C'est très simple ! Ça permet d'échanger tes <span class='emphasis'>objets</span> ou tes <span class='emphasis'>Baies</span> avec d'autres utilisateurs !]]></string>
+	<string id="Xd_ac_1">Je vais t'expliquer comment !</string>
+	<string id="Xd_ad_1">Choisis ce que tu veux...</string>
+	<string id="Xd_ae_1"><![CDATA[Et là, ton <span class='emphasis'>coffre</span> va s'ouvrir,
+et tu pourras choisir ce que tu vas donner en échange.]]></string>
+	<string id="Xd_af_1"><![CDATA[Tu peux trouver des <span class='emphasis'>objets</span> ou des <span class='emphasis'>Baies</span> sur l'<span class='emphasis'>Île des Rêves</span>.
+N'hésite pas à échanger avec plein d'autres utilisateurs.]]></string>
+	<string id="Xg_aa_1"><![CDATA[Ceci est l'<span class='emphasis'>Île des Rêves</span>.]]></string>
+	<string id="Xg_ab_1"><![CDATA[L'<span class='emphasis'>Île des Rêves</span> est un endroit mystérieux où vivent beaucoup de Pokémon...]]></string>
+	<string id="Xg_ac_1"><![CDATA[On a beau marcher dans des directions différentes à chaque fois, on se retrouve toujours devant un grand arbre.
+Les utilisateurs l'appellent <span class='emphasis'>l'Arbre des Rêves</span> et disent qu'il exauce les vœux.]]></string>
+	<string id="Xg_ad_1">Allez, on y va ! 
+J'espère que l'on rencontrera des tas de Pokémon !</string>
+	<string id="Xg_ae_1">Déplace-toi en cliquant sur les flèches !</string>
+	<string id="Xg_ag_1">Ah ! Quelque chose remue !
+Peut-être qu'un Pokémon se cache... ?</string>
+	<string id="Xg_ah_1">Touchons l'endroit qui bouge...</string>
+	<string id="Xg_ai_1">Le Pokémon a envie de faire connaissance !</string>
+	<string id="Xg_aj_1">Jouons avec lui !</string>
+	<string id="Xg_ak_1">Si tu te débrouilles bien, tu peux faire ami-ami avec les Pokémon rencontrés !</string>
+	<string id="Xg_al_1">Touchons l'endroit qui brille...</string>
+	<string id="Xg_am_1"><![CDATA[Tu peux trouver des <span class='emphasis'>objets</span> ou des <span class='emphasis'>Baies</span> dans l'<span class='emphasis'>Île des Rêves</span> !]]></string>
+	<string id="Xg_an_1"><![CDATA[Voilà l'<span class='emphasis'>Arbre des Rêves</span>... Que c'est joli...]]></string>
+	<string id="Xg_ao_1">Il y a plein de Pokémon dont les rêves ont été exaucés !</string>
+	<string id="Xg_ap_1">Je vais t'expliquer comment faire un vœu.</string>
+	<string id="Xg_aq_1"><![CDATA[Clique sur la chapelle
+et laisses-y une <span class='emphasis'>Baie</span>.]]></string>
+	<string id="Xg_ar_1">L'arbre se souvient des Pokémon qui t'ont apprécié
+pendant ta balade sur l'Île des Rêves.</string>
+	<string id="Xg_as_1">Il va te demander avec lequel de ces Pokémon tu veux devenir ami.
+Fais ton choix !</string>
+	<string id="Xg_at_1"><![CDATA[S'il n'y a aucun Pokémon pouvant devenir ton ami lorsque tu cliques sur la chapelle, tu retourneras <span class='emphasis'>chez toi</span>.]]></string>
+	<string id="Xg_au_1"><![CDATA[Oh ! Tu n'as pas réussi à faire la connaissance d'un seul Pokémon sur l'<span class='emphasis'>Île des Rêves</span>...]]></string>
+	<string id="Xg_av_1">Si tu vois quelque chose remuer dans le décor, clique dessus !
+Peut-être qu'un Pokémon s'y cache...</string>
+	<string id="Xg_aw_1">Lorsque tu rencontres un Pokémon, joue avec lui !</string>
+	<string id="Xg_ax_1">Si tu te débrouilles bien, tu peux faire ami-ami avec les Pokémon rencontrés !</string>
+	<string id="Xg_ay_1"><![CDATA[Retourne <span class='emphasis'>chez toi</span>, et repars en ballade vers l'<span class='emphasis'>Arbre des Rêves</span> !]]></string>
+	<string id="Xa_aa_1"><![CDATA[Voici ton jardin !
+Tu peux y faire pousser des <span class='emphasis'>Baies</span>.]]></string>
+	<string id="Xa_ab_1"><![CDATA[Dans le <span class='emphasis'>Pokémon Dream World</span>, tu peux échanger les <span class='emphasis'>Baies</span> contre des <span class='emphasis'>articles</span>,
+ou les utiliser pour participer à des mini-jeux.]]></string>
+	<string id="Xa_ac_1">Bon, je vais t'expliquer comment les faire pousser !</string>
+	<string id="Xa_ad_1"><![CDATA[Clique sur le <span class='emphasis'>trou dans la terre meuble</span> pour consulter la liste des <span class='emphasis'>Baies</span> que tu possèdes.]]></string>
+	<string id="Xa_ae_1">Choisis celle que tu veux planter...</string>
+	<string id="Xa_af_1">Et voilà ! Elle est prête à pousser !</string>
+	<string id="Xa_ag_1">Arrose-la souvent pour que la terre ne sèche pas !</string>
+	<string id="Xa_ah_1"><![CDATA[Clique sur l'endroit où tu as planté la <span class='emphasis'>Baie</span>...]]></string>
+	<string id="Xa_ai_1">... et arrose-la avec l'arrosoir sélectionné !</string>
+	<string id="Xa_aj_1"><![CDATA[Quand le <span class='emphasis'>plant</span> a poussé...]]></string>
+	<string id="Xa_ak_1"><![CDATA[... tu peux cueillir les <span class='emphasis'>Baies</span> !]]></string>
+	<string id="Xa_al_1"><![CDATA[Les <span class='emphasis'>Baies</span> cueillies vont dans ton <span class='emphasis'>coffre</span>.]]></string>
+	<string id="Xa_am_1"><![CDATA[Si tu fais pousser plein de <span class='emphasis'>Baies</span>, tu pourras faire encore plus de choses dans le <span class='emphasis'>Pokémon Dream World</span> !]]></string>
+	<string id="Xb_aa_1"><![CDATA[Ceci est la <span class='emphasis'>Passerelle des Rêves</span>.
+Il faut la traverser pour atteindre l'<span class='emphasis'>Île des Rêves</span>.]]></string>
+	<string id="Xb_ab_1"><![CDATA[L'<span class='emphasis'>Île des Rêves</span> est un endroit mystérieux où vivent beaucoup de Pokémon...]]></string>
+	<string id="Xb_ac_1">Je suis loin d'avoir fini d'étudier ce que font les Pokémon quand ils rêvent...</string>
+	<string id="Xb_ad_1">Chaque donnée que tu m'enverras me permettra d'avancer dans mes recherches ! Alors je te remercie par avance de ton aide !</string>
+	<string id="Xz_am_3">S'enregistrer maintenant</string>
+	<string id="Xz_am_4">S'enregistrer plus tard</string>
+	<string id="Xz_am_2"><![CDATA[Choisis <span class='emphasis'>ID de Synchro-Jeu</span> dans ton profil !]]></string>
+	<string id="Xz_be_2"><![CDATA[Est-ce que tu veux voir de quoi rêve ce <span class='emphasis'>Munna</span>, pour essayer ?]]></string>
+	<string id="Xz_be_3">Oui</string>
+	<string id="Xz_be_4">Voir à nouveau les explications</string>
+</data>

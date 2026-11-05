@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="es">
+
+	<string id="s_aj_3">Meter en el cofre</string>
+	<string id="s_aj_4">Cambiar</string>
+	<string id="s_an_4">Detalles del cambio</string>
+	<string id="fs_ab_3">Intercambiar</string>
+
+	<string id="s_aa_1">Expositor de [arg0]</string>
+
+	<string id="s_ad_1">Has colocado el objeto [arg0] en el expositor.</string>
+
+	<string id="s_af_1">Has devuelto [arg0] al cofre.</string>
+
+	<string id="s_ag_1">Se ha intercambiado [arg0]
+por [arg1].</string>
+	<string id="s_ml_1">Se ha cambiado [arg0]
+por [arg1].</string>
+
+	<string id="s_ag_3">Apodo</string>
+	<string id="s_ag_4">Apodo en PGL</string>
+
+	<string id="s_ac_1">¿Colocar este objeto?</string>
+	<string id="s_al_1">¿Cambiarlo por este objeto?</string>
+	<string id="fs_ad_1">¿Quieres intercambiar este objeto?</string>
+	
+	<string id="s_ai_2">Colocar objetos</string>
+	<string id="s_ap_1">Ya tienes [arg0].</string>
+	<string id="s_ap_2">No puedes intercambiar objetos que ya tienes.</string>
+	<string id="s_ao_1">Tú has ofrecido este objeto, así que intercambia uno diferente.</string>
+	<string id="s_aq_1">s_aq_1</string>
+	<string id="s_aq_2">Registra tu ID para Sincronizar en Pokémon Dream World para poder intercambiar objetos con otros usuarios mediante el expositor.</string>
+
+	<string id="fs_ad_6">Ten en cuenta que, una vez que hayas puesto el objeto en el expositor, no podrás devolverlo al cofre.</string>
+
+	<string id="s_aq_3">Actualmente estás usando la versión de prueba.</string>
+	<string id="s_aq_4">En la versión de prueba no puedes usar el expositor.</string>
+</data>

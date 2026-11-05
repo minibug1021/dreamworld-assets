@@ -1,26 +1,32 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <data locale="de">
-	<string id="c_aa_1">c_aa_1</string>
-	<string id="c_aa_3">c_aa_3</string>
-	<string id="c_aa_4">c_aa_4</string>
-	<string id="c_ad_1">c_ad_1</string>
-	<string id="c_ad_2">c_ad_2</string>
-	<string id="c_ad_3">c_ad_3</string>
-	<string id="c_ad_4">c_ad_4</string>
-	<string id="c_ad_11">c_ad_11</string>
-	<string id="c_ba_1">c_ba_1</string>
-	<string id="c_ba_2">c_ba_2</string>
-	<string id="c_ba_3">c_ba_3</string>
-	<string id="c_bb_1">c_bb_1</string>
-	<string id="c_bb_3">c_bb_3</string>
-	<string id="c_bb_7">c_bb_7</string>
-	<string id="c_bd_1">c_bd_1</string>
-	<string id="c_be_1">c_be_1</string>
-	<string id="c_bf_1">c_bf_1</string>
-	<string id="c_bg_1">c_bg_1</string>
-	<string id="c_bh_1">c_bh_1</string>
-	<string id="c_bi_1">c_bi_1</string>
-	<string id="c_bj_1">c_bj_1</string>
-	<string id="c_bk_1">c_bk_1</string>
-	<string id="c_bl_1">c_bl_1</string>
+	<string id="s_aa_3">Zurück zum Besonderen Haus</string>
+	<string id="h_ca_20">Karte des Besonderen Hauses ansehen</string>
+	<string id="fr_aa_8">Zur besonderen Insel</string>
+	<string id="y_aa_8">Zurück zum Besonderen Haus</string>
+	<string id="h_ca_11">Zum Forum</string>
+	<string id="h_ca_12">Seite mit Zusatzinformationen aufrufen</string>
+	<string id="sp2_pokemon_comment_01">Ein Felilou von der besonderen Insel „Pokémon-Film“! Es scheint sich prächtig mit Picochilla zu amüsieren!</string>
+	<string id="sp2_pokemon_comment_02">Ein Picochilla von der besonderen Insel „Pokémon-Film“! Es scheint sich prächtig mit Felilou zu amüsieren!</string>
+	<string id="sp2_pokemon_comment_03">Ein Symvolara von der besonderen Insel „Pokémon-Film“!</string>
+	<string id="sp2_pokemon_comment_04">Ein Sesokitz von der besonderen Insel „Pokémon-Film“! Es hat irgendetwas auf dem Tuch entdeckt!</string>
+	<string id="sp2_pokemon_comment_05">Ein Zurrokex von der besonderen Insel „Pokémon-Film“! Es freut sich über den Besuch!</string>
+	<string id="sp2_pokemon_comment_06">Ein Emolga von der besonderen Insel „Pokémon-Film“! Es ist neugierig auf das Geschehen im Hintergrund.</string>
+	<string id="h_da_5">Zur besonderen Insel</string>
+	<string id="h_da_7">Karte des Besonderen Hauses</string>
+	<string id="dialog_36">Schließen</string>
+
+	<string id="sp2_interior_1_doll">Eine „Victini-Puppe“! Das Passwort lautet: „Pokémon-Film“!</string>
+
+	<string id="y_aa_10"></string>
+	<string id="y_aa_11">Du bist auf der Trauminsel angekommen. Ist das da drüben Victini?</string>
+	<string id="y_aa_12">[ポケモン名] will wissen, was in der Schatztruhe ist!</string>
+	<string id="y_aa_13">Hilf [ポケモン名]!</string>
+	<string id="y_aa_14">Du konntest die Schatztruhe nicht öffnen.</string>
+	<string id="y_aa_15">Die Schatztruhe bleibt geschlossen.</string>
+
+	<string id="h_ca_21">Vorschau ansehen</string>
+	<string id="fr_aa_16">Eintreten</string>
 </data>
+
+

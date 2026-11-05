@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="en">
+
+	<string id="i_aj_1">Set position.</string>
+	<string id="h_ea_1">Redecorate</string>
+	<string id="h_ea_2">Check Treasure Chest</string>
+	<string id="h_ea_3">Check Dream Catalogue</string>
+	<string id="h_ea_4">Check Friend Board</string>
+	<string id="h_ea_5">Go outside</string>
+
+	<string id="h_ea_7">Check Treasure Chest</string>
+	<string id="h_ea_6">Check Dream Catalogue</string>
+	<string id="h_ea_8">Check Friend Board</string>
+	<string id="h_ea_9">Go outside</string>
+
+	<string id="i_an_1">Put Away</string>
+	<string id="h_ea_10">Next</string>
+	<string id="i_aj_3">Sorry. This item can't be moved.</string>
+
+	<string id="h_ea_11">[arg0]'s room</string>
+
+	<string id="i_aj_2">Move this item.</string>
+
+	<string id="s_ah_1">No items in Treasure Chest.</string>
+	<string id="s_ah_2">You can find items 
+on the Island of Dreams.</string>
+
+	<string id="i_ae_1">Swap Berries for this item?</string>
+	<string id="i_bb_1">Is this the item you want?</string>
+	<string id="i_ae_6">[arg0]</string>
+	<string id="i_ae_7">(In Box: [arg0])</string>
+
+	<string id="i_bc_1">Got the [arg0].
+</string>
+	<string id="i_bca_2">You can change it by choosing
+"Swap" in a Dream Catalogue.</string>
+	<string id="i_bc_2">At the upper menu in your garden, you can
+change your watering system.</string>
+
+	<string id="i_ba_1">Put away the 
+[arg0]?</string>
+	<string id="i_ah_1">The [arg0] was
+put away. </string>
+	<string id="i_ah_3">You can place the Décor item by clicking
+"Place Item" in the Dream Catalogue.</string>
+
+	<string id="i_am_1">No space for Décor items in your room.</string>
+	<string id="i_am_2">Please tidy up your room.</string>
+
+	<string id="i_bcc_1">Change to the [arg0]?</string>
+	<string id="i_bcd_1">Changed to the [arg0].</string>
+
+	<string id="i_ab_3">Dream Catalogue</string>
+
+	<string id="i_ab_2">Choose a Dream Catalogue</string>
+
+	<string id="i_ac_1">Table of Contents</string>
+	<string id="i_ad_8">Contents</string>
+	<string id="i_ad_18">Contents</string>
+
+	<string id="i_ad_4">Limited Time Only</string>
+	<string id="i_ad_5">Designer Items</string>
+	<string id="i_ad_6">New</string>
+
+	<string id="i_ad_2">[arg0]: [arg1]</string>
+	<string id="i_ad_16">Free</string>
+
+	<string id="i_ad_10">You don't have enough Berries.</string>
+	<string id="i_ad_11">Swap</string>
+	<string id="i_ad_15">Gift</string>
+	<string id="i_az_1">Available</string>
+	<string id="i_ad_17">Placed</string>
+	<string id="i_ad_12">Place Item</string>
+	<string id="i_ad_14">Swap</string>
+	<string id="i_ad_13">Put Away</string>
+
+	<string id="i_ada_1">Treasure Chest</string>
+	<string id="i_ada_2">Miscellaneous</string>
+	<string id="i_ada_3">Friend Board</string>
+
+</data>

@@ -1,26 +1,34 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <data locale="es">
-	<string id="c_aa_1">Información detallada</string>
-	<string id="c_aa_3">Siguiente</string>
-	<string id="c_aa_4">A los participantes en la promoción:</string>
-	<string id="c_ad_1">Promociones</string>
-	<string id="c_ad_2">Fecha</string>
-	<string id="c_ad_3">Estado</string>
-	<string id="c_ad_4">Título</string>
-	<string id="c_ad_11">Cómo participar en la promoción</string>
-	<string id="c_ba_1">&amp;#xD;Para participar en la promoción, es necesario tener una cuenta del Club de Entrenadores Pokémon. Si ya tienes una cuenta, inicia sesión desde la página de inicio.&amp;#xD;</string>
-	<string id="c_ba_2">Para usuarios nuevos</string>
-	<string id="c_ba_3">Registrarse</string>
-	<string id="c_bb_1">&amp;#xD;Para participar en la promoción, es necesario obtener permiso en el Club de Entrenadores Pokémon. Compruébalo en el sitio web oficial.&amp;#xD;</string>
-	<string id="c_bb_3">&amp;#xD;Período de la promoción: del [DD1]-[MM1]-[YYYY1] [hh1]:[mm1] al [DD2]-[MM2]-[YYYY2] [hh2]:[mm2]&amp;#xD;</string>
-	<string id="c_bb_7">Atrás</string>
-	<string id="c_bd_1">Esta promoción estará disponible muy pronto.</string>
-	<string id="c_be_1">Esta promoción ha concluido.</string>
-	<string id="c_bf_1">Gracias por participar en esta promoción.</string>
-	<string id="c_bg_1">&amp;#xD;Para participar en esta promoción, necesitas un ID para Sincronizar de Pokémon Edición Negra.&amp;#xD;</string>
-	<string id="c_bh_1">&amp;#xD;Para participar en esta promoción, necesitas un ID para Sincronizar de Pokémon Edición Blanca.&amp;#xD;</string>
-	<string id="c_bi_1">&amp;#xD;Para participar en esta promoción, necesitas un ID para Sincronizar de Pokémon Edición Negra o Pokémon Edición Blanca.&amp;#xD;</string>
-	<string id="c_bj_1">&amp;#xD;Tu Tablón de Pokémon amigos está lleno. Transfiere un Pokémon a la Zona Nexo y vuelve a intentarlo.&amp;#xD;</string>
-	<string id="c_bk_1">&amp;#xD;El Bosque Nexo está lleno, por lo que no puedes transferir más Pokémon. Dirígete al Bosque Nexo para encontrarte con un Pokémon y vuelve a intentarlo.&amp;#xD;</string>
-	<string id="c_bl_1">No hay promociones en curso.</string>
+	<string id="s_aa_3">Volver a la casa especial</string>
+	<string id="h_ca_20">Ver el mapa de la casa especial</string>
+	<string id="fr_aa_8">Ir a la casa especial</string>
+	<string id="y_aa_8">Volver a la casa especial</string>
+	<string id="h_ca_11">Ver el tablón</string>
+	<string id="h_ca_12">Más información</string>
+	<string id="sp2_pokemon_comment_01">Es el Purrloin de la casa especial "Película Pokémon". ¡Parece que se divierte con Minccino!</string>
+	<string id="sp2_pokemon_comment_02">Es el Minccino de la casa especial "Película Pokémon". ¡Parece que se divierte con Purrloin!</string>
+	<string id="sp2_pokemon_comment_03">Es el Sigilyph de la casa especial "Película Pokémon".</string>
+	<string id="sp2_pokemon_comment_04">Es el Deerling de la casa especial "Película Pokémon". Parece que le llama la atención lo que hay sobre esa tela.</string>
+	<string id="sp2_pokemon_comment_05">Es el Scraggy de la casa especial "Película Pokémon". ¡Parece muy contento de que venga gente a verlo!</string>
+	<string id="sp2_pokemon_comment_06">Es el Emolga de la casa especial "Película Pokémon". ¡Está mirando hacia atrás!</string>
+	<string id="h_da_5">Ir a la casa especial</string>
+	<string id="h_da_7">Mapa de la casa especial</string>
+	<string id="dialog_36">Cerrar</string>
+
+	<string id="sp2_interior_1_doll">¡Es un muñeco Victini! ¡La contraseña es "Película Pokémon"!</string>
+
+	<string id="y_aa_10"></string>
+	<string id="y_aa_11">Has llegado a Isla Ensueño. ¿Es aquel Victini?</string>
+	<string id="y_aa_12">A [ポケモン名] le llama la atención ese cofre.</string>
+	<string id="y_aa_13">¡Ayuda a [ポケモン名]!</string>
+	<string id="y_aa_14">No has podido abrir el cofre.</string>
+	<string id="y_aa_15">No has abierto el cofre.</string>
+
+	<string id="h_ca_21">Ver el tráiler</string>
+	
+	<string id="fr_aa_16">Entrar</string>
+
 </data>
+
+

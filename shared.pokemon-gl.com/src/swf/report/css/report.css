@@ -1,258 +1,613 @@
-/* AUTO-GENERATED PGL STUB: /en.pokemon-gl.com/src/swf/report/css/report.css */
-/* offline report layout fallback for missing asset /en.pokemon-gl.com/src/swf/report/css/report.css */
+
+/*
+@import url(http://fonts.googleapis.com/css?family=Lato:700|Nova+Mono|Exo:600);
+*/
+@import url(http://fonts.googleapis.com/css?family=Lato:400,700,900|Nova+Mono);
+@import url(gts-top.css);
+@import url(gts-ranking.css);
+@import url(gts-pokemon.css);
+@import url(gts-area.css);
+@import url(gbu.css);
+@import url(wifi.css);
+@import url(global-records.css);
+
+img {
+  -ms-interpolation-mode: bicubic;
+}
+
+#header {
+  position: relative;
+  z-index: 1010;
+}
+#main {
+  font-family: Lato, Verdana, 'ヒラギノ角ゴ Pro W3', 'Hiragino Kaku Gothic Pro', Osaka, 'メイリオ', Meiryo, 'ＭＳ Ｐゴシック', 'MS P Gothic', sans-serif;
+}
 #report {
-  margin-top: 14px;
-  color: #222;
-  font-size: 14px;
-  line-height: 1.35;
-}
-#report * {
-  box-sizing: border-box;
-}
-#report a {
-  color: #3f5568;
-  text-decoration: underline;
-}
-#report a:hover {
-  color: #223748;
-}
-#report h2 {
-  margin: 0 0 10px;
-  padding: 0;
-  color: #111;
-  font-size: 44px;
-  line-height: 1;
-}
-#report h3 {
-  margin: 0 0 8px;
-  padding: 0;
-  color: #111;
+  margin-top: -30px;
+  min-height: 1200px;
+  background: #111;
 }
 #report-header {
-  margin: 0 0 12px;
-  padding: 12px 14px;
-  border: 1px solid #9f9f9f;
-  background: #d6d6d6;
+  position: relative;
+  z-index: 100;
+  width: 995px;
+  height: 96px;
+  border-left: solid 8px #BEBE6E;
+  background: url(../ja/report-header.png) 0px 0px;
+}
+.logged-in-black #report-header {
+  border-left-color: #646464;
+}
+.logged-in-white #report-header {
+  border-left-color: #B4B4B4;
+}
+.logged-in-black2 #report-header {
+  border-left-color: #0FE6FF;
+}
+.logged-in-white2 #report-header {
+  border-left-color: #FF8A00;
 }
 #report-header h1 {
-  margin: 0 0 10px;
-  font-size: 28px;
-  line-height: 1;
-}
-#report-header .nav a {
-  display: inline-block;
-  margin-right: 8px;
-  margin-bottom: 6px;
-  padding: 6px 10px;
-  border: 1px solid #7f7f7f;
-  border-radius: 2px;
-  background: #efefef;
-  color: #1f1f1f;
-  text-decoration: none;
-}
-#report-header .nav a.selected,
-#report-header .nav a:hover {
-  background: #111;
-  border-color: #111;
-  color: #fff;
-}
-#report-contents > div {
-  margin-bottom: 14px;
-  padding: 12px;
-  border: 1px solid #b7b7b7;
-  background: #f2f2ef;
-}
-#report .updated-at {
-  margin-bottom: 8px;
-  text-align: right;
-  color: #555;
-}
-#report .nav-back {
-  margin-top: 10px;
-}
-#report .map {
-  margin-bottom: 12px;
-  min-height: 210px;
-  border: 1px solid #9a9a9a;
-  border-radius: 2px;
-  background: #cdd3d8;
-}
-#gts-top-trade {
-  display: flex;
-  gap: 12px;
-  flex-wrap: wrap;
-}
-.gts-top-trade-deposit {
-  flex: 1 1 360px;
-  padding: 10px;
-  border: 1px solid #a7a7a7;
-  background: #fff;
-}
-.gts-top-trade-deposit .pokemon {
-  position: relative;
-  min-height: 130px;
-  padding-right: 110px;
-}
-.gts-top-trade-deposit .pokemon .name {
-  margin-bottom: 4px;
-  font-size: 18px;
-  font-weight: 700;
-}
-.gts-top-trade-deposit .pokemon .image {
   position: absolute;
-  right: 6px;
-  top: 6px;
-  width: 96px;
+  left: 0;
+  top: 0;
+  width: 352px;
   height: 96px;
-  border: 1px solid #c3c3c3;
-  background: #efefef;
+  background: url(../ja/report-header.png) 0px 0px;
+  text-indent: -9000px;
+  margin: 0;
 }
-.gts-top-trade-deposit .pokemon .level,
-.gts-top-trade-deposit .pokemon .nickname,
-.gts-top-trade-deposit .pokemon .nature,
-.gts-top-trade-deposit .user .name,
-.gts-top-trade-deposit .user .area,
-.gts-top-trade-deposit .deposited-at {
-  margin-bottom: 4px;
-}
-.gts-top-trade-deposit .types ol,
-.gts-top-trade-deposit .moves {
-  margin: 0 0 5px;
-  padding-left: 18px;
-}
-#gts-top-stats {
-  display: grid;
-  gap: 8px;
-  grid-template-columns: repeat(2, minmax(240px, 1fr));
-}
-#gts-top-stats > div {
-  min-height: 54px;
-  padding: 8px 10px;
-  border: 1px solid #a0a0a0;
-  background: #787b79;
-  color: #fff;
-}
-#gts-top-stats .value {
+#report-header a {
+  position: absolute;
+  top: 0px;
+  width: 160px;
+  height: 109px;
   display: block;
-  margin-top: 2px;
-  font-size: 22px;
-  font-weight: 700;
-  line-height: 1;
+  background: url(../ja/report-header.png) 0px 0px;
+  text-indent: -9000px;
 }
-#gts-ranking-selector {
-  margin: 8px 0 12px;
-}
-#gts-ranking-selector a {
-  display: inline-block;
-  margin: 0 6px 6px 0;
-  padding: 6px 10px;
-  border: 1px solid #9a9a9a;
-  background: #e5e5e5;
-  color: #222;
-  text-decoration: none;
-}
-#gts-ranking-selector a.selected,
-#gts-ranking-selector a:hover {
-  background: #222;
-  border-color: #222;
-  color: #fff;
-}
-.pokemon-ranking {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 8px;
-  margin: 0;
-  padding: 0;
-  list-style: none;
-}
-.pokemon-ranking .ranking-entry {
-  position: relative;
-  width: calc(20% - 8px);
-  min-width: 180px;
-  min-height: 72px;
-  padding: 8px 8px 8px 50px;
-  border: 1px solid #a6a6a6;
-  background: #fff;
-}
-.pokemon-ranking .ranking {
-  position: absolute;
-  left: 8px;
+#report-header a.selected {
   top: 10px;
-  font-size: 18px;
-  font-weight: 700;
 }
-.pokemon-ranking .image {
-  width: 64px;
-  height: 64px;
-  border: 1px solid #d1d1d1;
-  background: #f1f1f1;
+#report-header a#report-header-gts {
+  left: 352px;
+  background-position: -352px 0px;
 }
-.pokemon-ranking .name {
-  margin-top: 4px;
-  font-weight: 700;
+#report-header a#report-header-gbu {
+  left: 512px;
+  background-position: -512px 0px;
 }
-#gts-pokemon-pokemon,
-#gts-area-area,
-#gts-area-rankings,
-#gts-area-deposits,
-#wifi-comp-list,
-#wifi-comp-detail,
-#global-records,
-#gbu-top,
-#gbu-season-ranking,
-#gbu-season-trend {
-  margin-bottom: 12px;
-  padding: 10px;
-  border: 1px solid #a7a7a7;
-  background: #fff;
+#report-header a#report-header-wifi-competitions {
+  left: 672px;
+  background-position: -672px 0px;
 }
-#gts-pokemon-pokemon .image img {
-  max-width: 160px;
-  max-height: 160px;
+#report-header a#report-header-global-records {
+  left: 832px;
+  background-position: -832px 0px;
 }
-#gts-area-rankings ol,
-#gts-area-deposits ol,
-#wifi-comp-list ol,
-#global-records ol,
-#gbu-season-ranking ol,
-#gbu-season-trend ol {
-  margin: 0;
-  padding-left: 22px;
+#report-header a#report-header-gts:hover {
+  background-position: -352px -109px;
 }
-#global-records-control .dropdown,
-#dialog-pokemon-selector,
-#dialog-area-selector,
-#dialog-ranking-selector,
-#dialog-gbu-records {
-  border: 1px solid #757575;
-  background: #ececec;
+#report-header a#report-header-gbu:hover {
+  background-position: -512px -109px;
 }
-#dialog-pokemon-selector .scroller,
-#dialog-area-selector .scroller {
-  max-height: 360px;
+#report-header a#report-header-wifi-competitions:hover {
+  background-position: -672px -109px;
 }
-.balloon {
+#report-header a#report-header-global-records:hover {
+  background-position: -832px -109px;
+}
+
+
+
+
+.android #report-header a {
+  top: 35px;
+  height: 74px;
+}
+.android #report-header a.selected {
+  top: 45px;
+}
+.android #report-header a#report-header-gts {
+  background-position: -352px -35px;
+}
+.android #report-header a#report-header-gbu {
+  background-position: -512px -35px;
+}
+.android #report-header a#report-header-wifi-competitions {
+  background-position: -672px -35px;
+}
+.android #report-header a#report-header-global-records {
+  background-position: -832px -35px;
+}
+.android #report-header a#report-header-gts:hover {
+  background-position: -352px -144px;
+}
+.android #report-header a#report-header-gbu:hover {
+  background-position: -512px -144px;
+}
+.android #report-header a#report-header-wifi-competitions:hover {
+  background-position: -672px -144px;
+}
+.android #report-header a#report-header-global-records:hover {
+  background-position: -832px -144px;
+}
+
+
+
+
+.gts-nav-top,
+.gts-nav-ranking,
+.gts-nav-pokemon,
+.gts-nav-pokemon-select,
+.gts-nav-area,
+.gts-nav-area-select,
+.gbu-nav-ranking,
+.gbu-nav-trend,
+.gbu-nav-yourrecords,
+.wifi-competitions-nav-wifi,
+.global-records-nav-area {
+  display: block;
+  background: url(../ja/report-buttons.png) 0px 0px;
+  text-indent: -9000px;
+}
+.global-records-nav-area {
+  cursor: pointer;
+}
+.gts-nav-top,
+.gts-nav-ranking,
+.gts-nav-pokemon,
+.gts-nav-area,
+.gbu-nav-ranking,
+.gbu-nav-trend {
+  width: 200px;
+  height: 45px;
+}
+.gts-nav-pokemon-select,
+.gts-nav-area-select,
+.wifi-competitions-nav-wifi,
+.global-records-nav-area {
+  width: 160px;
+  height: 28px;
+}
+.gbu-nav-yourrecords {
+  width: 182px;
+  height: 28px;
   position: absolute;
-  z-index: 901;
-  padding: 8px;
-  border: 1px solid #6f6f6f;
-  background: #fff;
+  left: 40px;
+  top: 367px;
 }
-#report .date-from {
-  margin-top: 8px;
-  color: #444;
+.gts-nav-top {
+  width: 56px;
+  background-position: -353px -0px;
 }
-@media (max-width: 1100px) {
-  .pokemon-ranking .ranking-entry {
-    width: calc(25% - 8px);
-  }
+.gts-nav-ranking {
+  background-position: -0px -0px;
 }
-@media (max-width: 900px) {
-  #gts-top-stats {
-    grid-template-columns: 1fr;
-  }
-  .pokemon-ranking .ranking-entry {
-    width: calc(33.333% - 8px);
-    min-width: 150px;
-  }
+.gts-nav-pokemon {
+  background-position: -0px -45px;
 }
+.gts-nav-area {
+  background-position: -0px -90px;
+}
+.gts-nav-pokemon-select {
+  background-position: -0px -135px;
+}
+.gts-nav-area-select {
+  background-position: -0px -163px;
+}
+.gts-nav-ranking:hover {
+  background-position: -200px -0px;
+}
+.gts-nav-pokemon:hover {
+  background-position: -200px -45px;
+}
+.gts-nav-area:hover {
+  background-position: -200px -90px;
+}
+.gts-nav-pokemon-select:hover {
+  background-position: -160px -135px;
+}
+.gts-nav-area-select:hover {
+  background-position: -160px -163px;
+}
+
+.gbu-nav-ranking {
+  background-position: -400px -0px;
+}
+.gbu-nav-ranking:hover {
+  background-position: -600px -0px;
+}
+.gbu-nav-trend {
+  background-position: -400px -45px;
+}
+.gbu-nav-trend:hover {
+  background-position: -600px -45px;
+}
+.global-records-nav-area {
+  background-position: -0px -191px;
+}
+.global-records-nav-area:hover {
+  background-position: -160px -191px;
+}
+.gbu-nav-yourrecords {
+  background-position: -498px -247px;
+}
+.gbu-nav-yourrecords:hover {
+  background-position: -498px -275px;
+}
+.wifi-competitions-nav-wifi {
+  background-position: -640px -135px;
+}
+.wifi-competitions-nav-wifi:hover {
+  background-position: -640px -163px;
+}
+
+
+
+.type-1 { background-position: 0 -0px; }
+.type-2 { background-position: 0 -17px; }
+.type-3 { background-position: 0 -34px; }
+.type-4 { background-position: 0 -68px; }
+.type-5 { background-position: 0 -51px; }
+.type-6 { background-position: 0 -204px; }
+.type-7 { background-position: 0 -136px; }
+.type-8 { background-position: 0 -85px; }
+.type-9 { background-position: 0 -119px; }
+.type-10 { background-position: 0 -170px; }
+.type-11 { background-position: 0 -102px; }
+.type-12 { background-position: 0 -153px; }
+.type-13 { background-position: 0 -187px; }
+.type-14 { background-position: 0 -221px; }
+.type-15 { background-position: 0 -238px; }
+.type-16 { background-position: 0 -255px; }
+.type-17 { background-position: 0 -272px; }
+.type-0 { background-position: 0 -289px; }
+
+
+/*
+.type-1 { background-position: 0 -0px; }
+.type-2 { background-position: 0 -17px; }
+.type-3 { background-position: 0 -34px; }
+.type-4 { background-position: 0 -51px; }
+.type-5 { background-position: 0 -68px; }
+.type-6 { background-position: 0 -85px; }
+.type-7 { background-position: 0 -102px; }
+.type-8 { background-position: 0 -119px; }
+.type-9 { background-position: 0 -136px; }
+.type-10 { background-position: 0 -153px; }
+.type-11 { background-position: 0 -170px; }
+.type-12 { background-position: 0 -187px; }
+.type-13 { background-position: 0 -204px; }
+.type-14 { background-position: 0 -221px; }
+.type-15 { background-position: 0 -238px; }
+.type-16 { background-position: 0 -255px; }
+.type-17 { background-position: 0 -272px; }
+.type-0 { background-position: 0 -289px; }
+*/
+
+
+
+
+
+/* ページャー矢印 */
+.pager .prev,
+.pager .next {
+  display: block;
+  width: 22px;
+  height: 57px;
+  background-image: url(../images/gbu-ranking-ui.png);
+  border-style: none;
+  text-indent: -9000px;
+  cursor: pointer;
+}
+.pager .prev {
+  background-position: 0 0;
+}
+.pager .next {
+  background-position: -23px 0;
+}
+
+
+/* ポケモン性別 */
+.sex {
+  width: 16px;
+  height: 16px;
+  cursor: default;
+  background-image: url(../images/sex-icon.png);
+  text-indent: -9000px;
+}
+.sex-0 {
+  background-position: left top;
+}
+.sex-1 {
+  background-position: right top;
+}
+.sex-2 {
+  display: none;
+}
+
+.hour-0 .scroll-map { background-image: url(../images/earth/0.jpg); }
+.hour-1 .scroll-map { background-image: url(../images/earth/1.jpg); }
+.hour-2 .scroll-map { background-image: url(../images/earth/2.jpg); }
+.hour-3 .scroll-map { background-image: url(../images/earth/3.jpg); }
+.hour-4 .scroll-map { background-image: url(../images/earth/4.jpg); }
+.hour-5 .scroll-map { background-image: url(../images/earth/5.jpg); }
+.hour-6 .scroll-map { background-image: url(../images/earth/6.jpg); }
+.hour-7 .scroll-map { background-image: url(../images/earth/7.jpg); }
+.hour-8 .scroll-map { background-image: url(../images/earth/8.jpg); }
+.hour-9 .scroll-map { background-image: url(../images/earth/9.jpg); }
+.hour-10 .scroll-map { background-image: url(../images/earth/10.jpg); }
+.hour-11 .scroll-map { background-image: url(../images/earth/11.jpg); }
+.hour-12 .scroll-map { background-image: url(../images/earth/12.jpg); }
+.hour-13 .scroll-map { background-image: url(../images/earth/13.jpg); }
+.hour-14 .scroll-map { background-image: url(../images/earth/14.jpg); }
+.hour-15 .scroll-map { background-image: url(../images/earth/15.jpg); }
+.hour-16 .scroll-map { background-image: url(../images/earth/16.jpg); }
+.hour-17 .scroll-map { background-image: url(../images/earth/17.jpg); }
+.hour-18 .scroll-map { background-image: url(../images/earth/18.jpg); }
+.hour-19 .scroll-map { background-image: url(../images/earth/19.jpg); }
+.hour-20 .scroll-map { background-image: url(../images/earth/20.jpg); }
+.hour-21 .scroll-map { background-image: url(../images/earth/21.jpg); }
+.hour-22 .scroll-map { background-image: url(../images/earth/22.jpg); }
+.hour-23 .scroll-map { background-image: url(../images/earth/23.jpg); }
+
+/* ここまで */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#gts-pokemon-pokemon .names {
+  display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#dialog-pokemon-selector {
+  display: none;
+  width: 878px;
+  height: 483px;
+  position: relative;
+  background: url(../images/dialog-pokemon-selector-bg.png);
+}
+#dialog-pokemon-selector .tabs {
+  width: 780px;
+  height: 30px;
+  position: absolute;
+  left: 23px;
+  top: 25px;
+}
+#dialog-pokemon-selector .tabs a {
+  width: 260px;
+  height: 30px;
+  display: block;
+  float: left;
+  background: url(../ja/dialog-pokemon-selector-buttons.png);
+  cursor: pointer;
+  text-indent: -9000px;
+}
+#dialog-pokemon-selector .tabs a#dialog-pokemon-selector-by-name {
+  background-position: -0px -30px;
+}
+#dialog-pokemon-selector .tabs a#dialog-pokemon-selector-by-pokedex {
+  background-position: -260px -30px;
+}
+#dialog-pokemon-selector .tabs a#dialog-pokemon-selector-from-bookmark {
+  background-position: -520px -30px;
+}
+#dialog-pokemon-selector .tabs a#dialog-pokemon-selector-by-name:hover,
+#dialog-pokemon-selector .tabs a#dialog-pokemon-selector-by-name.selected {
+  background-position: -0px -0px;
+}
+#dialog-pokemon-selector .tabs a#dialog-pokemon-selector-by-pokedex:hover,
+#dialog-pokemon-selector .tabs a#dialog-pokemon-selector-by-pokedex.selected {
+  background-position: -260px -0px;
+}
+#dialog-pokemon-selector .tabs a#dialog-pokemon-selector-from-bookmark:hover,
+#dialog-pokemon-selector .tabs a#dialog-pokemon-selector-from-bookmark.selected {
+  background-position: -520px -0px;
+}
+#dialog-pokemon-selector .tabs a.selected {
+}
+#dialog-pokemon-selector .close,
+#dialog-area-selector .close {
+  width: 28px;
+  height: 28px;
+  display: block;
+  position: absolute;
+  right: 30px;
+  top: 28px;
+  background: url(../images/dialog-ui.png) -185px 0;
+  text-indent: -9000px;
+  cursor: pointer;
+}
+#dialog-pokemon-selector .index {
+  position: absolute;
+  left: 21px;
+  top: 65px;
+  width: 87px;
+}
+#dialog-pokemon-selector .index li {
+  position: relative;
+  list-style-type: none;
+  width: 87px;
+  height: 20px;
+  margin-bottom: 1px;
+  cursor: pointer;
+  background: url(../images/dialog-ui.png) -98px -0px;
+  color: #CCC;
+  font-size: 12px;
+}
+#dialog-pokemon-selector .index li:hover {
+  background-position: -98px -20px;
+}
+#dialog-pokemon-selector .scroller {
+  position: absolute;
+  left: 111px;
+  top: 65px;
+  width: 731px;
+  height: 386px;
+  overflow: auto;
+}
+#dialog-pokemon-selector .scroller ul li {
+  position: relative;
+  list-style-type: none;
+  float: left;
+  width: 98px;
+  height: 110px;
+  margin-right: 1px;
+  margin-bottom: 1px;
+  cursor: pointer;
+  background: url(../images/dialog-ui.png) 0 0;
+  color: #CCC;
+}
+#dialog-pokemon-selector .scroller ul li:hover {
+  background-position: -382px 0;
+}
+#dialog-pokemon-selector .scroller ul li .pokedex {
+  position: absolute;
+  left: 6px;
+  top: 6px;
+  font-size: 12px;
+}
+#dialog-pokemon-selector .scroller ul li .image img {
+  position: absolute;
+  left: 14px;
+  top: 9px;
+  width: 70px;
+  height: 84px;
+}
+#dialog-pokemon-selector .scroller ul li .name {
+  position: absolute;
+  left: 5px;
+  top: 90px;
+  font-size: 11px;
+}
+#dialog-pokemon-selector .scroller .empty {
+  display: none;
+  margin-top: 180px;
+  color: #FFF;
+}
+
+
+#dialog-area-selector {
+  display: none;
+  width: 790px;
+  height: 483px;
+  position: relative;
+  background: url(../images/dialog-area-selector-bg.png);
+}
+#dialog-area-selector .map {
+  position: absolute;
+  left: 26px;
+  top: 80px;
+  width: 399px;
+  height: 211px;
+  background: url(../images/dialog-ui.png) -0px -110px;
+}
+#dialog-area-selector .map .marker {
+  list-style-type: none;
+  position: absolute;
+  width: 3px;
+  height: 17px;
+  padding-left: 18px;
+  padding-top: 4px;
+  background: url(../images/gts-pokemon-ui.png) -317px -263px;
+  font-size: 10px;
+  color: yellow;
+  text-indent: -9000px;
+  cursor: pointer;
+}
+#dialog-area-selector .map .marker.active {
+  text-indent: 0;
+  background-position: -338px -263px;
+  z-index: 100;
+}
+#wifi-comp-detail .comp-spec .areas .marker.active {
+  text-indent: 0;
+  background-position: -338px -263px;
+}
+#dialog-area-selector .scroller {
+  width: 319px;
+  height: 392px;
+  overflow: auto;
+  position: absolute;
+  left: 435px;
+  top: 64px;
+}
+#dialog-area-selector ul li {
+  list-style-type: none;
+  width: 284px;
+  height: 23px;
+  padding-top: 4px;
+  margin-bottom: 1px;
+  cursor: pointer;
+  color: #FFF;
+  background: url(../images/dialog-ui.png) -98px -40px;
+  font-size: 13px;
+}
+#dialog-area-selector ul li.active {
+  background-position: -98px -67px;
+}
+
+#dialog-area-selector .map .marker,
+#dialog-area-selector ul li {
+  display: none;
+}
+#dialog-area-selector .map .marker.has-detail,
+#dialog-area-selector ul li.has-detail {
+  display: block;
+}
+#dialog-area-selector.pgl-mode .map .marker,
+#dialog-area-selector.pgl-mode ul li {
+  display: block;
+}
+
+
+
+/* IE7 */
+#gts-top { *z-index: 4; }
+#gts-ranking { *z-index: 3; }
+#gts-pokemon { *z-index: 2; }
+#gts-area { *z-index: 1; }
+#gbu-top { *z-index: 3; }
+#gbu-season-ranking { *z-index: 2; }
+#gbu-season-trend { *z-index: 1; }
+
+
+
+.language-en #report .game-card-name-fbs,
+.language-fr #report .game-card-name-fbs,
+.language-it #report .game-card-name-fbs,
+.language-de #report .game-card-name-fbs,
+.language-es #report .game-card-name-fbs {
+  margin-right: 2px;
+}
+
