@@ -1,0 +1,49 @@
+form fieldset div.bot .pgl_radio {
+	text-align:center;
+	margin:20px;
+}
+
+form fieldset div.bot .pgl_radio ul > li {
+	display:inline;
+}
+
+form fieldset div.bot .pgl_radio ul > li > label {
+	width:140px;
+	height:23px;
+	padding-top:7px;
+	color:white;
+	background:url(../img/button-choice.png);
+	cursor:pointer;
+	display:inline-block;
+	float:none;
+    margin:0;
+    text-align:center;
+    font-size:12px;
+}
+
+form fieldset div.bot .pgl_radio.readonly ul > li > label {
+	cursor:default;
+}
+
+form fieldset div.bot .pgl_radio ul > li > label.on {
+	background:url(../img/button-choice-on.png) !important;
+}
+
+form fieldset div.bot .pgl_radio:not(.readonly) ul > li > label:hover {
+	background:url(../img/button-choice-hover.png);
+}
+
+form fieldset div.bot .pgl_radio ul > li > label.disabled {
+	background:url(../img/button-choice-disabled.png);
+	color:#666;
+    cursor:default;
+}
+
+form fieldset div.bot .pgl_radio ul > li > label > input {
+	margin-left:-9999px;
+	position:absolute;
+}
+
+form.agegate-fail label {
+    width: 225px;
+}

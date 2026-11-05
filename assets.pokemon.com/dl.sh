@@ -1,0 +1,5 @@
+python3 dl.py "https://assets.pokemon.com/static/ko/js/compiled.https.js"
+python3 dl.py "https://assets.pokemon.com/static_op/js/i18n/ui.datepicker-ko.js"
+python3 dl.py "https://assets.pokemon.com/static_op/js/i18n/ui.timepicker-ko.js"
+python3 dl.py "https://assets.pokemon.com/static/ko/img/icons/flag.gif"
+python3 dl.py "https://assets.pokemon.com/static_op/pgl/img/header-ko.png"

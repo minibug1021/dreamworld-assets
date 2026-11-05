@@ -1,0 +1,454 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    <title>Pokémon Trainer Club</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Language" content="en" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <link rel="shortcut icon" href="https://assets.pokemon.com/static/img/favicon.ico" />
+    <link rel="stylesheet" type="text/css" media="screen" href="https://assets.pokemon.com/static_op/pgl/css/reset.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="https://assets.pokemon.com/static_op/pgl/css/gus.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="https://assets.pokemon.com/static_op/css/pgl-prefs.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="https://assets.pokemon.com/static_op/css/jquery-ui-1.7.2.custom.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="https://assets.pokemon.com/static_op/pgl/css/style.css">
+
+    <!--[if lte IE 7]><link rel="stylesheet" type="text/css" media="screen" href="https://assets.pokemon.com/static_op/pgl/css/ie7.css"><![endif]-->
+
+    <script type="text/javascript" src="https://ssl.google-analytics.com/ga.js" charset="utf-8"></script>
+    <script type="text/javascript" src="https://assets.pokemon.com/static/en/js/compiled.https.js" charset="utf-8"></script>
+    <script type="text/javascript" src="https://assets.pokemon.com/static_op/js/op_compressed.js" charset="utf-8"></script>
+
+    <script type="text/javascript" src="https://assets.pokemon.com/static_op/js/i18n/ui.datepicker-en-US.js" charset="utf-8"></script>
+    <script type="text/javascript" src="https://assets.pokemon.com/static_op/js/i18n/ui.timepicker-en-US.js" charset="utf-8"></script>
+
+
+<script type='text/javascript' charset='utf-8'>
+	function onLoad(){
+		var subButtons = document.getElementsByName('btn-accept')
+		function disableSubmit(inputVar){
+			inputVar.disabled=true;
+			if (inputVar.form.getAttribute('submitted') == 'true') {
+				return false;
+			}
+			inputVar.form.submit();
+			inputVar.form.setAttribute('submitted', 'true');
+			return false;
+		}
+		function disableSubmitNonListener(){
+			return disableSubmit(event.srcElement);
+		}
+		function disableSubmitListener(){
+			return disableSubmit(this);
+		}
+
+		for( var i in subButtons ){
+			if( subButtons[i].addEventListener ){
+				subButtons[i].addEventListener('click',disableSubmitListener, false);
+			}else if(subButtons[i].attachEvent){
+				subButtons[i].attachEvent('onclick',disableSubmitNonListener );
+			}
+		}
+
+		var pglRadios = document.getElementsByTagName('div');
+		for (var i = 0; i < pglRadios.length; i++) {
+			if (pglRadios[i].className.indexOf('pgl_radio') === -1) { continue; }
+			var labels = pglRadios[i].getElementsByTagName('label');
+			for (var j = 0; j < labels.length; j++) {
+				labels[j].onclick = (function(container){
+					return function(){
+						var allLabels = container.getElementsByTagName('label');
+						for (var k = 0; k < allLabels.length; k++) {
+							allLabels[k].className = allLabels[k].className.replace(/\bon\b/, '').replace(/\s+$/,'');
+						}
+						this.className = (this.className + ' on').replace(/\s+/g,' ').replace(/^\s+/,'');
+					};
+				})(pglRadios[i]);
+			}
+		}
+	}
+
+    if (window.addEventListener){
+    	window.addEventListener('load', onLoad, false);
+	} else if (window.attachEvent){
+    	window.attachEvent('onload', onLoad );
+	}
+
+</script>
+
+
+</head>
+<body class="en">
+
+    <iframe id="gus" src="https://edgecastcdn.net/002759/origin/gus.pokemon/en/" border="0" frameborder="0" allowtransparency="true" scrolling="no" marginwidth="0" marginheight="0"></iframe>
+
+    <div id="background">
+        <div id="container">
+            <div id="header">
+            </div>
+
+
+<ol class="step-indicator">
+    <li class="first">
+        Create Your Account
+    </li>
+    <li class="in second">
+        Activate Your Account
+    </li>
+    <li class="third">
+        Sign Up Complete
+    </li>
+</ol>
+<div id="content">
+
+<form id="account2" method="post">
+
+<fieldset>
+	<legend>Username</legend>
+	<div class="top">
+		<span class="visibleLegend">Username</span>
+		<span class="required">*Required Field</span>
+	</div>
+	<div class="bot">
+		<p class="intro">Enter your full name, a username, and a password. Also enter a screen name that may appear publicly on Pokemon.com. Note: your screen name is not the same as your PGL Nickname.</p>
+		<ol>
+			<li>
+				<label for="id_firstname">*First Name</label>
+				<input id="id_firstname" type="text" class="required" name="firstname" />
+			</li>
+			<li>
+				<label for="id_lastname">Last Name</label>
+				<input id="id_lastname" type="text" name="lastname" />
+			</li>
+			<li>
+				<label for="id_username">*Username</label>
+				<input id="id_username" type="text" class="required" name="username" />
+				<span class="subInput">(Example: Trainer123. Please do not use your real name in your username.)</span>
+			</li>
+			<li>
+				<label for="id_screenname">*Screen Name</label>
+				<input id="id_screenname" type="text" class="required" name="screenname" />
+				<span class="subInput">(No more than 15 characters. Please do not use your real name in your screen name.)</span>
+			</li>
+		</ol>
+	</div>
+</fieldset>
+
+<fieldset>
+	<legend>Password</legend>
+	<div class="top">
+		<span class="visibleLegend">Password</span>
+		<span class="required">*Required Field</span>
+	</div>
+	<div class="bot">
+		<ol>
+			<li>
+				<label for="id_password">*Password</label>
+				<input id="id_password" type="password" class="required" name="password" />
+			</li>
+			<li>
+				<label for="id_password_confirm">*Confirm Password</label>
+				<input id="id_password_confirm" type="password" class="required" name="password_confirm" />
+				<span class="subInput">The length must be between 6 and 15 characters.</span>
+			</li>
+		</ol>
+	</div>
+</fieldset>
+
+<fieldset>
+	<legend>Email Address</legend>
+	<div class="top">
+		<span class="visibleLegend">Email Address</span>
+		<span class="required">*Required Field</span>
+	</div>
+	<div class="bot">
+		<ol>
+			<li>
+				<label for="id_email">*Email Address</label>
+				<input id="id_email" type="text" class="required" name="email" />
+				<span class="subInput">(Example: johnsmith@gmail.com)</span>
+			</li>
+		</ol>
+	</div>
+</fieldset>
+
+<fieldset>
+	<legend>Account Preferences</legend>
+	<div class="top">
+		<span class="visibleLegend">Account Preferences</span>
+		<span class="required">*Required Field</span>
+	</div>
+	<div class="bot">
+		<p class="intro"><i>Options below can be changed later through your user profile area.</i></p>
+		<ol>
+			<li class="option">
+				<input id="id_privacy" type="checkbox" name="privacy" />
+				<label for="id_privacy">I want to display my Pokémon Trainer Club profile publicly. This includes content such as my Trainer image, screen name, and game statistics.<br /><b>Note:</b> Personal information such as your real name is always kept private.</label>
+			</li>
+			<li class="option">
+				<input id="id_email_nag" type="checkbox" name="email_nag" />
+				<label for="id_email_nag">I would like to receive marketing email messages, including information about future online games, from The Pokémon Company International.</label>
+			</li>
+		</ol>
+	</div>
+</fieldset>
+
+<fieldset>
+	<legend>Pokémon Global Link Preferences</legend>
+	<div class="top">
+		<span class="visibleLegend">Pokémon Global Link Preferences</span>
+		<span class="required">*Required Field</span>
+	</div>
+	<div class="bot">
+		<ol>
+			<li>
+				<div for="id_pgl_privacy">Choose who can see your Pokémon Global Link profile:</div>
+				<div class="pgl_radio">
+					<ul>
+						<li>
+							<label class="on" for="id_pgl_privacy_everyone">
+								<input type="radio" id="id_pgl_privacy_everyone" name="pgl_privacy" value="everyone" checked="checked" />
+								Everyone
+							</label>
+						</li>
+						<li>
+							<label for="id_pgl_privacy_friends">
+								<input type="radio" id="id_pgl_privacy_friends" name="pgl_privacy" value="friends" />
+								Just Friends
+							</label>
+						</li>
+						<li>
+							<label for="id_pgl_privacy_nobody">
+								<input type="radio" id="id_pgl_privacy_nobody" name="pgl_privacy" value="nobody" />
+								Nobody
+							</label>
+						</li>
+					</ul>
+				</div>
+			</li>
+			<li>
+				<div for="id_dw_privacy">Choose who can see your Game Pal and Dream Pal Rosters.</div>
+				<div class="pgl_radio">
+					<ul>
+						<li>
+							<label class="on" for="id_dw_privacy_everyone">
+								<input type="radio" id="id_dw_privacy_everyone" name="dw_privacy" value="everyone" checked="checked" />
+								Everyone
+							</label>
+						</li>
+						<li>
+							<label for="id_dw_privacy_friends">
+								<input type="radio" id="id_dw_privacy_friends" name="dw_privacy" value="friends" />
+								Just Friends
+							</label>
+						</li>
+						<li>
+							<label for="id_dw_privacy_nobody">
+								<input type="radio" id="id_dw_privacy_nobody" name="dw_privacy" value="nobody" />
+								Nobody
+							</label>
+						</li>
+					</ul>
+				</div>
+			</li>
+		</ol>
+	</div>
+</fieldset>
+
+<fieldset>
+	<legend>Pokémon Global Link Preferences</legend>
+	<div class="top">
+		<span class="visibleLegend">Pokémon Global Link Preferences</span>
+		<span class="required">*Required Field</span>
+	</div>
+	<div class="bot">
+		<ol>
+			<li class="option">
+				<input id="id_terms_use" type="checkbox" class="required" name="terms_use" />
+				<label for="id_terms_use">I accept the terms of use for this website.</label>
+				<textarea class="full" readonly="readonly" style="font-family:monospace;">Terms of Service here</textarea>
+			</li>
+			<li class="option">
+				<input id="id_terms_use_pgl" type="checkbox" class="required" name="terms_use_pgl" />
+				<label for="id_terms_use_pgl">I accept the terms of use for the Pokémon Global Link website.</label>
+				<textarea class="full" readonly="readonly" style="font-family:monospace;">Terms of Service here</textarea>
+			</li>
+		</ol>
+	</div>
+</fieldset>
+
+<li class="buttons">
+	<input type="submit" value="Submit" class="submit" name="btn-accept" />
+</li>
+
+</form>
+
+</div>
+
+        </div>
+    </div>
+    <div id="footer">
+        <a href="http://www.pokemon.com/en" id="pokemon-company-logo"></a>
+        <div id="footer-links">
+            <a href="/en/support">Customer Service</a>
+            <a href="/en/parents/">Parents Guide to Pokémon</a>
+            <a href="/en/about/">About TPCi</a>
+            <a href="/en/site-map/">Site Map</a>
+            <a href="/countryselect">Select a Country <img src="https://assets.pokemon.com/static/en/img/icons/flag.gif" width="11" height="9"/></a>
+        </div>
+        <div id="esrb">
+            <a href="http://www.pokemon.com/us/privacy-policy/#kids" id="esrb-kids"></a>
+        </div>
+        <div id="footer-legal">
+            <div id="footer-legal-links">
+                <a href="/en/terms-of-use/">Terms of Use</a>
+                <span class="footer-legal-links-separator">|</span>
+                <a href="/en/privacy-policy/">Privacy Policy</a>
+                <span class="footer-legal-links-separator">|</span>
+                <a href="/en/about/legal/">Legal Info</a>
+            <div>
+                <p id="copyright">© 2012 Pokémon.</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="genericTooltip">
+        <div class="top"></div>
+        <div class="content"></div>
+        <div class="bottom"></div>
+        <div class="arrow"></div>
+    </div>
+
+<div id="exitWarning">
+	<p class="din">¡Estás a punto de salir de <strong>pokemon.com</strong>!</p>
+	<div class="content">
+		<p class="legal">
+
+			La compañía The Pokémon Company International no se responsabilizará del contenido de ningún sitio web enlazado que no gestione la compañía The Pokémon Company International. Ten en cuenta que las prácticas de políticas de privacidad y seguridad de estos sitios web pueden ser distintas de los estándares de The Pokémon Company International.
+
+		</p>
+		<div class="clear"></div>
+		<div class="left">
+			<a class="btn btn-bgb" href="#" >
+				<span class="left"></span>
+				<span class="mid">Continue</span>
+				<span class="right"></span>
+			</a>
+			<div class="clear"></div>
+			<a class="btn btn-lbwhite" href="#" >
+				<span class="left"></span>
+				<span class="mid">Cancel</span>
+				<span class="right"></span>
+			</a>
+			<div class="clear"></div>
+		</div>
+
+		<div class="right"></div>
+		<div class="clear"></div>
+	</div>
+</div>
+
+    <div id="ie6warning">
+        <div class="inside">
+            <a href="#" class="close"><span class="offscreen">Cerrar ventana</span></a>
+
+            <div class="clear"></div>
+
+            <div class="warning">
+                <p><strong>Ten en cuenta que es posible que algunas zonas de pokemon.com no se muestren correctamente en tu navegador.</strong></p>
+                <p>Actualiza tu navegador:</p>
+                <p class="continue"><a href="#" class="minilink">Haz clic aquí para seguir utilizando pokemon.com con tu navegador actual.</a></p>
+            </div>
+
+            <ul>
+                <li class="ie"><a target="_blank" href="http://www.microsoft.com/windows/Internet-explorer/default.aspx">IE8</a></li>
+                <li class="firefox"><a target="_blank" href="http://www.mozilla.com/en-US/firefox/">Firefox</a></li>
+                <li class="safari"><a target="_blank" href="http://www.apple.com/safari/">Safari</a></li>
+            </ul>
+
+            <div class="clear"></div>
+        </div>
+    </div>
+
+    <script type="text/javascript">
+    //<![CDATA[
+        var rootVirtual = 'https://assets.pokemon.com/static/_ui/';
+        var assetRoot = 'https://assets.pokemon.com/assets/';
+        var globalNavJson = '/api/_global_nav.json';
+        var cmsAssetsRootVirtual = 'https://assets.pokemon.com/assets/';
+        var avatarAssetPath = cmsAssetsRootVirtual+'cms/swf/avatar/components/';
+
+        var pokemonPaths = {
+            avatar:{
+                configSrc:rootVirtual+"swf/global-dashboard/DashboardAvatarShell.swf",
+                appFile:rootVirtual+"swf/global-dashboard/DashboardAvatarApplication.swf",
+                swfPath:avatarAssetPath,
+                imagePath:rootVirtual+"img/flash-assets/",
+                link:'/en/pokemon-fun-zone/pokemon-trainer-builder/',
+                configFile:"/en/api/pokemon/favoritePokemon.xml",
+                errFilePath:rootVirtual+"swf/global-dashboard/error-codes.xml"
+            },
+            globalDashboard:{
+                smallPokemon:rootVirtual+'img/flash-assets/pokemon/small/'
+            },
+            videoPlayer:{
+                src:rootVirtual+"swf/pokemonVideoPlayerNonDelve.swf"
+            },
+            tvPlayer:{
+                src:rootVirtual+"swf/tv-episodes-watch/pokemonVideoPlayer.swf"
+            },
+            cardDatabase:{
+                basic:'/en/pokemon-trading-card-game/database/basic/',
+                advanced:'/en/pokemon-trading-card-game/database/advanced/'
+            }
+        };
+
+            	/*
+    	 * There are 3 versions of this list that must be synchronized:
+   		 * - /main/app/templates/exitWarningWhitelist.html
+   		 * - /op/app/templates/exitWarningWhitelist.html
+   		 * - /WebContent/WEB-INF/view/jsp/pokemon/ui/fullpage/casLoginView.jsp
+    	 */
+            var exitWarningWhitelist = [
+                  /(.+\.)?pokemon\.com/,
+                  /(.+\.)?go-pokemon\.com/,
+                  /(.+\.)?pokemon-gl\.com/,
+                  /(.+\.)?basementfactorysystems\.com/,
+                  /(.+\.)?pokemontcg.com/,
+                  /(.+\.)?pokemon-tcg.com/,
+                  /(.+\.)?pokemon\.dev/,
+                  'edgecastcdn.net',
+                  'www.darkrai.com',
+                  'www.pokemonarceus.com',
+                  'www.pokemonbattlerevolution.com',
+                  'www.pokemonblackwhite.com',
+                  'www.pokemondiamond.com',
+                  'www.pokemongiratina.com',
+                  'www.pokemongiratinamovie.com',
+                  'www.pokemongoldsilver.com',
+                  'www.pokemonmysterydungeon.com',
+                  'www.pokemonpearl.com',
+                  'www.pokemonplatinum.com',
+                  'www.pokemonranger.com',
+                  'www.pokemonrumble.com',
+                  'www.pokemonthemovie.com',
+                  'www.pokemontrozei.com',
+                  'www.pokemonvgc.com',
+                  'www.pokemonworldchampionships.com',
+                  'www.pokemonconquest.com',
+                  'www.pokedex3d.com',
+                  'www.pokeparkwii.com'
+
+            ];
+
+        var noNewWindowWhitelist = [
+            'www.pokemon.com',
+            /(.+\.)?pokemon-gl\.com/,
+            /(.+\.)?pokemontcg.com/,
+            /(.+\.)?pokemon-tcg.com/,
+            /(.+\.)pokemon\.dev/
+        ];
+
+    //]]> </script>
+
+    </body>
+</html>

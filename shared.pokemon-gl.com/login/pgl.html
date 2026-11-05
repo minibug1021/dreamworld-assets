@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Pokémon Trainer Club Login</title>
+<link rel="stylesheet" href="pgl.css">
+</head>
+<body>
+
+<div class="pgl-login-widget">
+
+  <p class="pgl-heading">If you already have a Pokémon Trainer Club account, log in here.</p>
+
+  <form class="pgl-form" id="pgl-login-form" method="post">
+
+    <div class="pgl-field">
+      <input class="pgl-input" type="text" name="username" size="30" placeholder="Enter your user name" autocomplete="username">
+      <div class="pgl-help-link">
+        <a href="https://www.pokemon.com/en/account/pgl/forgot-username" target="_blank">Forgot your user name?</a>
+      </div>
+    </div>
+
+    <div class="pgl-field">
+      <input class="pgl-input" type="password" name="password" size="30" placeholder="Enter your password" autocomplete="current-password">
+      <div class="pgl-help-link">
+        <a href="https://www.pokemon.com/en/account/pgl/forgot-password" target="_blank">Forgot your password?</a>
+      </div>
+    </div>
+
+    <p class="pgl-error" id="pgl-login-error" hidden></p>
+
+    <input class="pgl-login-button" type="submit" name="Login" value="Log In">
+  </form>
+
+  <p class="pgl-heading">New to Pokemon.com? Sign up for an account now!</p>
+
+  <div class="pgl-signup-wrap">
+    <a class="pgl-signup-button" href="https://www.pokemon.com/en/account/pgl/signup/" target="_blank">Sign Up!</a>
+  </div>
+
+</div>
+
+<script src="pgl.js"></script>
+</body>
+</html>

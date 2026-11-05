@@ -48,7 +48,7 @@ PGL.prototype = {
       $.proxy(that._setState, that)(data);
       
       if (that.level == PGL.NOT_SIGNED_UP && !/^\/(register|support)\//.test(location.pathname)) {
-        location = '/register/';
+        top.location = '/register/';
       }
     })
     .error(function(e) {

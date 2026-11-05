@@ -1,0 +1,656 @@
+html, body {
+    background-color:#3A3634;
+}
+#background {
+    background-image: url("../img/bg_strip_1279_100.jpg");
+    background-position: center top;
+    background-repeat: repeat-y;
+    background-color: #FAFCF9;
+    width: 100%;
+    overflow: hidden;
+}
+#container {
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom:60px;
+    background-color:#FFFFFF;
+    font-family:sans-serif;
+    overflow:hidden;
+    border-radius:0px 0px 5px 5px;
+    -moz-border-radius:0px 0px 5px 5px;
+    padding:10px 35px;
+    width:740px;
+    padding-top:20px;
+    line-height:1.3;
+}
+body.verification div#header{
+    height: 166px;
+}
+.es #header {
+    height:318px;
+    margin:0px 3px;
+    background: url(../img/header-es.png) no-repeat;
+}
+
+.de #header {
+    height:318px;
+    margin:0px 3px;
+    background: url(../img/header-de.png) no-repeat;
+}
+
+.fr #header {
+    height:318px;
+    margin:0px 3px;
+    background: url(../img/header-fr.png) no-repeat;
+}
+
+.it #header {
+    height:318px;
+    margin:0px 3px;
+    background: url(../img/header-it.png) no-repeat;
+}
+
+#header {
+    height:318px;
+    margin:0px 3px;
+    background: url(../img/header-en.png) no-repeat;
+}
+
+#content {
+    background-color:#fff;
+    margin:20px 3px;
+    border: 1px solid #dcdcdc;
+    border-radius: 3px;
+    -moz-border-radius: 3px;
+    padding-bottom:40px;
+}
+
+body div#footer {
+    background-color:#3A3634;
+    color:#fff;
+    font-size:13px;
+    font-family:sans-serif;
+    overflow:hidden;
+    padding:50px;
+    margin: 0 0 0 0;
+}
+
+#footer-links a:first-child {
+    margin-left:5px;
+}
+
+#footer-links a:hover {
+    color:#40c9fd;
+}
+
+#footer-links a:after {
+    content:url(../img/blue_right.gif);
+    margin-left:3px;
+}
+
+#footer-legal-links a {
+    color:#40c9fd;
+}
+
+.footer-legal-links-separator {
+    margin:0 10px;
+}
+
+#footer-links a {
+    color:#fff;
+    margin-left:20px;
+}
+
+#footer a {
+    text-decoration:none;
+    font-weight:bold;
+}
+
+#pokemon-company-logo {
+    background: url(../img/pokemon-company.png);
+    height:31px;
+    width:232px;
+    margin-bottom:20px;
+    display:block;
+}
+#esrb {
+    height:102px;
+    width:100px;
+    float:left;
+    margin-top:20px;
+}
+
+#esrb-logo {
+    background: url(../img/esrb.png);
+    float:left;
+    width:160px;
+    height:74px;
+    margin-right:20px;
+    margin-top:6px;
+}
+
+.en #esrb-kids {
+    background: url(../img/esrb-kids.png);
+    float:left;
+    height:102px;
+    width:85px;
+}
+
+#esrb-kids {
+    background: url(../img/eu_privacy.png);
+    float:left;
+    height:93px;
+    width:93px;
+}
+
+#footer-legal {
+    margin-top:30px;
+}
+
+#copyright {
+    color:#b3b3b3;
+    margin-top:20px;
+}
+
+.step-indicator {
+    position:relative;
+    background:url(../img/arrow.png);
+    width:740px;
+    height:60px;
+    margin:20px 0;
+    color: #888;
+    font-size:18px;
+}
+
+.step-indicator li {
+    position:absolute;
+    top: 20px;
+}
+
+.step-indicator li.in {
+    color:#f95407;
+}
+
+.step-indicator li.first {
+    left: 33px;
+}
+
+.step-indicator li.second {
+    left: 289px;
+}
+
+.step-indicator li.third {
+    left: 546px;
+}
+
+form li, form .option {
+    border-top: 1px solid #e5e5e5;
+    width:90%;
+    margin:0px auto;
+    padding:15px 10px;
+    list-style:none;
+    overflow:hidden;
+}
+
+form li:last-child, form .option:last-child {
+    border-bottom: 1px solid #e5e5e5;
+}
+
+form li.buttons {
+    border: none;
+}
+
+form ul {
+    overflow:hidden;
+}
+
+form ul li {
+    border:0;
+    margin:0;
+    padding:0;
+    display:inline;
+}
+
+form label {
+    font-weight:bold;
+    display:block;
+    width:150px;
+    float:left;
+    margin-top:5px
+}
+
+form input[type=text], form input[type=password], form select {
+    width:200px;
+    font-size:16px;
+}
+
+form input[disabled=disabled], form input[readonly=true] {
+    color:#ccc;
+    border-color:#ccc;
+}
+
+form fieldset div.bot ol li textarea,
+form fieldset div.bot dl li textarea {
+    border: 1px solid #515151;
+    display: block;
+    float: left;
+    font-family: Arial,sans-serif;
+    font-size: 12px;
+    height: 90px;
+    margin-bottom: 25px;
+    overflow-x: hidden;
+    overflow-y: auto;
+    width: 220px;
+}
+
+form fieldset div.bot ol li textarea.full,
+form fieldset div.bot dl li textarea.full {
+    width: 100%;
+    padding: 2px;
+}
+
+h2, .top {
+    background-image: url(../img/orange_pokeball.jpg);
+    background-position: 0px 0px;
+    background-repeat: no-repeat;
+    background-color: #FE7D18;
+    border: 1px solid #E2E1DF;
+    box-shadow: 1px 1px white inset, -1px -1px white inset;
+    padding-top: 7px;
+    padding-left:55px;
+    margin:20px auto;
+    width: 648px;
+    min-height: 23px;
+    font-weight:bold;
+    color: #FFFFFF;
+}
+
+h3 {
+    margin:30px;
+}
+
+.top .visibleLegend {
+    display: inline;
+}
+
+.top .required {
+    color: #888888;
+    display: inline;
+    float: right;
+    font-weight: normal;
+    margin-right: 30px;
+    margin-top: -1px;
+}
+
+.top .required > span {
+    margin-right:-3px;
+}
+
+.bot label.required > span {
+    position:absolute;
+    margin-left:-5px;
+}
+
+.bot {
+    margin:10px 30px;
+    font-size:14px;
+}
+
+
+div#exitWarning a.btn,
+.submit {
+    background: url(../img/button-orange.png);
+    display:block;
+    width:195px;
+    border:none;
+    color:#fff;
+    font-size:15px;
+    font-weight:bold;
+    padding:0;
+    cursor:pointer;
+}
+.submit {
+    margin:60px auto;
+    height:50px;
+}
+div#exitWarning a.btn{
+    padding-top:18px;
+    height:26px;
+}
+
+input[type="submit"]::-moz-focus-inner, input[type="button"]::-moz-focus-inner
+{   
+    border : 0px;
+}
+
+div#exitWarning a.btn:active,
+.submit:active {
+    background-position: 0 50px;
+}
+
+.btn, .button, .contains_button a {
+    background-image: url(../img/button-gray_tile-x.jpg);
+    background-repeat: repeat-x;
+    border: 1px solid #B3B3B3;
+    border-radius: 2px;
+    height:25px;
+    color:#111;
+    text-decoration:none;
+    font-size:17px;
+    font-weight:bold;
+    padding: 3px 5px 0px 5px;
+    margin:10px;
+    display:inline-block;
+    text-align:center;
+}
+
+.dob:after {
+    background: url(../img/calendar.jpg);
+}
+
+p.orange_box {
+    background-color:#F9E2AE;
+    color:#F99A0E;
+    border-radius:5px;
+    -moz-border-radius:5px;
+    width:85%;
+    margin:20px auto;
+    padding:20px;
+    font-weight:bold;
+    border:1px solid #fbdfb4;
+    font-size:14px;
+}
+
+.alert {
+    background-color:#fff;
+    color:red;
+    border-radius:5px;
+    -moz-border-radius:5px;
+    width:85%;
+    margin:20px auto;
+    padding:15px 0px;
+    text-align:center;
+    font-weight:bold;
+    border:3px solid;
+}
+
+.intro {
+    margin:30px;
+    font-size:12px;
+}
+
+hr.orange {
+    border:1px solid #f15a24;
+    margin:30px;
+}
+
+.error-inline {
+    color:red;
+    margin-left:150px;
+    margin-top:10px;
+}
+
+#ui-datepicker-div {
+    font-size:14px;
+}
+
+legend {
+    display:none;
+}
+
+.subInput {
+    color:#666;
+    float:right;
+    font-size:12px;
+    margin:0;
+    width:200px;
+}
+
+.note {
+    display:block;
+    margin:20px;
+    font-size:12px;
+}
+
+.option input {
+    float:left;
+    margin-top:8px;
+}
+
+.option label {
+    font-weight:normal;
+    display:block;
+    width:550px;
+    margin-left:30px;
+}
+
+.option a {
+    margin-left:50px;
+    margin-top:15px;
+}
+
+.radioList textarea {
+    display:block;
+    margin:20px auto;
+    width:600px;
+}
+
+.button-wide {
+    background: url(../img/button-orange-wide.png);
+    width:340px;
+    height:35px;
+    color:#fff;
+    text-decoration:none;
+    font-size:17px;
+    font-weight:bold;
+    padding-top:15px;
+    margin:40px auto;
+    display:block;
+    text-align:center;
+    cursor:pointer;
+}
+
+.button-wide:active {
+    background: url(../img/button-orange-wide-active.png);
+}
+
+.button-verywide {
+    background: url(../img/button-orange-verywide.png);
+    width:450px;
+    height:35px;
+    color:#fff;
+    text-decoration:none;
+    font-size:17px;
+    font-weight:bold;
+    padding-top:15px;
+    margin:40px auto;
+    display:block;
+    cursor:pointer;
+    text-align:center;  
+}
+
+.button-verywide:active {
+    background: url(../img/button-orange-verywide-active.png);
+}
+
+.offscreen {
+    display: block;
+    position: absolute;
+    left: -99999em;
+}
+
+ol.standard {
+    font-size:12px;
+    list-style:square;
+    margin:-20px 40px 20px;
+}
+
+.italic {
+    font-style:italic;
+}
+
+.center {
+    text-align:center;
+}
+
+div#exitWarning {
+    display:none;
+    position:fixed;
+    width:440px;
+    left:50%;
+    margin-left:-200px;
+    top:200px;
+    z-index:99999999;   
+}
+div#exitWarning p.din {
+    color:#fff;
+    font-size:20px;
+    padding:15px 20px 10px 20px;
+    -moz-border-radius-topleft:10px;
+    -webkit-border-top-left-radius:10px;
+    -moz-border-radius-topright:10px;
+    -webkit-border-top-right-radius:10px;
+    margin-bottom:0;
+    -moz-box-shadow: #ccc 1px 1px 100px;
+    -webkit-box-shadow: #ccc 1px 1px 100px;
+}
+div#exitWarning p.legal {
+    font-size:10px;
+    margin-bottom:20px;
+}
+div#exitWarning div.content {
+    background:#fff;
+    border:1px solid #666;
+    -moz-border-radius-bottomleft:10px;
+    -webkit-border-bottom-left-radius:10px;
+    -moz-border-radius-bottomright:10px;
+    -webkit-border-bottom-right-radius:10px;
+    padding:20px;
+    -moz-box-shadow: #ccc 1px 1px 100px;
+    -webkit-box-shadow: #ccc 1px 1px 100px;
+}
+div#exitWarning div.content div.left {
+    float:left;
+    }
+    div#exitWarning div.content div.right {
+        float:right;
+    }
+
+    div#exitWarning a.btn {
+        margin-bottom:10px;
+}
+
+div#ie6warning {
+    display:none;
+}
+
+
+div.genericTooltip {
+    display: none;
+    width: 148px;
+    z-index:9999;
+}
+div.genericTooltip div.top {
+    background: transparent url('../img/tooltips/generic-corners.png') no-repeat left top;
+    height: 6px;
+    margin:0;
+    padding:0;
+}
+div.genericTooltip div.bottom {
+    background: transparent url('../img/tooltips/generic-corners.png') no-repeat left bottom;
+    height: 6px;
+}
+div.genericTooltip div.content {
+    background: transparent url('../img/tooltips/generic-bg.png') repeat-y left top;
+    color: #000;
+    font-size: 12px;
+    padding: 10px 15px;
+}
+div.genericTooltip.centered div.content {
+    text-align:center;
+}
+div.genericTooltip div.content div.hr {
+    height:7px;
+    border:0;
+    margin:0 -14px 10px -14px;
+    background: transparent url('../img/tooltips/tooltip-hr.gif') repeat-x scroll top left;         
+    }
+    div.genericTooltip div.arrow {
+        background: transparent url('../img/tooltips/generic-arrows.png') no-repeat 0 0;
+        bottom: -7px;
+        height: 16px;
+        left: 66px;
+        position: absolute;
+        width: 16px;
+}
+div.genericTooltip.bottom div.arrow {
+    background: transparent url('../img/tooltips/generic-arrows.png') no-repeat -16px 0;
+    bottom: auto;
+    top: -7px;
+}
+
+div.genericTooltip div.content h4 {
+    color: #000;
+    font-size:14px;
+    font-weight:900;
+    letter-spacing:0;
+    text-transform:uppercase;
+    margin-bottom:5px;
+    }
+    div.genericTooltip div.content h5 {
+        color: #000;
+        font-size:10px;
+        font-weight:900;
+        letter-spacing:0;
+        text-transform:uppercase;
+        margin-bottom:2px;
+    }
+    div.genericTooltip div.content p {
+        margin-bottom:8px;
+    }
+
+.loading_pokeball {
+    background: url("../../../static/_ui/img/icons/loading_pokeball.gif") no-repeat scroll center 0 rgba(0, 0, 0, 0);
+    display: inline-block;
+    height: 20px;
+    margin: -5px -5px -5px 5px;
+    width: 20px;
+}
+#processing-overlay{
+    background-color: #FFFFFF;
+    display: none;
+    left: 50%;
+    position: fixed;
+    z-index: 99999999;
+    padding: 0 20px 5px 10px;
+    border: 3px solid #F15A24;
+    border-radius: 23px 23px 23px 23px;
+}
+
+.load_text{
+    display: inline-block;
+    margin-bottom: 17px;
+    padding-left: 20px;
+    padding-right: 10px;
+    text-align: center;
+    width: 325px;
+}
+.processing .loading_pokeball{
+    padding-bottom: 16px;
+}
+.processing .text{
+    margin: 0 auto;
+    width: 400px;
+}
+.characters {
+    background: url("../../../static/_ui/img/widgets/exit-warning/flaming.png") no-repeat scroll right bottom #FFFFFF;
+    height: 139px;
+    width: 173px;
+    margin: 0 auto;
+}
+
+.en li#esrb2 a {
+    background: url("../../../_ui/img/logos/esrbkids-large.png") no-repeat scroll left top rgba(0, 0, 0, 0);
+        height: 102px;
+    width: 86px;
+}

@@ -1,0 +1,166 @@
+/* PGL Trainer Club login / signup widget
+   Extracted from archived Pokemon Global Link inline styles */
+
+.pgl-login-widget {
+  box-sizing: content-box;
+  display: block;
+  width: 210px;
+  height: 340px;
+  position: absolute;
+  left: 0;
+  top: 0;
+  padding-top: 10px;
+  overflow: hidden;
+
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 11px;
+  font-weight: bold;
+  color: rgb(248, 253, 251);
+  text-align: left;
+}
+
+.pgl-heading {
+  box-sizing: content-box;
+  display: block;
+  margin: 0;
+  padding: 10px 0 5px;
+
+  font-size: 12px;
+  font-weight: bold;
+  text-align: justify;
+  letter-spacing: -0.1px;
+}
+
+.pgl-form {
+  box-sizing: content-box;
+  width: 199px;
+  margin: 0 0 0 5px;
+  padding: 10px 0;
+
+  background-color: rgb(79, 76, 76);
+  text-align: left;
+}
+
+.pgl-field {
+  box-sizing: content-box;
+  margin: 0;
+  padding: 0 0 0 10px;
+}
+
+.pgl-input {
+  box-sizing: content-box;
+  width: 173px;
+  margin: 0;
+  padding: 5px 3px;
+  border: 1px solid rgb(194, 196, 197);
+
+  background-color: rgb(40, 40, 40);
+  color: rgb(248, 253, 251);
+  font-size: 11px;
+  text-align: left;
+}
+
+.pgl-help-link {
+  box-sizing: content-box;
+  display: block;
+  width: 190px;
+  margin: 0 0 10px;
+  padding: 0;
+  overflow: hidden;
+
+  font-size: 12px;
+  font-weight: normal;
+}
+
+.pgl-help-link a {
+  box-sizing: content-box;
+  margin: 0;
+  padding: 0;
+
+  color: rgb(62, 161, 187);
+  font-size: 11px;
+  font-weight: normal;
+  text-decoration: none;
+}
+
+.pgl-input::placeholder {
+  color: rgb(170, 170, 170);
+  opacity: 1;
+}
+
+.pgl-error {
+  margin: 0 0 8px 10px;
+  padding: 0;
+
+  color: rgb(255, 120, 120);
+  font-size: 11px;
+  font-weight: normal;
+}
+
+.pgl-form--loading .pgl-login-button {
+  opacity: 0.6;
+  pointer-events: none;
+}
+
+.pgl-login-button {
+  box-sizing: content-box;
+  display: block;
+  width: 180px;
+  height: 30px;
+  margin: 18px auto 7px;
+  padding: 0;
+  border: none;
+
+  background-color: transparent;
+  background-image: url('login-button.png');
+  background-repeat: no-repeat;
+  background-position: 0 0;
+
+  color: white;
+  font-size: 13px;
+  font-weight: bold;
+  text-align: center;
+  cursor: pointer;
+}
+
+.pgl-login-button:hover,
+.pgl-login-button:focus-visible {
+  background-position: 0 -30px;
+}
+
+.pgl-signup-wrap {
+  box-sizing: content-box;
+  width: 199px;
+  margin: 0 0 0 5px;
+  padding: 10px 0;
+
+  background-color: rgb(79, 76, 76);
+  text-align: left;
+}
+
+.pgl-signup-button {
+  box-sizing: content-box;
+  display: block;
+  width: 180px;
+  height: 30px;
+  margin: 0 auto;
+  padding: 0;
+
+  background-color: transparent;
+  background-image: url('signup-button.png');
+  background-repeat: no-repeat;
+  background-position: 0 0;
+
+  color: white;
+  font-size: 13px;
+  font-weight: bold;
+  line-height: 27px;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.pgl-signup-button:hover,
+.pgl-signup-button:focus-visible {
+  background-position: 0 -30px;
+}
