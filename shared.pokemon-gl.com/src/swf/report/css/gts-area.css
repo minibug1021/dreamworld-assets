@@ -1,0 +1,308 @@
+
+#gts-area {
+  overflow: hidden;
+  position: relative;
+  height: 716px;
+  color: #FFF;
+  background: url(../images/gts-area-bg.png);
+}
+#gts-area h2 {
+  position: absolute;
+  left: 0;
+  top: 11px;
+  z-index: 2;
+  width: 1003px;
+  height: 35px;
+  text-indent: -9000px;
+  background: url(../ja/report-headers.png) 0 -105px;
+}
+#gts-area .nav {
+  position: absolute;
+  left: 28px;
+  top: 40px;
+  width: 160px;
+  height: 28px;
+  background: url(../images/report-button-shadow2.png);
+  padding: 0 12px 13px 12px;
+  z-index: 3;
+}
+
+
+
+
+
+.local-info {
+  width: 964px;
+  height: 549px;
+  text-align: left;
+  color: #FFF;
+}
+#gts-area .local-info {
+  position: absolute;
+  left: 39px;
+  top: 79px;
+  display: none;
+}
+.local-info .map {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 964px;
+  height: 549px;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+}
+.local-info .map .map-center {
+  position: absolute;
+  left: 416px;
+  bottom: 252px;
+  width: 32px;
+  height: 33px;
+  color: #74E12A;
+  background: url(../images/global-records-ui.png) -321px -275px;
+}
+.local-info .map .map-center .canvas {
+  position: absolute;
+  left: -174px;
+  top: -174px;
+  width: 380px;
+  height: 380px;
+}
+.local-info .map .map-center .time {
+  position: absolute;
+  left: 36px;
+  top: -17px;
+  width: 200px;
+  font-size: 13px;
+  font-weight: bold;
+  text-shadow: 0 3px 3px #000;
+  -ms-filter:"progid:DXImageTransform.Microsoft.Shadow(color=#000000,direction=180,strength=3)";
+}
+.local-info .map .map-center .area {
+  position: absolute;
+  left: 34px;
+  top: 1px;
+  width: 160px;
+  font-size: 18px;
+  font-weight: bold;
+  text-shadow: 0 3px 3px #000;
+  -ms-filter:"progid:DXImageTransform.Microsoft.Shadow(color=#000000,direction=180,strength=3)";
+}
+.local-info .map .map-center .area .capital-name {
+  font-size: 14px;
+}
+.local-info .area .name {
+  position: absolute;
+  left: 1px;
+  top: 13px;
+  width: 515px;
+  height: 34px;
+  padding-left: 63px;
+  padding-top: 5px;
+  background: url(../images/area-ui.png) 0 0;
+  z-index: 2;
+  font-size: 23px;
+  font-weight: bold;
+}
+.local-info .area .iso-3166-1 {
+  position: absolute;
+  left: 11px;
+  top: 21px;
+  width: 44px;
+  height: 22px;
+  border-radius: 3px;
+  z-index: 3;
+  font-size: 17px;
+  font-weight: bold;
+  text-align: center;
+  color: #1A1A1A;
+  background: #75E12A;
+}
+.local-info .area .spec {
+  position: absolute;
+  left: -8px;
+  top: 47px;
+  width: 260px;
+  height: 301px;
+  background: url(../images/area-ui.png) 0 -39px;
+  z-index: 2;
+}
+.local-info .area .spec dl {
+  position: absolute;
+  left: 22px;
+  top: 22px;
+  width: 215px;
+  padding: 0;
+  margin: 0;
+}
+.local-info .area .spec dt {
+  width: 96px;
+  height: 13px;
+  float: left;
+  clear: left;
+  font-size: 11px;
+  margin-right: 4px;
+  margin-bottom: 4px;
+}
+.language-ko .local-info .area.area-KOR .spec dt {
+  margin-bottom: 0;
+}
+.local-info .area .spec dd {
+  width: 106px;
+  margin-left: 1px;
+  padding-left: 4px;
+  border-left: 1px dashed #FFF;
+  float: left;
+  font-size: 11px;
+}
+.local-info .area .gamesoft {
+  position: absolute;
+  left: 18px;
+  top: 159px;
+  width: 208px;
+  z-index: 3;
+}
+.local-info .area .gamesoft .label {
+  position: absolute;
+  font-size: 10px;
+  width: 90px;
+  line-height: 100%;
+  text-shadow: 0 1px 2px #000, 0 1px 2px #000;
+  -ms-filter:"progid:DXImageTransform.Microsoft.Shadow(color=#000000,direction=180,strength=2)";
+}
+.local-info .area .gamesoft h3 {
+  position: absolute;
+  left: 0;
+  top: 6px;
+  font-size: 12px;
+  font-weight: normal;
+}
+.local-info .gts-record-switcher {
+  position: absolute;
+  left: 616px;
+  top: 16px;
+  z-index: 3;
+  width: 332px;
+  height: 28px;
+  padding: 0 4px 14px 12px;
+  background: url(../images/gts-record-switcher-shadow.png);
+}
+.local-info .gts-record-switcher a {
+  display: block;
+  width: 166px;
+  height: 28px;
+  background: url(../ja/report-buttons.png);
+  text-indent: -9000px;
+}
+.local-info .gts-record-switcher a.gts-record-switcher-gts {
+  position: absolute;
+  left: 12px;
+  top: 0;
+  background-position: -0px -247px;
+}
+.local-info .gts-record-switcher a.gts-record-switcher-record {
+  position: absolute;
+  left: 178px;
+  top: 0;
+  background-position: -0px -275px;
+}
+.local-info .gts-record-switcher a.gts-record-switcher-gts:hover {
+  background-position: -332px -247px;
+}
+.local-info .gts-record-switcher a.gts-record-switcher-record:hover {
+  background-position: -332px -275px;
+}
+.local-info .gts-record-switcher a.gts-record-switcher-gts.selected {
+  background-position: -166px -247px;
+}
+.local-info .gts-record-switcher a.gts-record-switcher-record.selected {
+  background-position: -166px -275px;
+}
+
+.gts-area-info {
+  display: none;
+  position: absolute;
+  left: 614px;
+  top: 2px;
+  width: 311px;
+  height: 498px;
+  padding-left: 35px;
+  padding-top: 54px;
+  background: url(../images/area-ui.png) -260px -39px;
+}
+.gts-area-info h3 {
+  font-size: 13px;
+  font-weight: normal;
+  letter-spacing: 1px;
+}
+
+.gts-area-info .number-of-users {
+  position: absolute;
+  left: 35px;
+  top: 54px;
+  height: 48px;
+}
+.gts-area-info .deposited-count {
+  position: absolute;
+  left: 35px;
+  top: 102px;
+  height: 56px;
+}
+.gts-area-info .number-of-users .value,
+.gts-area-info .deposited-count .value {
+  text-align: right;
+  letter-spacing: 8px;
+  font-family: Verdana;
+  font-size: 14px;
+  width: 160px;
+  height: 20px;
+  padding-top: 3px;
+  *width: 153px;
+  *padding-right: 7px;
+  background: url(../images/gts-area-info-digit-bg.png) left no-repeat;
+}
+.gts-area-info .trade-ranking {
+  position: absolute;
+  left: 35px;
+  top: 158px;
+  height: 87px;
+}
+.gts-area-info .trade-ranking ol {
+  overflow: hidden;
+}
+.gts-area-info .trade-ranking ol li {
+  float: left;
+  cursor: pointer;
+  list-style-type: none;
+  width: 60px;
+  height: 60px;
+}
+.gts-area-info .trade-ranking ol li .image img {
+  width: 60px;
+  height: 60px;
+}
+.gts-area-info .deposited-list {
+  position: absolute;
+  left: 35px;
+  top: 245px;
+}
+.gts-area-info .deposited-list h3 {
+  font-size: 12px;
+  font-weight: normal;
+}
+.gts-area-info .deposited-list .deposits {
+  position: relative;
+  left: -3px;
+}
+.gts-area-info .deposited-list .pager {
+  position: relative;
+  left: -3px;
+}
+
+
+
+#gts-area .nav-back {
+  bottom: 30px;
+}
+
+

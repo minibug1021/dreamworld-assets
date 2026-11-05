@@ -1,0 +1,6 @@
+{"interior_list":[
+		{"interior_catalog_id":"1","interior_catalog_name":"モダンバージョン（2010年12月版）"}, 
+		{"interior_catalog_id":"2","interior_catalog_name":"トロピカルバージョン（2010年8月版）"}, 
+		{"interior_catalog_id":"3","interior_catalog_name":"レトロバージョン（2010年4月版）"} 
+		]
+} 

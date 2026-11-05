@@ -1,0 +1,97 @@
+﻿<poice_data>
+	<poice_list>
+		<poice no="01" tex_id01="poice16" tex_id02="poice09" tex_id03="poice05"/>
+		<poice no="02" tex_id01="poice04" tex_id02="poice05" tex_id03="poice06"/>
+		<poice no="03" tex_id01="poice07" tex_id02="poice08" tex_id03="poice09"/>
+		<poice no="04" tex_id01="poice10" tex_id02="poice11" tex_id03="poice12"/>
+		<poice no="05" tex_id01="poice13" tex_id02="poice14" tex_id03="poice15"/>
+		<poice no="06" tex_id01="poice16" tex_id02="poice17" tex_id03="poice18"/>
+		<poice no="07" tex_id01="poice19" tex_id02="poice20" tex_id03="poice21"/>
+		<poice no="08" tex_id01="poice22" tex_id02="poice23" tex_id03="poice24"/>
+		<poice no="09" tex_id01="poice25" tex_id02="poice26" tex_id03="poice27"/>
+		<poice no="10" tex_id01="poice01" tex_id02="poice02" tex_id03="poice03"/>
+		<poice no="11" tex_id01="poice04" tex_id02="poice05" tex_id03="poice06"/>
+		<poice no="12" tex_id01="poice07" tex_id02="poice08" tex_id03="poice09"/>
+		<poice no="13" tex_id01="poice10" tex_id02="poice11" tex_id03="poice12"/>
+		<poice no="14" tex_id01="poice13" tex_id02="poice14" tex_id03="poice15"/>
+		<poice no="15" tex_id01="poice16" tex_id02="poice17" tex_id03="poice18"/>
+		<poice no="16" tex_id01="poice19" tex_id02="poice20" tex_id03="poice21"/>
+		<poice no="17" tex_id01="poice22" tex_id02="poice23" tex_id03="poice24"/>
+		<poice no="18" tex_id01="poice25" tex_id02="poice26" tex_id03="poice27"/>
+		<poice no="19" tex_id01="poice01" tex_id02="poice02" tex_id03="poice03"/>
+		<poice no="20" tex_id01="poice04" tex_id02="poice05" tex_id03="poice06"/>
+		<poice no="21" tex_id01="poice07" tex_id02="poice08" tex_id03="poice09"/>
+		<poice no="22" tex_id01="poice10" tex_id02="poice11" tex_id03="poice12"/>
+		<poice no="23" tex_id01="poice13" tex_id02="poice14" tex_id03="poice15"/>
+		<poice no="24" tex_id01="poice16" tex_id02="poice17" tex_id03="poice18"/>
+		<poice no="25" tex_id01="poice19" tex_id02="poice20" tex_id03="poice21"/>
+		<poice no="26" tex_id01="poice22" tex_id02="poice23" tex_id03="poice24"/>
+		<poice no="27" tex_id01="poice25" tex_id02="poice26" tex_id03="poice27"/>
+		<poice no="28" tex_id01="poice01" tex_id02="poice02" tex_id03="poice03"/>
+		<poice no="29" tex_id01="poice04" tex_id02="poice05" tex_id03="poice06"/>
+		<poice no="30" tex_id01="poice07" tex_id02="poice08" tex_id03="poice09"/>
+		<poice no="31" tex_id01="poice10" tex_id02="poice11" tex_id03="poice12"/>
+		<poice no="32" tex_id01="poice13" tex_id02="poice14" tex_id03="poice15"/>
+		<poice no="33" tex_id01="poice16" tex_id02="poice17" tex_id03="poice18"/>
+		<poice no="34" tex_id01="poice19" tex_id02="poice20" tex_id03="poice21"/>
+		<poice no="35" tex_id01="poice22" tex_id02="poice23" tex_id03="poice24"/>
+		<poice no="36" tex_id01="poice25" tex_id02="poice26" tex_id03="poice27"/>
+		<poice no="37" tex_id01="poice01" tex_id02="poice02" tex_id03="poice03"/>
+		<poice no="38" tex_id01="poice04" tex_id02="poice05" tex_id03="poice06"/>
+		<poice no="39" tex_id01="poice07" tex_id02="poice08" tex_id03="poice09"/>
+		<poice no="40" tex_id01="poice10" tex_id02="poice11" tex_id03="poice12"/>
+		<poice no="41" tex_id01="poice13" tex_id02="poice14" tex_id03="poice15"/>
+		<poice no="42" tex_id01="poice16" tex_id02="poice17" tex_id03="poice18"/>
+		<poice no="43" tex_id01="poice19" tex_id02="poice20" tex_id03="poice21"/>
+		<poice no="44" tex_id01="poice22" tex_id02="poice23" tex_id03="poice24"/>
+		<poice no="45" tex_id01="poice25" tex_id02="poice26" tex_id03="poice27"/>
+		<poice no="46" tex_id01="poice01" tex_id02="poice02" tex_id03="poice03"/>
+		<poice no="47" tex_id01="poice04" tex_id02="poice05" tex_id03="poice06"/>
+		<poice no="48" tex_id01="poice07" tex_id02="poice08" tex_id03="poice09"/>
+		<poice no="49" tex_id01="poice10" tex_id02="poice11" tex_id03="poice12"/>
+		<poice no="50" tex_id01="poice13" tex_id02="poice14" tex_id03="poice15"/>
+		<poice no="51" tex_id01="poice16" tex_id02="poice17" tex_id03="poice18"/>
+		<poice no="52" tex_id01="poice19" tex_id02="poice20" tex_id03="poice21"/>
+		<poice no="53" tex_id01="poice22" tex_id02="poice23" tex_id03="poice24"/>
+		<poice no="54" tex_id01="poice25" tex_id02="poice26" tex_id03="poice27"/>
+		<poice no="55" tex_id01="poice01" tex_id02="poice02" tex_id03="poice03"/>
+		<poice no="56" tex_id01="poice04" tex_id02="poice05" tex_id03="poice06"/>
+		<poice no="57" tex_id01="poice07" tex_id02="poice08" tex_id03="poice09"/>
+		<poice no="58" tex_id01="poice10" tex_id02="poice11" tex_id03="poice12"/>
+		<poice no="59" tex_id01="poice13" tex_id02="poice14" tex_id03="poice15"/>
+		<poice no="60" tex_id01="poice16" tex_id02="poice17" tex_id03="poice18"/>
+		<poice no="61" tex_id01="poice19" tex_id02="poice20" tex_id03="poice21"/>
+		<poice no="62" tex_id01="poice22" tex_id02="poice23" tex_id03="poice24"/>
+		<poice no="63" tex_id01="poice25" tex_id02="poice26" tex_id03="poice27"/>
+		<poice no="64" tex_id01="poice01" tex_id02="poice02" tex_id03="poice03"/>
+	</poice_list>
+	<tex_list>
+		<tex name="poice01" file="ice_tex01.swf" type="01" fric_top="42" fric_side="20" mag="10"/> 
+		<tex name="poice02" file="ice_tex02.swf" type="01" fric_top="42" fric_side="20" mag="10"/> 
+		<tex name="poice03" file="ice_tex03.swf" type="01" fric_top="42" fric_side="20" mag="10"/> 
+		<tex name="poice04" file="ice_tex04.swf" type="01" fric_top="42" fric_side="20" mag="10"/> 
+		<tex name="poice05" file="ice_tex05.swf" type="01" fric_top="256" fric_side="128" mag="4"/> 
+		<tex name="poice06" file="ice_tex06.swf" type="01" fric_top="42" fric_side="20" mag="10"/> 
+		<tex name="poice07" file="ice_tex07.swf" type="01" fric_top="42" fric_side="20" mag="10"/> 
+		<tex name="poice08" file="ice_tex08.swf" type="01" fric_top="42" fric_side="20" mag="10"/> 
+		<tex name="poice09" file="ice_tex09.swf" type="01" fric_top="42" fric_side="20" mag="14"/> 
+		<tex name="poice10" file="ice_tex10.swf" type="01" fric_top="42" fric_side="20" mag="10"/> 
+		<tex name="poice11" file="ice_tex11.swf" type="01" fric_top="42" fric_side="20" mag="10"/> 
+		<tex name="poice12" file="ice_tex12.swf" type="01" fric_top="42" fric_side="20" mag="10"/> 
+		<tex name="poice13" file="ice_tex13.swf" type="01" fric_top="42" fric_side="20" mag="10"/> 
+		<tex name="poice14" file="ice_tex14.swf" type="01" fric_top="42" fric_side="20" mag="10"/> 
+		<tex name="poice15" file="ice_tex15.swf" type="01" fric_top="42" fric_side="20" mag="10"/> 
+		<tex name="poice16" file="ice_tex16.swf" type="01" fric_top="20" fric_side="10" mag="24"/> 
+		<tex name="poice17" file="ice_tex17.swf" type="01" fric_top="42" fric_side="20" mag="10"/> 
+		<tex name="poice18" file="ice_tex18.swf" type="01" fric_top="42" fric_side="20" mag="10"/> 
+		<tex name="poice19" file="ice_tex19.swf" type="01" fric_top="42" fric_side="20" mag="10"/> 
+		<tex name="poice20" file="ice_tex20.swf" type="01" fric_top="42" fric_side="20" mag="10"/> 
+		<tex name="poice21" file="ice_tex21.swf" type="01" fric_top="42" fric_side="20" mag="10"/> 
+		<tex name="poice22" file="ice_tex22.swf" type="01" fric_top="42" fric_side="20" mag="10"/> 
+		<tex name="poice23" file="ice_tex23.swf" type="01" fric_top="42" fric_side="20" mag="10"/> 
+		<tex name="poice24" file="ice_tex24.swf" type="01" fric_top="42" fric_side="20" mag="10"/> 
+		<tex name="poice25" file="ice_tex25.swf" type="01" fric_top="42" fric_side="20" mag="10"/> 
+		<tex name="poice26" file="ice_tex26.swf" type="01" fric_top="42" fric_side="20" mag="10"/> 
+		<tex name="poice27" file="ice_tex27.swf" type="01" fric_top="42" fric_side="20" mag="10"/> 
+	</tex_list>
+</poice_data>

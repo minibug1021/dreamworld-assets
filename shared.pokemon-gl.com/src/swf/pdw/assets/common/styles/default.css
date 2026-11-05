@@ -1,0 +1,30 @@
+@charset "utf-8";
+
+/*===================================
+ * css file for "pdw"
+ * file name : default.css
+===================================== */
+
+
+
+
+
+
+
+/*======================================
+
+	BASICLINK
+
+=======================================*/
+
+a:link, 
+a:visited {
+color:#333333;
+text-decoration:underline;
+}
+
+a:active, 
+a:hover {
+color:#333333;
+text-decoration:none;
+}

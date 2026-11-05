@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data locale="ja">
+	<string id="WIN_TITLE_TITLE">ろうそく消し</string>
+	<string id="WIN_TITLE_DESC1">Lösche die Kerzen im Wechsel mit {BUDDY_NAME}.
+Wer die letzte Kerze ausblasen muss, hat verloren!</string>
+	<string id="WIN_TITLE_BTN1">Start</string>
+	<string id="WIN_TITLE_BTN2">Spielanleitung</string>
+	
+	<string id="WIN_HTP_TITLE">Spielanleitung</string>
+	<string id="WIN_HTP_DESC1">Lass dich auf eine Mutprobe mit dem Pokémon ein,
+dem du begegnet bist, indem ihr abwechselnd die Kerzen im Zimmer auspustet.
+Es können pro Zug mehrere Kerzen zugleich ausgeblasen werden, sofern diese in einer Reihe stehen.
+Gib acht, nicht selbst die letzte Kerze zu löschen,
+da dir in dem stockfinsteren Raum sonst leicht
+die Haare zu Berge stehen werden!</string>
+	<string id="WIN_HTP_DESC2">Lösche eine Kerze, sobald 
+der Schriftzug „Du bist an 
+der Reihe!“ erscheint.</string>
+	<string id="WIN_HTP_DESC3">Innerhalb der Zeitbegrenzung kannst du dich beliebig oft an dieser Mutprobe versuchen.</string>
+	<string id="WIN_HTP_DESC4">Du kannst mehrere in einer Reihe stehende Kerzen zugleich ausblasen, jedoch nicht über gelöschte Kerzen hinweg.
+Löschst du die letzte Kerze, verlierst du!</string>
+	<string id="WIN_HTP_BTN1">Zurück</string>
+
+	<string id="INFO_TURN_PLAYER">Du bist an der Reihe!</string>
+	<string id="INFO_TURN_CPU">(あいての番)</string>
+	<string id="INFO_ICON_CPU">{BUDDY_NAME}</string>
+	<string id="INFO_ICON_PLAYER">Du</string>
+		
+	<string id="WIN_RESULT_TITLE">Ergebnis</string>
+	
+	<string id="WIN_RESULT_WIN_LABEL">Gewonnen</string>
+	<string id="WIN_RESULT_BRIGHT_LABEL">Lodernde Kerzen</string>
+	<string id="WIN_RESULT_DARK_LABEL">Glimmende Kerzen</string>
+	<string id="WIN_RESULT_TOTAL_LABEL">Insgesamt</string>
+	
+	<string id="WIN_RESULT_WIN_NUM">{NUM}</string>
+	<string id="WIN_RESULT_BRIGHT_NUM">{NUM}</string>
+	<string id="WIN_RESULT_DARK_NUM">{NUM}</string>
+	<string id="WIN_RESULT_TOTAL_NUM">{NUM}</string>
+	
+	<string id="WIN_RESULT_WIN_UNIT">-mal</string>
+	<string id="WIN_RESULT_BRIGHT_UNIT">Kerze(n)</string>
+	<string id="WIN_RESULT_DARK_UNIT">Kerze(n)</string>
+	
+	<string id="WIN_RESULT_TITLE_SCORE">Ergebnis</string>
+	<string id="WIN_RESULT_WIN_SCORE">{NUM}</string>
+	<string id="WIN_RESULT_BRIGHT_SCORE">{NUM}</string>
+	<string id="WIN_RESULT_DARK_SCORE">{NUM}</string>
+	<string id="WIN_RESULT_TOTAL_SCORE">{NUM}</string>
+	
+	<string id="WIN_RESULT_CANDLE_LABEL">消したろうそく</string>
+	<string id="WIN_RESULT_CANDLE_NUM">{NUM}</string>
+	<string id="WIN_RESULT_CANDLE_UNIT">Kerze(n)</string>
+	<string id="WIN_RESULT_CANDLE_SCORE">{NUM}</string>
+
+	<string id="WIN_RESULT_BTN1">Schließen</string>
+	
+	<string id="HINT_01">Wähle per Mausklick die zu löschende Kerze. Du kannst mehrere in einer Reihe stehende Kerzen auswählen.</string>
+
+	<string id="HINT_02">Es können mehrere Kerzen zugleich gelöscht werden, sofern sie in einer Reihe stehen. Bestätige deine Wahl mit der Schaltfläche „Löschen“.</string>
+
+	<string id="HINT_03">Hinweis: Wähle möglichst hell leuchtende Kerzen aus. Bestätige deine Wahl mit der Schaltfläche „Löschen“.</string>
+
+	<string id="HINT_04">Es brennt nur noch eine Kerze! Es führt wohl kein Weg daran
+vorbei, diese auszupusten.</string>
+
+	<string id="HINT_05">Der Punktestand steigt, wenn du lodernde Kerzen löschst.</string>
+	
+	<string id="HINT_06">Der Punktestand sinkt, wenn du glimmende Kerzen löschst.</string>
+	
+	<string id="HINT_07">Einmaliges Pusten schrumpft große Flammen.
+Puste ein zweites Mal, um die Kerze auszublasen.</string>
+
+	<string id="BTN_BLOWOUT">Löschen</string>
+	<string id="BTN_QUIT">Spiel beenden</string>
+	
+	<string id="WIN_QUIT_DESC1">Möchtest du das Spiel beenden?
+Beendest du das Spiel jetzt,
+kannst du dich nicht mit
+ {BUDDY_NAME} anfreunden.</string>
+	<string id="WIN_QUIT_BTN1">Ja</string>
+	<string id="WIN_QUIT_BTN2">Nein</string>
+	
+	<string id="GAME_WIN">GEWONNEN</string>
+	<string id="GAME_LOSE">VERLOREN</string>
+	<string id="GAME_TIMEUP">Zeit abgelaufen!</string>
+</data>

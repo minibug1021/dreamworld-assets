@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data locale="ja">
+	<string id="IDS_START_001" size="23" color="0xF1573D" bold="true" baselineShift="-4"/>
+	<string id="IDS_START_002" size="12" color="0xFFFFFF" bold="true" baselineShift="0"/>
+	<string id="IDS_START_003" size="12" color="0xFFFFFF" bold="false" baselineShift="0"/>
+	
+	<string id="IDS_HELP_001" size="22" color="0x6C412A" bold="true" baselineShift="0"/>
+	<string id="IDS_HELP_002" size="15" color="0x6C412A" bold="true" baselineShift="2" leading="-5"/>
+	<string id="IDS_HELP_003" size="15" color="0x6C412A" bold="true" baselineShift="2" leading="-5"/>
+	<string id="IDS_HELP_004" size="15" color="0x6C412A" bold="true" baselineShift="2" leading="-5"/>
+	<string id="IDS_HELP_005" size="12" color="0xFFFFFF" bold="true" baselineShift="0"/>
+	<string id="IDS_HELP_006" size="12" color="0xFFFFFF" bold="true" baselineShift="0"/>
+	<string id="IDS_HELP_007" size="12" color="0xFFFFFF" bold="true" baselineShift="0"/>
+	
+	<string id="IDS_HUD_001" size="10" color="0xFFFFFF" bold="false" baselineShift="0"/>
+	<string id="IDS_HUD_002"/>
+	<string id="IDS_HUD_003" size="12" color="0xFFFFFF" bold="true" baselineShift="2"/>
+	<string id="IDS_HUD_004" size="10" color="0x663311" bold="false" baselineShift="2"/>
+	
+	<string id="IDS_STRAIN_001" size="20" color="0x42210B" bold="true" baselineShift="0"/>
+	<string id="IDS_STRAIN_002" size="20" color="0x42210B" bold="true" baselineShift="0"/>
+	<string id="IDS_STRAIN_003" size="20" color="0x42210B" bold="true" baselineShift="0"/>
+	<string id="IDS_STRAIN_004" size="20" color="0x42210B" bold="true" baselineShift="0"/>
+	<string id="IDS_STRAIN_005" size="20" color="0x42210B" bold="true" baselineShift="0"/>
+	<string id="IDS_STRAIN_006" size="20" color="0x42210B" bold="true" baselineShift="0"/>
+	<string id="IDS_STRAIN_007" size="20" color="0x42210B" bold="true" baselineShift="0"/>
+	<string id="IDS_STRAIN_008" size="20" color="0x42210B" bold="true" baselineShift="0"/>
+	<string id="IDS_STRAIN_009" size="12" color="0xFFFFFF" bold="true" baselineShift="0"/>
+	
+	<string id="IDS_CLICK_001" size="20" color="0x42210B" bold="false" baselineShift="-8"/>
+	<string id="IDS_CLICK_002"/>
+	<string id="IDS_CLICK_003" size="20" color="0x42210B" bold="false" baselineShift="0"/>
+	<string id="IDS_CLICK_004" size="20" color="0xFFFFFF" bold="true" baselineShift="0"/>
+	
+	<string id="IDS_CLEAR_001" size="26" color="0xFFFFFF" bold="true" baselineShift="0"/>
+	<string id="IDS_CLEAR_002" size="20" color="0x42210B" bold="false" baselineShift="-5"/>
+	<string id="IDS_CLEAR_003" size="12" color="0xFFFFFF" bold="true" baselineShift="0"/>
+	<string id="IDS_CLEAR_004" size="20" color="0x42210B" bold="false" baselineShift="0"/>
+	
+	<string id="IDS_TIMEUP_001"/>
+	<string id="IDS_TIMEUP_002" size="20" color="0x42210B" bold="false" baselineShift="2"/>
+	<string id="IDS_TIMEUP_003" size="12" color="0xFFFFFF" bold="true" baselineShift="0"/>
+	
+	<string id="IDS_RESULT_001" size="26" color="0xFFFFFF" bold="true" baselineShift="0"/>
+	<string id="IDS_RESULT_002" size="20" color="0x42210B" bold="false" baselineShift="0"/>
+	<string id="IDS_RESULT_003" size="20" color="0x42210B" bold="false" baselineShift="0"/>
+	<string id="IDS_RESULT_004" size="20" color="0x42210B" bold="false" baselineShift="0"/>
+	<string id="IDS_RESULT_005" size="12" color="0xFFFFFF" bold="true" baselineShift="0"/>
+	
+	<string id="IDS_QUIT_001" size="20" color="0x42210B" bold="false" baselineShift="0"/>
+	<string id="IDS_QUIT_002" size="12" color="0xFFFFFF" bold="true" baselineShift="0"/>
+	<string id="IDS_QUIT_003" size="12" color="0xFFFFFF" bold="true" baselineShift="0"/>
+</data>

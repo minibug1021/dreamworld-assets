@@ -1,0 +1,457 @@
+
+
+
+#wifi-competitions {
+  display: none;
+  color: #FFF;
+}
+#wifi-comp-list {
+  position: relative;
+  height: 537px;
+  background: url(../images/wifi-top-bg.png);
+}
+#wifi-comp-list .column-1 {
+  position: relative;
+  left: 430px;
+  top: -435px;
+}
+#wifi-comp-list h2 {
+  position: absolute;
+  left: 0;
+  top: 11px;
+  z-index: 2;
+  width: 1003px;
+  height: 35px;
+  text-indent: -9000px;
+  background: url(../ja/report-headers.png) 0 -245px;
+}
+#wifi-comp-list .pager .prev {
+  position: absolute;
+  left: 64px;
+  top: 265px;
+  display: none;
+}
+#wifi-comp-list .pager .next {
+  position: absolute;
+  left: 961px;
+  top: 265px;
+  display: none;
+}
+#wifi-comp-list ul {
+  position: absolute;
+  left: 99px;
+  top: 78px;
+}
+#wifi-comp-list li {
+  margin-right: 11px;
+  margin-bottom: 5px;
+  *margin-bottom: 2px; /* IE7 */
+  list-style-type: none;
+  cursor: pointer;
+  width: 420px;
+  height: 140px;
+  overflow: hidden;
+}
+#wifi-comp-list img {
+  width: 420px;
+  height: 140px;
+}
+#wifi-comp-list li:hover,
+#wifi-comp-list .selected {
+  width: 410px;
+  height: 130px;
+  border: 5px solid red;
+  overflow: hidden;
+}
+#wifi-comp-list li:hover img,
+#wifi-comp-list .selected img {
+  position: relative;
+  left: -5px;
+  top: -5px;
+}
+
+
+#wifi-comp-detail {
+  position: relative;
+  height: 1060px;
+  background: url(../images/wifi-comp-bg.png);
+}
+#wifi-comp-detail h2 {
+  position: absolute;
+  left: 0;
+  top: 11px;
+  z-index: 2;
+  width: 1003px;
+  height: 35px;
+  text-indent: -9000px;
+  background: url(../ja/report-headers.png) 0 -280px;
+}
+
+#wifi-comp-detail .comp-spec {
+  position: absolute;
+  left: 105px;
+  top: 68px;
+  width: 844px;
+  height: 163px;
+  background: url(../images/wifi-comp-spec-bg.png);
+}
+#wifi-comp-detail .comp-spec .name {
+  position: absolute;
+  left: 15px;
+  width: 525px;
+  top: -9px;
+  color: #F00;
+  font-weight: 900;
+}
+#wifi-comp-detail .comp-spec .span {
+  position: absolute;
+  right: 16px;
+  top: -8px;
+  font-size: 13px;
+}
+#wifi-comp-detail .comp-spec table {
+  position: absolute;
+  left: 8px;
+  top: 21px;
+  color: #B2B2B2;
+}
+#wifi-comp-detail .comp-spec .areas {
+  position: absolute;
+  left: 547px;
+  top: 25px;
+}
+#wifi-comp-detail .comp-spec .areas h3 {
+  font-size: 13px;
+  font-weight: normal;
+}
+#wifi-comp-detail .comp-spec .areas .marker {
+  list-style-type: none;
+  position: absolute;
+  width: 7px;
+  height: 7px;
+  background: url(../images/gts-pokemon-ui.png) -360px -263px;
+  text-indent: 12px;
+  font-size: 10px;
+  color: yellow;
+  text-indent: -9000px;
+}
+#wifi-comp-detail .comp-spec .areas .marker:hover {
+  z-index: 2;
+  text-indent: 9px;
+  background-position: -368px -263px;
+  cursor: default;
+}
+
+#wifi-comp-detail .comp-spec table {
+  font-size: 12px;
+  margin: 0;
+}
+#wifi-comp-detail .comp-spec tr {
+  vertical-align: top;
+  height: 27px;
+  *height: 25px; /* IE7 */
+}
+#wifi-comp-detail .comp-spec th {
+  width: 127px;
+  padding-right: 3px;
+  font-weight: normal;
+}
+#wifi-comp-detail .comp-spec td {
+  padding-left: 4px;
+  width: 385px;
+  font-weight: 400;
+}
+#wifi-comp-detail .comp-spec tr.desc {
+  height: 40px;
+}
+#wifi-comp-detail .comp-spec .pdf {
+  position: absolute;
+  left: 18px;
+  top: 148px;
+  width: 262px;
+  height: 24px;
+  display: block;
+  background: url(../ja/report-buttons.png) -340px -543px;
+  text-indent: -9000px;
+}
+#wifi-comp-detail .comp-spec .pdf:hover {
+  background-position: -340px -567px;
+}
+
+#wifi-comp-detail-ranking .gbu-ranking {
+  position: absolute;
+  left: 239px;
+  top: 242px;
+}
+#wifi-comp-detail-ranking .prev {
+  position: absolute;
+  left: 207px;
+  top: 340px;
+  width: 22px;
+  height: 57px;
+  background: url(../images/gbu-ranking-ui.png) 0 0;
+  border-style: none;
+  text-indent: -9000px;
+  cursor: pointer;
+  display: none;
+}
+
+#wifi-comp-detail-ranking .next {
+  position: absolute;
+  left: 878px;
+  top: 340px;
+  width: 22px;
+  height: 57px;
+  background: url(../images/gbu-ranking-ui.png) -23px 0;
+  border-style: none;
+  text-indent: -9000px;
+  cursor: pointer;
+  display: none;
+}
+
+#wifi-comp-detail-ranking .myranking {
+  display: none;
+  position: absolute;
+  left: 689px;
+  top: 513px;
+  width: 160px;
+  height: 28px;
+  background: url(../ja/report-buttons.png) -320px -191px;
+  border-style: none;
+  text-indent: -9000px;
+  cursor: pointer;
+}
+#wifi-comp-detail-ranking .myranking.disabled {
+  background-position: -640px -191px;
+  cursor: default;
+}
+
+
+
+
+
+
+
+#wifi-comp-detail-pokemons {
+}
+#wifi-comp-detail-pokemons h3 {
+  position: absolute;
+  left: 116px;
+  top: 579px;
+  z-index: 2;
+  width: 822px;
+  height: 24px;
+  padding-left: 5px;
+  font-size: 14px;
+  font-weight: 900;
+  color: red;
+  background: url(../images/wifi-comp-spec-bg.png) -11px 8px;
+}
+#wifi-comp-detail-pokemons ol.pokemon-ranking {
+  position: absolute;
+  left: 109px;
+  top: 599px;
+  width: 825px;
+  height: 292px;
+  padding-left: 13px;
+  padding-top: 13px;
+  background: url(../images/wifi-comp-trend-bg.png);
+}
+#wifi-comp-detail-pokemons ol.pokemon-ranking .ranking-entry {
+  cursor: pointer;
+}
+#wifi-comp-detail-pokemons li {
+  list-style-type: none;
+  float: left;
+}
+#wifi-comp-detail-pokemons li:hover {
+  background: rgba(255,255,255,0.1);
+}
+#wifi-comp-detail-pokemons li img {
+  width: 64px;
+  height: 64px;
+}
+
+#wifi-comp-detail-pokemons .pokemon-ranking-item-xl {
+  width: 270px;
+  height: 279px;
+}
+#wifi-comp-detail-pokemons .pokemon-ranking-item-l {
+  width: 135px;
+  height: 140px;
+}
+#wifi-comp-detail-pokemons .pokemon-ranking-item-m {
+  width: 108px;
+  height: 140px;
+}
+#wifi-comp-detail-pokemons .pokemon-ranking-item-xl .image img {
+  position: absolute;
+  left: 37px;
+  top: 5px;
+  width: 196px;
+  height: 196px;
+}
+#wifi-comp-detail-pokemons .pokemon-ranking-item-l .image img {
+  position: absolute;
+  left: 8px;
+  top: 10px;
+  width: 120px;
+  height: 120px;
+}
+#wifi-comp-detail-pokemons .pokemon-ranking-item-m .image img {
+  position: absolute;
+  left: 4px;
+  top: 20px;
+  width: 100px;
+  height: 100px;
+}
+#wifi-comp-detail-pokemons .pokemon-ranking-item-xl .pokemon-spec {
+  position: absolute;
+  left: 5px;
+  bottom: 5px;
+}
+#wifi-comp-detail-pokemons .pokemon-ranking-item-xl .ranking {
+  top: -15px;
+  font-size: 50px;
+}
+#wifi-comp-detail-pokemons .pokemon-ranking-item-l .ranking {
+  top: -8px;
+  font-size: 30px;
+}
+#wifi-comp-detail-pokemons .pokemon-ranking-item-m .ranking {
+  top: -2px;
+  font-size: 24px;
+}
+
+#wifi-comp-detail-pokemon {
+  display: none;
+  width: 878px;
+  height: 552px;
+  background: url(../images/wifi-comp-pokemon-bg.png);
+  position: relative;
+}
+
+
+#wifi-comp-detail .nav {
+  position: absolute;
+  left: 40px;
+  bottom: 10px;
+}
+
+
+#wifi-comp-detail .nav-back a {
+  background-position: -140px -543px;
+}
+#wifi-comp-detail .nav-back a:hover {
+  background-position: -183px -543px;
+}
+#wifi-comp-detail .nav-back {
+  bottom: -4px;
+}
+
+
+.wifi-pokemon-trend-list {
+  position: absolute;
+  left: 20px;
+  top: 20px;
+  width: 200px;
+  bottom: 20px;
+  color: #FFF;
+}
+.wifi-pokemon-trend-list h3 {
+  position: absolute;
+  left: 20px;
+  top: 68px;
+  font-size: 14px;
+}
+
+.wifi-pokemon-trend-list .leadline {
+  position: absolute;
+  left: 20px;
+  top: 89px;
+  width: 273px;
+  height: 73px;
+  background: url(../images/gts-pokemon-ui.png) right bottom;
+}
+
+.wifi-pokemon-trend-list .accordion {
+  position: absolute;
+  left: 20px;
+  top: 100px;
+  width: 200px;
+  height: 400px;
+  background: url(../images/wifi-trend-ui.png) -20px repeat-y;
+  overflow: hidden;
+}
+.wifi-pokemon-trend {
+  position: absolute;
+  width: 200px;
+  overflow: hidden;
+  border-top: 1px solid #677483;
+}
+.wifi-pokemon-trend:first-child {
+  border-top-style: none;
+}
+.wifi-pokemon-trend .label {
+  height: 20px;
+  padding-top: 3px;
+  padding-left: 5px;
+  font-size: 11px;
+  cursor: pointer;
+  background: url(../images/wifi-trend-ui.png) 180px 0 no-repeat;
+}
+.wifi-pokemon-trend:hover {
+  background: #375267;
+}
+.wifi-pokemon-trend.selected {
+  background: transparent;
+}
+.wifi-pokemon-trend .graph {
+  height: 105px;
+}
+.wifi-pokemon-trend.selected .label {
+  cursor: default;
+  background-position: 180px -20px;
+}
+.wifi-pokemon-trend .content {
+  height: 305px;
+}
+.wifi-pokemon-trend ol {
+  font-size: 13px;
+  list-style-type: none;
+  margin: 6px 10px;
+}
+.wifi-pokemon-trend li {
+  overflow: hidden;
+  padding: 1px 0;
+  height: 16px;
+}
+.wifi-pokemon-trend li.active {
+  background: #666;
+}
+.wifi-pokemon-trend li .index {
+  display: block;
+  float: left;
+  width: 20px;
+  color: #FF2B06;
+  text-align: right;
+  margin-right: 8px;
+}
+.wifi-pokemon-trend li .name {
+  display: block;
+  float: left;
+  width: 110px;
+  color: #BDBEBE;
+}
+.wifi-pokemon-trend li .ratio {
+  display: block;
+  float: left;
+  width: 40px;
+  text-align: right;
+}
+.wifi-pokemon-trend li .ratio .value {
+  color: #00C9FD;
+}
+.wifi-pokemon-trend li .ratio .unit {
+  color: #FF2B06;
+}

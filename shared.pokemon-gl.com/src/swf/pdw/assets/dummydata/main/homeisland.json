@@ -1,0 +1,38 @@
+{
+	"pokemon":{
+		"pokemon_no":0,
+		"pokemon_name":"ピカチュウ",
+		"form_no":12,
+		"type1":"でんき",
+		"type2":"でんきん",
+		"pokemon_nickname":"カピチュウ",
+		"oyaname":"oya",
+		"level":100,
+		"sex":1,
+		"personality":"げんき",
+		"place":"ばしょー"
+	},
+	"island_id" : 0,
+	"point": 123,
+	"trial_flag": 0,
+	"arranged_interior_list" : [
+		{
+			"my_interior_id":20,
+			"interior_id":20,
+			"x":0,
+			"y":0,
+			"interior_size":1,
+			"interior_category_id":1,
+			"roatation":0
+		},
+		{
+			"my_interior_id":20,
+			"interior_id":20,
+			"x":0,
+			"y":0,
+			"interior_size":1,
+			"interior_category_id":1,
+			"roatation":0
+		}
+	]
+}

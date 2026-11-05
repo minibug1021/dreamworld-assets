@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data locale="ja">
+
+
+<string id="DIALOG_TUTORIAL_TITLE">아슬 아슬 스위트캐치 즐기는 방법</string>
+
+
+<string id="DIALOG_TUTORIAL_INFO0">얼음 칸을 클릭하면
+클릭한 곳까지 미끄러질 수 있어.
+시간 내에 과자를 많이 모아서
+스코어를 획득하자!</string>
+<string id="DIALOG_TUTORIAL_INFO1">얼음 위에 가만히 있으면
+얼음이 깨져버려.
+물에 빠지면 잠시 돌아오지 못하니까
+주의해서 움직이자!</string>
+
+<string id="DIALOG_BUTTON_START">스타트</string>
+<string id="DIALOG_BUTTON_START_S">스타트</string>
+
+<string id="BUTTON_TOP_EXIT">게임을 그만두기</string>
+
+<string id="MESSAGE_WINDOW_PLAY_FIRST">얼음 위를 클릭해서 과자가 있는 곳까지 미끄러지자!</string>
+<string id="MESSAGE_WINDOW_IIOKASHI">좋은 과자가 많이 떨어졌어!</string>
+<string id="MESSAGE_WINDOW_GANBARE10">힘내! 앞으로 10초!</string>
+
+<string id="DIALOG_EXIT_INFO">이 게임을 종료하겠습니까?
+종료하면 {BUDDY_NAME}와(과) 사이가 좋아질 수 없습니다.</string>
+
+
+<string id="DIALOG_BUTTON_YES">예</string>
+<string id="DIALOG_BUTTON_YES_S">예</string>
+<string id="DIALOG_BUTTON_NO">아니오</string>
+<string id="DIALOG_BUTTON_NO_S">아니오</string>
+
+<string id="DIALOG_RESULT_TITLE">성적</string>
+
+<string id="DIALOG_RESULT_KO_0">개</string>
+<string id="DIALOG_RESULT_KO_1">개</string>
+<string id="DIALOG_RESULT_KO_2">개</string>
+<string id="DIALOG_RESULT_KO_3">개</string>
+<string id="DIALOG_RESULT_POINT_0">포인트</string>
+<string id="DIALOG_RESULT_POINT_1">포인트</string>
+<string id="DIALOG_RESULT_POINT_2">포인트</string>
+<string id="DIALOG_RESULT_POINT_3">포인트</string>
+<string id="DIALOG_RESULT_POINT_4">포인트</string>
+<string id="DIALOG_RESULT_POINT_5">포인트</string>
+
+
+<string id="DIALOG_RESULT_BONUS">우승 보너스</string>
+<string id="DIALOG_RESULT_TOTAL">합계</string>
+<string id="DIALOG_BUTTON_CLOSE">닫기</string>
+<string id="DIALOG_BUTTON_CLOSE_S">닫기</string>
+
+
+<string id="ICON_ME">너</string>
+
+
+<string id="POKEMON_NAME_NPC_0">치라미</string>
+<string id="POKEMON_NAME_NPC_1">앗차프</string>
+<string id="POKEMON_NAME_NPC_2">킬리아</string>
+<string id="POKEMON_NAME_NPC_3">꼬링크</string>
+<string id="POKEMON_NAME_NPC_4">마릴</string>
+<string id="POKEMON_NAME_NPC_5">이어롤</string>
+<string id="POKEMON_NAME_NPC_6">물짱이</string>
+<string id="POKEMON_NAME_NPC_7">뽀뽀라</string>
+<string id="POKEMON_NAME_NPC_8">리오르</string>
+<string id="POKEMON_NAME_NPC_9">대굴레오</string>
+<string id="POKEMON_NAME_NPC_10">꾸꾸리</string>
+<string id="POKEMON_NAME_NPC_11">눈꼬마</string>
+
+<string id="POKEMON_NAME_PC_0">흉내내</string>
+<string id="POKEMON_NAME_PC_1">수댕이</string>
+<string id="POKEMON_NAME_PC_2">피츄</string>
+<string id="POKEMON_NAME_PC_3">곤율랭</string>
+
+
+
+<string id="MESSAGE_WINDOW">{STR}</string>
+<string id="POKEMON_STATUS_NAME_ME">{STR}</string>
+<string id="POKEMON_STATUS_NAME_ENEMY">{STR}</string>
+<string id="ICON_ENCOUNT">{BUDDY_NAME}</string>
+
+</data>

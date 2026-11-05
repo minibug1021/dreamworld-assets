@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data locale="ja">
+
+<string id="DIALOG_TUTORIAL_TITLE">Spielanleitung für die frostige Konfektjagd</string>
+
+<string id="DIALOG_TUTORIAL_INFO0">Klicke das zugefrorene Feld an,auf das du gleiten möchtest. Je mehr Konfekt du innerhalb der Zeit sammelst, desto mehr Punkte erhältst du.</string>
+<string id="DIALOG_TUTORIAL_INFO1">Hältst du dich zu lange auf einem Spielfeld auf, wird das Eis brüchig und du stürzt ins Wasser, was dich kostbare Zeit kostet. Sei also vorsichtig!</string>
+
+<string id="DIALOG_BUTTON_START">Start</string>
+<string id="DIALOG_BUTTON_START_S">Start</string>
+
+<string id="BUTTON_TOP_EXIT">Spiel beenden</string>
+
+<string id="MESSAGE_WINDOW_PLAY_FIRST">Klicke auf das Eis, um an das Konfekt zu gelangen!</string>
+<string id="MESSAGE_WINDOW_IIOKASHI">Es hat reichlich Konfekt geregnet!</string>
+<string id="MESSAGE_WINDOW_GANBARE10">Noch 10 Sekunden! Gib alles!!</string>
+
+<string id="DIALOG_EXIT_INFO">Möchtest du das Spiel beenden?
+Wenn du das Spiel jetzt beendest, kannst du dich nicht mit {BUDDY_NAME} anfreunden.</string>
+
+<string id="DIALOG_BUTTON_YES">Ja</string>
+<string id="DIALOG_BUTTON_YES_S">Ja</string>
+<string id="DIALOG_BUTTON_NO">Nein</string>
+<string id="DIALOG_BUTTON_NO_S">Nein</string>
+
+<string id="DIALOG_RESULT_TITLE">Ergebnis</string>
+
+
+<string id="DIALOG_RESULT_KO_0"></string>
+<string id="DIALOG_RESULT_KO_1"></string>
+<string id="DIALOG_RESULT_KO_2"></string>
+<string id="DIALOG_RESULT_KO_3"></string>
+<string id="DIALOG_RESULT_POINT_0">Punkte</string>
+<string id="DIALOG_RESULT_POINT_1">Punkte</string>
+<string id="DIALOG_RESULT_POINT_2">Punkte</string>
+<string id="DIALOG_RESULT_POINT_3">Punkte</string>
+<string id="DIALOG_RESULT_POINT_4">Punkte</string>
+<string id="DIALOG_RESULT_POINT_5">Punkte</string>
+
+
+<string id="DIALOG_RESULT_BONUS">Siegesbonus</string>
+<string id="DIALOG_RESULT_TOTAL">Insgesamt</string>
+<string id="DIALOG_BUTTON_CLOSE">Schließen</string>
+<string id="DIALOG_BUTTON_CLOSE_S">Schließen</string>
+
+
+<string id="ICON_ME">Du</string>
+
+
+<string id="POKEMON_NAME_NPC_0">Picochilla</string>
+<string id="POKEMON_NAME_NPC_1">Sodamak</string>
+<string id="POKEMON_NAME_NPC_2">Kirlia</string>
+<string id="POKEMON_NAME_NPC_3">Sheinux</string>
+<string id="POKEMON_NAME_NPC_4">Marill</string>
+<string id="POKEMON_NAME_NPC_5">Haspiror</string>
+<string id="POKEMON_NAME_NPC_6">Hydropi</string>
+<string id="POKEMON_NAME_NPC_7">Kussilla</string>
+<string id="POKEMON_NAME_NPC_8">Riolu</string>
+<string id="POKEMON_NAME_NPC_9">Seemops</string>
+<string id="POKEMON_NAME_NPC_10">Quiekel</string>
+<string id="POKEMON_NAME_NPC_11">Schneppke</string>
+
+<string id="POKEMON_NAME_PC_0">Pantimimi</string>
+<string id="POKEMON_NAME_PC_1">Ottaro</string>
+<string id="POKEMON_NAME_PC_2">Pichu</string>
+<string id="POKEMON_NAME_PC_3">Zurrokex</string>
+
+
+
+<string id="MESSAGE_WINDOW">{STR}</string>
+<string id="POKEMON_STATUS_NAME_ME">{STR}</string>
+<string id="POKEMON_STATUS_NAME_ENEMY">{STR}</string>
+<string id="ICON_ENCOUNT">{BUDDY_NAME}</string>
+
+</data>

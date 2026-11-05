@@ -1,0 +1,46 @@
+<campaign>
+<room>
+	<interior roomtype="front" id="0" ismat="false" textid="sp2_interior_1_doll" />
+	<poke pokeid="509" form="0" icon="3" comment="sp2_pokemon_comment_01" roomtype="right" width="99" height="140" x="345" y="448" />
+	<poke pokeid="572" form="0" icon="4" comment="sp2_pokemon_comment_02" roomtype="right" width="106" height="115" x="672" y="443" />
+	<poke pokeid="561" form="0" icon="3" comment="sp2_pokemon_comment_03" roomtype="left" width="295" height="326" x="499" y="434" />
+	<poke pokeid="585" form="0" icon="3" comment="sp2_pokemon_comment_04" roomtype="front" width="101" height="172" x="500" y="440" />
+</room>
+<home>
+	<poke pokeid="559" form="0" icon="3" comment="sp2_pokemon_comment_05" width="144"height="144" x="188" y="328" />
+	<poke pokeid="587" form="0" icon="2" comment="sp2_pokemon_comment_06" width="118" height="118" x="723" y="342" />
+
+	<movieplayer basertmp="rtmp://fms30-cache02.stream.ne.jp/pokemon-game/_definst_/">
+		<rtmp ratetype="0" file="pgl/yokoku_2_1000kbps.flv" />
+		<rtmp ratetype="1" file="pgl/yokoku_2_600kbps.flv" />
+		<banner file="campaign_movie_banner.jpg" />
+	</movieplayer>
+
+	<board type="product" image="campaign_image_3.jpg" url="http://ja.pokemon-gl.com/about/sp/movie2011/index.html" target="_self" />
+	<board type="trial" image="campaign_image_3.jpg" url="http://ja.pokemon-gl.com/about/sp/movie2011/index.html" target="_self" />
+
+	<ballon type="door" x="718" y="48" rotate="left"/>
+	<ballon type="moviepanel" x="693" y="194" />
+
+	<button_label>
+		<into_room>fr_aa_16</into_room>
+	</button_label>
+
+</home>
+<yumeshima>
+	<campaign id="2">
+		<minigame><![CDATA[{"object_id":"12","public_date_from":null,"public_date_to":null,"minigame_id":"6","object_category":"40","kinomi_id":"0","pokeitem_id":0,"kinomi_count":"0","object_pokemon_id":"231","pokemon":{"pokemon_no":"494","pokename":"ビクティニ","form_no":"0","sex_id":"0","action_type":"0"}}]]></minigame>
+
+		<poke pokeid="494" form="0" icon="2" width="156" height="156" x="425" y="327" />
+
+		<board count="0">
+			<image id="643">tokubetsunnahome_cgea_resiramu.jpg</image>
+			<image id="644">tokubetsunnahome_cgea_zekuromu.jpg</image>
+		</board>
+		<board count="1">
+			 <image>tokubetsunnahome_cgea_secound.jpg</image>
+		</board>
+
+	</campaign>
+</yumeshima>
+</campaign>

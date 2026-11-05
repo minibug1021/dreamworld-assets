@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data locale="ko">
+	<string id="pg_aw_14" size="9" color="0x333333" kerning="true" letterSpacing="1" />
+	<string id="pg_aw_1" size="9" color="0xFFFFFF" kerning="true" letterSpacing="1" baselineShift="0"  />
+	<string id="pg_aw_0" size="10" color="0xFFFFFF" kerning="true" letterSpacing="1" baselineShift="1" />
+	<string id="pg_aw_2" size="10" color="0xFFFFFF" kerning="true" letterSpacing="1" baselineShift="0" />
+	<string id="pg_aw_3" size="10" color="0xFFFFFF" kerning="true" letterSpacing="1" baselineShift="0" />
+	<string id="pg_aw_4" size="10" color="0xFFFFFF" kerning="true" letterSpacing="1" baselineShift="1" />
+	<string id="pg_aw_5" size="10" color="0xFFFFFF" kerning="true" letterSpacing="1" baselineShift="1" />
+	<string id="pg_aw_6" size="10" color="0xFFFFFF" kerning="true" letterSpacing="1" baselineShift="0" />
+	<string id="pg_aw_7" size="18" color="0x333333" kerning="true" letterSpacing="1" bold="true" />
+	<string id="pg_aw_8" size="10" color="0xFFFFFF" kerning="true" letterSpacing="1" baselineShift="1" />
+	<string id="pg_aw_9" size="10" color="0xFFFFFF" kerning="true" letterSpacing="1" baselineShift="1" />
+	<string id="pg_aw_10" size="10" color="0xFFFFFF" kerning="true" letterSpacing="1" baselineShift="1" />
+	<string id="pg_aw_12" size="10" color="0xFFFFFF" kerning="true" letterSpacing="1" />
+	<string id="pg_bx_1" size="10" color="0xFFFFFF" kerning="true" letterSpacing="1" />
+</data>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="ko">
+	<string id="s_aa_3">특별한 홈에 되돌아온다 </string>
+	<string id="h_ca_20">특별한 홈 맵을 본다 </string>
+	<string id="fr_aa_8">특별한 홈에 간다 </string>
+	<string id="y_aa_8">특별한 홈에 되돌아온다 </string>
+	<string id="h_ca_11">메세지 보드를 본다 </string>
+	<string id="h_ca_12">자세한 페이지를 본다 </string>
+	<string id="sp2_pokemon_comment_01">『포켓몬 영화』의 쌔비냥이다. 치라미와 함께 있어 즐거워 보인다!</string>
+	<string id="sp2_pokemon_comment_02">『포켓몬 영화』의 치라미다. 쌔비냥과 함께 있어 즐거워 보인다!</string>
+	<string id="sp2_pokemon_comment_03">『포켓몬 영화』의 심보라다.</string>
+	<string id="sp2_pokemon_comment_04">『포켓몬 영화』의 사철록이다. 천 덮게 위가 신경쓰이는 것 같다.</string>
+	<string id="sp2_pokemon_comment_05">『포켓몬 영화』의 곤율랭이다. 손님의 방문을 기뻐하는 것 같다!</string>
+	<string id="sp2_pokemon_comment_06">『포켓몬 영화』의 에몽가다. 뒤가 신경쓰이는 것 같다.</string>
+	<string id="h_da_5">특별한 홈에 간다 </string>
+	<string id="h_da_7">특별한 홈 맵 </string>
+	<string id="dialog_36">철한다</string>
+
+	<string id="sp2_interior_1_doll">『비크티니 인형』이다. 비밀암호는 ｢포켓몬 영화｣!</string>
+
+	<string id="y_aa_10"></string>
+	<string id="y_aa_11">꿈섬에 도착했다. 저기 있는 건 빅크티니?</string>
+	<string id="y_aa_12">[ポケモン名]는(은) 보석상자가 궁금하다</string>
+	<string id="y_aa_13">[ポケモン名]를(을) 도와주자!</string>
+	<string id="y_aa_14">보석상자 열기에 실패했다.</string>
+	<string id="y_aa_15">보석상자 열기를 끝냈다.</string>
+
+	<string id="h_ca_21">예고편 보기</string>
+	<string id="fr_aa_16">안에 들어가기</string>
+
+</data>
+
+

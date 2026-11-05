@@ -1,0 +1,362 @@
+
+
+
+#gts {
+  display: none;
+  position: relative;
+}
+
+
+
+#gts-top {
+  position: relative;
+  width: 1003px;
+  height: 770px;
+  overflow: hidden;
+  color: #FFF;
+}
+#gts-top .updated-at {
+  position: absolute;
+  right: 16px;
+  top: 14px;
+  z-index: 3;
+  font-size: 12px;
+}
+#gts-top h2 {
+  position: absolute;
+  left: 0;
+  top: 11px;
+  z-index: 2;
+  width: 1003px;
+  height: 35px;
+  text-indent: -9000px;
+  background: url(../ja/report-headers.png) 0 -0px;
+}
+#gts-top .nav {
+  position: absolute;
+  left: 0;
+  top: 55px;
+  z-index: 10;
+  width: 212px;
+  height: 148px;
+  background: url(../images/report-button-shadow.png) left bottom;
+}
+
+#gts-top .scroll-map {
+  position: absolute;
+  width: 2603px;
+  height: 770px;
+}
+#gts-top .scroll-map .area {
+  position: absolute;
+  width: 200px;
+  text-align: center;
+  font-size: 16;
+  font-weight: bold;
+  color: #78E82C;
+}
+#gts-top-trade:before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 1003px;
+  height: 770px;
+  background: url(../images/gts-top-grid.png);
+}
+
+
+#gts-top-trade {
+  position: absolute;
+  color: #FFF;
+}
+
+#gts-top-trade .gts-top-trade-deposit {
+  width: 215px;
+  height: 444px;
+  background: url(../images/gts-top-trade-deposit-bg.png) top left no-repeat;
+  position: absolute;
+  display: none;
+}
+#gts-top-trade-deposit-1 {
+  left: 26px;
+  top: 211px;
+}
+#gts-top-trade-deposit-2 {
+  left: 762px;
+  top: 211px;
+}
+.gts-top-trade-deposit .label {
+  color: #A0A0A0;
+  font-size: 10px;
+}
+.gts-top-trade-deposit .pokemon .name {
+  position: absolute;
+  left: 34px;
+  top: 120px;
+  right: 34px;
+  color: #3EB7DE;
+  font-size: 18px;
+  font-weight: bold;
+}
+.gts-top-trade-deposit .types {
+  position: absolute;
+  left: 34px;
+  top: 164px;
+}
+.gts-top-trade-deposit .types li {
+  list-style-type: none;
+  float: left;
+  width: 72px;
+  height: 17px;
+  margin-right: 2px;
+  background-image: url(../ja/types-large.png);
+}
+.gts-top-trade-deposit .level {
+  position: absolute;
+  right: 59px;
+  top: 143px;
+  font-size: 12px;
+}
+.gts-top-trade-deposit .level .label {
+  font-size: 11px;
+}
+.gts-top-trade-deposit .level .value {
+  color: #FFAA05;
+  font-weight: bold;
+}
+.gts-top-trade-deposit .sex {
+  position: absolute;
+  left: 161px;
+  top: 142px;
+}
+.gts-top-trade-deposit .moves {
+  position: absolute;
+  left: 34px;
+  top: 208px;
+}
+.gts-top-trade-deposit .moves li {
+  list-style-type: none;
+  height: 18px;
+  *height: 15px; /* IE7 */
+}
+.gts-top-trade-deposit .moves li .type {
+  display: block;
+  float: left;
+  width: 50px;
+  height: 17px;
+  margin-right: 2px;
+  background-image: url(../ja/types-small.png);
+}
+.gts-top-trade-deposit .moves li .move {
+  display: block;
+  float: left;
+  width: 84px;
+  height: 15px;
+  padding-top: 2px;
+  padding-left: 5px;
+  padding-right: 5px;
+  font-size: 10px;
+  font-weight: bold;
+  color: #505050;
+  border-radius: 3px;
+  background: #BEBEBE;
+}
+.language-ko .gts-top-trade-deposit .moves li .move {
+  font-size: 11px;
+}
+.gts-top-trade-deposit .nature {
+}
+.gts-top-trade-deposit .nature .label {
+  position: absolute;
+  left: 34px;
+  top: 188px;
+}
+.gts-top-trade-deposit .nature .value {
+  position: absolute;
+  right: 34px;
+  top: 187px;
+  font-size: 11px;
+}
+.gts-top-trade-deposit .image {
+  position: absolute;
+  left: 70px;
+  top: 26px;
+}
+.gts-top-trade-deposit .image img {
+  width: 70px;
+  height: 84px;
+}
+.gts-top-trade-deposit .pokemon .nickname .label {
+  position: absolute;
+  left: 34px;
+  top: 284px;
+  width: 56px;
+}
+.gts-top-trade-deposit .pokemon .nickname .value {
+  position: absolute;
+  right: 34px;
+  top: 283px;
+  width: 90px;
+  font-size: 12px;
+  text-align: right;
+}
+.gts-top-trade-deposit .user .name .label {
+  position: absolute;
+  left: 34px;
+  top: 307px;
+  width: 60px;
+  line-height: 90%;
+}
+.language-fr .gts-top-trade-deposit .user .name .label,
+.language-es .gts-top-trade-deposit .user .name .label {
+  top: 303px;
+}
+.gts-top-trade-deposit .user .name .value {
+  position: absolute;
+  right: 34px;
+  top: 306px;
+  font-size: 12px;
+}
+.gts-top-trade-deposit .user .area {
+  font-size: 11px;
+  position: absolute;
+  left: 34px;
+  right: 34px;
+  top: 327px;
+  line-height: 13px;
+}
+.gts-top-trade-deposit .user .area .value {
+  display: block;
+  text-align: right;
+}
+.gts-top-trade-deposit .deposited-at .label {
+  position: absolute;
+  left: 34px;
+  top: 373px;
+  font-size: 11px;
+}
+.gts-top-trade-deposit .deposited-at .value {
+  position: absolute;
+  right: 34px;
+  top: 391px;
+  font-size: 11px;
+}
+
+
+
+
+
+
+#gts-top-stats {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 644px;
+  height: 140px;
+  overflow: hidden;
+  background: url(../images/gts-top-stats-bg.png);
+}
+#gts-top-stats .label {
+  color: #49FB30;
+  font-size: 15px;
+  font-weight: bold;
+  margin-bottom: -6px;
+  text-shadow: 0 1px 6px #000;
+  -ms-filter:"progid:DXImageTransform.Microsoft.Shadow(color=#000000,direction=180,strength=3)";
+}
+#gts-top-stats .value {
+  color: #00F0FF;
+  font-size: 35px;
+  font-family: Lato, sans-serif;
+  font-weight: 700;
+  display: inline-block;
+  *display: inline; /* IE7 */
+  text-shadow: 0 3px 12px #000;
+  -ms-filter:"progid:DXImageTransform.Microsoft.Shadow(color=#000000,direction=180,strength=6)";
+}
+#gts-top-stats .unit {
+  color: #00F0FF;
+  font-size: 33px;
+  font-family: Lato, sans-serif;
+  font-weight: 700;
+  display: inline-block;
+  *display: inline; /* IE7 */
+  text-shadow: 0 5px 8px #000;
+  -ms-filter:"progid:DXImageTransform.Microsoft.Shadow(color=#000000,direction=180,strength=6)";
+}
+#gts-top-stats-travel {
+  position: absolute;
+  left: 54px;
+  top: 33px;
+  width: 300px;
+}
+#gts-top-stats-travel-earth {
+  font-size: 10px;
+  font-weight: bold;
+  position: absolute;
+  right: 654px;
+  bottom: 26px;
+}
+#gts-top-stats #gts-top-stats-travel-earth .value {
+  font-size: 23px;
+  color: #FF510C;
+  margin-left: 4px\9; /* IE8 and below */
+  vertical-align: sub;
+  text-shadow: 0 1px 6px #000;
+}
+#gts-top-stats #gts-top-stats-travel-earth .unit {
+  font-size: 13px;
+  color: #49FB30;
+  text-shadow: 0 1px 6px #000;
+}
+#gts-top-stats-deposited {
+  position: absolute;
+  left: 377px;
+  top: 33px;
+  width: 290px;
+}
+#gts-top-stats-traded {
+  position: absolute;
+  left: 695px;
+  top: 33px;
+}
+#gts-top-stats .date-from {
+  position: absolute;
+  right: 16px;
+  bottom: 28px;
+  color: #FF510C;
+  font-size: 15px;
+  font-weight: bold;
+  text-shadow: 0 1px 6px #000;
+  -ms-filter:"progid:DXImageTransform.Microsoft.Shadow(color=#000000,direction=180,strength=3)";
+}
+
+
+.nav-back {
+  position: absolute;
+  right: 0px;
+  bottom: -23px;
+  z-index: 30;
+  width: 43px;
+  height: 45px;
+  padding-left: 11px;
+  padding-bottom: 13px;
+  background: url(../ja/report-buttons.png) 0 -543px;
+  z-index: 900;
+}
+.nav-back a {
+  display: block;
+  width: 43px;
+  height: 45px;
+  background: url(../ja/report-buttons.png) -54px -543px;
+  cursor: pointer;
+  text-indent: -9000px;
+}
+#gts .nav-back a {
+  background-position: -54px -543px;
+}
+#gts .nav-back a:hover {
+  background-position: -97px -543px;
+}
+

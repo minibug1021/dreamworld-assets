@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="de">
+
+	<string id="B_aa_1">Nutzer</string>
+	<string id="B_aa_2">PGL-Spitzname: [arg0]</string>
+	<string id="B_aa_3">Trainername: [arg0]</string>
+	<string id="B_aa_4">[arg0]</string>
+	<string id="B_aa_5">Bewertung:</string>
+	<string id="B_aa_6">Ranglisten:</string>
+	<string id="B_aa_7">Trainerkampfdaten</string>
+	<string id="B_aa_8">Deine Kampfdaten</string>
+	<string id="B_aa_9">Einzelkampf</string>
+	<string id="B_aa_10">Doppelkampf</string>
+	<string id="B_aa_11">Dreierkampf</string>
+	<string id="B_aa_12">Werferkampf</string>
+	<string id="B_aa_13">Reihumkampf</string>
+	<string id="B_aa_14">Ränge nach Kampfart</string>
+	<string id="B_aa_15">Einzelkampf</string>
+	<string id="B_aa_16">Doppelkampf</string>
+	<string id="B_aa_17">Dreierkampf</string>
+	<string id="B_aa_18">Werferkampf</string>
+	<string id="B_aa_19">Reihumkampf</string>
+	<string id="B_aa_20">Rang [arg0]</string>
+	<string id="B_aa_21">Ranglisten nach Regionen</string>
+	<string id="B_aa_22">[arg0]</string>
+	<string id="B_aa_23">Details</string>
+	<string id="B_aa_24">Ranglisten</string>
+	<string id="B_aa_25">Turnierinfos</string>
+	<string id="B_aa_26">Rang [arg0]</string>
+	<string id="B_aa_27">Am [DD.MM.YYYY]</string>
+	<string id="B_aa_28">VS.</string>
+	<string id="B_aa_29">Angemeldet</string>
+	<string id="B_aa_30">Teilnahme läuft</string>
+	<string id="B_aa_31">TOP 3 der Gesamtrangliste</string>
+	<string id="B_aa_32">Anmeldung läuft</string>
+
+	
+	<string id="B_ab_1">KAMPF</string>
+
+	<string id="B_ac_1">GEWONNEN</string>
+	<string id="B_ac_2">VERLOREN</string>
+
+	<string id="B_ad_1">Glückwunsch! Du bist Sieger im
+GBU-Einzelkampf!</string>
+	<string id="B_ad_2">Glückwunsch! Du bist Sieger im
+GBU-Doppelkampf!</string>
+	<string id="B_ad_3">Glückwunsch! Du bist Sieger im
+GBU-Dreierkampf!</string>
+	<string id="B_ad_4">Glückwunsch! Du bist Sieger im
+GBU-Werferkampf!</string>
+	<string id="B_ad_5">Glückwunsch! Du bist Sieger im
+GBU-Reihumkampf!</string>
+	
+
+	<string id="B_ae_1">Ranglisten nach Kampfart</string>
+	<string id="B_ae_2">Bewertung:</string>
+	<string id="B_ae_3">[DD.MM.YYYY,　hh:mm Uhr]</string>
+	<string id="B_ae_4">Deine Kampfdaten</string>
+	<string id="B_ae_5">Einzelkampf</string>
+	<string id="B_ae_6">Doppelkampf</string>
+	<string id="B_ae_7">Dreierkampf</string>
+	<string id="B_ae_8">Werferkampf</string>
+	<string id="B_ae_9">Reihumkampf</string>
+	<string id="B_ae_10">Ranglisten nach Regionen</string>
+	<string id="B_ae_11">Ranglisten:</string>
+	<string id="B_ae_12">[DD.MM.YYYY,　hh:mm Uhr]</string>
+	<string id="B_ae_13">[arg0]</string>
+	<string id="B_ae_14">Rang [arg0]</string>
+	<string id="B_ae_15">Schließen</string>
+	<string id="B_ae_16">[arg0]</string>
+	<string id="B_ae_17">Einzelkampf</string>
+	<string id="B_ae_18">[arg0]</string>
+	<string id="B_ae_19">Doppelkampf</string>
+	<string id="B_ae_20">[arg0]</string>
+	<string id="B_ae_21">Dreierkampf</string>
+	<string id="B_ae_22">[arg0]</string>
+	<string id="B_ae_23">Werferkampf</string>
+	<string id="B_ae_24">[arg0]</string>
+	<string id="B_ae_25">Reihumkampf</string>
+	<string id="B_ae_26">[arg0]</string>
+	<string id="B_ae_27">Nutzer</string>
+	<string id="B_ae_29">Trainername: [arg0]</string>
+	<string id="B_ae_30">[arg0]</string>
+	<string id="B_ae_31">Bewertung</string>
+	<string id="B_ae_32">Rang</string>
+	<string id="B_ae_33">[arg0]</string>
+	<string id="B_ae_34">Rang [arg0]</string>
+	<string id="B_ae_35">Gegner</string>
+	<string id="B_ae_36">VS.</string>
+	<string id="B_ae_37">GEWONNEN</string>
+	<string id="B_ae_38">VERLOREN</string>
+	<string id="B_ae_39">UNENTSCHIEDEN</string>
+	<string id="B_ae_40">Keine Kampfdaten</string>
+	<string id="B_ae_41">Profilseite</string>
+	<string id="B_ae_42">Turnier</string>
+
+	<string id="B_aea_1">Kampfdaten von [arg0]</string>
+
+	<string id="B_ag_1">Rang</string>
+	<string id="B_ag_2">Letzte Aktualisierung</string>
+	<string id="B_ag_3">[DD.MM.YYYY,　hh:mm Uhr]</string>
+	<string id="B_ag_4">Kampfart</string>
+	<string id="B_ag_5">Gesamtrangliste</string>
+	<string id="B_ag_6">Einzelkampf</string>
+	<string id="B_ag_7">Doppelkampf</string>
+	<string id="B_ag_8">Dreierkampf</string>
+	<string id="B_ag_9">Werferkampf</string>
+	<string id="B_ag_10">Reihumkampf</string>
+	<string id="B_ag_12">Weiter</string>
+	<string id="B_ag_13">Meine Rangliste</string>
+	<string id="B_ag_14">PGL-Spitzname: [arg0]</string>
+	<string id="B_ag_15">1</string>
+	<string id="B_ag_16">Zurück</string>
+
+	<string id="B_aj_1">PGL-Spitzname</string>
+	<string id="B_aj_2">Trainername</string>
+	<string id="B_aj_3">Bewertung:</string>
+	<string id="B_aj_4">Ranglisten:</string>
+	<string id="B_aj_5">[arg0]</string>
+	<string id="B_aj_6">Rang [arg0]</string>
+	<string id="B_aj_7">Trainerkampfdaten</string>
+	<string id="B_aj_8">Zurück</string>
+
+	<string id="B_ak_1">Turnierinfos</string>
+	<string id="B_ak_2">Laufendes Turnier</string>
+	<string id="B_ak_3">Vergangene Turniere</string>
+	<string id="B_ak_4">[DD.MM.YYYY]</string>
+	<string id="B_ak_5">Anmeldung läuft</string>
+	<string id="B_ak_6">Anmeldung fertig</string>
+	<string id="B_ak_7">Anmeldefrist abgelaufen</string>
+	<string id="B_ak_8">Teilnahme läuft</string>
+	<string id="B_ak_9">Teilnahmewiderrufung</string>
+
+	<string id="B_al_1">Keine laufenden Turniere</string>
+	<string id="B_al_2">Vergangene(s) Turnier(e) ansehen</string>
+	<string id="B_al_3">Keine vergangenen Turniere vorhanden.</string>
+
+	<string id="B_am_1">Turnier beitreten</string>
+	<string id="B_am_2">Vorläufige Rangliste</string>
+
+	<string id="B_aq_1">[arg0]</string>
+	<string id="B_aq_2">Rang</string>
+	<string id="B_aq_3">Letzte Aktualisierung</string>
+	<string id="B_aq_4">[DD.MM.YYYY,　hh:mm Uhr]</string>
+	<string id="B_aq_5">Regeln</string>
+	<string id="B_aq_6">[arg0]</string>
+
+	<string id="B_an_1">Turnier beitreten</string>
+	<string id="B_an_2">Detailansicht</string>
+
+	<string id="B_as_1">Turnier beitreten?</string>
+	<string id="B_as_2">Bestätigen</string>
+
+	<string id="B_ap_1">Turnierende</string>
+	<string id="B_ap_2">Teilnahme beendet</string>
+
+	<string id="B_ar_1">Rangliste ansehen</string>
+	<string id="B_ac_3">UNENTSCHIEDEN</string>
+	<string id="B_at_1">Regionen eingrenzen</string>
+	<string id="B_at_2">Alles anzeigen</string>
+	<string id="B_at_3">Festlegen</string>
+	<string id="B_at_4">[arg0]</string>
+	<string id="B_ag_17">Regionen eingrenzen</string>
+	<string id="B_ag_18">Gesamtrangliste</string>
+	<string id="B_ag_19">Einzelkampf</string>
+	<string id="B_ag_20">Doppelkampf</string>
+	<string id="B_ag_21">Dreierkampf</string>
+	<string id="B_ag_22">Werferkampf</string>
+	<string id="B_ag_23">Reihumkampf</string>
+	<string id="B_new_1">Details</string>
+	<string id="B_new_2">Rang
+Saison [N]</string>
+	<string id="B_new_3">Saison [N]:  [DATE_FROM] Uhr - [DATE_TO] Uhr</string>
+	<string id="B_new_4">Weitere Einzelheiten zu deiner Rangliste</string>
+	<string id="B_new_5">*Es kann unter Umständen ein wenig dauern, bis Kampfergebnisse und Bewertungen auf den neuesten Stand gebracht sind.</string>
+	<string id="B_new_6">Saison [N]:  [DATE_FROM] Uhr - [DATE_TO] Uhr</string>
+	<string id="">Saison [N]</string>
+	<string id="">Saison [N]</string>
+	<string id="">Saison [N]</string>
+	<string id="">Saison [N]</string>
+	<string id="">Saison [N]</string>
+	<string id="">Saison [N]</string>
+	<string id="">Saison [N]</string>
+	<string id="">Saison [N]</string>
+	<string id="B_new_7">[DATE_FROM] － [DATE_TO]</string>
+	<string id="B_new_8">Vergangene Ranglisten</string>
+	<string id="B_new_9">Endstand der Rangliste</string>
+	<string id="B_new_10">Saison [N]</string>
+	
+	
+	<string id="B_vs_3">Ranglistenbekanntgabe</string>
+	<string id="B_vs_4">Anmeldezeitraum</string>
+	<string id="B_vs_5">Turnierdauer</string>
+	<string id="B_vs_6">Turnierinfos</string>
+	<string id="B_vs_7">Grundsatzung/Regeln</string>
+	<string id="B_vs_8">Spieleinstellungen und Steuerung</string>
+	<string id="B_vs_9">Weiter zur Anmeldung</string>
+	
+	<string id="B_vs_11">Grundsatzung/Regeln akzeptieren.</string>
+	<string id="B_vs_12">Teilnahme</string>
+	
+	<string id="B_vs_14">※Hier werden deine oder verfügbare Turniere angezeigt. Ergebnisse werden nach Turnierabschluss für eine bestimmte Zeit aufgeführt.</string>
+	<string id="B_vs_15">Die Anmeldefrist für dieses Turnier ist abgelaufen.</string>
+	
+	
+	<string id="B_vs_18">Das Turnier ist abgeschlossen und die Ranglistenberechnung im Gang. Bitte gedulde dich einen Augenblick.</string>
+	<string id="B_vs_19">Das Turnier ist abgeschlossen. Überprüfe dein Ergebnis unter „Rangliste ansehen".</string>
+	<string id="B_vs_20">Du hast das laufende Turnier verlassen. Falls du die den Regeln entsprechende Mindestzahl an Kämpfen erreicht hast, werden sie für die Ranglisten berücksichtigt.</string>
+	<string id="B_vs_21">Turnierverlaufsübersicht</string>
+	<string id="B_vs_22">Austragungstermin</string>
+	<string id="B_vs_23">Kampfregeln</string>
+	<string id="B_vs_24">Teilnehmerzahl</string>
+	<string id="B_vs_25">Vergangene Turniere</string>
+	<string id="B_vs_26">Rangliste ansehen</string>
+	<string id="B_new_11">Vergangene Ranglisten</string>
+	<string id="B_new_12">Saison [N]</string>
+	<string id="B_new_13">Saison [N]:  [DATE_FROM] Uhr - [DATE_TO] Uhr</string>
+	<string id="B_new_28">Available Competition(s)</string>
+	<string id="B_new_30">Turnierdauer:</string>
+	
+	<string id="">Saison [N]</string>
+	<string id="">Saison [N]</string>
+	<string id="">Saison [N]</string>
+	<string id="">Saison [N]</string>
+	<string id="">Saison [N]</string>
+	<string id="">Saison [N]</string>
+	<string id="">Saison [N]</string>
+	<string id="">Saison [N]</string>
+	<string id="">Saison [N]</string>
+	<string id="">Saison [N]</string>
+	<string id="">Saison [N]</string>
+	<string id="">Saison [N]</string>
+	<string id="">Saison [N]</string>
+	<string id="">Saison [N]</string>
+	<string id="">Saison [N]</string>
+	<string id="">Saison [N]</string>
+	<string id="">Saison [N]</string>
+	<string id="">Saison [N]</string>
+	<string id="">Saison [N]</string>
+	<string id="">Saison [N]</string>
+	<string id="">Saison [N]</string>
+	<string id="">Saison [N]</string>
+	<string id="">Saison [N]</string>
+	<string id="">Saison [N]</string>
+	<string id="">Saison [N]</string>
+	<string id="">Saison [N]</string>
+	<string id="">Saison [N]</string>
+	<string id="">Saison [N]</string>
+	<string id="">Saison [N]</string>
+	<string id="">Saison [N]</string>
+	<string id="">Saison [N]</string>
+	<string id="">Saison [N]</string>
+	<string id="">Saison [N]</string>
+	<string id="">Saison [N]</string>
+	<string id="">Saison [N]</string>
+	<string id="">Saison [N]</string>
+	<string id="">Saison [N]</string>
+	<string id="">Saison [N]</string>
+	<string id="">Saison [N]</string>
+	<string id="">Saison [N]</string>
+	<string id="">Saison [N]</string>
+	<string id="">Saison [N]</string>
+	<string id="">Saison [N]</string>
+	<string id="">Saison [N]</string>
+	<string id="">Saison [N]</string>
+	<string id="">Saison [N]</string>
+	<string id="">Saison [N]</string>
+	<string id="">Saison [N]</string>
+	<string id="B_vs_17">Du nimmst an diesem Turnier teil. Du kannst mit deinem Spiel für das Nintendo DS-System zum Kampf antreten.</string>
+</data>

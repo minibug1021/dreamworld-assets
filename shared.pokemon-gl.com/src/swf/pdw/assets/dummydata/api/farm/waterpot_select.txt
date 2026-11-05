@@ -1,0 +1,40 @@
+{
+"waterpot_list":[
+	{
+	"my_interior_id":"266",
+	"interior_id":"6",
+	"interior_name":"コダックじょうろ",
+	"selected_flag":"0"
+	},
+	{
+	"my_interior_id":"265",
+	"interior_id":"5",
+	"interior_name":"カイオーガスプリンクラー",
+	"selected_flag":"0"
+	},
+	{
+	"my_interior_id":"264",
+	"interior_id":"4",
+	"interior_name":"ドンファンホース",
+	"selected_flag":"0"
+	},
+	{
+	"my_interior_id":"263",
+	"interior_id":"3",
+	"interior_name":"ゼニガメじょうろ",
+	"selected_flag":"0"
+	},
+	{
+	"my_interior_id":"262",
+	"interior_id":"2",
+	"interior_name":"デリバードじょうろ",
+	"selected_flag":"0"
+	},
+	{
+	"my_interior_id":"261",
+	"interior_id":"1",
+	"interior_name":"ふつうのじょうろ",
+	"selected_flag":"1"
+	}
+]
+}

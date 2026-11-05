@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data locale="en">	
+	<string id="c_bi_2">A Game Sync ID from Pokémon Black 2 is necessary
+to participate in this promotion.</string>
+	<string id="c_bi_3">A Game Sync ID from Pokémon White 2 is necessary
+to participate in this promotion.</string>
+	<string id="c_bi_4">A Game Sync ID from Pokémon Black 2 or
+Pokémon White 2 is necessary for this promotion.</string>
+	<string id="c_bi_5">A Game Sync ID from Pokémon Black, Pokémon White,
+Pokémon Black 2 or Pokémon White 2 is needed for this promotion.</string>
+	<string id="c_bi_6">Please choose a Pokémon and click "Submit."</string>
+</data>

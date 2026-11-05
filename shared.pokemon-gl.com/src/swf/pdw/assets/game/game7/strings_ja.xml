@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data locale="ja">
+	<string id="WIN_TITLE_TITLE">ろうそく消し</string>
+	<string id="WIN_TITLE_DESC1">{BUDDY_NAME}とこうごに
+ろうそくの火を消そう。
+さいごの一つを消したら負けだよ！</string>
+	<string id="WIN_TITLE_BTN1">スタート</string>
+	<string id="WIN_TITLE_BTN2">あそびかた</string>
+	
+	<string id="WIN_HTP_TITLE">あそびかた</string>
+	<string id="WIN_HTP_DESC1">出会ったポケモンときもだめしをするぞ！
+部屋のおくに行って、ろうそくの火を
+ふき消してこよう。
+
+横にならんだ火は、同時にいくつでも消せるよ。
+
+真っ暗な部屋でこわい思いをしないよう、
+さいごの火は自分で消さないようにしよう。</string>
+	<string id="WIN_HTP_DESC2">「キミの番だ！」と
+ひょうじされたら
+火を消そう。</string>
+	<string id="WIN_HTP_DESC3">時間がなくなるまで何度でもあそべるぞ。</string>
+	<string id="WIN_HTP_DESC4">横にならんだ火は同時に消せるぞ。
+消えた火をとびこえて消すことはできない。
+さいごの火を消したら負けだ！</string>
+	<string id="WIN_HTP_BTN1">もどる</string>
+
+	<string id="INFO_TURN_PLAYER">キミの番だ！</string>
+	<string id="INFO_TURN_CPU">(あいての番)</string>
+	<string id="INFO_ICON_CPU">{BUDDY_NAME}</string>
+	<string id="INFO_ICON_PLAYER">キミ</string>
+		
+	<string id="WIN_RESULT_TITLE">せいせき</string>
+	
+	<string id="WIN_RESULT_WIN_LABEL">勝った回数</string>
+	<string id="WIN_RESULT_BRIGHT_LABEL">明るい火</string>
+	<string id="WIN_RESULT_DARK_LABEL">暗い火</string>
+	<string id="WIN_RESULT_TOTAL_LABEL">ごうけい</string>
+	
+	<string id="WIN_RESULT_WIN_NUM">{NUM}</string>
+	<string id="WIN_RESULT_BRIGHT_NUM">{NUM}</string>
+	<string id="WIN_RESULT_DARK_NUM">{NUM}</string>
+	<string id="WIN_RESULT_TOTAL_NUM">{NUM}</string>
+	
+	<string id="WIN_RESULT_WIN_UNIT">回</string>
+	<string id="WIN_RESULT_BRIGHT_UNIT">本</string>
+	<string id="WIN_RESULT_DARK_UNIT">本</string>
+	
+	<string id="WIN_RESULT_TITLE_SCORE">せいせき</string>
+	<string id="WIN_RESULT_WIN_SCORE">{NUM}</string>
+	<string id="WIN_RESULT_BRIGHT_SCORE">{NUM}</string>
+	<string id="WIN_RESULT_DARK_SCORE">{NUM}</string>
+	<string id="WIN_RESULT_TOTAL_SCORE">{NUM}</string>
+	
+	<string id="WIN_RESULT_CANDLE_LABEL"> </string>
+	<string id="WIN_RESULT_CANDLE_NUM">{NUM}</string>
+	<string id="WIN_RESULT_CANDLE_UNIT">本</string>
+	<string id="WIN_RESULT_CANDLE_SCORE">{NUM}</string>
+	
+	<string id="WIN_RESULT_BTN1">とじる</string>
+	
+	<string id="HINT_01">消したい火をクリックしてえらぼう。
+横にならんでいる火はいくつでもえらべるぞ。</string>
+
+	<string id="HINT_02">横にならんでいる火はいくつでもえらべるぞ。
+えらび終わったら「消す」ボタンをクリックしよう。</string>
+
+	<string id="HINT_03">ヒント：光っている火をえらぶといいぞ。
+えらび終わったら「消す」ボタンをクリックしよう。</string>
+
+	<string id="HINT_04">火が一つしかない！
+もう、これを消すしかないみたいだ。</string>
+
+	<string id="HINT_05">明るい火を消すと、スコアがふえるぞ。</string>
+	
+	<string id="HINT_06">暗い火を消すと、スコアがへってしまうぞ。</string>
+	
+	<string id="HINT_07">大きい火は、一回ふき消すとふつうの火になる。
+二回ふき消さないと消せないぞ。</string>
+
+	<string id="BTN_BLOWOUT">消す</string>
+	<string id="BTN_QUIT">ゲームをやめる</string>
+	<string id="WIN_QUIT_DESC1">このゲームをしゅうりょうしますか？
+しゅうりょうした場合
+{BUDDY_NAME}となかよくなることは
+できません。</string>
+	<string id="WIN_QUIT_BTN1">はい</string>
+	<string id="WIN_QUIT_BTN2">いいえ</string>
+	
+	<string id="GAME_WIN">WIN</string>
+	<string id="GAME_LOSE">LOSE</string>
+	<string id="GAME_TIMEUP">タイムアップ！</string>
+</data>

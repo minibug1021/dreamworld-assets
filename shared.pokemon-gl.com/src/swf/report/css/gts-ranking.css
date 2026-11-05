@@ -1,0 +1,313 @@
+
+#gts-ranking {
+  width: 1003px;
+  height: 639px;
+  position: relative;
+  color: #FFF;
+  background: url(../images/gts-ranking-bg.png);
+}
+#gts-ranking h2 {
+  position: absolute;
+  left: 0;
+  top: 11px;
+  z-index: 2;
+  width: 1003px;
+  height: 35px;
+  text-indent: -9000px;
+  background: url(../ja/report-headers.png) 0 -35px;
+}
+
+#gts-ranking-selector {
+  position: absolute;
+  left: 40px;
+  top: 384px;
+  z-index: 2;
+}
+#gts-ranking-selector a {
+  display: block;
+  width: 160px;
+  background-image: url(../ja/report-buttons.png);
+  text-indent: -9000px;
+}
+#gts-ranking-selector-traded {
+  height: 73px;
+  background-position: -500px -303px;
+}
+#gts-ranking-selector-wanted {
+  height: 75px;
+  background-position: -500px -376px;
+}
+#gts-ranking-selector-deposited {
+  height: 78px;
+  background-position: -500px -451px;
+}
+#gts-ranking-selector-traded:hover,
+#gts-ranking-selector-traded.selected {
+  background-position: -340px -303px;
+}
+#gts-ranking-selector-wanted:hover,
+#gts-ranking-selector-wanted.selected {
+  background-position: -340px -376px;
+}
+#gts-ranking-selector-deposited:hover,
+#gts-ranking-selector-deposited.selected {
+  background-position: -340px -451px;
+}
+
+
+#gts-ranking ol {
+  position: absolute;
+  left: 40px;
+  top: 55px;
+  width: 803px;
+  padding-left: 160px;
+}
+.pokemon-ranking li {
+  display: block;
+  float: left;
+  position: relative;
+}
+#gts-ranking li {
+  width: 80px;
+  height: 110px;
+  cursor: pointer;
+}
+#gts-ranking li:hover {
+  background-color: rgba(255,255,255,0.1);
+}
+#gts-ranking li .image img {
+  width: 70px;
+  height: 70px;
+  position: absolute;
+  left: 5px;
+  top: 22px;
+}
+.pokemon-ranking li .ranking {
+  position: absolute;
+  left: 3px;
+  top: 3px;
+  font-family: 'Nova Mono';
+  font-size: 17px;
+  color: #8B8B8B;
+  letter-spacing: -1px;
+}
+#gts-ranking li .type {
+  display: none;
+}
+#gts-ranking li .ranking-change {
+  position: absolute;
+  right: 8px;
+  top: 8px;
+  width: 32px;
+  height: 19px;
+  padding-left: 22px;
+  padding-right: 4px;
+  padding-top: 2px;
+  font-size: 13px;
+  text-align: center;
+  color: #8B8B8B;
+  background-image: url(../images/ranking-change-bg.png);
+}
+.ranking-change.ranking-jump {
+  background-position: -0px -0px;
+}
+.ranking-change.ranking-up {
+  background-position: -0px -21px;
+}
+.ranking-change.ranking-keep {
+  background-position: -0px -42px;
+}
+.ranking-change.ranking-down {
+  background-position: -0px -63px;
+}
+#gts-ranking li.pokemon-ranking-item-s .ranking-change {
+  position: absolute;
+  right: 8px;
+  top: 8px;
+  width: 12px;
+  height: 12px;
+  padding: 0;
+  text-indent: -9000px;
+  background-image: url(../images/ranking-change-bg.png);
+}
+#gts-ranking li.pokemon-ranking-item-s .ranking-change.ranking-jump {
+  background-position: -58px -4px;
+}
+#gts-ranking li.pokemon-ranking-item-s .ranking-change.ranking-up {
+  background-position: -58px -25px;
+}
+#gts-ranking li.pokemon-ranking-item-s .ranking-change.ranking-keep {
+  background-position: -58px -46px;
+}
+#gts-ranking li.pokemon-ranking-item-s .ranking-change.ranking-down {
+  background-position: -58px -67px;
+}
+.ranking-entry .surface {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: 510;
+}
+.gts-ranking-balloon {
+  position: absolute;
+  width: 118px;
+  height: 89px;
+  background: url(../images/gts-ranking-balloon.png);
+  z-index: 500;
+}
+.gts-ranking-balloon .name {
+  position: absolute;
+  left: 7px;
+  top: 30px;
+  color: #FFF;
+  font-size: 13px;
+  font-weight: bold;
+}
+.gts-ranking-balloon .ranking {
+  position: absolute;
+  left: 12px;
+  top: 6px;
+  width: 33px;
+  font-size: 15px;
+  font-weight: bold;
+  font-family: 'Nova Mono';
+  color: #8B8B8B;
+}
+.gts-ranking-balloon .ranking-change {
+  position: absolute;
+  left: 54px;
+  top: 6px;
+  width: 32px;
+  height: 19px;
+  padding-left: 22px;
+  padding-right: 4px;
+  padding-top: 2px;
+  font-size: 13px;
+  text-align: center;
+  color: #8B8B8B;
+  background-image: url(../images/ranking-change-bg.png);
+}
+.gts-ranking-balloon .types {
+  position: absolute;
+  left: 7px;
+  top: 51px;
+}
+.gts-ranking-balloon .types li {
+  display: block;
+  float: left;
+  width: 50px;
+  height: 17px;
+  margin-right: 4px;
+  background-image: url(../ja/types-small.png);
+}
+
+
+/* 個別サイズ 1 */
+#gts-ranking li.pokemon-ranking-item-xl {
+  width: 320px;
+  height: 328px; /* 329-1 for smaller zoom */
+  margin-left: -160px;
+}
+#gts-ranking li.pokemon-ranking-item-xl .ranking {
+  font-size: 80px;
+  top: -26px;
+}
+#gts-ranking li.pokemon-ranking-item-xl .image img {
+  width: 240px;
+  height: 240px;
+  position: absolute;
+  left: 42px;
+  top: 6px;
+}
+#gts-ranking li.pokemon-ranking-item-xl .type {
+}
+#gts-ranking li.pokemon-ranking-item-xl .pokemon-spec {
+  position: absolute;
+  left: 12px;
+  bottom: 12px;
+}
+#gts-ranking li.pokemon-ranking-item-xl .pokemon-spec .types ol {
+  padding-left: 0;
+  width: 150px;
+  left: 76px;
+  top: 5px;
+}
+#gts-ranking li.pokemon-ranking-item-xl .pokemon-spec .types li {
+  width: 72px;
+  height: 17px;
+}
+
+
+/* 個別サイズ 2-5 */
+#gts-ranking li.pokemon-ranking-item-l {
+  width: 160px;
+  height: 165px;
+}
+#gts-ranking li.pokemon-ranking-item-l .ranking {
+  font-size: 42px;
+  top: -14px;
+}
+#gts-ranking li.pokemon-ranking-item-l .image img {
+  width: 134px;
+  height: 134px;
+  position: absolute;
+  left: 13px;
+  top: 20px;
+}
+
+/* 個別サイズ 6-8 */
+#gts-ranking li.pokemon-ranking-item-m {
+  width: 128px;
+  height: 164px;
+}
+#gts-ranking li.pokemon-ranking-item-m .ranking {
+  font-size: 32px;
+  top: -4px;
+}
+#gts-ranking li.pokemon-ranking-item-m .image img {
+  width: 120px;
+  height: 120px;
+  position: absolute;
+  left: 4px;
+  top: 34px;
+}
+
+.ranking-entry:hover .ranking {
+  color: #FCFF00;
+}
+
+#gts-ranking .ranking-entry { position: absolute; }
+#gts-ranking .pokemon-ranking-item-1 { left: 160px; top: 0px; }
+#gts-ranking .pokemon-ranking-item-2 { left: 320px; top: 0px; }
+#gts-ranking .pokemon-ranking-item-3 { left: 480px; top: 0px; }
+#gts-ranking .pokemon-ranking-item-4 { left: 640px; top: 0px; }
+#gts-ranking .pokemon-ranking-item-5 { left: 800px; top: 0px; }
+#gts-ranking .pokemon-ranking-item-6 { left: 320px; top: 165px; }
+#gts-ranking .pokemon-ranking-item-7 { left: 448px; top: 165px; }
+#gts-ranking .pokemon-ranking-item-8 { left: 576px; top: 165px; }
+#gts-ranking .pokemon-ranking-item-9 { left: 704px; top: 165px; }
+#gts-ranking .pokemon-ranking-item-10 { left: 832px; top: 165px; }
+#gts-ranking .pokemon-ranking-item-11 { left: 160px; top: 329px; }
+#gts-ranking .pokemon-ranking-item-12 { left: 240px; top: 329px; }
+#gts-ranking .pokemon-ranking-item-13 { left: 320px; top: 329px; }
+#gts-ranking .pokemon-ranking-item-14 { left: 400px; top: 329px; }
+#gts-ranking .pokemon-ranking-item-15 { left: 480px; top: 329px; }
+#gts-ranking .pokemon-ranking-item-16 { left: 560px; top: 329px; }
+#gts-ranking .pokemon-ranking-item-17 { left: 640px; top: 329px; }
+#gts-ranking .pokemon-ranking-item-18 { left: 720px; top: 329px; }
+#gts-ranking .pokemon-ranking-item-19 { left: 800px; top: 329px; }
+#gts-ranking .pokemon-ranking-item-20 { left: 880px; top: 329px; }
+#gts-ranking .pokemon-ranking-item-21 { left: 160px; top: 439px; }
+#gts-ranking .pokemon-ranking-item-22 { left: 240px; top: 439px; }
+#gts-ranking .pokemon-ranking-item-23 { left: 320px; top: 439px; }
+#gts-ranking .pokemon-ranking-item-24 { left: 400px; top: 439px; }
+#gts-ranking .pokemon-ranking-item-25 { left: 480px; top: 439px; }
+#gts-ranking .pokemon-ranking-item-26 { left: 560px; top: 439px; }
+#gts-ranking .pokemon-ranking-item-27 { left: 640px; top: 439px; }
+#gts-ranking .pokemon-ranking-item-28 { left: 720px; top: 439px; }
+#gts-ranking .pokemon-ranking-item-29 { left: 800px; top: 439px; }
+#gts-ranking .pokemon-ranking-item-30 { left: 880px; top: 439px; }
+
+
+
+

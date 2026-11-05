@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data locale="de">	
+	<string id="pg_az_1">Dein Spiel individualisieren</string>
+	<string id="pg_az_2">Individualisierung</string>
+	<string id="pg_az_3">Gestaltung des C-Gears</string>
+	<string id="pg_az_5">Gestaltung des Pokédex</string>
+	<string id="pg_az_7">Musical-Programm</string>
+	<string id="pg_az_9">Zurück</string>
+	
+	<string id="pg_az1_1">Individualisierung durchführen</string>
+	<string id="pg_az1_2">Mit dieser Wahl einverstanden?</string>
+	<string id="pg_az1_3">Gestaltung des C-Gears</string>
+	<string id="pg_az1_5">Gestaltung des Pokédex</string>
+	<string id="pg_az1_7">Musical-Programm</string>
+	<string id="pg_az1_9">Nicht an das Nintendo DS™-System senden</string>
+	
+	<string id="pg_az2_2">Individualisierung durchgeführt.</string>
+	<string id="pg_az2_1">O.K.</string>
+	
+	<string id="pg_ay_1">Es wurden keine Änderungen
+vorgenommen.</string>
+	<string id="pg_ay_2">O.K.</string>
+	<string id="pg_az3_3">Die Individualisierung wird nicht durchgeführt, solang du nicht „Dein
+Spiel individualisieren“ bestätigst. Möchtest du wirklich abbrechen?</string>
+</data>

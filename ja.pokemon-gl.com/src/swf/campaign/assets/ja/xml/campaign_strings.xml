@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data locale="ja">	
+	<string id="c_ad_1">キャンペーン一覧</string>
+	<string id="c_ad_2">日付</string>
+	<string id="c_ad_3">ステータス</string>
+	<string id="c_ad_4">タイトル</string>
+	<string id="c_ad_11">キャンペーンに参加する方法</string>
+	<string id="c_aa_1">くわしくはこちら</string>
+	<string id="c_aa_3">つぎへ</string>
+	<string id="c_aa_4">キャンペーンに参加する人へ</string>
+	<string id="c_bb_3">キャンペーン期間： [YYYY1]-[MM1]-[DD1] [hh1]:[mm1] - [YYYY2]-[MM2]-[DD2] [hh2]:[mm2]</string>
+	<string id="c_ba_1">キャンペーンに参加するためには、「ポケモンだいすきクラブ」のメンバーIDとパスワードが必要です。
+すでにポケモンだいすきクラブメンバーIDをおもちのかたはトップページからログインしてください。</string>
+	<string id="c_ba_2">はじめてのご利用のかたはコチラ</string>
+	<string id="c_ba_3">新規メンバー登録</string>
+	<string id="c_bb_1">キャンペーンに参加するためには、「ポケモンだいすきクラブ」で参加権を獲得する必要があります。
+「ポケモンだいすきクラブ」で確認してください。</string>
+	<string id="c_bb_7">もどる</string>
+	<string id="c_bd_1">このキャンペーンはもうすぐ開催予定です。</string>
+	<string id="c_be_1">このキャンペーンは終了しました。</string>
+	<string id="c_bf_1">キャンペーンにご参加いただきありがとうございました。</string>
+	<string id="c_bg_1">このキャンペーンに参加いただくためには「ポケットモンスターブラックのゲームシンクIDコードが必要です。</string>
+	<string id="c_bh_1">このキャンペーンに参加いただくためには、「ポケットモンスターホワイト」のゲームシンクIDコードが必要です。</string>
+	<string id="c_bi_1">このキャンペーンに参加いただくためには、「ポケットモンスターブラック」か「ポケットモンスターホワイト」のゲームシンクIDコードが必要です。</string>
+	<string id="c_bj_1">なかよしボードがいっぱいです。
+ポケモンをハイリンクへ連れて行ってください。</string>
+	<string id="c_bk_1">ハイリンクのもりがいっぱいで、これ以上ポケモンを連れて行けません。
+ハイリンクのもりでポケモンと出会い、ボールを投げてポケモンをなかまにしてください。</string>
+	<string id="c_bl_1">キャンペーンのゲームが見つかりません。</string>
+</data>

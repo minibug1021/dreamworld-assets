@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data locale="it">	
+	<string id="pg_az_1">Personalizza il tuo gioco</string>
+	<string id="pg_az_2">Personalizzazione</string>
+	<string id="pg_az_3">Aspetto del C-Gear</string>
+	<string id="pg_az_5">Aspetto del Pokédex</string>
+	<string id="pg_az_7">Programmi del Pokémon Musical</string>
+	<string id="pg_az_9">Indietro</string>
+	
+	<string id="pg_az1_1">Personalizza così</string>
+	<string id="pg_az1_2">Va bene?</string>
+	<string id="pg_az1_3">Aspetto del C-Gear</string>
+	<string id="pg_az1_5">Aspetto del Pokédex</string>
+	<string id="pg_az1_7">Programmi del Pokémon Musical</string>
+	<string id="pg_az1_9">Non inviare alla console</string>
+	
+	<string id="pg_az2_2">La personalizzazione è terminata.</string>
+	<string id="pg_az2_1">Ok</string>
+	
+	<string id="pg_ay_1">Nessuna modifica effettuata.</string>
+	<string id="pg_ay_2">Ok</string>
+</data>

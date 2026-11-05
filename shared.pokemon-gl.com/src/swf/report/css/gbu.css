@@ -1,0 +1,1045 @@
+
+
+#gbu {
+  display: none;
+  color: #FFF;
+  position: relative;
+}
+#gbu h2 {
+  position: absolute;
+  left: 0;
+  top: 11px;
+  z-index: 2;
+  width: 1003px;
+  height: 35px;
+  text-indent: -9000px;
+  background: url(../ja/report-headers.png) 0 -140px;
+}
+#gbu .nav {
+  position: absolute;
+  left: 0;
+  top: 55px;
+  z-index: 10;
+  width: 212px;
+  height: 103px;
+  background: url(../images/report-button-shadow.png) left bottom;
+}
+#gbu-top {
+  position: relative;
+  width: 1003px;
+  height: 707px;
+  overflow: hidden;
+  background: #000;
+}
+#gbu-top .map {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 2603px;
+  height: 707px;
+}
+
+
+
+/* ここまで */
+
+
+
+#gbu-battle-summary {
+  position: absolute;
+  width: 82px;
+  height: 83px;
+  background: url(../images/gbu-top-ui.png) 0 0;
+  color: #FF7313;
+  text-shadow: 1px 1px 2px #000, 1px 1px 2px #000;
+  font-weight: bold;
+}
+#gbu-battle-summary .regulation {
+  position: absolute;
+  left: -45px;
+  top: -40px;
+  width: 300px;
+  height: 38px;
+  padding-left: 40px;
+  padding-top: 3px;
+  background: url(../images/gbu-top-ui.png) -82px 0 no-repeat;
+  color: #FF7313;
+  font-size: 20px;
+}
+#gbu-battle-summary .areas {
+  position: absolute;
+  left: 82px;
+  width: 300px;
+  font-size: 13px;
+}
+#gbu-battle-summary .date {
+  position: absolute;
+  left: 82px;
+  width: 300px;
+  font-size: 13px;
+}
+#gbu-battle-summary.east-is-north .areas {
+  top: 50px;
+}
+#gbu-battle-summary.east-is-north .date {
+  top: 66px;
+}
+#gbu-battle-summary.east-is-south .areas {
+  top: 8px;
+}
+#gbu-battle-summary.east-is-south .date {
+  top: 24px;
+}
+.gbu-battle-record {
+  width: 215px;
+  height: 271px;
+  position: absolute;
+  top: 190px;
+  color: #000;
+  background: url(../images/gbu-top-battle-record-bg.png) left top;
+  display: none;
+}
+#gbu-battle-record-1 {
+  left: 50px;
+}
+#gbu-battle-record-2 {
+  right: 50px;
+}
+
+
+
+
+.gbu-battle-record .battle-result {
+  display: none;
+  position: absolute;
+  left: 21px;
+  top: 22px;
+  width: 76px;
+  height: 17px;
+  text-align: center;
+  color: #FFF;
+  border-radius: 2px;
+  font-size: 13px;
+  font-family: 'Lato', sans-serif;
+  font-weight: 700;
+}
+.gbu-battle-record .battle-result.battle-result-win {
+  background: #A81818;
+}
+.gbu-battle-record .battle-result.battle-result-lose {
+  background: #1818A8;
+}
+.gbu-battle-record .battle-result.battle-result-draw {
+  background: #18A818;
+}
+.gbu-battle-record .battle-user {
+  position: absolute;
+  left: 16px;
+  top: 16px;
+  width: 183px;
+  height: 201px;
+  background: url(../images/gbu-top-battle-record-bg.png) -216px -16px;
+}
+.gbu-battle-record .battle-user .label {
+  display: block;
+  float: left;
+  width: 70px;
+  padding-top: 5px;
+  color: #A0A0A0;
+  font-size: 10px;
+  text-align: left;
+  line-height: 90%;
+}
+.language-ko .gbu-battle-record .battle-user .label {
+  font-size: 11px;
+}
+.gbu-battle-record .battle-user .value {
+  color: #FFF;
+  font-size: 11px;
+}
+.gbu-battle-record .battle-user .unit {
+  color: #FFF;
+  font-size: 11px;
+}
+.gbu-battle-record .ranking {
+  position: absolute;
+  left: 18px;
+  right: 19px;
+  top: 178px;
+  text-align: right;
+}
+.gbu-battle-record .rating {
+  position: absolute;
+  left: 18px;
+  right: 19px;
+  top: 155px;
+  text-align: right;
+}
+.gbu-battle-record .avatar {
+  position: absolute;
+  left: 55px;
+  top: 19px;
+}
+.gbu-battle-record .avatar img {
+  width: 72px;
+  height: 72px;
+}
+.gbu-battle-record .pglname {
+  position: absolute;
+  left: 18px;
+  right: 19px;
+  top: 113px;
+  font-size: 15px;
+  font-family: 'Lato', sans-serif;
+  color: #FF5A00;
+}
+.gbu-battle-record .trainername {
+  position: absolute;
+  left: 18px;
+  right: 19px;
+  top: 200px;
+  text-align: right;
+}
+.gbu-battle-record .trainername img {
+  vertical-align: text-bottom;
+}
+.gbu-battle-record .country {
+  position: absolute;
+  left: 18px;
+  top: 136px;
+  width: 69px;
+  height: 15px;
+  color: #FFF;
+  background: #535353;
+  border: 1px solid #666;
+  border-radius: 3px;
+  font-size: 11px;
+  text-align: center;
+}
+.language-es .gbu-battle-record .rating .label,
+.language-es .gbu-battle-record .trainername .label {
+  padding-top: 3px;
+}
+.gbu-battle-result-effect {
+  position: absolute;
+  top: 310px;
+  font-size: 100px;
+  transform: rotate(-5deg);
+  -webkit-transform: rotate(-5deg);
+  -moz-transform: rotate(-5deg);
+  -ms-transform: rotate(-5deg);
+  -o-transform: rotate(-5deg);
+}
+.gbu-battle-result-effect.battle-result-win .value {
+  color: #A81818;
+}
+.gbu-battle-result-effect.battle-result-lose .value {
+  color: #1818A8;
+}
+.gbu-battle-result-effect.battle-result-draw .value {
+  color: #18A818;
+}
+#gbu-battle-result-effect-1 {
+  left: 155px;
+}
+#gbu-battle-result-effect-2 {
+  right: 155px;
+}
+.gbu-battle-result-effect .value {
+  position: absolute;
+  top: -60px;
+  display: block;
+  width: 300px;
+  height: 120px;
+  text-align: center;
+  font-weight: 900;
+}
+#gbu-battle-result-effect-1 .value {
+  left: -150px;
+}
+#gbu-battle-result-effect-2 .value {
+  right: -150px;
+}
+
+
+
+#gbu-season {
+}
+#gbu-season-ranking .updated-at {
+  display: none;
+  position: absolute;
+  right: 16px;
+  top: 14px;
+  z-index: 3;
+  font-size: 12px;
+}
+
+#gbu-ranking-help-link {
+  position: absolute;
+  left: 475px;
+  top: 16px;
+  height: 23px;
+  padding-left: 22px;
+  padding-top: 2px;
+  font-size: 12px;
+  font-weight: bold;
+  text-decoration: none;
+  color: #FF5A00;
+  z-index: 3;
+  background: url(../images/gbu-help-link-icon.png) left top no-repeat;
+}
+
+.gbu-season-selector {
+  position: absolute;
+  left: 40px;
+  top: 40px;
+  z-index: 2;
+}
+.gbu-season-selector h3 {
+  width: 160px;
+  height: 28px;
+  background: url(../ja/report-buttons.png) -320px -135px;
+  text-indent: -9000px;
+  float: left;
+}
+.gbu-season-selector-frame {
+  position: absolute;
+  left: 160px;
+  top: 0;
+  width: 402px;
+  height: 24px;
+  border: 2px solid #FF5A00;
+  border-top-width: 1px;
+  border-bottom-width: 3px;
+  background: #FFF;
+}
+.gbu-season-selector select {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  border-style: none;
+  padding: 3px;
+}
+
+
+#gbu-season-ranking {
+  position: relative;
+  height: 426px;
+  background: url(../images/gbu-season-ranking-bg.png);
+}
+#gbu-season-ranking h2 {
+  position: absolute;
+  left: 0;
+  top: 11px;
+  z-index: 2;
+  width: 1003px;
+  height: 35px;
+  text-indent: -9000px;
+  background: url(../ja/report-headers.png) 0 -175px;
+}
+
+
+.gbu-regulation-selector {
+  width: 170px;
+  position: relative;
+  overflow: hidden;
+}
+.gbu-regulation-selector div {
+  color: #000;
+  cursor: pointer;
+  width: 170px;
+  height: 40px;
+  background: url(../ja/report-buttons.png);
+  text-indent: -9000px;
+  position: relative;
+  left: -10px;
+}
+.gbu-regulation-selector .regulation-overall {
+  background-position: 0 -303px;
+}
+.gbu-regulation-selector .regulation-single {
+  background-position: 0 -343px;
+}
+.gbu-regulation-selector .regulation-double {
+  background-position: 0 -383px;
+}
+.gbu-regulation-selector .regulation-triple {
+  background-position: 0 -423px;
+}
+.gbu-regulation-selector .regulation-shooter {
+  background-position: 0 -463px;
+}
+.gbu-regulation-selector .regulation-rotation {
+  background-position: 0 -503px;
+}
+.gbu-regulation-selector .regulation-overall:hover {
+  background-position: -170px -303px;
+}
+.gbu-regulation-selector .regulation-single:hover {
+  background-position: -170px -343px;
+}
+.gbu-regulation-selector .regulation-double:hover {
+  background-position: -170px -383px;
+}
+.gbu-regulation-selector .regulation-triple:hover {
+  background-position: -170px -423px;
+}
+.gbu-regulation-selector .regulation-shooter:hover {
+  background-position: -170px -463px;
+}
+.gbu-regulation-selector .regulation-rotation:hover {
+  background-position: -170px -503px;
+}
+.gbu-regulation-selector .selected {
+  left: 0px;
+}
+
+
+.gbu-ranking {
+  width: 610px;
+  height: 256px;
+  padding-left: 14px;
+  padding-top: 13px;
+  overflow: hidden;
+  background: url(../images/gbu-ranking-bg.png) left top no-repeat;
+}
+.gbu-ranking li {
+  width: 296px;
+  height: 47px;
+  margin-right: 4px;
+  margin-bottom: 2px;
+  *margin-bottom: -1px; /* IE7 */
+  position: relative;
+  list-style-type: none;
+}
+#gbu-season .gbu-ranking li {
+  cursor: pointer;
+}
+#gbu-season .gbu-ranking li:hover {
+  background-color: rgba(255,255,255,0.1);
+}
+.gbu-ranking li.myrank {
+  background: url(../images/gbu-ranking-bg.png) left bottom no-repeat;
+}
+.gbu-ranking li.column-1 {
+  top: -245px;
+  left: 300px;
+}
+.gbu-ranking .ranking {
+  position: absolute;
+  left: 7px;
+  top: 11px;
+  font-size: 18px;
+  width: 76px;
+  text-align: center;
+}
+.gbu-ranking .ranking-1 .ranking,
+.gbu-ranking .ranking-2 .ranking,
+.gbu-ranking .ranking-3 .ranking {
+  padding-left: 21px;
+  width: 55px;
+}
+.gbu-ranking .ranking-1 .ranking {
+  background: url(../images/gbu-ranking-ui.png) -45px 0px;
+}
+.gbu-ranking .ranking-2 .ranking {
+  background: url(../images/gbu-ranking-ui.png) -45px -20px;
+}
+.gbu-ranking .ranking-3 .ranking {
+  background: url(../images/gbu-ranking-ui.png) -45px -40px;
+}
+.gbu-ranking .ranking-change {
+  position: absolute;
+  left: 269px;
+  bottom: 9px;
+  width: 13px;
+  height: 13px;
+  background-image: url(../images/ranking-change-bg.png);
+}
+.gbu-ranking .ranking-change-up {
+  background-position: -58px -25px;
+}
+.gbu-ranking .ranking-change-keep {
+  background-position: -58px -46px;
+}
+.gbu-ranking .ranking-change-down {
+  background-position: -58px -67px;
+}
+.gbu-ranking .avatar {
+  position: absolute;
+  left: 90px;
+  top: 2px;
+}
+.gbu-ranking .avatar img {
+  width: 40px;
+  height: 40px;
+}
+.gbu-ranking .pglname {
+  position: absolute;
+  left: 136px;
+  right: 6px;
+  top: 6px;
+  font-size: 13px;
+  font-weight: 400;
+  font-family: 'Lato', sans-serif;
+  letter-spacing: 1px;
+  color: #CE0202;
+}
+.gbu-ranking .trainername {
+  display: none;
+}
+.gbu-ranking .country {
+  position: absolute;
+  left: 136px;
+  bottom: 7px;
+  width: 49px;
+  height: 15px;
+  color: white;
+  background: #535353;
+  border: 1px solid #666;
+  border-radius: 3px;
+  font-size: 11px;
+  text-align: center;
+}
+.gbu-ranking .hitarea {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: 510;
+}
+.gbu-user-balloon {
+  display: none;
+  position: absolute;
+  width: 188px;
+  height: 60px;
+  padding-top: 4px;
+  background: url(../images/gbu-user-ranking-balloon.png);
+  z-index: 500;
+  font-size: 12px;
+  color: #FFF;
+  text-align: center;
+}
+.gbu-user-balloon .trainername,
+.gbu-user-balloon .rating {
+  overflow: hidden;
+  padding: 3px 8px 0;
+  height: 18px;
+}
+.gbu-user-balloon .label {
+  display: block;
+  width: 70px;
+  float: left;
+  text-align: left;
+  font-size: 10px;
+  line-height: 90%;
+}
+.language-fr .gbu-user-balloon .rating .label {
+  position: relative;
+  top: -3px;
+}
+
+
+#gbu-season-ranking .gbu-regulation-selector {
+  position: absolute;
+  left: 40px;
+  top: 110px;
+}
+#gbu-season-ranking .gbu-ranking {
+  position: absolute;
+  left: 252px;
+  top: 95px;
+}
+#gbu-season-ranking .prev {
+  position: absolute;
+  left: 222px;
+  top: 190px;
+  width: 22px;
+  height: 57px;
+  background: url(../images/gbu-ranking-ui.png) 0 0;
+  border-style: none;
+  text-indent: -9000px;
+  cursor: pointer;
+  display: none;
+}
+#gbu-season-ranking .next {
+  position: absolute;
+  left: 881px;
+  top: 190px;
+  width: 22px;
+  height: 57px;
+  background: url(../images/gbu-ranking-ui.png) -23px 0;
+  border-style: none;
+  text-indent: -9000px;
+  cursor: pointer;
+  display: none;
+}
+#gbu-season-ranking .myranking {
+  position: absolute;
+  left: 702px;
+  top: 367px;
+  width: 160px;
+  height: 28px;
+  background: url(../ja/report-buttons.png) -320px -191px;
+  border-style: none;
+  text-indent: -9000px;
+  cursor: pointer;
+  display: none;
+}
+#gbu-season-ranking .myranking:hover {
+  background-position: -480px -191px;
+}
+#gbu-season-ranking .myranking.disabled {
+  background-position: -640px -191px;
+  cursor: default;
+}
+
+#gbu-ranking-area-filter {
+  position: absolute;
+  left: 663px;
+  top: 40px;
+  z-index: 2;
+  width: 160px;
+  height: 28px;
+  background: url(../ja/report-buttons.png) -320px -163px;
+  text-indent: -9000px;
+  cursor: pointer;
+}
+#gbu-ranking-area-filter:hover {
+  background-position: -480px -163px;
+}
+#gbu-ranking-area-filter .value {
+  display: none;
+  position: absolute;
+  left: 160px;
+  top: 0;
+  width: 160px;
+  height: 20px;
+  padding-top: 5px;
+  border-bottom: 3px solid #FF5A00;
+  color: #000;
+  background: #FFF;
+  text-indent: 0;
+  text-align: center;
+  font-size: 12px;
+}
+#gbu-ranking-area-filter:hover .value {
+  border-bottom-color: #FF8500;
+}
+
+
+#gbu-season-trend {
+  position: relative;
+  height: 563px;
+  background: url(../images/gbu-pokemon-bg.png);
+}
+#gbu-season-trend h2 {
+  position: absolute;
+  left: 0;
+  top: 11px;
+  z-index: 2;
+  width: 1003px;
+  height: 35px;
+  text-indent: -9000px;
+  background: url(../ja/report-headers.png) 0 -210px;
+}
+#gbu-season-trend .gbu-regulation-selector {
+  position: absolute;
+  left: 40px;
+  top: 110px;
+}
+
+#gbu-season-trend .pokemon-ranking {
+  position: absolute;
+  left: 200px;
+  top: 113px;
+  width: 789px;
+  height: 282px;
+  padding-top: 14px;
+  padding-left: 14px;
+  background-image: url(../images/gbu-season-trend-ranking-bg.png);
+}
+#gbu-season-trend .pokemon-ranking li {
+  cursor: pointer;
+}
+#gbu-season-trend .pokemon-ranking li.ranking-entry:hover {
+  background: rgba(255, 255, 255, 0.1);
+}
+#gbu-season-trend .pokemon-ranking li.pokemon-ranking-item-xl {
+  width: 259px;
+  height: 268px;
+}
+#gbu-season-trend .pokemon-ranking li.pokemon-ranking-item-l {
+  width: 131px;
+  height: 134px;
+}
+#gbu-season-trend .pokemon-ranking li.pokemon-ranking-item-m {
+  width: 105px;
+  height: 134px;
+}
+#gbu-season-trend .pokemon-ranking li.pokemon-ranking-item-xl .ranking {
+  top: -15px;
+  font-size: 50px;
+}
+#gbu-season-trend .pokemon-ranking li.pokemon-ranking-item-l .ranking {
+  top: -8px;
+  font-size: 30px;
+}
+#gbu-season-trend .pokemon-ranking li.pokemon-ranking-item-m .ranking {
+  font-size: 30px;
+}
+#gbu-season-trend .pokemon-ranking li.pokemon-ranking-item-xl .image img {
+  position: absolute;
+  left: 35px;
+  top: 10px;
+  width: 190px;
+  height: 190px;
+}
+#gbu-season-trend .pokemon-ranking li.pokemon-ranking-item-l .image img {
+  position: absolute;
+  left: 15px;
+  top: 20px;
+  width: 100px;
+  height: 100px;
+}
+#gbu-season-trend .pokemon-ranking li.pokemon-ranking-item-m .image img {
+  position: absolute;
+  left: 10px;
+  top: 30px;
+  width: 90px;
+  height: 90px;
+}
+#gbu-season-trend .pokemon-ranking li.pokemon-ranking-item-xl .pokemon-spec {
+  position: absolute;
+  left: 8px;
+  bottom: 8px;
+}
+
+#gbu-season-trend-pokemon-select {
+  position: absolute;
+  left: 663px;
+  top: 40px;
+  z-index: 2;
+  width: 160px;
+  height: 28px;
+  background: url(../ja/report-buttons.png) -320px -219px;
+  text-indent: -9000px;
+  cursor: pointer;
+}
+#gbu-season-trend-pokemon-select:hover {
+  background-position: -480px -219px;
+}
+
+
+
+#gbu-season-trend .pokemon-ranking .pokemon-spec {
+  width: 211px;
+}
+#gbu-season-trend .pokemon-ranking .pokemon-spec .name {
+  font-size: 18px;
+  height: 22px;
+}
+#gbu-season-trend .pokemon-ranking .pokemon-spec .types {
+  height: 22px;
+}
+#gbu-season-trend .pokemon-ranking .pokemon-spec .types ol {
+  left: 109px;
+  top: 3px;
+}
+#gbu-season-trend .pokemon-ranking .pokemon-spec .types li {
+  width: 50px;
+  background-image: url(../ja/types-small.png);
+}
+
+#gbu-season-trend .pokemon-ranking .pokemon-spec .height {
+  width: 90px;
+  height: 22px;
+}
+#gbu-season-trend .pokemon-ranking .pokemon-spec .height .label {
+  position: absolute;
+  left: 0;
+  bottom: 3px;
+}
+#gbu-season-trend .pokemon-ranking .pokemon-spec .height .value {
+  position: absolute;
+  right: 2px;
+  bottom: 2px;
+}
+#gbu-season-trend .pokemon-ranking .pokemon-spec .weight {
+  width: 120px;
+  height: 22px;
+}
+#gbu-season-trend .pokemon-ranking .pokemon-spec .weight .label {
+  position: absolute;
+  left: 10px;
+  bottom: 3px;
+}
+#gbu-season-trend .pokemon-ranking .pokemon-spec .weight .value {
+  position: absolute;
+  right: 2px;
+  bottom: 2px;
+}
+#gbu-season-trend .pokemon-ranking .pokemon-spec .value {
+  font-size: 14px;
+}
+#gbu-season-trend .pokemon-ranking .pokemon-spec .label {
+  font-size: 10px;
+}
+
+
+
+
+
+
+
+#gbu-season-trend-pokemon {
+  display: none;
+  width: 671px;
+  height: 552px;
+  background: url(../images/gbu-season-trend-pokemon-bg.png);
+  position: relative;
+}
+.gbu-pokemon-dialog {
+  text-align: left;
+}
+.gbu-pokemon-dialog .close {
+  position: absolute;
+  right: 29px;
+  top: 27px;
+  width: 28px;
+  height: 28px;
+  background: url(../images/gbu-pokemon-dialog-close.png);
+  cursor: pointer;
+  text-indent: -9000px;
+}
+.gbu-pokemon-dialog .pokemon .pokedex-nav {
+  position: absolute;
+  right: 580px;
+  top: 27px;
+  color: #CCC;
+  font-size: 60px;
+}
+.gbu-pokemon-dialog .pokemon .pokedex-nav .current {
+  position: absolute;
+  left: 60px;
+  top: 0;
+  z-index: 2;
+  width: 169px;
+  color: #CCC;
+  font-size: 70px;
+  text-align: center;
+}
+.gbu-pokemon-dialog .pokemon .pokedex-nav a {
+  position: absolute;
+  z-index: 2;
+  color: #CCC;
+  text-decoration: none;
+  font-size: 15px;
+  display: block;
+  height: 23px;
+  padding-top: 2px;
+  width: 35px;
+}
+.gbu-pokemon-dialog .pokemon .pokedex-nav a.prev {
+  left: 0px;
+  top: 32px;
+  text-align: left;
+  padding-right: 22px;
+  background: url(../images/gts-pokemon-prev.png) right no-repeat;
+}
+.gbu-pokemon-dialog .pokemon .pokedex-nav a.next {
+  left: 234px;
+  top: 32px;
+  text-align: right;
+  padding-left: 22px;
+  background: url(../images/gts-pokemon-next.png) left no-repeat;
+}
+
+
+
+
+
+.gbu-pokemon-dialog .pokemon .image img {
+  position: absolute;
+  right: 270px;
+  top: 100px;
+  width: 340px;
+  height: 408px;
+}
+.gbu-pokemon-dialog .pokemon-spec {
+  position: absolute;
+  right: 320px;
+  bottom: 40px;
+}
+.gbu-pokemon-dialog .gbu-combination-ranking h3 {
+  position: absolute;
+  right: 36px;
+  top: 67px;
+  width: 204px;
+  color: #FFF;
+  font-size: 13px;
+  line-height: 120%;
+}
+.gbu-pokemon-dialog .gbu-combination-ranking .leadline {
+  position: absolute;
+  right: 37px;
+  top: 103px;
+  width: 273px;
+  height: 73px;
+  background: url(../images/gts-pokemon-ui.png) left bottom;
+}
+.gbu-pokemon-dialog .gbu-combination-ranking ol {
+  position: absolute;
+  right: 37px;
+  top: 103px;
+  width: 200px;
+}
+.gbu-pokemon-dialog .gbu-combination-ranking li {
+  list-style-type: none;
+  display: block;
+  float: left;
+  position: relative;
+  width: 99px;
+  height: 114px;
+  background: url(../images/gts-pokemon-ui.png) 0 0;
+  border-radius: 4px;
+  margin-right: 1px;
+  margin-bottom: -3px;
+}
+.gbu-pokemon-dialog .gbu-combination-ranking li {
+}
+
+.gbu-pokemon-dialog .gbu-combination-ranking li .image img {
+  position: absolute;
+  left: 15px;
+  top: 11px;
+  width: 70px;
+  height: 84px;
+}
+.gbu-pokemon-dialog .gbu-combination-ranking li .name {
+  position: absolute;
+  left: 6px;
+  right: 6px;
+  top: 93px;
+  text-align: center;
+  color: #FFF;
+  font-size: 12px;
+}
+
+
+#gbu .nav-back a {
+  background-position: -140px -543px;
+}
+#gbu .nav-back a:hover {
+  background-position: -183px -543px;
+}
+#gbu-season-ranking .nav-back {
+  bottom: -26px;
+}
+#gbu-season-trend .nav-back {
+  bottom: -2px;
+}
+
+
+
+
+
+
+
+
+
+.gbu-ranking-balloon {
+  position: absolute;
+  width: 118px;
+  height: 63px;
+  background: url(../images/gbu-ranking-balloon.png);
+  z-index: 500;
+}
+.gbu-ranking-balloon .name {
+  position: absolute;
+  left: 7px;
+  top: 4px;
+  color: #FFF;
+  font-size: 13px;
+  font-weight: bold;
+}
+.gbu-ranking-balloon .types {
+  position: absolute;
+  left: 7px;
+  top: 25px;
+}
+.gbu-ranking-balloon .types li {
+  display: block;
+  float: left;
+  width: 50px;
+  height: 17px;
+  margin-right: 4px;
+  background-image: url(../ja/types-small.png);
+}
+
+
+
+
+#dialog-gbu-records {
+  display: none;
+  position: relative;
+  width: 789px;
+  height: 232px;
+  border-style: none;
+  background-image: url(../images/gbu-records-bg.png);
+}
+#dialog-gbu-records .close {
+  position: absolute;
+  right: 24px;
+  top: 25px;
+  width: 28px;
+  height: 28px;
+  background: url(../images/gbu-pokemon-dialog-close.png);
+  cursor: pointer;
+  text-indent: -9000px;
+}
+#dialog-gbu-records h3 {
+  position: absolute;
+  left: 47px;
+  top: 29px;
+  font-size: 14px;
+  color: #FFF;
+  text-align: left;
+}
+#dialog-gbu-records table {
+  position: absolute;
+  left: 47px;
+  top: 49px;
+  border-collapse: collapse;
+  border-width: 0;
+  font-size: 12px;
+}
+#dialog-gbu-records tr {
+  height: 34px;
+}
+#dialog-gbu-records tr.win,
+#dialog-gbu-records tr.lose {
+  height: 24px;
+}
+#dialog-gbu-records td,
+#dialog-gbu-records th {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+#dialog-gbu-records th {
+  width: 96px;
+  font-weight: normal;
+  line-height: 100%;
+  color: #777;
+}
+#dialog-gbu-records td {
+  width: 100px;
+  color: #FFF;
+}
+#dialog-gbu-records tr.win td {
+  vertical-align: bottom;
+}
+#dialog-gbu-records tr.lose td {
+  vertical-align: top;
+}

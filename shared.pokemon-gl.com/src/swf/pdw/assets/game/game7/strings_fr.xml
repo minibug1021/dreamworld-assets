@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data locale="ja">
+	<string id="WIN_TITLE_TITLE">ろうそく消し</string>
+	<string id="WIN_TITLE_DESC1">Soufflez les bougies à tour de rôle avec {BUDDY_NAME}.
+Celui qui éteint la dernière a perdu !</string>
+	<string id="WIN_TITLE_BTN1">Commencer</string>
+	<string id="WIN_TITLE_BTN2">Instructions</string>
+	
+	<string id="WIN_HTP_TITLE">Instructions</string>
+	<string id="WIN_HTP_DESC1">Jouez à vous faire peur avec le Pokémon rencontré !
+Allez au fond de la salle et soufflez sur les bougies.
+
+Vous pouvez souffler autant de bougies contiguës d'un coup que vous voulez.
+
+Pour ne pas rester seul dans une pièce toute noire, faites en sorte de ne pas souffler la dernière bougie !</string>
+	<string id="WIN_HTP_DESC2">Quand vous
+verrez "À vous !", soufflez les 
+bougies !</string>
+	<string id="WIN_HTP_DESC3">Vous pouvez rejouer encore et encore tant qu'il reste du temps.</string>
+	<string id="WIN_HTP_DESC4">Vous pouvez souffler les bougies contiguës d'un seul coup,
+mais vous ne pouvez pas sauter une bougie déjà éteinte.
+Celui qui éteint la dernière bougie a perdu !</string>
+	<string id="WIN_HTP_BTN1">Revenir</string>
+
+	<string id="INFO_TURN_PLAYER">À vous !</string>
+	<string id="INFO_TURN_CPU">(あいての番)</string>
+	<string id="INFO_ICON_CPU">{BUDDY_NAME}</string>
+	<string id="INFO_ICON_PLAYER">Vous</string>
+		
+	<string id="WIN_RESULT_TITLE">Résultat</string>
+	
+	<string id="WIN_RESULT_WIN_LABEL">Score</string>
+	<string id="WIN_RESULT_BRIGHT_LABEL">Flammes vives</string>
+	<string id="WIN_RESULT_DARK_LABEL">Petites flammes</string>
+	<string id="WIN_RESULT_TOTAL_LABEL">Total</string>
+	
+	<string id="WIN_RESULT_WIN_NUM">{NUM}</string>
+	<string id="WIN_RESULT_BRIGHT_NUM">{NUM}</string>
+	<string id="WIN_RESULT_DARK_NUM">{NUM}</string>
+	<string id="WIN_RESULT_TOTAL_NUM">{NUM}</string>
+	
+	<string id="WIN_RESULT_WIN_UNIT">victoires</string>
+	<string id="WIN_RESULT_BRIGHT_UNIT">bougies</string>
+	<string id="WIN_RESULT_DARK_UNIT">bougies</string>
+	
+	<string id="WIN_RESULT_TITLE_SCORE">Résultat</string>
+	<string id="WIN_RESULT_WIN_SCORE">{NUM}</string>
+	<string id="WIN_RESULT_BRIGHT_SCORE">{NUM}</string>
+	<string id="WIN_RESULT_DARK_SCORE">{NUM}</string>
+	<string id="WIN_RESULT_TOTAL_SCORE">{NUM}</string>
+	
+	<string id="WIN_RESULT_CANDLE_LABEL"> </string>
+	<string id="WIN_RESULT_CANDLE_NUM">{NUM}</string>
+	<string id="WIN_RESULT_CANDLE_UNIT">bougies</string>
+	<string id="WIN_RESULT_CANDLE_SCORE">{NUM}</string>
+
+	<string id="WIN_RESULT_BTN1">Fermer</string>
+	
+	<string id="HINT_01">Cliquez sur les bougies à souffler.
+Vous pouvez choisir autant de bougies contiguës que vous voulez.</string>
+
+	<string id="HINT_02">Vous pouvez choisir autant de bougies contiguës que vous voulez.
+Quand vous avez choisi, cliquez sur le bouton "Souffler".</string>
+
+	<string id="HINT_03">Indice : mieux vaut choisir les bougies brillantes !
+Quand vous avez choisi, cliquez sur le bouton "Souffler".</string>
+
+	<string id="HINT_04">Il ne reste qu'une bougie !
+Pas le choix : il faut l'éteindre...</string>
+
+	<string id="HINT_05">Souffler les flammes vives 
+fait gagner des points.</string>
+	
+	<string id="HINT_06">Souffler les petites 
+flammes fait perdre des points.</string>
+	
+	<string id="HINT_07">Souffler sur une grande flamme l'affaiblit seulement.
+Il faut souffler deux fois pour l'éteindre !</string>
+
+	<string id="BTN_BLOWOUT">Souffler</string>
+	<string id="BTN_QUIT">ARRÊTER DE JOUER</string>
+	
+	<string id="WIN_QUIT_DESC1">Voulez-vous quitter ?
+Si vous quittez maintenant, vous perdrez l'occasion d'être apprécié par le
+{BUDDY_NAME}.</string>
+	<string id="WIN_QUIT_BTN1">Oui</string>
+	<string id="WIN_QUIT_BTN2">Non</string>
+	
+	<string id="GAME_WIN">VICTOIRE</string>
+	<string id="GAME_LOSE">DÉFAITE</string>
+	<string id="GAME_TIMEUP">FINI!</string>
+</data>

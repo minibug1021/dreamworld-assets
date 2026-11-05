@@ -1,0 +1,6 @@
+{
+	"kinomi_id":3,
+	"pokeitem_id":3,
+	"kinomi":"あああのみ",
+	"count":5
+}

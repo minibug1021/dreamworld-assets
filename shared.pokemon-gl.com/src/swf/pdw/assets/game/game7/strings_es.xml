@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data locale="ja">
+	<string id="WIN_TITLE_TITLE">ろうそく消し</string>
+	<string id="WIN_TITLE_DESC1">¡{BUDDY_NAME} y tú tenéis que apagar velas!
+Quien apague la última… ¡pierde!</string>
+	<string id="WIN_TITLE_BTN1">Empezar</string>
+	<string id="WIN_TITLE_BTN2">Cómo se juega</string>
+	
+	<string id="WIN_HTP_TITLE">Cómo se juega</string>
+	<string id="WIN_HTP_DESC1">¡Juega con el Pokémon que te has encontrado
+a apagar las velas al fondo de la estancia!
+
+Se pueden soplar varias a la vez si están juntas.
+
+Evita apagar la última para no pasar miedo
+al quedarse a oscuras la sala.</string>
+	<string id="WIN_HTP_DESC2">Apaga las velas
+cuando veas
+"¡Te toca!".</string>
+	<string id="WIN_HTP_DESC3">Puedes jugar todas las veces que quieras hasta
+que se agote el tiempo.</string>
+	<string id="WIN_HTP_DESC4">Puedes apagar varias velas a la vez si están juntas,
+pero no puedes saltarte una que ya está apagada.
+Quien apague la última… ¡pierde!</string>
+	<string id="WIN_HTP_BTN1">Cerrar</string>
+
+	<string id="INFO_TURN_PLAYER">¡Te toca!</string>
+	<string id="INFO_TURN_CPU">(あいての番)</string>
+	<string id="INFO_ICON_CPU">{BUDDY_NAME}</string>
+	<string id="INFO_ICON_PLAYER">Tú</string>
+		
+	<string id="WIN_RESULT_TITLE">Resultado</string>
+	
+	<string id="WIN_RESULT_WIN_LABEL">Victorias</string>
+	<string id="WIN_RESULT_BRIGHT_LABEL">Llamas brillantes</string>
+	<string id="WIN_RESULT_DARK_LABEL">Llamas oscuras</string>
+	<string id="WIN_RESULT_TOTAL_LABEL">Puntuación total</string>
+	
+	<string id="WIN_RESULT_WIN_NUM">{NUM}</string>
+	<string id="WIN_RESULT_BRIGHT_NUM">{NUM}</string>
+	<string id="WIN_RESULT_DARK_NUM">{NUM}</string>
+	<string id="WIN_RESULT_TOTAL_NUM">{NUM}</string>
+	
+	<string id="WIN_RESULT_WIN_UNIT"> </string>
+	<string id="WIN_RESULT_BRIGHT_UNIT"> </string>
+	<string id="WIN_RESULT_DARK_UNIT"> </string>
+	
+	<string id="WIN_RESULT_TITLE_SCORE">Resultados</string>
+	<string id="WIN_RESULT_WIN_SCORE">{NUM}</string>
+	<string id="WIN_RESULT_BRIGHT_SCORE">{NUM}</string>
+	<string id="WIN_RESULT_DARK_SCORE">{NUM}</string>
+	<string id="WIN_RESULT_TOTAL_SCORE">{NUM}</string>
+	
+	<string id="WIN_RESULT_CANDLE_LABEL">Llamas</string>
+	<string id="WIN_RESULT_CANDLE_NUM">{NUM}</string>
+	<string id="WIN_RESULT_CANDLE_UNIT"> </string>
+	<string id="WIN_RESULT_CANDLE_SCORE">{NUM}</string>
+	
+	<string id="WIN_RESULT_BTN1">Cerrar</string>
+	
+	<string id="HINT_01">Haz clic sobre una vela para apagarla.
+Puedes elegir varias velas si están juntas.</string>
+
+	<string id="HINT_02">Puedes elegir varias velas si están juntas.
+Pulsa "Apagar" después de elegir.</string>
+
+	<string id="HINT_03">Consejo: ¡Elige velas  brillantes!
+Pulsa "Apagar" después de elegir.</string>
+
+	<string id="HINT_04">¡Solo queda una vela!
+Hay que apagarla.</string>
+
+	<string id="HINT_05">Si apagas una vela brillante,
+ganarás puntos.</string>
+	
+	<string id="HINT_06">Si apagas una vela oscura,
+perderás puntos.</string>
+	
+	<string id="HINT_07">Una llama grande se hará normal con un soplido.
+Tienes que soplar otra vez para apagarla.</string>
+
+	<string id="BTN_BLOWOUT">Apagar</string>
+	<string id="BTN_QUIT">Salir del juego</string>
+	
+	<string id="WIN_QUIT_DESC1">¿Quieres salir de este juego?
+Ten presente que, si sales de este juego, no podrás hacerte amigo de {BUDDY_NAME}.</string>
+	<string id="WIN_QUIT_BTN1">SÍ</string>
+	<string id="WIN_QUIT_BTN2">NO</string>
+	
+	<string id="GAME_WIN">¡Ganaste!</string>
+	<string id="GAME_LOSE">Perdiste...</string>
+	<string id="GAME_TIMEUP">Tiempo agotado</string>
+</data>

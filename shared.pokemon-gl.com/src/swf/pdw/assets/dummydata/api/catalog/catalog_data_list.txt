@@ -1,0 +1,286 @@
+{"interior_list":[
+		{"interior_id":"1","interior_name":"まっかなうえき","interior_w":"5","interior_h":"5",
+		"interior_category_id":"12","interior_catalog_id":"1", 
+		"special_flag":"0","arrangement_flag":"0","kinomi_list":[{"name":"イボンの実","id":"2", "num":"2"}],
+		"btnType":"2"},
+		
+		{"interior_id":"2", "interior_name":"なんごくのうえき", "interior_w":"5", "interior_h":"5", 
+		"interior_category_id":"12", "interior_catalog_id":"1", 
+		"special_flag":"1", "arrangement_flag":"0", "kinomi_list":[{"name":"ウボンの実", "id":"3", "num":"4"}],
+		"btnType":"0"},
+		
+		{"interior_id":"3", "interior_name":"ふつうのベッド", "interior_w":"15", "interior_h":"10", 
+		"interior_category_id":"3", "interior_catalog_id":"1", 
+		"special_flag":"2", "arrangement_flag":"2", "kinomi_list":[{"name":"アボンの実", "id":"1", "num":"10"}],
+		"btnType":"0" },
+		
+		{"interior_id":"4", "interior_name":"おこさまづくえ", "interior_w":"7", "interior_h":"6", 
+		"interior_category_id":"0", "interior_catalog_id":"1", 
+		"special_flag":"2", "arrangement_flag":"2", "kinomi_list":[{"name":"オボンの実", "id":"5", "num":"3"}],
+		"btnType":"2" },
+		
+		{"interior_id":"5", "interior_name":"おこさまイス", "interior_w":"3", "interior_h":"3", 
+		"interior_category_id":"1", "interior_catalog_id":"1", 
+		"special_flag":"0", "arrangement_flag":"0", "kinomi_list":[{"name":"カボンの実", "id":"6", "num":"3"}],
+		"btnType":"0" },
+		
+		{"interior_id":"6", "interior_name":"ふつうのたな", "interior_w":"5", "interior_h":"7", 
+		"interior_category_id":"6", "interior_catalog_id":"1", 
+		"special_flag":"1", "arrangement_flag":"2", "kinomi_list":[{"name":"キボンの実", "id":"7", "num":"3"}],
+		"btnType":"0" },
+		
+		{"interior_id":"7", "interior_name":"ふつうのイス", "interior_w":"4", "interior_h":"6", 
+		"interior_category_id":"1", "interior_catalog_id":"1", 
+		"special_flag":"2", "arrangement_flag":"0", "kinomi_list":[{"name":"クボンの実", "id":"8", "num":"3"}],
+		"btnType":"0" },
+		
+		{"interior_id":"8", "interior_name":"なみのりマット", "interior_w":"52", "interior_h":"8", 
+		"interior_category_id":"13", "interior_catalog_id":"1", 
+		"special_flag":"3", "arrangement_flag":"3", "kinomi_list":[{"name":"ケボンの実", "id":"9", "num":"1"}],
+		"btnType":"0" },
+		
+		{"interior_id":"9", "interior_name":"かみなりマット", "interior_w":"52", "interior_h":"8", 
+		"interior_category_id":"13", "interior_catalog_id":"1", 
+		"special_flag":"0", "arrangement_flag":"3", "kinomi_list":[{"name":"コボンの実", "id":"10", "num":"8"}],
+		"btnType":"0" },
+		
+		{"interior_id":"10", "interior_name":"ボールポスター", "interior_w":"6", "interior_h":"5", 
+		"interior_category_id":"14", "interior_catalog_id":"1", 
+		"special_flag":"1", "arrangement_flag":"1", "kinomi_list":[{"name":"エボンの実", "id":"4", "num":"10"}],
+		"btnType":"0" },
+		
+		{"interior_id":"11", "interior_name":"丸い窓", "interior_w":"7", "interior_h":"7", 
+		"interior_category_id":"16", "interior_catalog_id":"1", 
+		"special_flag":"2", "arrangement_flag":"1", "kinomi_list":[{"name":"ウボンの実", "id":"3", "num":"5"}],
+		"btnType":"0" },
+
+
+
+		{"interior_id":"12","interior_name":"まっかなうえき","interior_w":"5","interior_h":"5",
+		"interior_category_id":"12","interior_catalog_id":"1", 
+		"special_flag":"0","arrangement_flag":"0","kinomi_list":[{"name":"アボンの実","id":"1", "num":"10"}],
+		"btnType":"0"},
+		
+		{"interior_id":"13", "interior_name":"なんごくのうえき", "interior_w":"5", "interior_h":"5", 
+		"interior_category_id":"12", "interior_catalog_id":"1", 
+		"special_flag":"1", "arrangement_flag":"0", "kinomi_list":[{"name":"イボンの実", "id":"2", "num":"9"}],
+		"btnType":"0"},
+		
+		{"interior_id":"14", "interior_name":"ふつうのベッド", "interior_w":"15", "interior_h":"10", 
+		"interior_category_id":"3", "interior_catalog_id":"1", 
+		"special_flag":"2", "arrangement_flag":"2", "kinomi_list":[{"name":"ウボンの実", "id":"3", "num":"8"}],
+		"btnType":"0" },
+		
+		{"interior_id":"15", "interior_name":"おこさまづくえ", "interior_w":"7", "interior_h":"6", 
+		"interior_category_id":"0", "interior_catalog_id":"1", 
+		"special_flag":"2", "arrangement_flag":"2", "kinomi_list":[{"name":"エボンの実", "id":"4", "num":"7"}],
+		"btnType":"0" },
+		
+		{"interior_id":"16", "interior_name":"おこさまイス", "interior_w":"3", "interior_h":"3", 
+		"interior_category_id":"1", "interior_catalog_id":"1", 
+		"special_flag":"0", "arrangement_flag":"0", "kinomi_list":[{"name":"オボンの実", "id":"5", "num":"6"}],
+		"btnType":"0" },
+		
+		{"interior_id":"17", "interior_name":"ふつうのたな", "interior_w":"5", "interior_h":"7", 
+		"interior_category_id":"6", "interior_catalog_id":"1", 
+		"special_flag":"1", "arrangement_flag":"2", "kinomi_list":[{"name":"カボンの実", "id":"6", "num":"15"}],
+		"btnType":"0" },
+		
+		{"interior_id":"18", "interior_name":"ふつうのイス", "interior_w":"4", "interior_h":"6", 
+		"interior_category_id":"1", "interior_catalog_id":"1", 
+		"special_flag":"2", "arrangement_flag":"0", "kinomi_list":[{"name":"キボンの実", "id":"7", "num":"4"}],
+		"btnType":"0" },
+		
+		{"interior_id":"19", "interior_name":"なみのりマット", "interior_w":"52", "interior_h":"8", 
+		"interior_category_id":"13", "interior_catalog_id":"1", 
+		"special_flag":"3", "arrangement_flag":"3", "kinomi_list":[{"name":"クボンの実", "id":"8", "num":"3"}],
+		"btnType":"0" },
+		
+		{"interior_id":"20", "interior_name":"かみなりマット", "interior_w":"52", "interior_h":"8", 
+		"interior_category_id":"13", "interior_catalog_id":"1", 
+		"special_flag":"0", "arrangement_flag":"3", "kinomi_list":[{"name":"ケボンの実", "id":"9", "num":"2"}],
+		"btnType":"0" },
+		
+		{"interior_id":"21", "interior_name":"ボールポスター", "interior_w":"6", "interior_h":"5", 
+		"interior_category_id":"14", "interior_catalog_id":"1", 
+		"special_flag":"1", "arrangement_flag":"1", "kinomi_list":[{"name":"コボンの実", "id":"10", "num":"1"}],
+		"btnType":"0" },
+		
+		{"interior_id":"22", "interior_name":"丸い窓", "interior_w":"7", "interior_h":"7", 
+		"interior_category_id":"16", "interior_catalog_id":"1", 
+		"special_flag":"2", "arrangement_flag":"1", "kinomi_list":[{"name":"アボンの実", "id":"1", "num":"1"}],
+		"btnType":"0" },
+
+
+
+		{"interior_id":"23","interior_name":"まっかなうえき","interior_w":"5","interior_h":"5",
+		"interior_category_id":"12","interior_catalog_id":"1", 
+		"special_flag":"0","arrangement_flag":"0","kinomi_list":[{"name":"イボンの実","id":"2", "num":"2"}],
+		"btnType":"0"},
+		
+		{"interior_id":"24", "interior_name":"なんごくのうえき", "interior_w":"5", "interior_h":"5", 
+		"interior_category_id":"12", "interior_catalog_id":"1", 
+		"special_flag":"1", "arrangement_flag":"0", "kinomi_list":[{"name":"ウボンの実", "id":"3", "num":"3"}],
+		"btnType":"0"},
+		
+		{"interior_id":"25", "interior_name":"ふつうのベッド", "interior_w":"15", "interior_h":"10", 
+		"interior_category_id":"3", "interior_catalog_id":"1", 
+		"special_flag":"2", "arrangement_flag":"2", "kinomi_list":[{"name":"エボンの実", "id":"4", "num":"4"}],
+		"btnType":"0" },
+		
+		{"interior_id":"26", "interior_name":"おこさまづくえ", "interior_w":"7", "interior_h":"6", 
+		"interior_category_id":"0", "interior_catalog_id":"1", 
+		"special_flag":"2", "arrangement_flag":"2", "kinomi_list":[{"name":"オボンの実", "id":"5", "num":"5"}],
+		"btnType":"0" },
+		
+		{"interior_id":"27", "interior_name":"おこさまイス", "interior_w":"3", "interior_h":"3", 
+		"interior_category_id":"1", "interior_catalog_id":"1", 
+		"special_flag":"0", "arrangement_flag":"0", "kinomi_list":[{"name":"カボンの実", "id":"6", "num":"100"}],
+		"btnType":"0" },
+		
+		{"interior_id":"28", "interior_name":"ふつうのたな", "interior_w":"5", "interior_h":"7", 
+		"interior_category_id":"6", "interior_catalog_id":"1", 
+		"special_flag":"1", "arrangement_flag":"2", "kinomi_list":[{"name":"キボンの実", "id":"7", "num":"6"}],
+		"btnType":"0" },
+		
+		{"interior_id":"29", "interior_name":"ふつうのイス", "interior_w":"4", "interior_h":"6", 
+		"interior_category_id":"1", "interior_catalog_id":"1", 
+		"special_flag":"2", "arrangement_flag":"0", "kinomi_list":[{"name":"クボンの実", "id":"8", "num":"7"}],
+		"btnType":"0" },
+		
+		{"interior_id":"30", "interior_name":"なみのりマット", "interior_w":"52", "interior_h":"8", 
+		"interior_category_id":"13", "interior_catalog_id":"1", 
+		"special_flag":"3", "arrangement_flag":"3", "kinomi_list":[{"name":"ケボンの実", "id":"9", "num":"8"}],
+		"btnType":"0" },
+		
+		{"interior_id":"31", "interior_name":"かみなりマット", "interior_w":"52", "interior_h":"8", 
+		"interior_category_id":"13", "interior_catalog_id":"1", 
+		"special_flag":"0", "arrangement_flag":"3", "kinomi_list":[{"name":"コボンの実", "id":"10", "num":"9"}],
+		"btnType":"0" },
+		
+		{"interior_id":"32", "interior_name":"ボールポスター", "interior_w":"6", "interior_h":"5", 
+		"interior_category_id":"14", "interior_catalog_id":"1", 
+		"special_flag":"1", "arrangement_flag":"1", "kinomi_list":[{"name":"アボンの実", "id":"1", "num":"10"}],
+		"btnType":"0" },
+		
+		{"interior_id":"33", "interior_name":"丸い窓", "interior_w":"7", "interior_h":"7", 
+		"interior_category_id":"16", "interior_catalog_id":"1", 
+		"special_flag":"2", "arrangement_flag":"1", "kinomi_list":[{"name":"イボンの実", "id":"2", "num":"11"}],
+		"btnType":"0" },
+
+
+
+		{"interior_id":"34","interior_name":"まっかなうえき","interior_w":"5","interior_h":"5",
+		"interior_category_id":"12","interior_catalog_id":"1", 
+		"special_flag":"0","arrangement_flag":"0","kinomi_list":[{"name":"ウボンの実","id":"3", "num":"9"}],
+		"btnType":"0"},
+		
+		{"interior_id":"35", "interior_name":"なんごくのうえき", "interior_w":"5", "interior_h":"5", 
+		"interior_category_id":"12", "interior_catalog_id":"1", 
+		"special_flag":"1", "arrangement_flag":"0", "kinomi_list":[{"name":"エボンの実", "id":"4", "num":"3"}],
+		"btnType":"0"},
+		
+		{"interior_id":"36", "interior_name":"ふつうのベッド", "interior_w":"15", "interior_h":"10", 
+		"interior_category_id":"3", "interior_catalog_id":"1", 
+		"special_flag":"2", "arrangement_flag":"2", "kinomi_list":[{"name":"オボンの実", "id":"5", "num":"2"}],
+		"btnType":"0" },
+		
+		{"interior_id":"37", "interior_name":"おこさまづくえ", "interior_w":"7", "interior_h":"6", 
+		"interior_category_id":"0", "interior_catalog_id":"1", 
+		"special_flag":"2", "arrangement_flag":"2", "kinomi_list":[{"name":"カボンの実", "id":"6", "num":"1"}],
+		"btnType":"0" },
+		
+		{"interior_id":"38", "interior_name":"おこさまイス", "interior_w":"3", "interior_h":"3", 
+		"interior_category_id":"1", "interior_catalog_id":"1", 
+		"special_flag":"0", "arrangement_flag":"0", "kinomi_list":[{"name":"キボンの実", "id":"7", "num":"2"}],
+		"btnType":"0" },
+		
+		{"interior_id":"39", "interior_name":"ふつうのたな", "interior_w":"5", "interior_h":"7", 
+		"interior_category_id":"6", "interior_catalog_id":"1", 
+		"special_flag":"1", "arrangement_flag":"2", "kinomi_list":[{"name":"クボンの実", "id":"8", "num":"3"}],
+		"btnType":"0" },
+		
+		{"interior_id":"40", "interior_name":"ふつうのイス", "interior_w":"4", "interior_h":"6", 
+		"interior_category_id":"1", "interior_catalog_id":"1", 
+		"special_flag":"2", "arrangement_flag":"0", "kinomi_list":[{"name":"ケボンの実", "id":"9", "num":"3"}],
+		"btnType":"0" },
+		
+		{"interior_id":"41", "interior_name":"なみのりマット", "interior_w":"52", "interior_h":"8", 
+		"interior_category_id":"13", "interior_catalog_id":"1", 
+		"special_flag":"3", "arrangement_flag":"3", "kinomi_list":[{"name":"コボンの実", "id":"10", "num":"1"}],
+		"btnType":"0" },
+		
+		{"interior_id":"42", "interior_name":"かみなりマット", "interior_w":"52", "interior_h":"8", 
+		"interior_category_id":"13", "interior_catalog_id":"1", 
+		"special_flag":"0", "arrangement_flag":"3", "kinomi_list":[{"name":"アボンの実", "id":"1", "num":"1"}],
+		"btnType":"0" },
+		
+		{"interior_id":"43", "interior_name":"ボールポスター", "interior_w":"6", "interior_h":"5", 
+		"interior_category_id":"14", "interior_catalog_id":"1", 
+		"special_flag":"1", "arrangement_flag":"1", "kinomi_list":[{"name":"イボンの実", "id":"2", "num":"2"}],
+		"btnType":"0" },
+		
+		{"interior_id":"44", "interior_name":"丸い窓", "interior_w":"7", "interior_h":"7", 
+		"interior_category_id":"16", "interior_catalog_id":"1", 
+		"special_flag":"2", "arrangement_flag":"1", "kinomi_list":[{"name":"ウボンの実", "id":"3", "num":"1"}],
+		"btnType":"0" },
+
+
+
+		{"interior_id":"45","interior_name":"まっかなうえき","interior_w":"5","interior_h":"5",
+		"interior_category_id":"12","interior_catalog_id":"1", 
+		"special_flag":"0","arrangement_flag":"0","kinomi_list":[{"name":"オボンの実","id":"4", "num":"1"}],
+		"btnType":"0"},
+		
+		{"interior_id":"46", "interior_name":"なんごくのうえき", "interior_w":"5", "interior_h":"5", 
+		"interior_category_id":"12", "interior_catalog_id":"1", 
+		"special_flag":"1", "arrangement_flag":"0", "kinomi_list":[{"name":"オボンの実", "id":"5", "num":"1"}],
+		"btnType":"0"},
+		
+		{"interior_id":"47", "interior_name":"ふつうのベッド", "interior_w":"15", "interior_h":"10", 
+		"interior_category_id":"3", "interior_catalog_id":"1", 
+		"special_flag":"2", "arrangement_flag":"2", "kinomi_list":[{"name":"オボンの実", "id":"6", "num":"1"}],
+		"btnType":"0" },
+		
+		{"interior_id":"48", "interior_name":"おこさまづくえ", "interior_w":"7", "interior_h":"6", 
+		"interior_category_id":"0", "interior_catalog_id":"1", 
+		"special_flag":"2", "arrangement_flag":"2", "kinomi_list":[{"name":"オボンの実", "id":"7", "num":"1"}],
+		"btnType":"0" },
+		
+		{"interior_id":"49", "interior_name":"おこさまイス", "interior_w":"3", "interior_h":"3", 
+		"interior_category_id":"1", "interior_catalog_id":"1", 
+		"special_flag":"0", "arrangement_flag":"0", "kinomi_list":[{"name":"オボンの実", "id":"8", "num":"1"}],
+		"btnType":"0" },
+		
+		{"interior_id":"50", "interior_name":"ふつうのたな", "interior_w":"5", "interior_h":"7", 
+		"interior_category_id":"6", "interior_catalog_id":"1", 
+		"special_flag":"1", "arrangement_flag":"2", "kinomi_list":[{"name":"オボンの実", "id":"9", "num":"1"}],
+		"btnType":"0" },
+		
+		{"interior_id":"51", "interior_name":"ふつうのイス", "interior_w":"4", "interior_h":"6", 
+		"interior_category_id":"1", "interior_catalog_id":"1", 
+		"special_flag":"2", "arrangement_flag":"0", "kinomi_list":[{"name":"オボンの実", "id":"10", "num":"1"}],
+		"btnType":"0" },
+		
+		{"interior_id":"52", "interior_name":"なみのりマット", "interior_w":"52", "interior_h":"8", 
+		"interior_category_id":"13", "interior_catalog_id":"1", 
+		"special_flag":"3", "arrangement_flag":"3", "kinomi_list":[{"name":"オボンの実", "id":"1", "num":"1"}],
+		"btnType":"0" },
+		
+		{"interior_id":"53", "interior_name":"かみなりマット", "interior_w":"52", "interior_h":"8", 
+		"interior_category_id":"13", "interior_catalog_id":"1", 
+		"special_flag":"0", "arrangement_flag":"3", "kinomi_list":[{"name":"オボンの実", "id":"2", "num":"1"}],
+		"btnType":"0" },
+		
+		{"interior_id":"54", "interior_name":"ボールポスター", "interior_w":"6", "interior_h":"5", 
+		"interior_category_id":"14", "interior_catalog_id":"1", 
+		"special_flag":"1", "arrangement_flag":"1", "kinomi_list":[{"name":"オボンの実", "id":"3", "num":"1"}],
+		"btnType":"0" },
+		
+		{"interior_id":"55", "interior_name":"丸い窓", "interior_w":"7", "interior_h":"7", 
+		"interior_category_id":"16", "interior_catalog_id":"1", 
+		"special_flag":"2", "arrangement_flag":"1", "kinomi_list":[{"name":"オボンの実", "id":"4", "num":"1"}],
+		"btnType":"0" }
+		]
+}
+

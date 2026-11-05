@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data locale="ja">
+
+<string id="DIALOG_TUTORIAL_TITLE">INSTRUCTIONS -  Attrape-Sucreries</string>
+
+<string id="DIALOG_TUTORIAL_INFO0">Cliquez sur un bloc de glace pour y aller. Attrapez le maximum de sucreries dans le temps imparti pour faire monter votre score !</string>
+<string id="DIALOG_TUTORIAL_INFO1">La glace se brise quand vous passez dessus ou que vous y restez trop longtemps. Si vous tombez dans l'eau, vous ne pourrez plus attraper de sucreries pendant un certain temps !</string>
+
+<string id="DIALOG_BUTTON_START">Commencer</string>
+<string id="DIALOG_BUTTON_START_S">Commencer</string>
+
+<string id="BUTTON_TOP_EXIT">Arrêter le jeu</string>
+
+<string id="MESSAGE_WINDOW_PLAY_FIRST">Cliquez sur les blocs pour attraper les sucreries !</string>
+<string id="MESSAGE_WINDOW_IIOKASHI">Il y a de nouvelles sucreries !</string>
+<string id="MESSAGE_WINDOW_GANBARE10">Foncez ! Plus que 10 secondes !</string>
+
+<string id="DIALOG_EXIT_INFO">Voulez-vous arrêter ?
+Si vous arrêtez maintenant, vous perdrez l'occasion d'être apprécié par le {BUDDY_NAME}.</string>
+
+<string id="DIALOG_BUTTON_YES">Oui</string>
+<string id="DIALOG_BUTTON_YES_S">Oui</string>
+<string id="DIALOG_BUTTON_NO">Non</string>
+<string id="DIALOG_BUTTON_NO_S">Non</string>
+
+<string id="DIALOG_RESULT_TITLE">Résultat</string>
+
+
+<string id="DIALOG_RESULT_KO_0"></string>
+<string id="DIALOG_RESULT_KO_1"></string>
+<string id="DIALOG_RESULT_KO_2"></string>
+<string id="DIALOG_RESULT_KO_3"></string>
+<string id="DIALOG_RESULT_POINT_0">POINTS</string>
+<string id="DIALOG_RESULT_POINT_1">POINTS</string>
+<string id="DIALOG_RESULT_POINT_2">POINTS</string>
+<string id="DIALOG_RESULT_POINT_3">POINTS</string>
+<string id="DIALOG_RESULT_POINT_4">POINTS</string>
+<string id="DIALOG_RESULT_POINT_5">POINTS</string>
+
+
+<string id="DIALOG_RESULT_BONUS">BONUS</string>
+<string id="DIALOG_RESULT_TOTAL">TOTAL</string>
+<string id="DIALOG_BUTTON_CLOSE">Retour</string>
+<string id="DIALOG_BUTTON_CLOSE_S">Retour</string>
+
+
+<string id="ICON_ME">Vous</string>
+
+
+<string id="POKEMON_NAME_NPC_0">Chinchidou</string>
+<string id="POKEMON_NAME_NPC_1">Flotajou</string>
+<string id="POKEMON_NAME_NPC_2">Kirlia</string>
+<string id="POKEMON_NAME_NPC_3">Lixy</string>
+<string id="POKEMON_NAME_NPC_4">Marill</string>
+<string id="POKEMON_NAME_NPC_5">Laporeille</string>
+<string id="POKEMON_NAME_NPC_6">Gobou</string>
+<string id="POKEMON_NAME_NPC_7">Lippouti</string>
+<string id="POKEMON_NAME_NPC_8">Riolu</string>
+<string id="POKEMON_NAME_NPC_9">Obalie</string>
+<string id="POKEMON_NAME_NPC_10">Marcacrin</string>
+<string id="POKEMON_NAME_NPC_11">Stalgamin</string>
+
+<string id="POKEMON_NAME_PC_0">Mime Jr.</string>
+<string id="POKEMON_NAME_PC_1">Moustillon</string>
+<string id="POKEMON_NAME_PC_2">Pichu</string>
+<string id="POKEMON_NAME_PC_3">Baggiguane</string>
+
+
+
+<string id="MESSAGE_WINDOW">{STR}</string>
+<string id="POKEMON_STATUS_NAME_ME">{STR}</string>
+<string id="POKEMON_STATUS_NAME_ENEMY">{STR}</string>
+<string id="ICON_ENCOUNT">{BUDDY_NAME}</string>
+
+</data>

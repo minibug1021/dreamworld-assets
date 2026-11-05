@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data locale="en">	
+	<string id="c_ad_1">Promotions</string>
+	<string id="c_ad_2">Date</string>
+	<string id="c_ad_3">Status</string>
+	<string id="c_ad_4">Title</string>
+	<string id="c_ad_11">How to Participate</string>
+	<string id="c_aa_1">For details</string>
+	<string id="c_aa_3">Next</string>
+	<string id="c_aa_4">For promotion participants</string>
+	<string id="c_bb_3">Promotion period [mm-dd-yyyy hh:mm - mm-dd-yyyy hh:mm]</string>
+	<string id="c_ba_1">You need a Pokémon Trainer Club account to
+participate. If you already have an account, log in from the window below.</string>
+	<string id="c_ba_2">New user? Sign up here.</string>
+	<string id="c_ba_3">Sign Up</string>
+	<string id="c_bb_1">You need to be qualified to participate in the 
+promotion. Please check the Pokémon Trainer Club.</string>
+	<string id="c_bb_7">Back</string>
+	<string id="c_bd_1">This promotion is coming soon.</string>
+	<string id="c_be_1">This promotion ended.</string>
+	<string id="c_bf_1">Thank you for participating in the promotion.</string>
+	<string id="c_bg_1">A Game Sync ID from Pokémon Black Version is 
+necessary to participate in this promotion.</string>
+	<string id="c_bh_1">A Game Sync ID from Pokémon White Version is
+necessary to participate in this promotion.</string>
+	<string id="c_bi_1">A Game Sync ID from Pokémon Black Version or Pokémon 
+White Version is necessary to participate in this promotion.</string>
+	<string id="c_bj_1">Your Friend Board is full.
+Please take some Pokémon to the Entralink.</string>
+	<string id="c_bk_1">The Entree Forest is full. You can't take any more
+Pokémon until you meet some in the Entree Forest.</string>
+	<string id="c_bl_1">No promotion game has been found.</string>
+</data>

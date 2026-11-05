@@ -1,0 +1,66 @@
+{
+"croft_list":[
+	{
+	"my_croft_id":"127",
+	"kinomi_id":1,
+	"pokeitem_id":1,
+	"kinomi_state":1,
+	"kinomi":"きのみ1",
+	"dirt_hp":"100",
+	"x":"1",
+	"y":"1"
+	},
+	{
+	"my_croft_id":"128",
+	"kinomi_id":null,
+	"pokeitem_id":0,
+	"kinomi_state":null,
+	"kinomi":null,
+	"dirt_hp":"100",
+	"x":"2",
+	"y":"1"
+	},
+	{
+	"my_croft_id":"129",
+	"kinomi_id":2,
+	"pokeitem_id":2,
+	"kinomi_state":0,
+	"kinomi":"きのみきのみ",
+	"dirt_hp":"30",
+	"x":"3",
+	"y":"1"
+	},
+
+
+	{
+	"my_croft_id":"130",
+	"kinomi_id":4,
+	"pokeitem_id":4,
+	"kinomi_state":2,
+	"kinomi":"アボンのみ",
+	"dirt_hp":"80",
+	"x":"1",
+	"y":"2"
+	},
+	{
+	"my_croft_id":"131",
+	"kinomi_id":5,
+	"pokeitem_id":5,
+	"kinomi_state":3,
+	"kinomi":"イボンのみ",
+	"dirt_hp":"0",
+	"x":"2",
+	"y":"2"
+	},
+	{
+	"my_croft_id":"132",
+	"kinomi_id":8,
+	"pokeitem_id":8,
+	"kinomi_state":4,
+	"kinomi":"ウボンのみ",
+	"dirt_hp":"100",
+	"x":"3",
+	"y":"2"
+	}
+]
+}

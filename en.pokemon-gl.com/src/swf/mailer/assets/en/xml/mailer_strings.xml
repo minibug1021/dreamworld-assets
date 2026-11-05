@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<data locale="en">
+
+
+	<!--
+
+	-->
+
+	<!--共通-->
+
+	<!--メニュー-->
+	<string id="pg_bc_4">E-Z Mail</string>
+	<string id="pg_bc_1">Received</string>
+	<string id="pg_bc_2">Sent</string>
+	<string id="pg_bc_3">Send Mail</string>
+	<string id="pg_bg_5">Choose a Pal.</string>
+	<string id="pg_bz_5">Choose a method.</string>
+	<string id="pg_bh_8">Choose
+Words</string>
+	<string id="pg_bh_9">Answer
+Questions</string>
+
+	<!--受信メール-->
+	<!--一覧-->
+	<string id="pg_bc_5">[MM]/[DD]/[YYYY]</string>
+	<string id="pg_bc_6">[Mail Title]</string>
+	<string id="pg_bc_7">From [PGLニックネーム]</string>
+	<string id="pg_bc_11">[Year]</string>
+	<string id="pg_bc_12">[Month]</string>
+	
+	<!--詳細-->
+	<string id="pg_bd_1">Delete Mail</string>
+	<string id="pg_bd_2">Reply</string>
+	<string id="pg_bd_3">[MM]/[DD]/[YYYY]</string>
+	<string id="pg_bd_4">[Mail Title]</string>
+	<string id="pg_bd_5">From [PGLニックネーム]</string>
+	<string id="pg_bd_9">[Mail Body]</string>
+	<string id="pg_be_1">OK</string>
+	<string id="pg_be_2">Cancel</string>
+	<string id="pg_be_3">Delete this mail?
+Can't be restored once deleted.</string>
+	
+	
+	<!--送信メール一覧-->
+	<string id="pg_bf_3">Dear [PGLニックネーム],</string>
+
+
+	<!--フレンドリスト-->
+	<string id="pg_bg_6">Game Pal & Dream Pal Rosters</string>
+	<string id="pg_bg_2">By name</string>
+	<string id="pg_bg_3">By type</string>
+	
+	<string id="pg_bf_4">Friend</string>
+	<string id="pg_bf_6">Trade Pal</string>
+	<string id="pg_bf_5">Dream Pal</string>
+	<string id="pg_bg_7">Avatar</string>
+	<string id="pg_bg_8">PGL Nickname</string>
+	<string id="pg_bg_9">Type</string>
+	<string id="pg_bg_10">Action</string>
+	<string id="pg_bg_11">[PGL Nickname]</string>
+	<string id="pg_bg_15">Send E-Z Mail</string>
+	
+	<!--メールを送る-->
+	<string id="pg_bz_2">Previous
+Page</string>
+	
+	<!--どんな方法でメールを書きますか?-->
+	<string id="pg_bz_1">Want to write an E-Z Mail?</string>
+	<string id="pg_bz_3">Choose
+Words</string>
+	<string id="pg_bz_4">Answer
+Questions</string>
+
+	<!--言葉を選んでメールを書く-->
+	<string id="pg_bh_6">What will you write about?</string>
+	<string id="pg_bh_1">[arg0]</string>
+
+	<!--選択ワードテンプレート選択-->
+	<string id="pg_ca_1">Choose mail you want to send.</string>
+	<string id="pg_ca_2">Mail Title</string>
+	<string id="pg_ca_3">Dear [PGLニックネーム],</string>
+	<string id="pg_ca_4">[Mail Content]</string>
+
+	<!--選択ワード設定-->
+	<string id="pg_bi_1">Mail to [PGLニックネーム]</string>
+	<string id="pg_bi_2">[Mail Title]</string>
+	<string id="pg_bi_3">[Mail Content]</string>
+
+	<string id="pg_bl_1">Change</string>
+	<string id="pg_bl_2">OK</string>
+	<string id="pg_bl_3">Send this mail?</string>
+	
+	<!--選択ワード設定ウィンドー-->
+	<string id="pg_bj_1">[Options]</string>
+	<string id="pg_bj_2">[Mail Content]</string>
+	
+	<!--質問に答えてメールを書く-->
+	<string id="pg_bh_6">What will you write about?</string>
+	<string id="pg_bn_4">Mail to [PGLニックネーム]</string>
+	<string id="pg_bn_3">Back</string>
+	<string id="pg_bxa_1">OK</string>
+	<string id="pg_bxa_2">Cancel</string>
+
+	<!--メールを送りました。-->
+	<string id="pg_bm_1">The E-Z Mail was sent.</string>
+
+	<!--質問メール-->
+	<string id="pg_db_5">What will you write about?</string>
+	<string id="pg_db_1">School</string>
+	
+	
+	<!--質問メール - 確認-->
+	<string id="pg_bn_2">[Options]</string>
+	<string id="pg_bn_5">[Mail Title]</string>
+	<string id="pg_bn_6">[Question Content]</string>
+	<string id="pg_bxa_5">[Mail Content]</string>
+	
+	<string id="pg_bg_16">Game Pals</string>
+	<string id="pg_bg_17">Dream Pals</string>
+</data>

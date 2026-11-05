@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data locale="ja">
+
+<string id="DIALOG_TUTORIAL_TITLE">Come giocare a Fresche dolcezze</string>
+
+<string id="DIALOG_TUTORIAL_INFO0">Clicca sul blocco di ghiaccio sul quale vuoi spostarti, cerca di raccogliere tantissimi dolci entro il tempo limite e accumula punti!</string>
+<string id="DIALOG_TUTORIAL_INFO1">Continuando a spostarti sul ghiaccio, i blocchi potrebbero rompersi. Muoviti con cautela, perché se cadi in acqua ci metterai un po' a tornare a galla!</string>
+
+<string id="DIALOG_BUTTON_START">Inizia</string>
+<string id="DIALOG_BUTTON_START_S">Inizia</string>
+
+<string id="BUTTON_TOP_EXIT">Interrompi il gioco</string>
+
+<string id="MESSAGE_WINDOW_PLAY_FIRST">Clicca sul ghiaccio e scivola fino ai dolci!</string>
+<string id="MESSAGE_WINDOW_IIOKASHI">Sono apparsi un sacco di dolci!</string>
+<string id="MESSAGE_WINDOW_GANBARE10">Mancano 10 secondi! Forza!</string>
+
+<string id="DIALOG_EXIT_INFO">Vuoi terminare il gioco?
+Se termini ora, non potrai fare amicizia con {BUDDY_NAME}.</string>
+
+<string id="DIALOG_BUTTON_YES">Sì</string>
+<string id="DIALOG_BUTTON_YES_S">Sì</string>
+<string id="DIALOG_BUTTON_NO">No</string>
+<string id="DIALOG_BUTTON_NO_S">No</string>
+
+<string id="DIALOG_RESULT_TITLE">Risultato</string>
+
+
+<string id="DIALOG_RESULT_KO_0"></string>
+<string id="DIALOG_RESULT_KO_1"></string>
+<string id="DIALOG_RESULT_KO_2"></string>
+<string id="DIALOG_RESULT_KO_3"></string>
+<string id="DIALOG_RESULT_POINT_0">punti</string>
+<string id="DIALOG_RESULT_POINT_1">punti</string>
+<string id="DIALOG_RESULT_POINT_2">punti</string>
+<string id="DIALOG_RESULT_POINT_3">punti</string>
+<string id="DIALOG_RESULT_POINT_4">punti</string>
+<string id="DIALOG_RESULT_POINT_5">punti</string>
+
+
+<string id="DIALOG_RESULT_BONUS">Bonus vittoria</string>
+<string id="DIALOG_RESULT_TOTAL">Totale</string>
+<string id="DIALOG_BUTTON_CLOSE">Chiudi</string>
+<string id="DIALOG_BUTTON_CLOSE_S">Chiudi</string>
+
+
+<string id="ICON_ME">Tu</string>
+
+
+<string id="POKEMON_NAME_NPC_0">Minccino</string>
+<string id="POKEMON_NAME_NPC_1">Panpour</string>
+<string id="POKEMON_NAME_NPC_2">Kirlia</string>
+<string id="POKEMON_NAME_NPC_3">Shinx</string>
+<string id="POKEMON_NAME_NPC_4">Marill</string>
+<string id="POKEMON_NAME_NPC_5">Buneary</string>
+<string id="POKEMON_NAME_NPC_6">Mudkip</string>
+<string id="POKEMON_NAME_NPC_7">Smoochum</string>
+<string id="POKEMON_NAME_NPC_8">Riolu</string>
+<string id="POKEMON_NAME_NPC_9">Spheal</string>
+<string id="POKEMON_NAME_NPC_10">Swinub</string>
+<string id="POKEMON_NAME_NPC_11">Snorunt</string>
+
+<string id="POKEMON_NAME_PC_0">Mime Jr.</string>
+<string id="POKEMON_NAME_PC_1">Oshawott</string>
+<string id="POKEMON_NAME_PC_2">Pichu</string>
+<string id="POKEMON_NAME_PC_3">Scraggy</string>
+
+
+
+<string id="MESSAGE_WINDOW">{STR}</string>
+<string id="POKEMON_STATUS_NAME_ME">{STR}</string>
+<string id="POKEMON_STATUS_NAME_ENEMY">{STR}</string>
+<string id="ICON_ENCOUNT">{BUDDY_NAME}</string>
+
+</data>

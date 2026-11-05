@@ -1,0 +1,57 @@
+﻿[
+	{
+		"islandType": 0,
+		"name": "12",
+		"friendType": 0
+	},
+	{
+		"islandType": 1,
+		"name": "test1",
+		"friendType": 0
+	},
+	{
+		"islandType": 2,
+		"name": "test2",
+		"friendType": 2
+	},
+	{
+		"islandType": 3,
+		"name": "test3",
+		"friendType": 1
+	},
+	{
+		"islandType": 4,
+		"name": "test4",
+		"friendType": 0
+	},
+	{
+		"islandType": 5,
+		"name": "test5",
+		"friendType": 2
+	},
+	{
+		"islandType": 6,
+		"name": "test6",
+		"friendType": 2
+	},
+	{
+		"islandType": 0,
+		"name": "test7",
+		"friendType": 1
+	},
+	{
+		"islandType": 1,
+		"name": "test8",
+		"friendType": 0
+	},
+	{
+		"islandType": 2,
+		"name": "test9",
+		"friendType": 0
+	},
+	{
+		"islandType": 3,
+		"name": "test10",
+		"friendType": 2
+	}
+]

@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+
+<data locale="ja">
+
+
+	<!--
+		めも
+		
+		～へ　と　～よりの分岐。
+	
+		これどうしようか・・
+		<string id="mailer_make_select_word_0002" font="f-01M" size="11">について</string>
+	
+		<string id="mailer_make_select_word_0004" font="f-01M" size="11">{arg0} さんへのメール</string>
+		
+		<string id="mailer_make_select_question_0002" font="f-01M" size="11">{arg0} さんへのメール</string>
+	-->
+
+	<!--共通-->
+
+	<!--メニュー-->
+	<string id="pg_bc_4">あんしんメール</string>
+	<string id="pg_bc_1">受信メール</string>
+	<string id="pg_bc_2">送信メール</string>
+	<string id="pg_bc_3">メールを送る</string>
+	<string id="pg_bg_5">メールを送るゲームフレンドを選ぶ</string>
+	<string id="pg_bz_5">メールを書く方法を選ぶ</string>
+	<string id="pg_bh_8">言葉を選んでメールを書く</string>
+	<string id="pg_bh_9">質問に答えてメールを書く</string>
+
+	<!--受信メール-->
+	<!--一覧-->
+	<string id="pg_bc_5">[日時]</string>
+	<string id="pg_bc_6">[title]</string>
+	<string id="pg_bc_7"><![CDATA[<font color="#F7921D">{arg0}</font> より]]></string>
+	<string id="pg_bc_11">[year]</string>
+	<string id="pg_bc_12">[month]</string>
+	
+	<!--詳細-->
+	<string id="pg_bd_1">メールを削除</string>
+	<string id="pg_bd_2">返事を書く</string>
+	<string id="pg_bd_3">[日付]</string>
+	<string id="pg_bd_4">[title]</string>
+	<string id="pg_bd_5"><![CDATA[<font color="#F7921D">{arg0}</font> より]]></string>
+	<string id="pg_bd_9">[本文]</string>
+	<string id="pg_be_1">OK</string>
+	<string id="pg_be_2">キャンセル</string>
+	<string id="pg_be_3">このメールを削除しますか？
+一度削除したメールはもどすことができません。</string>
+	
+	
+	<!--送信メール一覧-->
+	<string id="pg_bf_3"><![CDATA[<font color="#F7921D">{arg0}</font> へ]]></string>
+
+
+	<!--フレンドリスト-->
+	<string id="pg_bg_6">ゲームフレンドリスト</string>
+	<string id="pg_bg_2">名前順</string>
+	<string id="pg_bg_3">かんけい順</string>
+	
+	<string id="pg_bf_4">ともだち</string>
+	<string id="pg_bf_6">しりあい</string>
+	<string id="pg_bf_5">ゆめとも</string>
+	<string id="pg_bg_7">アバター</string>
+	<string id="pg_bg_8">PGLニックネーム</string>
+	<string id="pg_bg_9">かんけい</string>
+	<string id="pg_bg_10">アクション</string>
+	<string id="pg_bg_11">[title]</string>
+	<string id="pg_bg_15">あんしんメールを送る</string>
+	
+	<!--メールを送る-->
+	<string id="pg_bz_2">一つ前に戻る</string>
+	
+	<!--どんな方法でメールを書きますか?-->
+	<string id="pg_bz_1">どんな方法でメールを書きますか?</string>
+	<string id="pg_bz_3">言葉を選んで
+メールを書く</string>
+	<string id="pg_bz_4">質問に答えて
+メールを書く</string>
+
+	<!--言葉を選んでメールを書く-->
+	<string id="pg_bh_6">何についてメールを書きますか?</string>
+	<string id="pg_bh_1"><![CDATA[{arg0}<br /><font size="14">について</font>]]></string>
+
+	<!--選択ワードテンプレート選択-->
+	<string id="pg_ca_1">送りたいメールをえらんでね</string>
+	<string id="pg_ca_2">[title]</string>
+	<string id="pg_ca_3"><![CDATA[<font color="#F7921D">{arg0}</font> へ]]></string>
+	<string id="pg_ca_4">[body]</string>
+
+	<!--選択ワード設定-->
+	<string id="pg_bi_1"><![CDATA[<font color="#F7921D">{arg0}</font> さんへのメール]]></string>
+	<string id="pg_bi_2">[タイトル]</string>
+	<string id="pg_bi_3">[body]</string>
+	<string id="pg_bl_1">修正</string>
+	<string id="pg_bl_2">OK</string>
+
+	<string id="pg_bl_3">この内容で送りますか?</string>
+	
+	<!--選択ワード設定ウィンドー-->
+	<string id="pg_bj_1">[選択肢]</string>
+	<string id="pg_bj_2">[こんにちは＿＿＿は元気？]</string>
+
+
+	
+	<!--質問に答えてメールを書く-->
+	<string id="pg_bh_6">何についてメールを書きますか?</string>
+	<string id="pg_bn_4"><![CDATA[<font color="#F7921D">{arg0}</font> さんへのメール]]></string>
+	<string id="pg_bn_3">もどる</string>
+	<string id="pg_bxa_1">OK</string>
+	<string id="pg_bxa_2">キャンセル</string>
+
+	<!--メールを送りました。-->
+	<string id="pg_bm_1">メールを送りました。</string>
+
+
+	<!--質問メール-->
+	<string id="pg_db_5">何についてメールを書きますか？</string>
+	<string id="pg_db_1">[質問メールのリスト、あいさつ、おでかけのこと、友達のこと、学校の事]</string>
+	
+	
+	<!--質問メール - 確認-->
+	<string id="pg_bn_2">[選択肢]</string>
+	<string id="pg_bn_4"><![CDATA[<font color='#F7921D'>{arg0}</font> さんへのメール]]></string>
+	<string id="pg_bn_5">[cate]</string>
+	<string id="pg_bn_6">[title]</string>
+	<string id="pg_bxa_5">[本文]</string>
+	
+</data>

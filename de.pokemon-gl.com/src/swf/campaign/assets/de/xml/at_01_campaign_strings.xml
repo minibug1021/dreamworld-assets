@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data locale="de">	
+	<string id="c_bi_2">Für die Teilnahme an dieser Aktion ist eine Spielsynchro ID für Pokémon Schwarze Edition 2 erforderlich.</string>
+	<string id="c_bi_3">Für die Teilnahme an dieser Aktion ist eine Spielsynchro ID für Pokémon Weiße Edition 2 erforderlich.</string>
+	<string id="c_bi_4">Für die Teilnahme an dieser Aktion ist eine Spielsynchro ID für Pokémon Schwarze Edition 2 bzw. Pokémon Weiße Edition 2 erforderlich.</string>
+	<string id="c_bi_5">Für die Teilnahme an dieser Aktion ist eine Spielsynchro ID für Pokémon Schwarze Edition oder Pokémon Weiße Edition bzw. Pokémon Schwarze Edition 2 oder Pokémon Weiße Edition 2 erforderlich.</string>
+	<string id="c_bi_6">Wähle ein Pokémon aus und klicke auf „Weiter“.</string>
+</data>

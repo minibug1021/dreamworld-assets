@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="ja">
+	<string id="s_aa_3">とくべつなホームにもどる</string>
+	<string id="h_ca_20">とくべつなホームマップをみる</string>
+	<string id="fr_aa_8">とくべつなホームに行く</string>
+	<string id="y_aa_9">ゆめしま　「ポケモンカフェの森」</string>
+	<string id="y_zd_4">とくべつなホームから、ゆめしまについた。「ポケモンカフェの森」を進むことにした。</string>
+	<string id="y_aa_8">とくべつなホームにもどる</string>
+	<string id="h_ca_11">メッセージボードを見る</string>
+	<string id="h_ca_12">くわしいページを見る</string>
+	<string id="sp_pokemon_comment_01">『ポケモンカフェ』のヤナップだ。カフェにお客さんがやってきてじょうきげんのようだ。</string>
+	<string id="sp_pokemon_comment_02">『ポケモンカフェ』のバオップだ。カフェにやってきたお客さんと仲良くなりたいみたいだ。</string>
+	<string id="sp_pokemon_comment_03">『ポケモンカフェ』のヒヤップだ。ヤナップやバオップとのチームワークはばつぐんだ！</string>
+	<string id="h_da_5">とくべつなホームに行く</string>
+	<string id="h_da_7">とくべつなホームマップ</string>
+	<string id="dialog_36">とじる</string>
+
+	<string id="sp_interior_0_mat">『カフェのマット』だ。
+ポケモンカフェのロゴが入っているデザインだ。</string>
+	<string id="sp_interior_1_table">『カフェのテーブル』だ。
+このテーブルでポケモンたちもカフェ気分を楽しんでいるみたいだ。</string>
+	<string id="sp_interior_2_cushon">『カフェのクッション』だ。
+ビスケットがたのクッションで
+ポケモンたちもリラックスしているみたいだ。</string>
+	<string id="sp_interior_3_coffee">『カフェのポット』だ。</string>
+	<string id="sp_interior_4_redcup">『カフェのあかいカップ』だ。</string>
+	<string id="sp_interior_5_greencup">『カフェのみどりのカップ』だ。</string>
+	<string id="sp_interior_6_bluecup">『カフェのあおいカップ』だ。</string>
+
+	<string id="y_ad_15">[ポケモン名]はのどがかわいているみたい。</string>
+	<string id="y_ad_16">[ポケモン名]とドリンクはこびをしますか？</string>
+	<string id="y_ag_10">ドリンクはこびに失敗した。</string>
+	<string id="y_ag_11">ドリンクはこびをやめた。</string>
+
+</data>
+

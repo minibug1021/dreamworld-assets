@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data locale="ja">
+	<string id="WIN_TITLE_TITLE">ろうそく消し</string>
+	<string id="WIN_TITLE_DESC1">Spegni le candele a turno con {BUDDY_NAME}.
+Se spegni l'ultima hai perso!</string>
+	<string id="WIN_TITLE_BTN1">Via!</string>
+	<string id="WIN_TITLE_BTN2">Come giocare</string>
+	
+	<string id="WIN_HTP_TITLE">Come si gioca</string>
+	<string id="WIN_HTP_DESC1">Ti aspetta un'emozionante prova di coraggio con i Pokémon!
+	
+Allora, procedi in fondo alla sala e preparati a spegnere le candele.
+Puoi spegnere più candele insieme se si trovano in fila.
+
+Cerca di non essere tu a spegnere l'ultima candela,
+altrimenti chissà che paura al buio!</string>
+	<string id="WIN_HTP_DESC2">Quando appare
+"Tocca a te!"
+spegni le fiamme.</string>
+	<string id="WIN_HTP_DESC3">Puoi tentare più volte fino a quando non scade il tempo
+a disposizione.</string>
+	<string id="WIN_HTP_DESC4">Puoi spegnere più fiamme insieme se sono in fila,
+mentre non puoi spegnerle a saltare.
+Se spegni l'ultima, hai perso!</string>
+	<string id="WIN_HTP_BTN1">Indietro</string>
+
+	<string id="INFO_TURN_PLAYER">Tocca a te!</string>
+	<string id="INFO_TURN_CPU">(あいての番)</string>
+	<string id="INFO_ICON_CPU">{BUDDY_NAME}</string>
+	<string id="INFO_ICON_PLAYER">Tu</string>
+		
+	<string id="WIN_RESULT_TITLE">VOTO</string>
+	
+	<string id="WIN_RESULT_WIN_LABEL">VITTORIE</string>
+	<string id="WIN_RESULT_BRIGHT_LABEL">FIAMME CHIARE</string>
+	<string id="WIN_RESULT_DARK_LABEL">FIAMME SCURE</string>
+	<string id="WIN_RESULT_TOTAL_LABEL">SOMMA</string>
+	
+	<string id="WIN_RESULT_WIN_NUM">{NUM}</string>
+	<string id="WIN_RESULT_BRIGHT_NUM">{NUM}</string>
+	<string id="WIN_RESULT_DARK_NUM">{NUM}</string>
+	<string id="WIN_RESULT_TOTAL_NUM">{NUM}</string>
+	
+	<string id="WIN_RESULT_WIN_UNIT"> </string>
+	<string id="WIN_RESULT_BRIGHT_UNIT"> </string>
+	<string id="WIN_RESULT_DARK_UNIT"> </string>
+	
+	<string id="WIN_RESULT_TITLE_SCORE">VOTO</string>
+	<string id="WIN_RESULT_WIN_SCORE">{NUM}</string>
+	<string id="WIN_RESULT_BRIGHT_SCORE">{NUM}</string>
+	<string id="WIN_RESULT_DARK_SCORE">{NUM}</string>
+	<string id="WIN_RESULT_TOTAL_SCORE">{NUM}</string>
+	
+	<string id="WIN_RESULT_CANDLE_LABEL">消したろうそく</string>
+	<string id="WIN_RESULT_CANDLE_NUM">{NUM}</string>
+	<string id="WIN_RESULT_CANDLE_UNIT"> </string>
+	<string id="WIN_RESULT_CANDLE_SCORE">{NUM}</string>
+
+	<string id="WIN_RESULT_BTN1">CHIUDI</string>
+	
+	<string id="HINT_01">Scegli le fiamme da spegnere cliccandoci sopra.
+Puoi spegnere più fiamme insieme se sono in fila!</string>
+
+	<string id="HINT_02">Puoi spegnere più fiamme insieme se sono in fila.
+Una volta scelte le fiamme, clicca su SPEGNI.</string>
+
+	<string id="HINT_03">Consiglio: ti conviene scegliere le fiamme che brillano.
+Una volta scelte le fiamme, clicca su SPEGNI.</string>
+
+	<string id="HINT_04">C'è soltanto una fiamma!
+È rimasta solo quella da spegnere.</string>
+
+	<string id="HINT_05">Se spegni le fiamme più 
+luminose, fai più punti.</string>
+	
+	<string id="HINT_06">Se spegni le fiamme meno 
+luminose, perdi punti.</string>
+	
+	<string id="HINT_07">Se soffi su una fiamma grande, diventerà più piccola.
+Per spegnerla dovrai soffiarci sopra due volte!</string>
+
+	<string id="BTN_BLOWOUT">SPEGNI</string>
+	<string id="BTN_QUIT">Interrompi</string>
+	
+	<string id="WIN_QUIT_DESC1">Vuoi interrompere il minigioco?
+Se interrompi ora, non potrai
+fare amicizia con {BUDDY_NAME}.</string>
+	<string id="WIN_QUIT_BTN1">Sì</string>
+	<string id="WIN_QUIT_BTN2">No</string>
+	
+	<string id="GAME_WIN">VINCI</string>
+	<string id="GAME_LOSE">PERDI</string>
+	<string id="GAME_TIMEUP">Tempo scaduto</string>
+</data>

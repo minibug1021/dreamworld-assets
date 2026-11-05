@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<data locale="ko">
+
+
+	<!--
+
+	-->
+
+	<!--共通-->
+
+	<!--メニュー-->
+	<string id="pg_bc_4">안심메일</string>
+	<string id="pg_bc_1">수신 메일</string>
+	<string id="pg_bc_2">송신 메일</string>
+	<string id="pg_bc_3">메일 보내기</string>
+	<string id="pg_bg_5">메일을 보낼 게임프렌드 선택</string>
+	<string id="pg_bz_5">메일 쓰기 방식 선택</string>
+	<string id="pg_bh_8">단어를 선택해서 쓰기</string>
+	<string id="pg_bh_9">질문에 답하여 쓰기</string>
+
+	<!--受信メール-->
+	<!--一覧-->
+	<string id="pg_bc_5">[YYYY].[MM].[DD]</string>
+	<string id="pg_bc_6">[メールタイトル]</string>
+	<string id="pg_bc_7">[PGLニックネーム]에게서</string>
+	<string id="pg_bc_11">[YYYY]</string>
+	<string id="pg_bc_12">[MM]</string>
+	
+	<!--詳細-->
+	<string id="pg_bd_1">메일 삭제</string>
+	<string id="pg_bd_2">답장 쓰기</string>
+	<string id="pg_bd_3">[YYYY].[MM].[DD]</string>
+	<string id="pg_bd_4">[メールタイトル]</string>
+	<string id="pg_bd_5">[PGLニックネーム]에게서</string>
+	<string id="pg_bd_9">[メール本文]</string>
+	<string id="pg_be_1">OK</string>
+	<string id="pg_be_2">취소</string>
+	<string id="pg_be_3">이 메일을 삭제하겠습니까?
+한번 삭제한 메일은 복원되지 않습니다.</string>
+	
+	
+	<!--送信メール一覧-->
+	<string id="pg_bf_3">[PGLニックネーム]에게</string>
+
+
+	<!--フレンドリスト-->
+	<string id="pg_bg_6">게임프렌드 리스트・꿈친구 리스트</string>
+	<string id="pg_bg_2">이름순</string>
+	<string id="pg_bg_3">관계순</string>
+	
+	<string id="pg_bf_4">친구</string>
+	<string id="pg_bf_6">아는사람</string>
+	<string id="pg_bf_5">꿈친구</string>
+	<string id="pg_bg_7">아바타</string>
+	<string id="pg_bg_8">PGL 닉네임</string>
+	<string id="pg_bg_9">관계</string>
+	<string id="pg_bg_10">행동</string>
+	<string id="pg_bg_11">[PGLニックネーム]</string>
+	<string id="pg_bg_15">안심메일 보내기</string>
+	
+	<!--メールを送る-->
+	<string id="pg_bz_2">이전으로 돌아가기</string>
+	
+	<!--どんな方法でメールを書きますか?-->
+	<string id="pg_bz_1">어떤 메일을 보내겠습니까?</string>
+	<string id="pg_bz_3">단어를 선택해서 쓰기</string>
+	<string id="pg_bz_4">질문에 답하여 쓰기</string>
+
+	<!--言葉を選んでメールを書く-->
+	<string id="pg_bh_6">무엇에 대해서 쓰겠습니까?</string>
+	<string id="pg_bh_1">[arg0]에 대해서</string>
+
+	<!--選択ワードテンプレート選択-->
+	<string id="pg_ca_1">보낼 메일을 선택해주세요</string>
+	<string id="pg_ca_2">[メールタイトル]</string>
+	<string id="pg_ca_3">[PGLニックネーム]에게</string>
+	<string id="pg_ca_4">[メール内容]</string>
+
+	<!--選択ワード設定-->
+	<string id="pg_bi_1">[PGLニックネーム]님에게</string>
+	<string id="pg_bi_2">[メールタイトル]</string>
+	<string id="pg_bi_3">[メール内容]</string>
+
+	<string id="pg_bl_1">수정</string>
+	<string id="pg_bl_2">OK</string>
+	<string id="pg_bl_3">이 내용으로 보내겠습니까?</string>
+	
+	<!--選択ワード設定ウィンドー-->
+	<string id="pg_bj_1">[選択肢]</string>
+	<string id="pg_bj_2">[メール内容]</string>
+	
+	<!--質問に答えてメールを書く-->
+	<string id="pg_bh_6">무엇에 대해서 쓰겠습니까?</string>
+	<string id="pg_bn_4">[PGLニックネーム]님에게</string>
+	<string id="pg_bn_3">돌아가기</string>
+	<string id="pg_bxa_1">OK</string>
+	<string id="pg_bxa_2">취소</string>
+
+	<!--メールを送りました。-->
+	<string id="pg_bm_1">메일을 보냈습니다.</string>
+
+	<!--質問メール-->
+	<string id="pg_db_5">무엇에 대해서 쓰겠습니까?</string>
+	<string id="pg_db_1">학교에 대해</string>
+	
+	
+	<!--質問メール - 確認-->
+	<string id="pg_bn_2">[選択肢]</string>
+	<string id="pg_bn_5">[メールタイトル]</string>
+	<string id="pg_bn_6">[質問内容]</string>
+	<string id="pg_bxa_5">[メール内容]</string>
+	
+	<string id="pg_bg_16">게임프렌드</string>
+	<string id="pg_bg_17">꿈친구</string>
+</data>

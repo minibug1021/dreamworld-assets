@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data locale="fr">
+	<string id="c_bi_2">Pour profiter de ces offres, vous devez disposer d'un ID de Synchro-Jeu obtenu en jouant à Pokémon Version Noire 2.</string>
+	<string id="c_bi_3">Pour profiter de ces offres, vous devez disposer d'un ID de Synchro-Jeu obtenu en jouant à Pokémon Version Blanche 2.</string>
+	<string id="c_bi_4">Pour profiter de ces offres, vous devez disposer d'un ID de Synchro-Jeu obtenu en jouant à Pokémon Version Noire 2 ou Pokémon Version Blanche 2.</string>
+	<string id="c_bi_5">Pour profiter de ces offres, vous devez disposer d'un ID de Synchro-Jeu obtenu en jouant à Pokémon Version Noire, Pokémon Version Blanche, Pokémon Version Noire 2 ou Pokémon Version Blanche 2.</string>
+	<string id="c_bi_6">Veuillez choisir un Pokémon et cliquer sur "Suivant".</string>
+</data>

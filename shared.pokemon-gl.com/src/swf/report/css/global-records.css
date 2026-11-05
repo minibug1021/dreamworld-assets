@@ -1,0 +1,524 @@
+
+
+#global-records {
+  display: none;
+  position: relative;
+  width: 1003px;
+  height: 1257px;
+  overflow: hidden;
+  color: #FFF;
+}
+#global-records .updated-at {
+  display: none;
+  position: absolute;
+  right: 16px;
+  top: 14px;
+  z-index: 3;
+  font-size: 12px;
+  text-shadow: 0 1px 6px #000, 0 1px 4px #000, 0 1px 2px #000;
+  -ms-filter:"progid:DXImageTransform.Microsoft.Shadow(color=#000000,direction=180,strength=4)";
+}
+#global-records h2 {
+  position: absolute;
+  left: 0;
+  top: 11px;
+  z-index: 2;
+  width: 1003px;
+  height: 35px;
+  text-indent: -9000px;
+  background: url(../ja/report-headers.png) 0 -315px;
+}
+#global-records .nav {
+  position: absolute;
+  left: 28px;
+  top: 40px;
+  width: 160px;
+  height: 28px;
+  background: url(../images/report-button-shadow2.png);
+  padding: 0 12px 13px 12px;
+  z-index: 3;
+}
+#global-records .nav-back a {
+  background-position: -226px -543px;
+}
+#global-records .nav-back a:hover {
+  background-position: -269px -543px;
+}
+#global-records .nav-back {
+  bottom: 36px;
+}
+#global-records .scroll-map {
+  position: absolute;
+  width: 3200px;
+  height: 707px;
+}
+#global-records .scroll-map .point {
+  position: absolute;
+  width: 23px;
+  height: 24px;
+  background: url(../images/global-records-ui.png) -383px -275px;
+  cursor: pointer;
+  *z-index: 100; /* IE7 */
+}
+#global-records .scroll-map .point a {
+  position: relative;
+  display: block;
+  width: 100%;
+  height: 100%;
+  z-index: 100;
+}
+#global-records .scroll-map .point a:not(:target) {
+  background: red\9; /* IE9: fix problem map-animations prevents click */
+  opacity: 0\9;
+}
+
+
+#global-records-control {
+  position: absolute;
+  left: 430px;
+  top: 33px;
+  width: 573px;
+  height: 58px;
+  background: url(../images/global-records-ui.png);
+}
+#global-records-control .label {
+  position: absolute;
+  left: 56px;
+  top: 21px;
+  width: 372px;
+  font-size: 12px;
+}
+#global-records-control .record-selector {
+  position: absolute;
+  left: 429px;
+  top: 21px;
+}
+#global-records-control .record-selector li {
+  display: block;
+  float: left;
+  width: 17px;
+  height: 17px;
+  background: url(../images/global-records-ui.png);
+  text-indent: -9000px;
+  cursor: pointer;
+}
+#global-records-control .record-selector li.ranking-1 {
+  background-position: -329px -181px;
+}
+#global-records-control .record-selector li.ranking-2 {
+  background-position: -348px -181px;
+}
+#global-records-control .record-selector li.ranking-3 {
+  background-position: -367px -181px;
+}
+#global-records-control .record-selector li.ranking-4 {
+  background-position: -386px -181px;
+}
+#global-records-control .record-selector li.ranking-5 {
+  background-position: -405px -181px;
+}
+#global-records-control .record-selector li.ranking-1.selected {
+  background-position: -329px -161px;
+}
+#global-records-control .record-selector li.ranking-2.selected {
+  background-position: -348px -161px;
+}
+#global-records-control .record-selector li.ranking-3.selected {
+  background-position: -367px -161px;
+}
+#global-records-control .record-selector li.ranking-4.selected {
+  background-position: -386px -161px;
+}
+#global-records-control .record-selector li.ranking-5.selected {
+  background-position: -405px -161px;
+}
+#global-records-control .dropdown-button {
+  position: absolute;
+  left: 534px;
+  top: 22px;
+  width: 17px;
+  height: 14px;
+  background: url(../images/global-records-ui.png) -434px -162px;
+  cursor: pointer;
+}
+#global-records-control .dropdown {
+  display: none;
+  position: absolute;
+  left: 47px;
+  top: 17px;
+  height: 87px;
+}
+#global-records-control .dropdown ul {
+  position: relative;
+  top: -14px;
+  width: 490px;
+  height: 87px;
+  padding-left: 17px;
+  padding-right: 17px;
+  padding-top: 14px;
+  background: url(../images/global-records-ui.png) 0px -58px;
+}
+#global-records-control .dropdown li {
+  list-style-type: none;
+  height: 17px;
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top: 3px;
+  margin-bottom: 4px;
+  font-size: 12px;
+  cursor: pointer;
+}
+#global-records-control .dropdown li:hover {
+  background: url(../images/global-records-ui.png) 0px -523px;
+}
+#global-records-control .dropdown li.selected {
+  background: url(../images/global-records-ui.png) 0px -523px;
+}
+
+
+#global-records-list {
+  position: absolute;
+  left: 0;
+  top: 707px;
+  width: 975px;
+  height: 536px;
+  padding-left: 28px;
+  padding-top: 14px;
+  background: url(../images/global-records-bg.png) bottom no-repeat;
+}
+#global-records-list .census {
+  height: 152px;
+  position: relative;
+}
+#global-records-list .census h3 {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 931px;
+  height: 39px;
+  padding-left: 44px;
+  font-size: 14px;
+  background: url(../images/global-records-census-header.png);
+}
+#global-records-list .census ol {
+  position: absolute;
+  left: 0;
+  top: 26px;
+  width: 961px;
+  height: 95px;
+  padding-left: 14px;
+  padding-top: 14px;
+  background: url(../images/global-records-records-bg.png) left top;
+}
+#global-records-list .census ol li {
+  list-style-type: none;
+  width: 190px;
+  height: 81px;
+  float: left;
+  cursor: pointer;
+  position: relative;
+}
+#global-records-list .census ol li:hover {
+  background: url(../images/global-records-records-bg.png) 0px -109px;
+}
+#global-records-list .census ol li.selected {
+  background: url(../images/global-records-records-bg.png) -190px -109px;
+}
+#global-records-list .census ol li .area {
+  position: absolute;
+  left: 36px;
+  right: 10px;
+  top: 11px;
+  font-size: 14px;
+  line-height: 100%;
+}
+#global-records-list .census ol li .result {
+  position: absolute;
+  right: 12px;
+  top: 58px;
+  font-size: 11px;
+}
+#global-records-list .census ol li .result .value {
+  color: #01FE66;
+  font-size: 15px;
+}
+
+
+
+#global-records-general {
+  position: absolute;
+  left: 651px;
+  top: 179px;
+  width: 321px;
+  height: 364px;
+  background: url(../images/global-records-ui.png) 0 -159px;
+  display: none;
+}
+#global-records-general .area {
+  position: absolute;
+  left: 27px;
+  top: 42px;
+  width: 265px;
+  height: 30px;
+  border-bottom: 1px solid #7D7D7D;
+}
+#global-records-general .area .name {
+  position: absolute;
+  left: 47px;
+  top: 0px;
+  width: 179px;
+  font-size: 22px;
+  font-weight: bold;
+}
+#global-records-general .area .iso-3166-1 {
+  position: absolute;
+  left: 4px;
+  top: 4px;
+  width: 38px;
+  height: 18px;
+  padding-top: 1px;
+  border-radius: 3px;
+  color: #FFF;
+  background: #0C9446;
+  font-size: 14px;
+  font-weight: bold;
+  text-align: center;
+}
+#global-records-general .area .tzname {
+  position: absolute;
+  right: 0px;
+  top: 32px;
+  font-size: 11px;
+}
+#global-records-general .area .time {
+  position: absolute;
+  right: 0px;
+  top: 44px;
+  font-size: 14px;
+}
+#global-records-general .area .clock {
+  position: absolute;
+  right: 0px;
+  top: -12px;
+  font-size: 14px;
+}
+#global-records-general .census-result {
+  position: absolute;
+  left: 36px;
+  top: 80px;
+  font-size: 11px;
+}
+#global-records-general .census-result .value {
+  margin: 0 4px;
+  font-size: 20px;
+  color: #00E65C;
+}
+#global-records-general .most-slept-pokemon h3 {
+  position: absolute;
+  left: 33px;
+  top: 144px;
+  width: 258px;
+  font-size: 10px;
+  font-weight: normal;
+  line-height: 100%;
+}
+#global-records-general .most-slept-pokemon h3 .label {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 258px;
+}
+#global-records-general .most-slept-pokemon .pokedex {
+  position: absolute;
+  left: 151px;
+  top: 149px;
+  font-size: 12px;
+}
+#global-records-general .most-slept-pokemon .name {
+  position: absolute;
+  left: 151px;
+  top: 165px;
+  font-size: 12px;
+  font-weight: bold;
+  color: #FBC515;
+}
+#global-records-general .most-slept-pokemon .image img {
+  position: absolute;
+  left: 40px;
+  top: 149px;
+  width: 100px;
+  height: 100px;
+}
+#global-records-general .most-slept-pokemon .types {
+  position: absolute;
+  left: 151px;
+  top: 186px;
+}
+#global-records-general .most-slept-pokemon .types li {
+  list-style-type: none;
+  float: left;
+  width: 50px;
+  height: 17px;
+  margin-right: 4px;
+  background-image: url(../ja/types-small.png);
+}
+#global-records-general .most-slept-pokemon .height,
+#global-records-general .most-slept-pokemon .weight {
+  position: absolute;
+  left: 151px;
+  width: 96px;
+  font-size: 10px;
+}
+#global-records-general .most-slept-pokemon .height {
+  top: 213px;
+}
+#global-records-general .most-slept-pokemon .weight {
+  top: 234px;
+}
+#global-records-general .most-slept-pokemon .height .value,
+#global-records-general .most-slept-pokemon .weight .value {
+  position: absolute;
+  right: 0;
+  font-size: 11px;
+  font-weight: bold;
+  color: #FBC515;
+}
+#global-records-general .most-slept-pokemon .footprint img {
+  position: absolute;
+  left: 252px;
+  top: 213px;
+}
+
+#global-records-general-more {
+  position: absolute;
+  left: 127px;
+  top: 270px;
+  display: block;
+  width: 160px;
+  height: 28px;
+  background: url(../ja/report-buttons.png) 0 -219px;
+  text-indent: -9000px;
+  cursor: pointer;
+}
+#global-records-general-more:hover {
+  background-position: -160px -219px;
+}
+
+
+
+#global-records-detail {
+  display: none;
+  position: relative;
+}
+#global-records-detail .close {
+  position: absolute;
+  right: 13px;
+  top: 15px;
+  width: 28px;
+  height: 28px;
+  background: url(../images/global-records-ui.png) -354px -275px;
+  z-index: 3;
+  text-indent: -9000px;
+  cursor: pointer;
+}
+#global-records-detail .local-info {
+  position: absolute;
+  left: 0;
+  top: 51px;
+}
+#global-records-detail .local-info .map {
+  top: -51px;
+  height: 600px;
+}
+.local-info .global-records-info {
+  display: none;
+  position: absolute;
+  left: 614px;
+  top: 2px;
+  width: 311px;
+  height: 498px;
+  padding-left: 35px;
+  padding-top: 54px;
+  background: url(../images/area-ui.png) -260px -39px;
+}
+
+
+.local-info .global-records-info .census-list {
+  position: absolute;
+  left: 47px;
+  top: 62px;
+}
+.local-info .global-records-info .census-list .census {
+  position: relative;
+  width: 266px;
+  height: 67px;
+  border-bottom: 1px solid #505E6F;
+}
+.local-info .global-records-info .census-list .census:first-child {
+  border-top: 1px solid #505E6F;
+}
+.local-info .global-records-info .census-list .census h3 {
+  position: absolute;
+  left: 0;
+  top: 4px;
+  height: 28px;
+  padding-left: 27px;
+  background: url(../images/global-records-ui.png) -321px -214px no-repeat;
+  font-size: 12px;
+  font-weight: normal;
+  line-height: 120%;
+}
+.local-info .global-records-info .census-list .census .ranking {
+  position: absolute;
+  left: 0;
+  top: 35px;
+  color: #71E300;
+  font-size: 19px;
+}
+.local-info .global-records-info .census-list .census .result {
+  position: absolute;
+  right: 0;
+  top: 35px;
+  font-size: 12px;
+}
+.local-info .global-records-info .census-list .census .result .value {
+  color: #71E300;
+  font-size: 19px;
+  margin: 0 3px;
+}
+
+
+
+.local-info .global-records-info .most-slept-pokemon {
+  position: absolute;
+  left: 30px;
+  top: 410px;
+}
+.local-info .global-records-info .most-slept-pokemon h3 {
+  font-size: 12px;
+  font-weight: normal;
+}
+.local-info .global-records-info .most-slept-pokemon li {
+  position: relative;
+  display: block;
+  float: left;
+  width: 100px;
+  height: 100px;
+  list-style-type: none;
+}
+.local-info .global-records-info .most-slept-pokemon .ranking {
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 34px;
+  font-family: 'Nova Mono';
+}
+.local-info .global-records-info .most-slept-pokemon .image img {
+  position: absolute;
+  left: 10px;
+  top: 10px;
+  width: 90px;
+  height: 90px;
+}
+
+

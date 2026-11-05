@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data locale="es">	
+	<string id="pg_az_1">Personalizar tu juego Pokémon</string>
+	<string id="pg_az_2">Personalizar</string>
+	<string id="pg_az_3">Apariencia del C-Gear</string>
+	<string id="pg_az_5">Apariencia de la Pokédex</string>
+	<string id="pg_az_7">Números del Musical</string>
+	<string id="pg_az_9">Atrás</string>
+	
+	<string id="pg_az1_1">Personalizar con esta configuración</string>
+	<string id="pg_az1_2">¿Esta configuración es correcta?</string>
+	<string id="pg_az1_3">Apariencia del C-Gear</string>
+	<string id="pg_az1_5">Apariencia de la Pokédex</string>
+	<string id="pg_az1_7">Números del Musical</string>
+	<string id="pg_az1_9">No enviar a la consola Nintendo DS™</string>
+	
+	<string id="pg_az2_2">Configuración completa.</string>
+	<string id="pg_az2_1">Vale</string>
+	
+	<string id="pg_ay_1">No se ha producido ninguna modificación.</string>
+	<string id="pg_ay_2">Vale</string>
+	<string id="pg_az3_3">Si no haces clic sobre el botón "Personalizar tu juego Pokémon", la configuración no se guardará. ¿Estás de acuerdo?</string>
+</data>

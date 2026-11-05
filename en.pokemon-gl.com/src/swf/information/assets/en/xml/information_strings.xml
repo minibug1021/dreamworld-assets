@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data locale="en">	
+	<string id="pg_aw_0">All</string>
+	<string id="pg_aw_2">PGL</string>
+	<string id="pg_aw_3">Pokémon DW</string>
+	<string id="pg_aw_4">GBU</string>
+	<string id="pg_aw_5">Competition</string>
+	<string id="pg_aw_6">Important Info</string>
+	<string id="pg_aw_7">Information List</string>
+	<string id="pg_aw_8">Date</string>
+	<string id="pg_aw_9">Category</string>
+	<string id="pg_aw_10">Title</string>
+	<string id="pg_aw_14">By Category</string>
+	<string id="pg_bx_1">Click for Details</string>
+	<string id="pg_alh_1">Sorry.
+Couldn't find any information.</string>
+	<string id="pg_alh_2">Close</string>
+</data>

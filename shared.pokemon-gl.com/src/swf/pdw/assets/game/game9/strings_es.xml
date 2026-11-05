@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data locale="ja">
+
+<string id="DIALOG_TUTORIAL_TITLE">Cómo jugar a Dulces helados</string>
+
+<string id="DIALOG_TUTORIAL_INFO0">Haz clic sobre un bloque para
+deslizarte hasta él. ¡Recoge
+dulces antes de que se acabe
+el tiempo y acumula puntos!</string>
+<string id="DIALOG_TUTORIAL_INFO1">Si permaneces demasiado tiempo
+sobre un bloque, se romperá.
+Si caes al agua, no podrás
+volver a subir durante un rato.</string>
+
+<string id="DIALOG_BUTTON_START">Empezar</string>
+<string id="DIALOG_BUTTON_START_S">Empezar</string>
+
+<string id="BUTTON_TOP_EXIT">Salir del juego</string>
+
+<string id="MESSAGE_WINDOW_PLAY_FIRST">¡Haz clic para recoger los dulces deslizándote!</string>
+<string id="MESSAGE_WINDOW_IIOKASHI">¡Hay muchos dulces deliciosos sobre el hielo!</string>
+<string id="MESSAGE_WINDOW_GANBARE10">¡Apresúrate! ¡Solo quedan 10 segundos!</string>
+
+<string id="DIALOG_EXIT_INFO">¿Quieres salir del juego? 
+Si sales de este juego, no podrás hacerte amigo de {BUDDY_NAME}.</string>
+
+<string id="DIALOG_BUTTON_YES">Sí</string>
+<string id="DIALOG_BUTTON_YES_S">Sí</string>
+<string id="DIALOG_BUTTON_NO">No</string>
+<string id="DIALOG_BUTTON_NO_S">No</string>
+
+<string id="DIALOG_RESULT_TITLE">Resultado</string>
+
+
+<string id="DIALOG_RESULT_KO_0"></string>
+<string id="DIALOG_RESULT_KO_1"></string>
+<string id="DIALOG_RESULT_KO_2"></string>
+<string id="DIALOG_RESULT_KO_3"></string>
+<string id="DIALOG_RESULT_POINT_0">Puntos</string>
+<string id="DIALOG_RESULT_POINT_1">Puntos</string>
+<string id="DIALOG_RESULT_POINT_2">Puntos</string>
+<string id="DIALOG_RESULT_POINT_3">Puntos</string>
+<string id="DIALOG_RESULT_POINT_4">Puntos</string>
+<string id="DIALOG_RESULT_POINT_5">Puntos</string>
+
+
+<string id="DIALOG_RESULT_BONUS">Bonus</string>
+<string id="DIALOG_RESULT_TOTAL">Puntuación total</string>
+<string id="DIALOG_BUTTON_CLOSE">Cerrar</string>
+<string id="DIALOG_BUTTON_CLOSE_S">Cerrar</string>
+
+<string id="ICON_ME">Tú</string>
+
+
+<string id="POKEMON_NAME_NPC_0">Minccino</string>
+<string id="POKEMON_NAME_NPC_1">Panpour</string>
+<string id="POKEMON_NAME_NPC_2">Kirlia</string>
+<string id="POKEMON_NAME_NPC_3">Shinx</string>
+<string id="POKEMON_NAME_NPC_4">Marill</string>
+<string id="POKEMON_NAME_NPC_5">Buneary</string>
+<string id="POKEMON_NAME_NPC_6">Mudkip</string>
+<string id="POKEMON_NAME_NPC_7">Smoochum</string>
+<string id="POKEMON_NAME_NPC_8">Riolu</string>
+<string id="POKEMON_NAME_NPC_9">Spheal</string>
+<string id="POKEMON_NAME_NPC_10">Swinub</string>
+<string id="POKEMON_NAME_NPC_11">Snorunt</string>
+
+<string id="POKEMON_NAME_PC_0">Mime Jr.</string>
+<string id="POKEMON_NAME_PC_1">Oshawott</string>
+<string id="POKEMON_NAME_PC_2">Pichu</string>
+<string id="POKEMON_NAME_PC_3">Scraggy</string>
+
+
+
+<string id="MESSAGE_WINDOW">{STR}</string>
+<string id="POKEMON_STATUS_NAME_ME">{STR}</string>
+<string id="POKEMON_STATUS_NAME_ENEMY">{STR}</string>
+<string id="ICON_ENCOUNT">{BUDDY_NAME}</string>
+
+</data>

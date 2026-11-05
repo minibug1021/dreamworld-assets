@@ -1,0 +1,12 @@
+@charset "utf-8";
+
+/*===================================
+ * css file for "pdw"
+ * file name : import.css
+===================================== */
+
+/* default import*/
+
+@import "reset.css";
+@import "font.css";
+@import "default.css";

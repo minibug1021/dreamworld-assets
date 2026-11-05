@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data locale="ja">
+	<string id="WIN_TITLE_TITLE" size="24" color="0x000000" bold="true" baselineShift="0"/>
+	<string id="WIN_TITLE_DESC1" size="14" color="0x000000" bold="false" baselineShift="0"/>
+	<string id="WIN_TITLE_BTN1" size="12" color="0x000000" bold="false" baselineShift="0"/>
+	<string id="WIN_TITLE_BTN2" size="12" color="0x000000" bold="false" baselineShift="0"/>
+	
+	<string id="WIN_HTP_TITLE" size="20" color="0x000000" bold="true" baselineShift="0"/>
+	<string id="WIN_HTP_DESC1" size="14" color="0x000000" bold="false" baselineShift="0"/>
+	<string id="WIN_HTP_DESC2" size="12" color="0x000000" bold="false" baselineShift="0"/>
+	<string id="WIN_HTP_DESC3" size="12" color="0x000000" bold="false" baselineShift="0"/>
+	<string id="WIN_HTP_DESC4" size="12" color="0x000000" bold="false" baselineShift="0"/>
+	<string id="WIN_HTP_BTN1" size="12" color="0x000000" bold="false" baselineShift="0"/>
+	
+	<string id="INFO_TURN_PLAYER" size="16" color="0x000000" bold="false" baselineShift="0"/>
+	<string id="INFO_TURN_CPU" size="16" color="0x000000" bold="false" baselineShift="0"/>
+	<string id="INFO_ICON_CPU" size="14" color="0xFFFFFF" bold="false" baselineShift="0"/>
+	<string id="INFO_ICON_PLAYER" size="14" color="0xFFFFFF" bold="false" baselineShift="0"/>
+	
+	<string id="WIN_RESULT_TITLE" size="20" color="0x000000" bold="true" baselineShift="0"/>
+	
+	<string id="WIN_RESULT_WIN_LABEL" size="16" color="0x000000" bold="false" baselineShift="0"/>
+	<string id="WIN_RESULT_BRIGHT_LABEL" size="16" color="0x000000" bold="false" baselineShift="0"/>
+	<string id="WIN_RESULT_DARK_LABEL" size="16" color="0x000000" bold="false" baselineShift="0"/>
+	<string id="WIN_RESULT_TOTAL_LABEL" size="16" color="0x000000" bold="false" baselineShift="0"/>
+	
+	<string id="WIN_RESULT_WIN_NUM" size="20" color="0x000000" bold="true" baselineShift="0"/>
+	<string id="WIN_RESULT_BRIGHT_NUM" size="20" color="0x000000" bold="true" baselineShift="0"/>
+	<string id="WIN_RESULT_DARK_NUM" size="20" color="0x000000" bold="true" baselineShift="0"/>
+	
+	<string id="WIN_RESULT_WIN_SCORE" size="20" color="0x000000" bold="true" baselineShift="0"/>
+	<string id="WIN_RESULT_BRIGHT_SCORE" size="20" color="0x000000" bold="true" baselineShift="0"/>
+	<string id="WIN_RESULT_DARK_SCORE" size="20" color="0x000000" bold="true" baselineShift="0"/>
+	<string id="WIN_RESULT_TOTAL_SCORE" size="20" color="0x000000" bold="true" baselineShift="0"/>
+	
+	<string id="WIN_RESULT_WIN_UNIT" size="16" color="0x000000" bold="false" baselineShift="0" />
+	<string id="WIN_RESULT_BRIGHT_UNIT" size="16" color="0x000000" bold="false" baselineShift="0" />
+	<string id="WIN_RESULT_DARK_UNIT" size="16" color="0x000000" bold="false" baselineShift="0" />
+	
+	<string id="WIN_RESULT_CANDLE_LABEL" size="16" color="0x000000" bold="false" baselineShift="0"/>
+	<string id="WIN_RESULT_CANDLE_NUM" size="20" color="0x000000" bold="true" baselineShift="0"/>
+	<string id="WIN_RESULT_CANDLE_UNIT" size="16" color="0x000000" bold="false" baselineShift="0" />
+	<string id="WIN_RESULT_CANDLE_SCORE" size="20" color="0x000000" bold="true" baselineShift="0"/>
+	
+	<string id="WIN_RESULT_BTN1" size="12" color="0x000000" bold="false" baselineShift="0"/>
+	
+	<string id="HINT_01" size="16" color="0x000000" bold="false" baselineShift="0"/>
+	<string id="HINT_02" size="16" color="0x000000" bold="false" baselineShift="0"/>
+	<string id="HINT_03" size="16" color="0x000000" bold="false" baselineShift="0"/>
+	<string id="HINT_04" size="16" color="0x000000" bold="false" baselineShift="0"/>
+	<string id="HINT_05" size="16" color="0x000000" bold="false" baselineShift="0"/>
+	<string id="HINT_06" size="16" color="0x000000" bold="false" baselineShift="0"/>
+	<string id="HINT_07" size="16" color="0x000000" bold="false" baselineShift="0"/>
+	
+	<string id="BTN_BLOWOUT" size="22" color="0x000000" bold="true" baselineShift="0" />
+	<string id="BTN_QUIT" size="12" color="0xFFFFFF" bold="true" baselineShift="0" />
+	
+	<string id="WIN_QUIT_DESC1" size="14" color="0x000000" bold="false" baselineShift="0"/>
+	<string id="WIN_QUIT_BTN1" size="12" color="0x000000" bold="false" baselineShift="0"/>
+	<string id="WIN_QUIT_BTN2" size="12" color="0x000000" bold="false" baselineShift="0"/>
+	
+	<string id="GAME_WIN" size="50" color="0xFFFFFF" bold="true" baselineShift="0" />
+	<string id="GAME_LOSE" size="50" color="0xFFFFFF" bold="true" baselineShift="0" />
+	<string id="GAME_TIMEUP" size="50" color="0xFFFFFF" bold="true" baselineShift="0" />
+</data>

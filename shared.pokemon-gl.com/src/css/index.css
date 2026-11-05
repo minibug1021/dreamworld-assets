@@ -1,0 +1,164 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+/* hide from ie on mac \*/
+html {
+	height: 100%;
+	overflow: hidden;
+}
+
+#flashContent {
+	height: 100%;
+}
+/* end hide */
+
+body {
+	height: 100%;
+	margin: 0;
+	padding: 0;
+	background-color: #f97b15;
+	font-size: 1em;
+}
+
+
+div#wrapper{
+    overflow:none;
+    width:714px;
+    height:439px;
+    position:absolute;
+    top:50%;
+    left:50%;
+    margin-left:-357px;
+    margin-top:-200px;
+}
+
+div#wrapper h1
+{
+	background:url(../images/catch.gif) no-repeat 0 0;
+	width:714px;
+	height:116px;
+	margin: 0 auto;
+	text-indent:-9999px;
+	font-size: xx-small;
+}
+
+div#wrapper div#enter_left
+{
+	background:url(../images/start_left.gif) no-repeat 0 0;
+	display: block;
+	float: left;
+	width:261px;
+	height:58px;
+	text-indent:-9999px;
+}
+div#wrapper div#enter_right
+{
+	background:url(../images/start_right.gif) no-repeat 0 0;
+	float: left;
+	display: block;
+	width:265px;
+	height:58px;
+	text-indent:-9999px;
+}
+div#wrapper div#enter_center
+{
+	float: left;
+	display: block;
+	width:188px;
+	height:58px;
+	text-indent:-9999px;
+}
+div#wrapper div#enter_center div#start a
+{
+	background:url(../images/start.gif) no-repeat 0 0;
+	display: block;
+	width:188px;
+	height:58px;
+	text-decoration:none;
+	overflow:hidden;
+}
+div#wrapper div#enter_center div#start a:hover
+{
+	background:url(../images/start.gif) no-repeat 0 -58px;
+}
+div#wrapper div#enter_center div#install a
+{
+	background:url(../images/install.gif) no-repeat 0 0;
+	display: block;
+	width:188px;
+	height:58px;
+	text-decoration:none;
+	overflow:hidden;
+}
+div#wrapper div#enter_center div#install a:hover
+{
+	background:url(.//images/install.gif) no-repeat 0 -58px;
+}
+
+div#wrapper p#description
+{
+	clear: both;
+	background:url(../images/title.gif) no-repeat 0 0;
+	width:714px;
+	height:226px;
+	text-indent:-9999px;
+}
+
+div#wrapper p#notice
+{
+	background:url(../images/notice.gif) no-repeat 0 0;
+	width:332px;
+	height:39px;
+	text-indent:-9999px;
+	float: left;
+}
+div#wrapper p#environment
+{
+	width:144px;
+	height:39px;
+	text-indent:-9999px;
+	float: right;
+}
+div#wrapper p#environment a
+{
+	background:url(../images/environment.gif) no-repeat 0 0;
+	display: block;
+	width:144px;
+	height:39px;
+	text-decoration:none;
+	overflow:hidden;
+}
+
+
+h3
+{
+	overflow:none;
+	position:absolute;
+	background:url(../images/logo.gif) no-repeat 0 0;
+	top: 19px;
+	left: 20px;
+	width: 60px;
+	height: 60px;
+	text-indent:-9999px;
+	font-size: xx-small;
+	margin-left: 0;
+	margin-top: 0;
+}
+
+#copyrights
+{
+	overflow:none;
+	position:absolute;
+	background:url(../images/copyright.gif) no-repeat 0 0;
+	text-indent:-9999px;
+	width:162px;
+	height:7px;
+	top:100%;
+	left:100%;
+	margin-left:-172px;
+	margin-top:-17px;
+	font-size: xx-small;
+}

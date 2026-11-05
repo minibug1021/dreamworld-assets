@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data locale="ja">
+	<string id="WIN_TITLE_TITLE">ろうそく消し</string>
+	<string id="WIN_TITLE_DESC1">{BUDDY_NAME}와(과) 번갈아 촛불의 불을 끄자.
+마지막 남은 하나를 끄면 패배다!</string>
+	<string id="WIN_TITLE_BTN1">스타트</string>
+	<string id="WIN_TITLE_BTN2">즐기는 방법</string>
+	
+	<string id="WIN_HTP_TITLE">즐기는 방법</string>
+	<string id="WIN_HTP_DESC1">만난 포켓몬과 담력테스트를 한다!
+방 안에 들어가 촛불을 불어서 끄자.
+
+옆으로 나란히 있는 불은 몇 개든 동시에 끌 수 있다.
+
+깜깜한 방에서 간담이 서늘한 경험을 하지 않으려면 마지막 불을 내가 끄지 않도록 주의하자.</string>
+	<string id="WIN_HTP_DESC2">「너의 차례야!」라고
+표시되면 불을 끄자.</string>
+	<string id="WIN_HTP_DESC3">시간이 다 될때까지 몇 번이든 즐길 수 있다.</string>
+	<string id="WIN_HTP_DESC4">옆으로 나란히 있는 불은 동시에 끌 수 있다.
+꺼진 불을 건너 뛰어 끌 수는 없다.
+마지막 불을 끄면 패배!</string>
+	<string id="WIN_HTP_BTN1">돌아가기</string>
+
+	<string id="INFO_TURN_PLAYER">너의 차례야!</string>
+	<string id="INFO_TURN_CPU">(あいての番)</string>
+	<string id="INFO_ICON_CPU">{BUDDY_NAME}</string>
+	<string id="INFO_ICON_PLAYER">너</string>
+		
+	<string id="WIN_RESULT_TITLE">성적</string>
+	
+	<string id="WIN_RESULT_WIN_LABEL">득점</string>
+	<string id="WIN_RESULT_BRIGHT_LABEL">밝은 불</string>
+	<string id="WIN_RESULT_DARK_LABEL">어두운 불</string>
+	<string id="WIN_RESULT_TOTAL_LABEL">합계</string>
+	
+	<string id="WIN_RESULT_WIN_NUM">{NUM}</string>
+	<string id="WIN_RESULT_BRIGHT_NUM">{NUM}</string>
+	<string id="WIN_RESULT_DARK_NUM">{NUM}</string>
+	<string id="WIN_RESULT_TOTAL_NUM">{NUM}</string>
+	
+	<string id="WIN_RESULT_WIN_UNIT">회</string>
+	<string id="WIN_RESULT_BRIGHT_UNIT">개</string>
+	<string id="WIN_RESULT_DARK_UNIT">개</string>
+	
+	<string id="WIN_RESULT_TITLE_SCORE">せいせき</string>
+	<string id="WIN_RESULT_WIN_SCORE">{NUM}</string>
+	<string id="WIN_RESULT_BRIGHT_SCORE">{NUM}</string>
+	<string id="WIN_RESULT_DARK_SCORE">{NUM}</string>
+	<string id="WIN_RESULT_TOTAL_SCORE">{NUM}</string>
+	
+	<string id="WIN_RESULT_CANDLE_LABEL">消したろうそく</string>
+	<string id="WIN_RESULT_CANDLE_NUM">{NUM}</string>
+	<string id="WIN_RESULT_CANDLE_UNIT">개</string>
+	<string id="WIN_RESULT_CANDLE_SCORE">{NUM}</string>
+
+	<string id="WIN_RESULT_BTN1">닫기</string>
+	
+	<string id="HINT_01">끄고 싶은 불을 클릭하여 고르자.
+옆으로 나란히 있는 불은 몇 개든 고를 수 있다.</string>
+
+	<string id="HINT_02">옆으로 나란히 있는 불은 몇 개든 고를 수 있다.
+다 골랐으면 「끄기」버튼을 클릭하자.</string>
+
+	<string id="HINT_03">힌트: 빛나는 불을 고르자.
+다 골랐으면 「끄기」버튼을 클릭하자.</string>
+
+	<string id="HINT_04">불이 하나 남았다!
+어쩔 수 없이 이걸 꺼야만 할 것 같다.</string>
+
+	<string id="HINT_05">밝은 불을 끄면 스코어가 올라간다.</string>
+	
+	<string id="HINT_06">어두운 불을 끄면 스코어가 줄어든다.</string>
+	
+	<string id="HINT_07">큰불은 한 번 불어 끄면 보통 불이 된다.
+두 번 불어야 꺼진다.</string>
+
+	<string id="BTN_BLOWOUT">끄기</string>
+	<string id="BTN_QUIT">게임을 그만두기</string>
+	
+	<string id="WIN_QUIT_DESC1">이 게임을 종료하겠습니까?
+종료하면
+{BUDDY_NAME}와(과) 사이가 좋아질 수
+없습니다.</string>
+	<string id="WIN_QUIT_BTN1">예</string>
+	<string id="WIN_QUIT_BTN2">아니오</string>
+	
+	<string id="GAME_WIN">WIN</string>
+	<string id="GAME_LOSE">LOSE</string>
+	<string id="GAME_TIMEUP">타임업</string>
+</data>

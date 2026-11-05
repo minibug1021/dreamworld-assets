@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data locale="de">
+	<string id="IDS_START_001">Lass uns das verirrte {STRAY_NAME} suchen!</string>
+	<string id="IDS_START_002">Start</string>
+	<string id="IDS_START_003">Spielanleitung</string>
+	
+	<string id="IDS_HELP_001">Spielanleitung</string>
+	<string id="IDS_HELP_002">Untersuche die sich bewegende Landschaft, indem du sie anklickst.</string>
+	<string id="IDS_HELP_003">Wenn du die Ohren spitzt und den Schrei des Pokémon hörst, muss es ganz in der Nähe sein.</string>
+	<string id="IDS_HELP_004">Stößt du auf ein Item, das es verloren hat, dann
+kann das Pokémon nicht mehr weit sein.</string>
+	<string id="IDS_HELP_005">Start</string>
+	<string id="IDS_HELP_006">Zurück</string>
+	<string id="IDS_HELP_007">Schließen</string>
+	
+	<string id="IDS_HUD_001">Du</string>
+	<string id="IDS_HUD_002">Die Ohren spitzen</string>
+	<string id="IDS_HUD_003">Spiel beenden</string>
+	<string id="IDS_HUD_004">Restzeit</string>
+	
+	<string id="IDS_STRAIN_001">Du spitzt die Ohren</string>
+	<string id="IDS_STRAIN_002">Du spitzt die Ohren.</string>
+	<string id="IDS_STRAIN_003">Du spitzt die Ohren..</string>
+	<string id="IDS_STRAIN_004">Du spitzt die Ohren...</string>
+	<string id="IDS_STRAIN_005">Hier ist der Schrei von {STRAY_NAME} nicht zu hören.</string>
+	<string id="IDS_STRAIN_006">Der Schrei von {STRAY_NAME} ist schwach zu hören! Es scheint nicht allzu weit weg zu sein.</string>
+	<string id="IDS_STRAIN_007">Du kannst etwas hören. {STRAY_NAME} muss ganz in der Nähe sein!</string>
+	<string id="IDS_STRAIN_008">Du hörst den Schrei ganz deutlich. {STRAY_NAME} muss hier sein!</string>
+	<string id="IDS_STRAIN_009">Schließen</string>
+	
+	<string id="IDS_CLICK_001">Schade! Es ist ein anderes Pokémon!</string>
+	<string id="IDS_CLICK_002">Du hast eine Beere gefunden!</string>
+	<string id="IDS_CLICK_003">{BUDDY_NAME} erinnert sich an die Beere!</string>
+	<string id="IDS_CLICK_004">Gefunden!</string>
+	
+	<string id="IDS_CLEAR_001">Spiel geschafft!</string>
+	<string id="IDS_CLEAR_002">Glückwunsch! {BUDDY_NAME} freut sich riesig,
+{STRAY_NAME} wiederzusehen!</string>
+	<string id="IDS_CLEAR_003">Weiter</string>
+	<string id="IDS_CLEAR_004">Du gibst {STRAY_NAME} die Beere zurück,
+das sich überglücklich bei dir bedankt.</string>
+	
+	<string id="IDS_TIMEUP_001">Zeit abgelaufen!</string>
+	<string id="IDS_TIMEUP_002">{STRAY_NAME} wurde nicht gefunden…</string>
+	<string id="IDS_TIMEUP_003">Schließen</string>
+	
+	<string id="IDS_RESULT_001">Ergebnis</string>
+	<string id="IDS_RESULT_002">Restzeit</string>
+	<string id="IDS_RESULT_003">Fundstück</string>
+	<string id="IDS_RESULT_004">Punkte</string>
+	<string id="IDS_RESULT_005">Schließen</string>
+	
+	<string id="IDS_QUIT_001">Möchtest du das Spiel beenden?
+Beendest du das Spiel jetzt,
+kannst du dich nicht mit
+ {BUDDY_NAME} anfreunden.</string>
+	<string id="IDS_QUIT_002">Ja</string>
+	<string id="IDS_QUIT_003">Nein</string>
+</data>

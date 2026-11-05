@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="ja">
+
+	<string id="B_aa_1">USER</string>
+	<string id="B_aa_2">PGLニックネーム: [arg0]</string>
+	<string id="B_aa_3">トレーナーネーム:[arg0]</string>
+	<string id="B_aa_4">[arg0]</string>
+	<string id="B_aa_5">レーティング:</string>
+	<string id="B_aa_6">ランキング:</string>
+	<string id="B_aa_7">このユーザーの対戦成績を見る</string>
+	<string id="B_aa_8">あなたの対戦成績</string>
+	<string id="B_aa_9">シングルバトル</string>
+	<string id="B_aa_10">ダブルバトル</string>
+	<string id="B_aa_11">トリプルバトル</string>
+	<string id="B_aa_12">シューターバトル</string>
+	<string id="B_aa_13">ローテーションバトル</string>
+	<string id="B_aa_14">対戦ルール別ランキング</string>
+	<string id="B_aa_15">シングル</string>
+	<string id="B_aa_16">ダブル</string>
+	<string id="B_aa_17">トリプル</string>
+	<string id="B_aa_18">シューター</string>
+	<string id="B_aa_19">ローテーション</string>
+	<string id="B_aa_20">[arg0]位</string>
+	<string id="B_aa_21">地域ごとの総合ランキング</string>
+	<string id="B_aa_22">[arg0]</string>
+	<string id="B_aa_23">くわしく見る</string>
+	<string id="B_aa_24">ランキング</string>
+	<string id="B_aa_25">Wi－Fi大会</string>
+	<string id="B_aa_26">[arg0]位</string>
+	<string id="B_aa_27">[YYYY.MM.DD] 時点</string>
+	<string id="B_aa_28">VS</string>
+	<string id="B_aa_29">エントリー中</string>
+	<string id="B_aa_30">参加中</string>
+	<string id="B_aa_31">総合ランキングTOP3</string>
+	<string id="B_aa_32">受付中</string>
+
+	
+	<string id="B_ab_1">BATTLE</string>
+
+	<string id="B_ac_1">WIN</string>
+	<string id="B_ac_2">LOSE</string>
+
+	<string id="B_ad_1">CONGRATULATIONS!! YOU ARE THE GBU SINGLE BATTLE WINNER!!</string>
+	<string id="B_ad_2">CONGRATULATIONS!! YOU ARE THE GBU DOUBLE BATTLE WINNER!!</string>
+	<string id="B_ad_3">CONGRATULATIONS!! YOU ARE THE GBU TRIPLE BATTLE WINNER!!</string>
+	<string id="B_ad_4">CONGRATULATIONS!! YOU ARE THE GBU SHOOTER BATTLE WINNER!!</string>
+	<string id="B_ad_5">CONGRATULATIONS!! YOU ARE THE GBU ROTATION BATTLE WINNER!!</string>
+	
+
+	<string id="B_ae_1">対戦ルール別トレーナーランキング</string>
+	<string id="B_ae_2">レーティング:</string>
+	<string id="B_ae_3">[YYYY-MM-DD hh:mm]</string>
+	<string id="B_ae_4">あなたの対戦成績</string>
+	<string id="B_ae_5">シングル</string>
+	<string id="B_ae_6">ダブル</string>
+	<string id="B_ae_7">トリプル</string>
+	<string id="B_ae_8">シューター</string>
+	<string id="B_ae_9">ローテーション</string>
+	<string id="B_ae_10">地域ごとの総合ランキング</string>
+	<string id="B_ae_11">ランキング:</string>
+	<string id="B_ae_12">[YYYY-MM-DD hh:mm]</string>
+	<string id="B_ae_13">[arg0]</string>
+	<string id="B_ae_14">[arg0]位</string>
+	<string id="B_ae_15">とじる</string>
+	<string id="B_ae_16">[arg0]</string>
+	<string id="B_ae_17">シングルバトル</string>
+	<string id="B_ae_18">[arg0]</string>
+	<string id="B_ae_19">ダブルバトル</string>
+	<string id="B_ae_20">[arg0]</string>
+	<string id="B_ae_21">トリプルバトル</string>
+	<string id="B_ae_22">[arg0]</string>
+	<string id="B_ae_23">シューターバトル</string>
+	<string id="B_ae_24">[arg0]</string>
+	<string id="B_ae_25">ローテーションバトル</string>
+	<string id="B_ae_26">[arg0]</string>
+	<string id="B_ae_27">USER</string>
+	<string id="B_ae_29">トレーナーネーム:[arg0]</string>
+	<string id="B_ae_30">[arg0]</string>
+	<string id="B_ae_31">レーティング</string>
+	<string id="B_ae_32">ランキング</string>
+	<string id="B_ae_33">[arg0]</string>
+	<string id="B_ae_34">[arg0]位</string>
+	<string id="B_ae_35">対戦相手</string>
+	<string id="B_ae_36">VS</string>
+	<string id="B_ae_37">WIN</string>
+	<string id="B_ae_38">LOSE</string>
+	<string id="B_ae_39">DRAW</string>
+	<string id="B_ae_40">対戦成績がありません。</string>
+	<string id="B_ae_41">プロフィールページを見る</string>
+	<string id="B_ae_42">大会</string>
+
+	<string id="B_aea_1">[arg0]さんの対戦成績</string>
+
+	<string id="B_ag_1">ランキング</string>
+	<string id="B_ag_2">ランキング最終更新日時</string>
+	<string id="B_ag_3">[YYYY-MM-DD hh:mm]</string>
+	<string id="B_ag_4">対戦ルール</string>
+	<string id="B_ag_5">総合ランキング</string>
+	<string id="B_ag_6">シングルバトル</string>
+	<string id="B_ag_7">ダブルバトル</string>
+	<string id="B_ag_8">トリプルバトル</string>
+	<string id="B_ag_9">シューターバトル</string>
+	<string id="B_ag_10">ローテーションバトル</string>
+	<string id="B_ag_12">つぎへ</string>
+	<string id="B_ag_13">マイランキング</string>
+	<string id="B_ag_14">PGLニックネーム: [arg0]</string>
+	<string id="B_ag_15">00000001</string>
+	<string id="B_ag_16">もどる</string>
+
+	<string id="B_aj_1">PGLニックネーム</string>
+	<string id="B_aj_2">トレーナーネーム</string>
+	<string id="B_aj_3">レーティング:</string>
+	<string id="B_aj_4">ランキング:</string>
+	<string id="B_aj_5">[arg0]</string>
+	<string id="B_aj_6">[arg0]位</string>
+	<string id="B_aj_7">このユーザーの対戦成績を見る</string>
+	<string id="B_aj_8">前へ</string>
+
+	<string id="B_ak_1">Wi-Fi大会</string>
+	<string id="B_ak_2">開催中の大会</string>
+	<string id="B_ak_3">過去の大会</string>
+	<string id="B_ak_4">[YYYY-MM-DD hh:mm]</string>
+	<string id="B_ak_5">受付中</string>
+	<string id="B_ak_6">エントリー完了</string>
+	<string id="B_ak_7">受付終了</string>
+	<string id="B_ak_8">参加中</string>
+	<string id="B_ak_9">参加解除</string>
+
+	<string id="B_al_1">開催中の大会はありません。</string>
+	<string id="B_al_2">過去の大会を見る</string>
+	<string id="B_al_3">過去の大会はありません。</string>
+
+	<string id="B_am_1">この大会にエントリーする</string>
+	<string id="B_am_2">途中のランキングを見る</string>
+
+	<string id="B_aq_1">[arg0]</string>
+	<string id="B_aq_2">ランキング</string>
+	<string id="B_aq_3">ランキング最終更新日時</string>
+	<string id="B_aq_4">[YYYY-MM-DD hh:mm]</string>
+	<string id="B_aq_5">レギュレーション</string>
+	<string id="B_aq_6">[arg0]</string>
+
+	<string id="B_an_1">この大会にエントリーする</string>
+	<string id="B_an_2">くわしくはコチラ</string>
+
+	<string id="B_as_1">この大会にエントリーしますか？</string>
+	<string id="B_as_2">確認</string>
+
+	<string id="B_ap_1">大会終了</string>
+	<string id="B_ap_2">終了（参加） </string>
+
+	<string id="B_ar_1">ランキングを見る</string>
+	<string id="B_ac_3">DRAW</string>
+
+	<string id="B_at_1">地域で絞り込む</string>
+	<string id="B_at_2">全て表示</string>
+	<string id="B_at_3">決定する</string>
+	<string id="B_at_4">[arg0]</string>
+	<string id="B_ag_17">地域で絞り込む</string>
+	<string id="B_ag_18">TOTAL</string>
+	<string id="B_ag_19">SINGLE BATTLE</string>
+	<string id="B_ag_20">DOUBLE BATTLE</string>
+	<string id="B_ag_21">TRIPLE BATTLE</string>
+	<string id="B_ag_22">SHOOTER BATTLE</string>
+	<string id="B_ag_23">ROTATION BATTLE</string>
+	<string id="B_new_1">確認・更新</string>
+	<string id="B_new_2">ランキング
+シーズン[N]</string>
+	<string id="B_new_3">シーズン[N]:  [DATE_FROM] － [DATE_TO]</string>
+	<string id="B_new_4">ランキングについてくわしくはこちら</string>
+	<string id="B_new_5">※対戦結果とレーティングの反映には時間がかかる場合があります。</string>
+	<string id="B_new_6">シーズン[N]:  [DATE_FROM] － [DATE_TO]</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	
+	
+	
+	
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	
+	
+	<string id="B_vs_3">ランキング公開</string>
+	<string id="B_vs_4">エントリー期間</string>
+	<string id="B_vs_5">大会開催期間</string>
+	<string id="B_vs_6">大会情報</string>
+	<string id="B_vs_7">重要事項/レギュレーション</string>
+	<string id="B_vs_8">ゲームソフトの設定・操作</string>
+	<string id="B_vs_9">エントリーにすすむ</string>
+	
+	<string id="B_vs_11">重要事項・レギュレーションに同意しました</string>
+	<string id="B_vs_12">エントリー</string>
+	
+	<string id="B_vs_14">※エントリー可能・エントリー中の大会が表示されています。対戦をした大会は、大会終了後も、ランキング公開から一定期間表示されます。 </string>
+	<string id="B_vs_15">この大会の受付は終了しました。</string>
+	
+	
+	<string id="B_vs_18">大会は終了しました。ただいまランキング集計中です。結果発表まで、しばらくお待ちください。</string>
+	<string id="B_vs_19">大会は終了しました。
+ランキングを、「ランキングを見る」から確認できます。</string>
+	<string id="B_vs_20">この大会の参加を解除されています。
+対戦をされていた場合は、ランキングの対象になります。</string>
+	<string id="B_vs_21">大会概要</string>
+	<string id="B_vs_22">開催日時</string>
+	<string id="B_vs_23">対戦ルール</string>
+	<string id="B_vs_24">参加者数</string>
+	<string id="B_vs_25">過去の大会</string>
+	<string id="B_vs_26">ランキングを見る</string>
+	<string id="B_new_7">[DATE_FROM] － [DATE_TO]</string>
+	<string id="B_new_8">過去のランキング</string>
+	<string id="B_new_9">ランキング最終結果</string>
+	<string id="B_new_10">シーズン[N]</string>
+	<string id="B_new_11">過去のランキング</string>
+	<string id="B_new_12">シーズン[N]</string>
+	<string id="B_new_13">シーズン[N]:  [DATE_FROM] － [DATE_TO]</string>
+	<string id="B_new_28">新着の大会があります</string>
+	<string id="B_new_30">大会開催期間：</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="">シーズン[N]　</string>
+	<string id="B_vs_17">この大会に参加中です。ゲームソフトで対戦することができます。</string>
+</data>
+
