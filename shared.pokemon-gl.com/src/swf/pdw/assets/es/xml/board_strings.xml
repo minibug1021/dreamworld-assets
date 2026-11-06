@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="es">
+
+	<string id="p_aa_1" >Tablón de Pokémon amigos</string>
+
+	<string id="p_aa_6">Pokémon que irán contigo</string>
+	<string id="p_aa_5">Pokémon que te has llevado</string>
+
+	<string id="p_ah_1">No te has llevado ningún Pokémon.</string>
+	<string id="p_ai_1">No se ha enviado ningún Pokémon a la Zona Nexo.</string>
+	<string id="p_aj_1">No se ha podido transferir el Pokémon.</string>
+	<string id="p_aj_2">No se ha podido guardar tu selección.</string>
+	
+	<string id="p_aj_7">p_aj_7</string>
+	<string id="p_aj_5">No se han podido encontrar los datos de los Pokémon con los que has trabado amistad.</string>
+	<string id="p_aj_6">No se han podido mostrar los Pokémon que has enviado.</string>
+
+	<string id="p_aa_4">Pokémon que quieres
+llevarte [arg0]/10</string>
+
+	<string id="p_ab_5">Volver</string>
+	<string id="p_ag_1">Ver detalles</string>
+	<string id="p_af_1">Llevar este Pokémon</string>
+
+	<string id="p_ab_1">Pokémon:</string>
+	<string id="p_ab_2">Habilidad:</string>
+	<string id="p_ab_6">Tipo:</string>
+	<string id="p_ab_3">Sexo:</string>
+	<string id="p_ab_4">Movs. aprendidos:</string>
+
+	<string id="p_aj_4">p_aj_4</string>
+</data>

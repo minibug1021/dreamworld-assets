@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="en">
+	<fonts>
+		<font id="f01" name="FFF Compact"></font>
+		<font id="f02" name="FFF Corporate Bold"></font>
+	</fonts>
+	<string id="h_ee_10" size="10" bold="true" >未翻訳</string>
+	<string id="h_ee_11" size="10" bold="true" >PGL Nickname</string>
+	<string id="h_ee_12" size="10" bold="true" >Pokémon Nickname</string>
+	<string id="h_ee_13" size="10" bold="true" >Trainer Name</string>
+	<string id="h_ee_14" size="12" bold="true" >Trainer Name:</string>
+	<string id="h_ee_15" size="12" bold="true" >Trainer Name:</string>
+	<string id="h_ee_16" size="12" bold="true" >Trainer Name:</string>
+<string id="h_ha_22" size="12" bold="true" >h_ha_22</string>
+<string id="h_ha_3" size="12" bold="true" >未翻訳</string>
+<string id="h_ha_4" size="12" bold="true" >h_ha_4</string>
+<string id="h_ha_5" size="12" bold="true" >h_ha_5</string>
+<string id="h_ha_6" size="12" bold="true" >h_ha_6</string>
+<string id="h_ha_7" size="12" bold="true" >h_ha_7</string>
+<string id="h_ha_8" size="12" bold="true" >h_ha_8</string>
+<string id="h_ha_9" size="12" bold="true" >h_ha_9</string>
+<string id="h_ha_10" size="12" bold="true" >h_ha_10</string>
+<string id="h_ha_11" size="12" bold="true" >h_ha_11</string>
+<string id="h_ha_12" size="12" bold="true" >h_ha_12</string>
+<string id="h_ha_13" size="12" bold="true" >h_ha_13</string>
+<string id="h_ha_14" size="12" bold="true" >h_ha_14</string>
+<string id="h_ha_15" size="14" bold="true" >未翻訳</string>
+<string id="h_ha_16">未翻訳</string>
+<string id="h_ha_17" size="14" bold="true" >未翻訳</string>
+<string id="h_ha_18" size="12" bold="true" >Berry name</string>
+<string id="h_ha_19" size="12" bold="true" >未翻訳</string>
+<string id="h_ha_20" size="12" bold="true" >未翻訳</string>
+<string id="h_ha_21" size="12" bold="true" >Close</string>
+
+<string id="y_aa_18" size="12" bold="true" >Island of Dreams—Icy Cave</string>
+<string id="y_ad_22" size="12" bold="true">It looks like [ポケモン名] wants to play on the ice.</string>
+<string id="y_ad_23" size="12" bold="true">Play on the ice with [ポケモン名]?</string>
+<string id="y_ag_16" size="12" bold="true">You didn't succeed at Dessert Drop.</string>
+<string id="y_ag_17" size="12" bold="true">You quit playing Dessert Drop.</string>
+<string id="y_zc_6" size="12" bold="true">You arrive at the Island of Dreams and decide to explore the Icy Cave.</string>
+<string id="y_aa_19" size="12" bold="true">Island of Dreams—Dream Park</string>
+<string id="y_ad_24" size="12" bold="true">It looks like [ポケモン名] wants to play on the lake.</string>
+<string id="y_ad_25" size="12" bold="true">Play on the lake with [ポケモン名]?</string>
+<string id="y_ag_18" size="12" bold="true">You didn't succeed at Lake Skip.</string>
+<string id="y_ag_19" size="12" bold="true">You quit playing Lake Skip.</string>
+<string id="y_zc_7" size="12" bold="true">You arrive at the Island of Dreams and decide to explore the Dream Park.</string>
+<string id="y_ad_26" size="12" bold="true">[ポケモン名] is interested in the treasure box.</string>
+<string id="y_ad_27" size="12" bold="true">Open the treasure chest with [ポケモン名]?</string>
+<string id="y_ad_28" size="12" bold="true">Couldn't open the treasure box.</string>
+<string id="y_ad_29" size="12" bold="true">Quit opening the treasure box.</string>
+<string id="y_ad_30" size="12" bold="true">It looks like [ポケモン名] is thirsty.</string>
+<string id="y_ad_31" size="12" bold="true">Serve drinks with [ポケモン名]?</string>
+<string id="y_ad_32" size="12" bold="true">You didn't succeed at Pokémon Bistro.</string>
+<string id="y_ad_33" size="12" bold="true">You quit playing Pokémon Bistro.</string>
+<string id="Xz_be_5" size="12" bold="true">未翻訳</string>
+<string id="Xz_be_6" size="12" bold="true">未翻訳</string>
+<string id="Xz_be_7" size="12" bold="true">未翻訳</string>
+	<string id="y_ad_34" size="12" bold="true"  letterSpacing="1" baselineShift="2"/>
+	<string id="y_ad_35" size="13" bold="true"  letterSpacing="1" baselineShift="2"/>
+	<string id="y_ad_36" size="12" bold="true"  letterSpacing="1" baselineShift="0"/>
+	<string id="y_ad_37" size="12" bold="true"  letterSpacing="1" baselineShift="0"/>
+</data>

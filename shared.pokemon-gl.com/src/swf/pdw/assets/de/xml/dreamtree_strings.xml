@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="de">
+	<string id="s_aa_2">Zurück auf deine Insel</string>
+	<string id="t_aa_1">Traumeiche</string>
+	<string id="t_ai_1">Dein Wunsch wurde an die Traumeiche gerichtet.</string>
+	<string id="t_ai_3">Schließen</string>
+	<string id="t_ap_1">Du hast keine Pokémon-Freunde.</string>
+	<string id="t_ao_1">Keine Beeren in der Schatztruhe</string>
+	<string id="t_ah_1">Soll dieses Pokémon dein Freund werden?</string>
+	<string id="t_ag_2">Pokémon-Name</string>
+	<string id="t_ag_3">Fähigkeit</string>
+	<string id="t_ag_4">Geschlecht</string>
+	<string id="t_ag_5">Erlernte Attacken</string>
+	<string id="t_ag_1">Welches Pokémon soll dein Freund werden?</string>
+	<string id="t_ag_7">t_ag_7</string>
+	<string id="t_ag_8">{Pokémon-Name}</string>
+	<string id="t_ag_9">t_ag_9</string>
+	<string id="t_ag_10">{Fähigkeit}</string>
+	<string id="t_ag_6">Dieses Pokémon</string>
+
+	<string id="t_ac_1">Pokémon-Spitzname:</string>
+	<string id="t_ac_2">PGL-Spitzname:</string>
+	<string id="t_ac_3">Pokémon:</string>
+	<string id="t_ac_4">Finder:</string>
+	<string id="t_ac_5">Level:</string>
+	<string id="t_ac_6">Typ:</string>
+	<string id="t_ac_7">Geschlecht:</string>
+	<string id="t_ac_8">Wesen:</string>
+	<string id="t_ac_10">Gefangen mit:</string>
+	<string id="t_ad_1">Einen Wunsch an die Traumeiche richten? Das kostet 1 Beere.</string>
+	<string id="t_af_2">Diese Beere?</string>
+	<string id="t_ai_2">[ポケモン名] ist
+jetzt dein Freund.
+Wirf einen Blick auf die
+Freundestafel bei dir zu Hause.</string>
+	<string id="t_ao_2">Ein Wunsch kostet dich 1 Beere.</string>
+
+</data>

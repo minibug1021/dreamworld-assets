@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="de">
+	<string id="h_ee_10">Erklärung</string>
+	<string id="h_ee_11">PGL-Spitzname</string>
+	<string id="h_ee_12">Pokémon-Spitzname</string>
+	<string id="h_ee_13">Trainername</string>
+	<string id="h_ee_14">Trainername:</string>
+	<string id="h_ee_15">Trainername:</string>
+	<string id="h_ee_16">Trainername:</string>
+	<string id="h_ha_22">h_ha_22</string>
+	<string id="h_ha_3">Fast alle Beeren, die über einen längeren Zeitraum in der Schatztruhe lagen, wurden zur Traumeiche befördert.</string>
+	<string id="h_ha_4">h_ha_4</string>
+	<string id="h_ha_5">h_ha_5</string>
+	<string id="h_ha_6">h_ha_6</string>
+	<string id="h_ha_7">h_ha_7</string>
+	<string id="h_ha_8">h_ha_8</string>
+	<string id="h_ha_9">h_ha_9</string>
+	<string id="h_ha_10">h_ha_10</string>
+	<string id="h_ha_11">h_ha_11</string>
+	<string id="h_ha_12">h_ha_12</string>
+	<string id="h_ha_13">h_ha_13</string>
+	<string id="h_ha_14">h_ha_14</string>
+	<string id="h_ha_15">Du hast weniger Beeren, da fast alle Beeren aus deiner Schatztruhe zur Traumeiche befördert wurden.</string>
+	<string id="h_ha_16">Es gibt Traumpunkte als Ersatz für deine Beeren.</string>
+	<string id="h_ha_17">Neue Traumpunkte:</string>
+	<string id="h_ha_18">Beerenname</string>
+	<string id="h_ha_19">Anzahl</string>
+	<string id="h_ha_20">*Anzahl verbleibender Beeren wird in Schatztruhe angezeigt.</string>
+	<string id="h_ha_21">Schließen</string>
+
+	<string id="y_aa_18">Trauminsel „Frostige Höhle“</string>
+	<string id="y_ad_22">[ポケモン名] möchte auf dem Eis spielen.</string>
+	<string id="y_ad_23">Mit [ポケモン名] auf dem Eis spielen?</string>
+	<string id="y_ag_16">Konfektjagd fehlgeschlagen.</string>
+	<string id="y_ag_17">Konfektjagd abgebrochen.</string>
+	<string id="y_zc_6">Auf der Trauminsel angekommen. Du nimmst den Weg durch die Frostige Höhle.</string>
+
+	<string id="y_aa_19">Trauminsel „Traumpark“</string>
+	<string id="y_ad_24">[ポケモン名] möchte auf dem See spielen.</string>
+	<string id="y_ad_25">Mit [ポケモン名] auf dem See spielen?</string>
+	<string id="y_ag_18">Bretthoppsen fehlgeschlagen.</string>
+	<string id="y_ag_19">Bretthoppsen abgebrochen.</string>
+	<string id="y_zc_7">Auf der Trauminsel angekommen. Du nimmst den Weg durch den Traumpark.</string>
+
+	<string id="y_ad_26">[ポケモン名] will wissen, was in der Schatztruhe ist!</string>
+	<string id="y_ad_27">Mit [ポケモン名] die Schatztruhe öffnen?</string>
+	<string id="y_ad_28">Du konntest die Schatztruhe nicht öffnen.</string>
+	<string id="y_ad_29">Die Schatztruhe bleibt geschlossen.</string>
+
+	<string id="y_ad_30">[ポケモン名] hat anscheinend Durst!</string>
+	<string id="y_ad_31">Möchtest du [ポケモン名] ein Getränk servieren?</string>
+	<string id="y_ad_32">Aushilfskellnern fehlgeschlagen.</string>
+
+	<string id="Xz_be_5">Oh, ich hätte fast eine wichtige Nachricht vergessen!</string>
+	<string id="Xz_be_6"><![CDATA[Bleibst du der  <span class='emphasis'>Pokémon Dream World</span> längere Zeit fern, verringert sich die Anzahl der  <span class='emphasis'>Beeren</span> in deiner  <span class='emphasis'>Schatztruhe</span>.]]></string>
+	<string id="Xz_be_7">Meinen Nachforschungen zufolge sinkt die Anzahl der Beeren, sobald du die PDW 100 Tage lang nicht nutzt.
+Also denke bitte daran!</string>
+	<string id="y_ad_33">Aushilfskellnern abgebrochen.</string>
+	<string id="b_ae_5">O.K.</string>
+	<string id="t_ao_3">Dein Wunsch konnte leider nicht erfüllt werden.
+Das gewählte Pokémon wurde nicht zu deinen Freunden hinzugefügt.
+Du kannst versuchen, den Vorgang später noch einmal zu wiederholen.
+Du kehrst nun auf deine Insel zurück. </string>
+	<string id="y_ad_34">Spielfreunde anzeigen</string>
+	<string id="y_ad_35">Spielfreundesliste</string>
+	<string id="y_ad_36">Name</string>
+	<string id="y_ad_37">Nach Regionen ordnen</string>
+</data>

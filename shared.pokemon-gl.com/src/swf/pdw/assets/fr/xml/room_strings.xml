@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="fr">
+
+	<string id="i_aj_1">Placer à cet endroit</string>
+	<string id="h_ea_1">Réarranger</string>
+	<string id="h_ea_2">Coffre</string>
+	<string id="h_ea_3">Catalogue des rêves</string>
+	<string id="h_ea_4">Panneau des compagnons</string>
+	<string id="h_ea_5">Sortir</string>
+
+	<string id="h_ea_7">Voir le coffre</string>
+	<string id="h_ea_6">Voir le Catalogue</string>
+	<string id="h_ea_8">Voir le panneau des compagnons</string>
+	<string id="h_ea_9">Sortir</string>
+
+	<string id="i_an_1">Ranger</string>
+	<string id="h_ea_10">Regarder à côté</string>
+	<string id="i_aj_3">Vous ne pouvez pas bouger ce meuble.</string>
+
+	<string id="h_ea_11">Maison de [arg0]</string>
+
+	<string id="i_aj_2">Déplacer l'article dans l'écran d'à-côté</string>
+
+	<string id="s_ah_1">Vous n'avez pas d'objet dans le coffre.</string>
+	<string id="s_ah_2">Vous pouvez trouver des objets
+sur l'Île des Rêves.</string>
+
+	<string id="i_ae_1">Voulez-vous échanger cet article contre des Baies ?</string>
+	<string id="i_bb_1">Est-ce l'article que vous désirez ?</string>
+	<string id="i_ae_6">x[arg0]</string>
+	<string id="i_ae_7">(En stock :  [arg0])</string>
+
+	<string id="i_bc_1">Vous avez échangé : [arg0].</string>
+	<string id="i_bca_2">Vous pouvez le modifier avec le bouton "Échanger" dans le Catalogue.</string>
+	<string id="i_bc_2">Vous pouvez changer d'arrosoir dans le menu 
+en haut à gauche depuis le jardin.</string>
+
+	<string id="i_ba_1">Voulez-vous ranger
+[arg0] ?</string>
+	<string id="i_ah_1">Article [arg0] rangé.</string>
+	<string id="i_ah_3">Dans le Catalogue des Rêves, cliquez sur "Placer dans la maison" pour mettre un article chez vous.</string>
+
+	<string id="i_am_1">Vous n'avez plus de place.</string>
+	<string id="i_am_2">Veuillez ranger la maison.</string>
+
+	<string id="i_bcc_1">Voulez-vous changer l'article en [arg0] ?</string>
+	<string id="i_bcd_1">L'article a été changé en [arg0].</string>
+
+	<string id="i_ab_3">Catalogue des rêves</string>
+
+	<string id="i_ab_2">Choisir un Catalogue</string>
+
+	<string id="i_ac_1">Sommaire</string>
+	<string id="i_ad_8">Sommaire</string>
+	<string id="i_ad_18">Sommaire
+</string>
+
+	<string id="i_ad_4">Offre limitée</string>
+	<string id="i_ad_5">Meuble design</string>
+	<string id="i_ad_6">Nouveauté</string>
+
+	<string id="i_ad_2">[arg0] : [arg1]</string>
+	<string id="i_ad_16">Pas besoin de Baies</string>
+
+	<string id="i_ad_10">Vous n'avez pas assez de Baies</string>
+	<string id="i_ad_11">Échanger contre des Baies</string>
+	<string id="i_ad_15">Cadeau</string>
+	<string id="i_az_1">Vous pouvez l'utiliser</string>
+	<string id="i_ad_17">En place</string>
+	<string id="i_ad_12">Placer dans la maison</string>
+	<string id="i_ad_14">Remplacer</string>
+	<string id="i_ad_13">Ranger</string>
+
+	<string id="i_ada_1">Coffre</string>
+	<string id="i_ada_2">Autres</string>
+	<string id="i_ada_3">Panneau des compagnons</string>
+
+</data>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="fr">
+	<string id="h_cb_1">Retourner chez soi</string>
+	<string id="h_cb_2">Passerelle des Rêves</string>
+	<string id="h_cb_3">Aller sur l'Île des Rêves</string>
+	<string id="h_cc_1">Aller sur l'Île des Rêves ?</string>
+	<string id="h_cc_2">Oui</string>
+	<string id="h_cc_3">Non</string>
+	<string id="h_cc_4">Aller sur l'Île des Rêves</string>
+</data>

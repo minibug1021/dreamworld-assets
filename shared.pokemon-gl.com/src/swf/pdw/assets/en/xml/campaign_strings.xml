@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="en">
+	<string id="s_aa_3">Return to the special home.</string>
+	<string id="h_ca_20">Check special home map.</string>
+	<string id="fr_aa_8">Go to the special home.</string>
+	<string id="y_aa_8">Return to the special home.</string>
+	<string id="h_ca_11">Check Message Board</string>
+	<string id="h_ca_12">Check the detail page</string>
+	<string id="sp2_pokemon_comment_01">It's Purrloin from the Pokémon Movie special home! It's playing with Minccino in the courtyard.</string>
+	<string id="sp2_pokemon_comment_02">It's Minccino from the Pokémon Movie special home! It seems to be enjoying the sun in the courtyard.</string>
+	<string id="sp2_pokemon_comment_03">It's Sigilyph from the Pokémon Movie special home! It's keeping watch over the castle.</string>
+	<string id="sp2_pokemon_comment_04">Deerling is exploring the castle's storeroom. What's that on top of the cloth?</string>
+	<string id="sp2_pokemon_comment_05">Scraggy is visiting the Pokémon Movie special home! It looks happy to have a guest.</string>
+	<string id="sp2_pokemon_comment_06">Emolga is visiting the Pokémon Movie special home! Looks like it's curious about the movie preview.</string>
+	<string id="h_da_5">Go to the special home.</string>
+	<string id="h_da_7">Map of special home</string>
+	<string id="dialog_36">Close</string>
+
+	<string id="sp2_interior_1_doll">It’s a Victini Doll! The password is "PGLVICTINI12"!</string>
+
+	<string id="y_aa_10"></string>
+	<string id="y_aa_11">You arrive at the Island of Dreams. Is that Victini over there?</string>
+	<string id="y_aa_12">[ポケモン名] is interested in the treasure box.</string>
+	<string id="y_aa_13">Help [ポケモン名]!</string>
+	<string id="y_aa_14">Couldn't open the treasure box.</string>
+	<string id="y_aa_15">Quit opening the treasure box.</string>
+
+	<string id="h_ca_21">Watch the preview.</string>
+	<string id="fr_aa_16">Enter</string>
+
+</data>
+
+

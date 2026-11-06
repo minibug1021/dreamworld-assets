@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="fr">
+
+	<string id="k_ad_15">Sillon actuel</string>
+	<string id="k_ad_2">Arrosoir actuellement utilisé</string>
+
+	<string id="k_ad_1">Jardin de [arg0]</string>
+
+	<string id="k_afff_1">Vous avez planté
+une [arg0]</string>
+	<string id="k_aff_1">Voulez-vous planter cette Baie ?</string>
+
+	<string id="k_ag_2">Une [arg0]
+est plantée ici !</string>
+	<string id="k_ai_1">Une pousse de [arg0]
+est sortie de terre !</string>
+	<string id="k_aj_1">La tige d'une [arg0] a grossi !</string>
+	<string id="k_ak_1">La [arg0] est en fleur !</string>
+	<string id="k_al_1">La [arg0] a poussé !</string>
+	<string id="k_ada_1">terre meuble</string>
+	<string id="k_ae_2">Voulez-vous planter une Baie
+dans la terre molle ?</string>
+	<string id="k_ag_1">Voir détails</string>
+	<string id="k_aha_1">La terre est suffisamment
+arrosée !</string>
+
+	<string id="k_ama_1">Vous avez récolté des [arg0].</string>
+	<string id="k_am_1">[arg0] : récolte de [arg1] Baies.</string>
+	<string id="k_am_3">Vous avez placé les Baies récoltées dans le coffre.</string>
+
+	<string id="k_ca_1">Vous n'avez pas de Baie dans le coffre.</string>
+	<string id="k_ca_2">Vous pouvez trouver des Baies
+sur l'Île des Rêves ou en échangeant
+des objets avec le Surplus.</string>
+
+	<string id="k_as_1">Oh ! Un Taupiqueur !</string>
+	<string id="k_at_1">Le Taupiqueur cultive le jardin de [arg0].</string>
+	<string id="k_au_1">Le Taupiqueur est parti.</string>
+	<string id="k_ar_1">Le jardin a plus de sillons.</string>
+	<string id="k_asa_1">Grâce au travail du Taupiqueur, 
+le jardin a maintenant [arg0] sillons.</string>
+
+	<string id="k_ad_4">Un arrosoir normal pour arroser les Baies.</string>
+	<string id="k_ad_14">k_ad_14</string>
+	<string id="k_ad_6">k_ad_6</string>
+	<string id="k_ad_10">k_ad_10</string>
+	<string id="k_ad_12">k_ad_12</string>
+	<string id="k_ad_8">k_ad_8</string>
+
+	<string id="k_ahb_1">Vous ne pouvez plus arroser les jardin d'autres utilisateurs, et ce jusqu'à ce que vous utilisiez la Synchro-Jeu.</string>
+	<string id="k_ahb_2">Votre Arrosoir sera rempli la prochaine fois que vous utiliserez la Synchro-Jeu.</string>
+	<string id="k_bb_1">Eau restante pour cette visite</string>
+	
+	
+	
+</data>

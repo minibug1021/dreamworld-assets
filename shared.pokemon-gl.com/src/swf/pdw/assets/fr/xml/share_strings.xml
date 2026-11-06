@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="fr">
+
+	<string id="s_aj_3">Placer dans le coffre</string>
+	<string id="s_aj_4">Remplacer</string>
+	<string id="s_an_4">Détails de l’échange</string>
+	<string id="fs_ab_3">Échanger</string>
+
+	<string id="s_aa_1">Surplus de [arg0]</string>
+
+	<string id="s_ad_1">Vous avez placé un(e) [arg0] parmi le Surplus.</string>
+
+	<string id="s_af_1">Vous avez remis un(e) [arg0] dans le coffre.</string>
+
+	<string id="s_ag_1">Vous avez échangé un(e) [arg0] contre un(e) [arg1].</string>
+	<string id="s_ml_1">Vous avez remplacé un(e) [arg0] par un (e) [arg1].</string>
+
+	<string id="s_ag_3">Surnom</string>
+	<string id="s_ag_4">Surnom PGL</string>
+
+	<string id="s_ac_1">Voulez-vous placer ceci parmi le Surplus ?</string>
+	<string id="s_al_1">Voulez-vous remplacer cet objet ?</string>
+	<string id="fs_ad_1">Voulez-vous échanger cet objet ?</string>
+	
+	<string id="s_ai_2">Vous pouvez y placer un objet en Surplus</string>
+	<string id="s_ap_1">Vous avez déjà [arg0].</string>
+	<string id="s_ap_2">Vous ne pouvez pas échanger contre un objet que vous possédez déjà.</string>
+	<string id="s_ao_1">C'est l'objet que vous avez mis en échange. Attendez que quelqu'un vous l'échange contre autre chose !</string>
+	<string id="s_aq_1">s_aq_1</string>
+	<string id="s_aq_2">Enregistrez votre ID de Synchro-Jeu dans le Pokémon Global Link pour échanger des objets avec d'autres utilisateurs.</string>
+
+	<string id="fs_ad_6">Une fois que vous le poserez sur le Présentoir, vous ne pourrez plus le reprendre.</string>
+
+	<string id="s_aq_3">Vous jouez actuellement à la version d'essai.</string>
+	<string id="s_aq_4">Il est impossible d'utiliser le Présentoir dans la version d'essai.</string>
+</data>

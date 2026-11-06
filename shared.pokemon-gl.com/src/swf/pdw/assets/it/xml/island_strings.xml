@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="it">
+	<string id="y_aa_3">Il Boschetto dell'Isola dei sogni</string>
+	<string id="y_za_1">Eccoti all'Isola dei sogni. Inizia a esplorare il Boschetto.</string>
+
+	<string id="y_aa_4">Isola dei sogni, Mar Brillante</string>
+	<string id="y_zb_2">Eccoti all'Isola dei sogni. Inizia a esplorare il Mar Brillante.</string>
+
+	<string id="y_aa_5">Isola dei sogni, Settimo Cielo</string>
+	<string id="y_zc_3">Eccoti all'Isola dei sogni. Inizia a esplorare il Settimo Cielo.</string>
+	<string id="y_ad_10">Qualcuno si è smarrito e
+[ポケモン名] lo sta cercando.</string>
+	<string id="y_ad_11">Vuoi aiutare [ポケモン名] nella ricerca?</string>
+	<string id="y_ag_5">Non hai trovato il Pokémon smarrito.</string>
+	<string id="y_ag_6">Hai rinunciato alla ricerca.</string>
+
+	<string id="y_ad_2">[ポケモン名] sembra avere fame.</string>
+	<string id="y_ad_4">Vuoi fare un gelato assieme a [ポケモン名]?</string>
+	<string id="y_ag_1">Il gelato non è venuto bene.</string>
+	<string id="y_ag_2">Hai rinunciato a fare il gelato.</string>
+
+	<string id="y_ad_7">[ポケモン名] ha voglia di volare.</string>
+	<string id="y_ad_8">Vuoi fare una Corsa aerea con [ポケモン名]?</string>
+	<string id="y_ag_3">Non hai raggiunto il traguardo.</string>
+	<string id="y_ag_4">Hai rinunciato alla Corsa aerea.</string>
+
+	<string id="y_ad_13">[ポケモン名] vuole giocare sulla schiena di Wailord.</string>
+	<string id="y_ad_14">Vuoi andare da Wailord con [ポケモン名]?</string>
+	<string id="y_ag_7">Potevi giocare meglio con Wailord.</string>
+	<string id="y_ag_8">Hai rinunciato a giocare su Wailord.</string>
+
+
+	<string id="y_af_2">Pokémon:</string>
+	<string id="y_af_3">Abilità:</string>
+	<string id="y_af_4">Tipo:</string>
+	<string id="y_af_5">Sesso:</string>
+	<string id="y_af_6">Mosse:</string>
+
+	<string id="b_ae_3">Sì</string>
+	<string id="b_ae_4">No</string>
+
+	<string id="y_aa_6">Pagina iniziale</string>
+	<string id="y_aa_1">Contapassi</string>
+	<string id="y_aa_2">Per l'albero dei sogni:
+- [画面数]</string>
+	
+	<string id="y_ai_1">Hai trovato [道具名].</string>
+	<string id="y_ah_1">[ポケモン名] non c'è più...</string>
+	<string id="y_aj_1">Hai messo [道具名] nel baule.</string>
+	<string id="y_ag_9">[ポケモン名] sembra triste...</string>
+	<string id="y_af_7">[ポケモン名] è felice!</string>
+	<string id="y_ad_1">È [ポケモン名]!</string>
+	<string id="y_ad_3">Bacche necessarie: [きのみの個数].</string>
+	<string id="y_af_1">[ポケモン名] è diventato tuo amico!</string>
+
+	<string id="y_al_1">Errore nella fase di elaborazione dei dati.</string>
+	<string id="y_ag_12">Hai preso un bello spavento!</string>
+	<string id="y_ag_13">Hai rinunciato a spegnere le candele.</string>
+	<string id="y_zc_4">Eccoti all'Isola dei sogni. Hai deciso di esplorare il Maniero Antico.</string>
+	<string id="y_zc_5">Eccoti all'Isola dei sogni. Hai deciso di esplorare il Monte Spigolo.</string>
+	<string id="y_aa_16">Isola dei sogni: Maniero Antico</string>
+	<string id="y_aa_17">Isola dei sogni: Monte Spigolo</string>
+	
+	<string id="y_ad_19">Vuoi provare a spegnere le candele con [ポケモン名]?</string>
+	<string id="y_ad_20">[ポケモン名] vuole cercare gioielli.</string>
+	<string id="y_ad_21">Vuoi andare a caccia di gioielli con [ポケモン名]?</string>
+	<string id="y_ag_14">Non ce l'hai fatta.</string>
+	<string id="y_ag_15">Hai rinunciato a cercare gioielli.</string>
+	<string id="y_ad_18">[ポケモン名] vuole fare una prova di coraggio.</string>
+</data>
+

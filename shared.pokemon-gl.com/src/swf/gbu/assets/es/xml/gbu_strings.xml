@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="es">
+
+	<string id="B_aa_1">Usuario</string>
+	<string id="B_aa_2">Apodo en PGL: [arg0]</string>
+	<string id="B_aa_3">Entrenador: [arg0]</string>
+	<string id="B_aa_4">[arg0]</string>
+	<string id="B_aa_5">Ptos. Clasif.:</string>
+	<string id="B_aa_6">Clasificación:</string>
+	<string id="B_aa_7">Historial de este usuario</string>
+	<string id="B_aa_8">Mi historial</string>
+	<string id="B_aa_9">Combate Individual</string>
+	<string id="B_aa_10">Combate Doble</string>
+	<string id="B_aa_11">Combate Triple</string>
+	<string id="B_aa_12">Combate Lanzador</string>
+	<string id="B_aa_13">Combate Rotatorio</string>
+	<string id="B_aa_14">Clasificación por modalidad</string>
+	<string id="B_aa_15">Individual</string>
+	<string id="B_aa_16">Doble</string>
+	<string id="B_aa_17">Triple</string>
+	<string id="B_aa_18">Lanzador</string>
+	<string id="B_aa_19">Rotatorio</string>
+	<string id="B_aa_20">N.º [arg0]</string>
+	<string id="B_aa_21">Clasificación por área</string>
+	<string id="B_aa_22">[arg0]</string>
+	<string id="B_aa_23">Detalles</string>
+	<string id="B_aa_24">Clasificación</string>
+	<string id="B_aa_25">Información de Torneos</string>
+	<string id="B_aa_26">N.º [arg0]</string>
+	<string id="B_aa_27">[DD-MM-YYYY hh:mm]</string>
+	<string id="B_aa_28">VS.</string>
+	<string id="B_aa_29">Registrado</string>
+	<string id="B_aa_30">Participación en curso</string>
+	<string id="B_aa_31">Los 3 mejores
+de la Clasificación general</string>
+	<string id="B_aa_32">Inscripción abierta</string>
+
+	
+	<string id="B_ab_1">COMBATE</string>
+
+	<string id="B_ac_1">GANA</string>
+	<string id="B_ac_2">PIERDE</string>
+
+	<string id="B_ad_1">¡ENHORABUENA! ¡HAS GANADO LOS COMBATES INDIVIDUALES DE GBU!</string>
+	<string id="B_ad_2">¡ENHORABUENA! ¡HAS GANADO LOS COMBATES DOBLES DE GBU!</string>
+	<string id="B_ad_3">¡ENHORABUENA! ¡HAS GANADO LOS COMBATES TRIPLES DE GBU!</string>
+	<string id="B_ad_4">¡ENHORABUENA! ¡HAS GANADO LOS COMBATES LANZADOR DE GBU!</string>
+	<string id="B_ad_5">¡ENHORABUENA! ¡HAS GANADO LOS COMBATES ROTATORIOS DE GBU!</string>
+	
+
+	<string id="B_ae_1">Clasificación por modalidad</string>
+	<string id="B_ae_2">Ptos. Clasif.:</string>
+	<string id="B_ae_3">[DD-MM-YYYY hh:mm]</string>
+	<string id="B_ae_4">Mi historial de combates</string>
+	<string id="B_ae_5">Individual</string>
+	<string id="B_ae_6">Doble</string>
+	<string id="B_ae_7">Triple</string>
+	<string id="B_ae_8">Lanzador</string>
+	<string id="B_ae_9">Rotatorio</string>
+	<string id="B_ae_10">Clasificación por área</string>
+	<string id="B_ae_11">Clasificación:</string>
+	<string id="B_ae_12">[DD-MM-YYYY hh:mm]</string>
+	<string id="B_ae_13">[arg0]</string>
+	<string id="B_ae_14">N.º [arg0]</string>
+	<string id="B_ae_15">Cerrar</string>
+	<string id="B_ae_16">[arg0]</string>
+	<string id="B_ae_17">Combate Individual</string>
+	<string id="B_ae_18">[arg0]</string>
+	<string id="B_ae_19">Combate Doble</string>
+	<string id="B_ae_20">[arg0]</string>
+	<string id="B_ae_21">Combate Triple</string>
+	<string id="B_ae_22">[arg0]</string>
+	<string id="B_ae_23">Combate Lanzador</string>
+	<string id="B_ae_24">[arg0]</string>
+	<string id="B_ae_25">Combate Rotatorio</string>
+	<string id="B_ae_26">[arg0]</string>
+	<string id="B_ae_27">Usuario</string>
+	<string id="B_ae_29">Entrenador: [arg0]</string>
+	<string id="B_ae_30">[arg0]</string>
+	<string id="B_ae_31">Ptos. Clasif.</string>
+	<string id="B_ae_32">Clasificación</string>
+	<string id="B_ae_33">[arg0]</string>
+	<string id="B_ae_34">N.º [arg0]</string>
+	<string id="B_ae_35">Contrincante</string>
+	<string id="B_ae_36">VS.</string>
+	<string id="B_ae_37">GANA</string>
+	<string id="B_ae_38">PIERDE</string>
+	<string id="B_ae_39">EMPATE</string>
+	<string id="B_ae_40">El historial de combates está vacío.</string>
+	<string id="B_ae_41">Ver perfil</string>
+	<string id="B_ae_42">Torneos</string>
+
+	<string id="B_aea_1">Historial de combates de [arg0]</string>
+
+	<string id="B_ag_1">Clasificación</string>
+	<string id="B_ag_2">Última actualización</string>
+	<string id="B_ag_3">[DD-MM-YYYY hh:mm]</string>
+	<string id="B_ag_4">Modalidades</string>
+	<string id="B_ag_5">Clasificación general</string>
+	<string id="B_ag_6">Combate Individual</string>
+	<string id="B_ag_7">Combate Doble</string>
+	<string id="B_ag_8">Combate Triple</string>
+	<string id="B_ag_9">Combate Lanzador</string>
+	<string id="B_ag_10">Combate Rotatorio</string>
+	<string id="B_ag_12">Siguiente</string>
+	<string id="B_ag_13">Mi Clasificación</string>
+	<string id="B_ag_14">Apodo en PGL: [arg0]</string>
+	<string id="B_ag_15">00000001</string>
+	<string id="B_ag_16">Volver</string>
+
+	<string id="B_aj_1">Apodo en PGL:</string>
+	<string id="B_aj_2">Entrenador:</string>
+	<string id="B_aj_3">Ptos. Clasif.:</string>
+	<string id="B_aj_4">Clasificación:</string>
+	<string id="B_aj_5">[arg0]</string>
+	<string id="B_aj_6">N.º [arg0]</string>
+	<string id="B_aj_7">Historial de este usuario</string>
+	<string id="B_aj_8">Anterior</string>
+
+	<string id="B_ak_1">Información de Torneos</string>
+	<string id="B_ak_2">Torneos en curso</string>
+	<string id="B_ak_3">Torneos pasados</string>
+	<string id="B_ak_4">[DD/MM/YYYY]</string>
+	<string id="B_ak_5">Registro abierto</string>
+	<string id="B_ak_6">Registro completado</string>
+	<string id="B_ak_7">Registro cerrado</string>
+	<string id="B_ak_8">Participación en curso</string>
+	<string id="B_ak_9">Cancelar participación</string>
+
+	<string id="B_al_1">No hay ningún Torneo en curso.</string>
+	<string id="B_al_2">Ver Torneos pasados</string>
+	<string id="B_al_3">No hay Torneos anteriores.</string>
+
+	<string id="B_am_1">Registrarse en este Torneo</string>
+	<string id="B_am_2">Ver Clasificación hasta el momento</string>
+
+	<string id="B_aq_1">[arg0]</string>
+	<string id="B_aq_2">Clasificación</string>
+	<string id="B_aq_3">Última actualización</string>
+	<string id="B_aq_4">[DD-MM-YYYY hh:mm]</string>
+	<string id="B_aq_5">Normas</string>
+	<string id="B_aq_6">[arg0]</string>
+
+	<string id="B_an_1">Registrarse en este Torneo</string>
+	<string id="B_an_2">Información detallada</string>
+
+	<string id="B_as_1">¿Quieres registrarte en este Torneo?</string>
+	<string id="B_as_2">Confirmar</string>
+
+	<string id="B_ap_1">Torneo cerrado</string>
+	<string id="B_ap_2">Participación finalizada</string>
+
+	<string id="B_ar_1">Ver Clasificación</string>
+	<string id="B_ac_3">EMPATE</string>
+	<string id="B_at_1">Filtrar por región</string>
+	<string id="B_at_2">Mostrar todo</string>
+	<string id="B_at_3">Aceptar</string>
+	<string id="B_at_4">[arg0]</string>
+	<string id="B_ag_17">Filtrar por región</string>
+	<string id="B_ag_18">Clasificación general</string>
+	<string id="B_ag_19">Combate Individual</string>
+	<string id="B_ag_20">Combate Doble</string>
+	<string id="B_ag_21">Combate Triple</string>
+	<string id="B_ag_22">Combate Lanzador</string>
+	<string id="B_ag_23">Combate Rotatorio</string>
+	<string id="B_new_1">Detalles</string>
+	<string id="B_new_2">Clasificación
+Temporada [N]</string>
+	<string id="B_new_3">Temporada [N]:  del [DATE_FROM] al [DATE_TO]</string>
+	<string id="B_new_4">Para obtener más información sobre la Clasificación</string>
+	<string id="B_new_5">Nota: Es posible que los resultados de los combates y los Ptos. Clasificatorios tarden algo de tiempo en reflejarse.</string>
+	<string id="B_new_6">Temporada [N]:  del [DATE_FROM] al [DATE_TO]</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">Temporada [N]</string>
+	<string id="">Temporada [N]</string>
+	<string id="">Temporada [N]</string>
+	<string id="">Temporada [N]</string>
+	<string id="">Temporada [N]</string>
+	<string id="">Temporada [N]</string>
+	<string id="">Temporada [N]</string>
+	<string id="">Temporada [N]</string>
+	<string id="">Temporada [N]</string>
+	<string id="">Temporada [N]</string>
+	<string id="">Temporada [N]</string>
+	<string id="">Temporada [N]</string>
+	<string id="B_new_7">[DATE_FROM] － [DATE_TO]</string>
+	<string id="B_new_8">Clasificación temporada previa</string>
+	<string id="B_new_9">Últimos resultados de la Clasificación</string>
+	<string id="B_new_10">Temporada [N]</string>
+	
+	
+	<string id="B_vs_3">Clasificación publicada</string>
+	<string id="B_vs_4">Período de registro</string>
+	<string id="B_vs_5">Período del Torneo</string>
+	<string id="B_vs_6">Información del Torneo</string>
+	<string id="B_vs_7">Avisos y reglamento</string>
+	<string id="B_vs_8">Controles y configuración del juego</string>
+	<string id="B_vs_9">Proceder con el registro</string>
+	
+	<string id="B_vs_11">Acepto el contenido de "Avisos y reglamento".</string>
+	<string id="B_vs_12">Registrarse</string>
+	
+	<string id="B_vs_14">Nota: Se muestran los Torneos abiertos y aquellos en los que te has registrado. Por un tiempo, puedes ver aquellos en los que ya has combatido en "Clasificación publicada".</string>
+	<string id="B_vs_15">Se ha cerrado el período de registro para este Torneo.</string>
+	
+	
+	<string id="B_vs_18">Este Torneo ha concluido. Se están calculando los resultados de la Clasificación. Espera hasta que se publiquen, por favor.</string>
+	<string id="B_vs_19">Este Torneo ha concluido. Comprueba la Clasificación en "Ver Clasificación".</string>
+	<string id="B_vs_20">Has cancelado tu participación en este Torneo. Nota: Si has librado combates de acuerdo con el reglamento, estos se reflejarán en la Clasificación.</string>
+	<string id="B_vs_21">Resumen del Torneo</string>
+	<string id="B_vs_22">Período del Torneo</string>
+	<string id="B_vs_23">Modalidad de combate</string>
+	<string id="B_vs_24">Número de participantes</string>
+	<string id="B_vs_25">Torneos pasados</string>
+	<string id="B_vs_26">Ver Clasificación</string>
+	<string id="B_new_11">Clasificación temporada previa</string>
+	<string id="B_new_12">Temporada [N]</string>
+	<string id="B_new_13">Temporada [N]:  del [DATE_FROM] al [DATE_TO]</string>
+	<string id="B_new_28">Hay un Torneo en el que puedes participar.</string>
+	<string id="B_new_30">Competition Period</string>
+	
+	<string id="B_vs_17">Estás participando en este Torneo. Puedes combatir con tu juego de Nintendo DS.</string>
+</data>

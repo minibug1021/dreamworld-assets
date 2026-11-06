@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="de">
+	<string id="y_aa_3">Trauminsel „kleiner Wald“</string>
+	<string id="y_za_1">Auf der Trauminsel angekommen. Du nimmst den Weg durch einen kleinen Wald.</string>
+
+	<string id="y_aa_4">Trauminsel „funkelndes Meer“</string>
+	<string id="y_zb_2">Auf der Trauminsel angekommen. Du nimmst den Weg am funkelnden Meer entlang.</string>
+
+	<string id="y_aa_5">Trauminsel  „Horizont“</string>
+	<string id="y_zc_3">Auf der Trauminsel angekommen. Du nimmst den Weg in Richtung Horizont.</string>
+
+
+
+	<string id="y_ad_10">Das [ポケモン名] ist scheinbar auf der
+Suche nach etwas.</string>
+	<string id="y_ad_11">Mit [ポケモン名] das Suchspiel bestreiten? </string>
+	<string id="y_ag_5">Suchspiel nicht erfolgreich.</string>
+	<string id="y_ag_6">Suchspiel abgebrochen.</string>
+
+	<string id="y_ad_2">Das [ポケモン名]
+scheint hungrig zu sein.</string>
+	<string id="y_ad_4">Mit [ポケモン名] Eiscreme machen?</string>
+	<string id="y_ag_1">Eiszauber fehlgeschlagen.</string>
+	<string id="y_ag_2">Eiszauber abgebrochen.</string>
+
+	<string id="y_ad_7">Das [ポケモン名] scheint
+fliegen zu wollen.</string>
+	<string id="y_ad_8">Mit [ポケモン名] ein Luftrennen wagen?</string>
+	<string id="y_ag_3">Ziel beim Luftrennen nicht erreicht.</string>
+	<string id="y_ag_4">Luftrennen abgebrochen.</string>
+
+	<string id="y_ad_13">Das [ポケモン名]
+möchte auf dem Rücken
+von Wailord spielen.</string>
+	<string id="y_ad_14">Mit [ポケモン名] auf Wailord spielen?</string>
+	<string id="y_ag_7">Spielen auf Wailords Rücken fehlgeschlagen.</string>
+	<string id="y_ag_8">Spielen auf Wailords Rücken abgebrochen.</string>
+
+
+	<string id="y_af_2">Pokémon:</string>
+	<string id="y_af_3">Fähigkeit:</string>
+	<string id="y_af_4">Typ:</string>
+	<string id="y_af_5">Geschlecht:</string>
+	<string id="y_af_6">Gelernte Attacken:</string>
+
+	<string id="b_ae_3">Ja</string>
+	<string id="b_ae_4">Nein</string>
+
+	<string id="y_aa_6">Zurück auf deine Insel</string>
+	<string id="y_aa_1">Traumeichenmeter</string>
+	<string id="y_aa_2">Noch [画面数] Schritte
+bis zur Traumeiche</string>
+	
+
+	<string id="y_ai_1">Das Item [道具名] wurde gefunden.</string>
+	<string id="y_ah_1">[ポケモン名] ist verschwunden...</string>
+	<string id="y_aj_1">[道具名] in Schatztruhe abgelegt.</string>
+	<string id="y_ag_9">[ポケモン名] scheint enttäuscht zu sein...</string>
+	<string id="y_af_7">[ポケモン名] scheint sich zu freuen!</string>
+	<string id="y_ad_1">Da! Ein [ポケモン名]!</string>
+	<string id="y_ad_3">Du benötigst [きのみの個数] Beere(n).</string>
+	<string id="y_af_1">Mit [ポケモン名] angefreundet!</string>
+
+	<string id="y_al_1">Ein Fehler ist aufgetreten.</string>
+
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	<string id="y_ag_12">Du hast die Mutprobe nicht bestanden!</string>
+	<string id="y_ag_13">Du gibst das Kerzenlöschen auf.</string>
+	<string id="y_zc_4">Du bist auf der Trauminsel angekommen
+und erforschst das Alte Anwesen.</string>
+	<string id="y_zc_5">Du bist auf der Trauminsel angekommen
+und erforschst den Schroffen Berg.</string>
+	
+	<string id="y_ad_19">Willst du mit [ポケモン名] Kerzen löschen?</string>
+	<string id="y_ad_20">[ポケモン名] will Edelsteine sammeln gehen!</string>
+	<string id="y_ad_21">Mit [ポケモン名] Edelsteine sammeln?</string>
+	<string id="y_ag_14">Die Edelsteinsuche war nicht erfolgreich!</string>
+	<string id="y_ag_15">Du gibst deine Edelsteinsuche auf.</string>
+	<string id="y_ad_18">[ポケモン名] ist auf eine Mutprobe aus!</string>
+	<string id="y_aa_16">Trauminsel: Altes Anwesen</string>
+	<string id="y_aa_17">Trauminsel: Schroffer Berg</string>
+</data>
+

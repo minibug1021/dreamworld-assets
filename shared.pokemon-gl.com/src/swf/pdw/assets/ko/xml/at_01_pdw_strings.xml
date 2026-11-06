@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="ko">
+	<string id="h_ee_10">아이콘 설명</string>
+	<string id="h_ee_11">PGL 닉네임</string>
+	<string id="h_ee_12">포켓몬 닉네임</string>
+	<string id="h_ee_13">트레이너 이름</string>
+	<string id="h_ee_14">트레이너 이름:</string>
+	<string id="h_ee_15">트레이너 이름:</string>
+	<string id="h_ee_16">트레이너 이름:</string>
+	<string id="h_ha_22">h_ha_22</string>
+	<string id="h_ha_3">일정 기간 동안 보물상자에 들어있던 나무열매가 꿈의나무로 옮겨졌습니다.</string>
+	<string id="h_ha_4">h_ha_4</string>
+	<string id="h_ha_5">h_ha_5</string>
+	<string id="h_ha_6">h_ha_6</string>
+	<string id="h_ha_7">h_ha_7</string>
+	<string id="h_ha_8">h_ha_8</string>
+	<string id="h_ha_9">h_ha_9</string>
+	<string id="h_ha_10">h_ha_10</string>
+	<string id="h_ha_11">h_ha_11</string>
+	<string id="h_ha_12">h_ha_12</string>
+	<string id="h_ha_13">h_ha_13</string>
+	<string id="h_ha_14">h_ha_14</string>
+	<string id="h_ha_15">보물상자에 있던 나무열매가 꿈의나무로 옮겨져서 개수가 줄어들었습니다.</string>
+	<string id="h_ha_16">줄어든 나무열매의 양만큼 꿈포인트가 추가되었습니다.</string>
+	<string id="h_ha_17">늘어난 꿈포인트:</string>
+	<string id="h_ha_18">나무열매명</string>
+	<string id="h_ha_19">개수</string>
+	<string id="h_ha_20">※남은 나무열매는 방 안의 「보물상자」에서 확인해 주십시오.</string>
+	<string id="h_ha_21">닫기</string>
+
+	<string id="y_aa_18">꿈섬 「서늘한 동굴」</string>
+	
+	
+	
+	
+	<string id="y_ad_22">[ポケモン名]는(은) 얼음 위에서 놀고 싶어 한다.</string>
+	<string id="y_ad_23">[ポケモン名]와(과) 얼음 위에서 놀겠습니까?</string>
+	
+	
+	
+		<string id="y_ag_16">스위트캐치에 실패했다.</string>
+	<string id="y_ag_17">스위트캐치를 끝냈다.</string>
+	<string id="y_zc_6">꿈섬에 도착했다. 「서늘한 동굴」에 가려 한다.</string>
+
+	<string id="y_aa_19">꿈섬 「꿈 공원」</string>
+	<string id="y_ad_24">[ポケモン名]는(은) 호수에서 놀고 싶어 한다.</string>
+	<string id="y_ad_25">[ポケモン名](와)과 호수에서 놀겠습니까?</string>
+	<string id="y_ag_18">보드 타기에 실패했다.</string>
+	<string id="y_ag_19">보드 타기를 끝냈다.</string>
+	
+	
+	<string id="y_zc_7">꿈섬에 도착했다. 「꿈 공원」에 가려 한다.</string>
+
+	<string id="y_ad_26">[ポケモン名]는(은) 보석상자가 궁금하다</string>
+	<string id="y_ad_27">[ポケモン名]와(과) 보물 상자를 열겠습니까?</string>
+	<string id="y_ad_28">보석상자 열기에 실패했다.</string>
+	<string id="y_ad_29">보석상자 열기를 끝냈다.</string>
+
+	<string id="y_ad_30">[ポケモン名]는(은) 목이 마른 것 같다.</string>
+	<string id="y_ad_31">[ポケモン名](와)과 음료수를 나르겠습니까?</string>
+	<string id="y_ad_32">음료수 나르기에 실패했다.</string>
+
+	<string id="Xz_be_5">맞아!
+한 가지 중요한 사실을 전달하는 걸 잊고 있었어</string>
+	<string id="Xz_be_6"><![CDATA[한동안 <span class='emphasis'>PDW</span>에 놀러 오지 않은 상태가 계속되면
+<span class='emphasis'>보물상자</span> 안의 <span class='emphasis'>나무열매</span>가 줄어들게 돼]]></string>
+	<string id="Xz_be_7">내 연구에 따르면 한 100일 정도 안 놀러오면 줄어들었어
+조심해야 해! </string>
+	<string id="y_ad_33">음료수 나르기를 끝냈다.</string>
+	<string id="b_ae_5">OK</string>
+	<string id="t_ao_3">소원을 빌지 못했습니다.
+선택한 포켓몬은 아직 동료가 되지 않았습니다.
+나중에 다시 한번 소원을 빌면 동료가 될 수 있습니다.
+일단 홈으로 돌아갑니다.</string>
+	<string id="y_ad_34">게임프렌드 보기</string>
+	<string id="y_ad_35">게임프렌드 리스트</string>
+	<string id="y_ad_36">이름순</string>
+	<string id="y_ad_37">지역순</string>
+</data>

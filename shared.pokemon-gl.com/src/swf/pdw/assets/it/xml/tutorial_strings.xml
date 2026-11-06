@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="it">
+	<string id="Xz_aa_1">Ciao!</string>
+	<string id="Xz_ab_1"><![CDATA[Io sono <span class='emphasis'>Zania</span> e, come puoi vedere, sono una ricercatrice.]]></string>
+	<string id="Xz_ac_1">Grazie ai miei studi, potrai vivere di persona i sogni dei Pokémon.</string>
+	<string id="Xz_ad_1"><![CDATA[Proprio così! Questo è il <span class='emphasis'>Pokémon Dream World</span>!]]></string>
+	<string id="Xz_ae_1"><![CDATA[Utilizzando il Fumonirico nel <span class='emphasis'>Sincrogioco</span> possiamo leggere nella mente dei Pokémon addormentati!]]></string>
+	<string id="Xz_af_1"><![CDATA[E così ho fatto una scoperta sensazionale.
+I Pokémon messi a dormire con il <span class='emphasis'>Sincrogioco</span> sognano!]]></string>
+	<string id="Xz_ag_1"><![CDATA[Se poi li svegli, sempre con il <span class='emphasis'>Sincrogioco</span>, i loro sogni diventano realtà nell'<span class='emphasis'>Intramondo</span>, un luogo che si trova nel cuore di Unima.]]></string>
+	<string id="Xz_ah_1"><![CDATA[Il <span class='emphasis'>Sincrogioco</span> è davvero incredibile, no?]]></string>
+	<string id="Xz_ai_1"><![CDATA[Se registri il tuo <span class='emphasis'>ID Sincrogioco</span> nel <span class='emphasis'>Pokémon Global Link</span>, potrai entrare nel <span class='emphasis'>Pokémon Dream World</span> e vivere di persona i sogni dei Pokémon!]]></string>
+	<string id="Xz_aj_1"><![CDATA[Oh! Non hai ancora registrato il tuo <span class='emphasis'>ID Sincrogioco</span>.]]></string>
+	<string id="Xz_ak_1"><![CDATA[Per trovare il tuo <span class='emphasis'>ID Sincrogioco</span> apri le <span class='emphasis'>OPZIONI SINCROGIOCO</span> nel <span class='emphasis'>menu di avvio</span> di Pokémon Versione Nera, Pokémon Versione Bianca, Pokémon Versione Nera 2 o Pokémon Versione Bianca 2.
+Informazioni dettagliate sull'<a href='event:MouseEvent' id='about_gamesync_idcode'><span class='emphasis'>ID Sincrogioco</span>.</a>]]></string>
+	<string id="Xz_al_1"><![CDATA[Per registrare l'<span class='emphasis'>ID Sincrogioco</span> vai al <span class='emphasis'>tuo profilo</span> del <span class='emphasis'>Pokémon Global Link</span>.]]></string>
+	
+	<string id="Xz_ao_1"><![CDATA[Per mettere a dormire un Pokémon con il <span class='emphasis'>Sincrogioco</span> devi accendere il <span class='emphasis'>C-Gear</span> in Pokémon Versione Nera, Pokémon Versione Bianca, Pokémon Versione Nera 2 o Pokémon Versione Bianca 2.]]></string>
+	<string id="Xz_ap_1"><![CDATA[Scegli <span class='emphasis'>ONLINE</span> nello schermo del <span class='emphasis'>C-Gear</span>, tocca <span class='emphasis'>SINCROGIOCO</span> e poi scegli il Pokémon da far dormire.]]></string>
+	<string id="Xz_aq_1"><![CDATA[Dopo aver visitato il <span class='emphasis'>Pokémon Dream World</span>, sveglia il Pokémon addormentato.]]></string>
+	<string id="Xz_ar_1"><![CDATA[Una volta svegliato il Pokémon con il <span class='emphasis'>SINCROGIOCO</span>, usa il <span class='emphasis'>C-Gear</span> per andare nell'<span class='emphasis'>Intramondo</span> e là troverai il Pokémon apparso in sogno!]]></string>
+	<string id="Xz_as_1"><![CDATA[Attenzione, però! L'attivazione del <span class='emphasis'>SINCROGIOCO</span> richiede molta energia, per questo puoi addormentare un Pokémon solo una volta al giorno.]]></string>
+	<string id="Xz_at_1">Considera anche che il sistema è ancora in fase di sviluppo e alcuni Pokémon sono restii ad addormentarsi.</string>
+	<string id="Xz_au_1">Ma la mia ricerca va avanti, grazie ai dati che ricevo dai giocatori di tutto il mondo! Farò in modo che tanti altri Pokémon imparino a dormire!</string>
+	<string id="Xz_aw_1"><![CDATA[Il primo luogo di approdo nel <span class='emphasis'>Pokémon Dream World</span> è questo! Io lo chiamo <span class='emphasis'>casa</span>.]]></string>
+	<string id="Xz_ax_1">E ti regalo anche una bella casa! Abbine cura!</string>
+	<string id="Xz_ba_1"><![CDATA[Nel <span class='emphasis'>Pokémon Dream World</span> puoi anche coltivare <span class='emphasis'>Bacche</span>, visitare la <span class='emphasis'>casa</span> di altri giocatori e esplorare l'<span class='emphasis'>Isola dei sogni</span>, dove incontrerai dei Pokémon.]]></string>
+	<string id="Xz_bb_1"><![CDATA[Prova a piantare la <span class='emphasis'>Bacca</span> che ti ho regalato!]]></string>
+	<string id="Xz_bd_1"><![CDATA[Ma basta con le spiegazioni! <span class='emphasis'>Zania</span>, la ragazza che ama sognare, ti augura un mondo di avventure!]]></string>
+	
+	<string id="Xz_bf_1"><![CDATA[Per mettere a dormire un Pokémon con il <span class='emphasis'>Sincrogioco</span> devi accendere il <span class='emphasis'>C-Gear</span> nella tua scheda di gioco!]]></string>
+	<string id="Xz_bg_1"><![CDATA[Scegli <span class='emphasis'>ONLINE</span> nello schermo del <span class='emphasis'>C-Gear</span>, tocca <span class='emphasis'>SINCROGIOCO</span> e poi scegli il Pokémon da far dormire.]]></string>
+	<string id="Xz_bh_1"><![CDATA[Dopo aver visitato il <span class='emphasis'>Pokémon Dream World</span>, sveglia il Pokémon addormentato.]]></string>
+	<string id="Xz_bi_1"><![CDATA[Una volta svegliato il Pokémon con il <span class='emphasis'>SINCROGIOCO</span>, usa il <span class='emphasis'>C-Gear</span> per andare nell'<span class='emphasis'>Intramondo</span> e là troverai il Pokémon apparso in sogno!]]></string>
+	<string id="Xz_bj_1"><![CDATA[Attenzione, però! L'attivazione del <span class='emphasis'>SINCROGIOCO</span> richiede molta energia, per questo puoi addormentare un Pokémon solo una volta al giorno.]]></string>
+	<string id="Xz_bk_1">Considera anche che il sistema è ancora in fase di sviluppo e alcuni Pokémon sono restii ad addormentarsi.</string>
+	<string id="Xz_bl_1">Ma la mia ricerca va avanti, grazie ai dati che ricevo dai giocatori di tutto il mondo! Farò in modo che tanti altri Pokémon imparino a dormire!</string>
+	<string id="Xz_bm_1"><![CDATA[Il primo luogo di approdo nel <span class='emphasis'>Pokémon Dream World</span> è questo! Io lo chiamo <span class='emphasis'>casa</span>.]]></string>
+	<string id="Xz_bn_1">E ti regalo anche una bella casa! Abbine cura!</string>
+	<string id="Xz_bo_1"><![CDATA[Nel <span class='emphasis'>Pokémon Dream World</span> puoi coltivare <span class='emphasis'>Bacche</span>, visitare la <span class='emphasis'>casa</span> di altri giocatori e esplorare l'<span class='emphasis'>Isola dei sogni</span>, dove incontrerai dei Pokémon.]]></string>
+	<string id="Xz_bp_1"><![CDATA[Prova a piantare la <span class='emphasis'>Bacca</span> che ti ho regalato!]]></string>
+	<string id="Xz_bq_1"><![CDATA[Ma basta con le spiegazioni! <span class='emphasis'>Zania</span>, la ragazza che ama sognare, ti augura un mondo di avventure!]]></string>
+	<string id="Xz_br_1">Chissà che sogni faranno i Pokémon...</string>
+	<string id="Xz_bs_1">Non hai ancora messo a dormire nessun Pokémon...</string>
+	<string id="Xz_bt_1"><![CDATA[Per mettere a dormire un Pokémon con il <span class='emphasis'>Sincrogioco</span> devi accendere il <span class='emphasis'>C-Gear</span> nella tua scheda di gioco!]]></string>
+	<string id="Xz_bu_1"><![CDATA[Scegli <span class='emphasis'>ONLINE</span> nello schermo del <span class='emphasis'>C-Gear</span>, tocca <span class='emphasis'>SINCROGIOCO</span> e poi scegli il Pokémon da far dormire.]]></string>
+	<string id="Xz_bv_1"><![CDATA[Dopo aver visitato il <span class='emphasis'>Pokémon Dream World</span>, sveglia il Pokémon addormentato.]]></string>
+	<string id="Xz_bw_1"><![CDATA[Una volta svegliato il Pokémon con il <span class='emphasis'>SINCROGIOCO</span>, usa il <span class='emphasis'>C-Gear</span> per andare nell'<span class='emphasis'>Intramondo</span> e là troverai il Pokémon apparso in sogno!]]></string>
+	<string id="Xz_bx_1"><![CDATA[Attenzione, però! L'attivazione del <span class='emphasis'>SINCROGIOCO</span> richiede molta energia, per questo puoi addormentare un Pokémon solo una volta al giorno.]]></string>
+	<string id="Xz_by_1">Considera anche che il sistema è ancora in fase di sviluppo e alcuni Pokémon sono restii ad addormentarsi.</string>
+	<string id="Xz_bz_1">Ma la mia ricerca va avanti, grazie ai dati che ricevo dai giocatori di tutto il mondo! Farò in modo che tanti altri Pokémon imparino a dormire!</string>
+	<string id="Xz_ca_1"><![CDATA[Visita il <span class='emphasis'>Pokémon Dream World</span> dopo aver messo a dormire un Pokémon.]]></string>
+	<string id="Xv_aa_1"><![CDATA[Ecco la tua base. Quest'isoletta è detta <span class='emphasis'>casa</span>.]]></string>
+	<string id="Xv_ab_1"><![CDATA[Nella <span class='emphasis'>casa</span> puoi fare tante cose!]]></string>
+	<string id="Xv_ac_1"><![CDATA[Spostati cliccando su <img/><img/><img/><img/>.]]></string>
+	<string id="Xv_ad_1"><![CDATA[Puoi coltivare <span class='emphasis'>Bacche</span>, ad esempio.]]></string>
+	<string id="Xv_ae_1"><![CDATA[E puoi scambiare <span class='emphasis'>strumenti</span> e <span class='emphasis'>Bacche</span> con altri giocatori.]]></string>
+	<string id="Xv_af_1"><![CDATA[Inoltre puoi andare nell'<span class='emphasis'>Isola dei sogni</span> attraversando il ponte che la collega alla tua casa!]]></string>
+	<string id="Xv_ag_1"><![CDATA[Per entrare in casa, clicca sulla <span class='emphasis'>porta</span>.]]></string>
+	<string id="Xv_ah_1"><![CDATA[Davanti alla porta di casa c'è un tappeto sul quale troverai le <span class='emphasis'>impronte</span> dei Pokémon che vengono a farti visita!]]></string>
+	<string id="Xv_ai_1"><![CDATA[Prova a cliccare su <img/> in alto a sinistra.]]></string>
+	<string id="Xv_aj_1"><![CDATA[In questo modo potrai vedere la <span class='emphasis'>casa</span> dei tuoi <span class='emphasis'>sognamici</span>!]]></string>
+	<string id="Xv_ak_1"><![CDATA[Clicca su <img/> per uscire dal <span class='emphasis'>Pokémon Dream World</span> e svegliare il Pokémon.]]></string>
+	<string id="Xv_al_1"><![CDATA[Fa' molta attenzione perché se esci dal <span class='emphasis'>Pokémon Dream World</span> senza cliccare su <img/> non potrai svegliare il Pokémon.]]></string>
+	<string id="Xv_am_1"><![CDATA[Allora, divertiti a vivere i sogni dei Pokémon nel <span class='emphasis'>Pokémon Dream World</span>!]]></string>
+	<string id="Xe_aa_1"><![CDATA[Qui puoi visualizzare i <span class='emphasis'>sognamici</span> conosciuti nel <span class='emphasis'>Pokémon DW</span>.]]></string>
+	<string id="Xe_ab_1">Controlla le impostazioni della privacy nel tuo profilo.</string>
+	<string id="Xe_ac_1"><![CDATA[Se rendi pubblico il tuo profilo impostandolo su <span class='emphasis'>Tutti</span>, potrai comunicare sia con i <span class='emphasis'>sognamici</span> che con tutti gli altri utenti.]]></string>
+	<string id="Xf_aa_1"><![CDATA[Questa è la tua <span class='emphasis'>casa</span>.
+Ti spiego subito cosa ci trovi dentro!]]></string>
+	<string id="Xf_ab_1"><![CDATA[Questo è il <span class='emphasis'>baule</span>.]]></string>
+	<string id="Xf_ac_1"><![CDATA[Qui sono conservate tutte le <span class='emphasis'>Bacche</span> e gli <span class='emphasis'>strumenti</span> trovati nel <span class='emphasis'>Pokémon Dream World</span>.]]></string>
+	<string id="Xf_ad_1"><![CDATA[Puoi inviare al ragazzo all'ingresso del <span class='emphasis'>Bosco Intramondo</span> le tue <span class='emphasis'>Bacche</span> e i tuoi <span class='emphasis'>strumenti</span> sotto forma di 
+<span class='emphasis'>frammenti di sogno</span>.]]></string>
+	<string id="Xf_ae_1"><![CDATA[Dopo aver svegliato il Pokémon, vai nell'<span class='emphasis'>Intramondo</span> per ricevere i <span class='emphasis'>frammenti di sogno</span> da quel giovanotto!]]></string>
+	<string id="Xf_af_1"><![CDATA[Questa è la <span class='emphasis'>bacheca</span>.]]></string>
+	<string id="Xf_ag_1"><![CDATA[Se esprimi il desiderio di fare amicizia con un Pokémon incontrato nell'<span class='emphasis'>Isola dei sogni</span>, vedrai la sua foto su questa <span class='emphasis'>bacheca</span>.]]></string>
+	<string id="Xf_ah_1"><![CDATA[I Pokémon della <span class='emphasis'>bacheca</span> appariranno quindi nella <span class='emphasis'>Piazza del Bosco</span> dell'<span class='emphasis'>Intramondo</span>.]]></string>
+	<string id="Xf_ai_1"><![CDATA[E non temere: i Pokémon che trovi nella <span class='emphasis'>Piazza del Bosco</span> diventano senz'altro tuoi amici.]]></string>
+	<string id="Xf_aj_1"><![CDATA[Ah, dimenticavo!
+Se le foto sulla <span class='emphasis'>bacheca</span> superano le 50, non potrai più andare nell'<span class='emphasis'>Isola dei sogni</span>. Fa' attenzione!]]></string>
+	<string id="Xf_ak_1"><![CDATA[Questo è il <span class='emphasis'>Catalogo dei sogni</span>.
+Con questo puoi acquistare nuovi pezzi di arredamento per la tua stanza!]]></string>
+	<string id="Xf_al_1"><![CDATA[Ma per fare acquisti hai bisogno di <span class='emphasis'>Bacche</span>.]]></string>
+	<string id="Xf_am_1"><![CDATA[Clicca su <img/> e scegli dove collocare
+i <span class='emphasis'>pezzi di arredamento</span>.]]></string>
+	<string id="Xc_aa_1"><![CDATA[Questa è la <span class='emphasis'>Dispensa doni</span>, grazie alla quale puoi scambiare <span class='emphasis'>strumenti</span> e <span class='emphasis'>Bacche</span> con altri giocatori.]]></string>
+	<string id="Xc_ab_1">Ti spiego come funziona!</string>
+	<string id="Xc_ac_1"><![CDATA[Se clicchi su uno spazio libero delle mensole, potrai visualizzare il contenuto del tuo <span class='emphasis'>baule</span>.]]></string>
+	<string id="Xc_ad_1"><![CDATA[Scegli cosa mettere nella <span class='emphasis'>Dispensa doni</span>.]]></string>
+	<string id="Xc_ae_1">Ecco, ora c'è un dono!
+Speriamo che venga a trovarti un altro giocatore e ti lasci qualcosa in cambio!</string>
+	<string id="Xd_ab_1"><![CDATA[Qui puoi scambiare <span class='emphasis'>strumenti</span> e <span class='emphasis'>Bacche</span>.]]></string>
+	<string id="Xd_ac_1">Ti spiego come funziona!</string>
+	<string id="Xd_ad_1">Scegli cosa desideri...</string>
+	<string id="Xd_ae_1"><![CDATA[E seleziona cosa vuoi dare in cambio dal contenuto del tuo <span class='emphasis'>baule</span>.]]></string>
+	<string id="Xd_af_1"><![CDATA[Puoi trovare <span class='emphasis'>strumenti</span> e <span class='emphasis'>Bacche</span> sull'Isola dei sogni!
+Divertiti a fare a cambio con tanti altri giocatori!]]></string>
+	<string id="Xg_aa_1"><![CDATA[Questa è l'<span class='emphasis'>Isola dei sogni</span>.]]></string>
+	<string id="Xg_ab_1">È un luogo fantastico dove vivono molti Pokémon.</string>
+	<string id="Xg_ac_1"><![CDATA[Per qualche strano motivo, in qualunque direzione tu vada ti ritroverai sempre sotto un grande albero.
+È l'<span class='emphasis'>albero dei sogni</span> e pare che avveri i desideri!]]></string>
+	<string id="Xg_ad_1">Allora, iniziamo subito l'esplorazione!
+Speriamo di incontrare molti Pokémon!</string>
+	<string id="Xg_ae_1"><![CDATA[Spostati cliccando su <img/><img/><img/><img/>.]]></string>
+	<string id="Xg_ag_1">Oh, qualcosa si sta muovendo!
+Potrebbe esserci un Pokémon!</string>
+	<string id="Xg_ah_1">Clicca dove vedi qualcosa che si muove.</string>
+	<string id="Xg_ai_1">Il Pokémon vuole fare amicizia!</string>
+	<string id="Xg_aj_1">Gioca con il Pokémon!</string>
+	<string id="Xg_ak_1">Se ottieni un buon risultato, il Pokémon vorrà fare amicizia con te!</string>
+	<string id="Xg_al_1">Clicca dove vedi brillare.</string>
+	<string id="Xg_am_1"><![CDATA[Sull'<span class='emphasis'>Isola dei sogni</span> puoi trovare <span class='emphasis'>Bacche</span> e <span class='emphasis'>strumenti</span>.]]></string>
+	<string id="Xg_an_1"><![CDATA[Questo è l'<span class='emphasis'>albero dei sogni</span>.
+Non è meraviglioso?]]></string>
+	<string id="Xg_ao_1">Qui ci sono tanti Pokémon che hanno realizzato dei desideri!</string>
+	<string id="Xg_ap_1">Ti spiego come puoi esprimere un desiderio.</string>
+	<string id="Xg_aq_1"><![CDATA[Clicca nella parte cava e deponi una <span class='emphasis'>Bacca</span>.]]></string>
+	<string id="Xg_ar_1">L'albero sa quali sono i Pokémon che hai incontrato nell'Isola dei sogni.</string>
+	<string id="Xg_as_1">L'albero ti chiederà di scegliere il Pokémon che vuoi come amico. A questo punto, fa' la tua scelta.</string>
+	<string id="Xg_at_1"><![CDATA[Quando <span class='emphasis'>clicchi</span> nella parte cava ma non hai Pokémon con cui poter fare amicizia, tornerai a <span class='emphasis'>casa</span>.]]></string>
+	<string id="Xg_au_1"><![CDATA[Oh! Non hai fatto amicizia con nessun Pokémon nell'<span class='emphasis'>Isola dei sogni</span>.]]></string>
+	<string id="Xg_av_1">Clicca dove vedi qualcosa che si muove.
+Potrebbe esserci un Pokémon!</string>
+	<string id="Xg_aw_1">Gioca con i Pokémon che incontri!</string>
+	<string id="Xg_ax_1">Se ottieni un buon risultato, il Pokémon vorrà fare amicizia con te!</string>
+	<string id="Xg_ay_1"><![CDATA[Torna alla <span class='emphasis'>casa</span> e visita ancora l'<span class='emphasis'>albero dei sogni</span>.]]></string>
+	<string id="Xa_aa_1"><![CDATA[Questo è il tuo orto! Qui puoi coltivare le <span class='emphasis'>Bacche</span>.]]></string>
+	<string id="Xa_ab_1"><![CDATA[Nel <span class='emphasis'>Pokémon Dream World</span> le <span class='emphasis'>Bacche</span> sono necessarie per comprare pezzi di arredamento. Inoltre puoi usarle per comprare <span class='emphasis'>pezzi di arredamento</span>.]]></string>
+	<string id="Xa_ac_1"><![CDATA[Ma lascia che ti spieghi come coltivare le <span class='emphasis'>Bacche</span>.]]></string>
+	<string id="Xa_ad_1"><![CDATA[Se clicchi sul <span class='emphasis'>terreno soffice</span> puoi controllare la tua scorta di <span class='emphasis'>Bacche</span>.]]></string>
+	<string id="Xa_ae_1"><![CDATA[Scegli la <span class='emphasis'>Bacca</span> che vuoi coltivare.]]></string>
+	<string id="Xa_af_1"><![CDATA[Ecco, la <span class='emphasis'>Bacca</span> è stata piantata!]]></string>
+	<string id="Xa_ag_1">Annaffia il terreno per evitare che si secchi!</string>
+	<string id="Xa_ah_1"><![CDATA[Se clicchi nel punto dove hai piantato una <span class='emphasis'>Bacca</span>...]]></string>
+	<string id="Xa_ai_1">potrai annaffiarla con l'annaffiatoio a disposizione.</string>
+	<string id="Xa_aj_1"><![CDATA[E quando le <span class='emphasis'>Bacche</span> sono mature...]]></string>
+	<string id="Xa_ak_1">vai a raccoglierle!</string>
+	<string id="Xa_al_1"><![CDATA[Le <span class='emphasis'>Bacche</span> raccolte sono conservate nel <span class='emphasis'>baule</span>.]]></string>
+	<string id="Xa_am_1"><![CDATA[Coltiva tante <span class='emphasis'>Bacche</span> per vivere al meglio le avventure che il <span class='emphasis'>Pokémon Dream World</span> ti riserva!]]></string>
+	<string id="Xb_aa_1"><![CDATA[Questo è il ponte che porta all'<span class='emphasis'>Isola dei sogni</span>.
+Se lo attraversi, ti ritroverai in un mondo misterioso!]]></string>
+	<string id="Xb_ab_1"><![CDATA[Nell'<span class='emphasis'>Isola dei sogni</span> vivono tanti Pokémon.]]></string>
+	<string id="Xb_ac_1">Sto studiando quello che fanno i Pokémon quando sognano, ma ho ancora molto da imparare.</string>
+	<string id="Xb_ad_1">Se però mi aiuti inviandomi i tuoi dati, potrò sicuramente fare grandi progressi. Conto su di te!</string>
+	<string id="Xz_am_3">Registra ora</string>
+	<string id="Xz_am_4">Registra dopo</string>
+	<string id="Xz_am_2"><![CDATA[Clicca su <span class='emphasis'>Registra una scheda di gioco</span>.]]></string>
+	<string id="Xz_be_2"><![CDATA[Come esempio, vuoi sognare nei panni di <span class='emphasis'>Munna</span>?]]></string>
+	<string id="Xz_be_3">Sì</string>
+	<string id="Xz_be_4">Rivedo le spiegazioni</string>
+</data>

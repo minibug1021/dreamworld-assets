@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="it">
+	<string id="m_aa_1">Tappeto segnaimpronte</string>
+	<string id="m_aa_2">Dettagli</string>
+	
+	<string id="f_af_1">Hai ricevuto una richiesta sognamico.</string>
+	<string id="f_af_2">Puoi diventare sognamico di questo
+Pokémon. Vuoi visitare la sua casa?</string>
+	<string id="f_af_3">Soprannome</string>
+	<string id="f_af_4">Nome PGL</string>
+	<string id="f_af_5">[arg0]</string>
+	<string id="f_af_6">A.O.</string>
+	<string id="f_af_7">Livello</string>
+	<string id="f_af_8">Tipo</string>
+	<string id="f_af_9">Sesso</string>
+	<string id="f_af_10">Natura</string>
+	<string id="f_af_12">[DD/MM/YYYY hh:mm]</string>
+	<string id="f_af_13">Attività</string>
+	<string id="f_af_14">Richiesta sognamico</string>
+	<string id="f_af_15">Annaffia</string>
+	<string id="f_af_16">Scambia</string>
+	<string id="f_af_17">Chiudi</string>
+	<string id="f_af_18">Vai a casa di questo Pokémon</string>
+	
+	<string id="m_af_1">Dettagli</string>
+	<string id="m_af_2">Tappeto</string>
+	<string id="m_af_3">Visite passate</string>
+	<string id="m_af_4">Data</string>
+	<string id="m_af_5">Pokémon</string>
+	<string id="m_af_6">Nome</string>
+	<string id="m_af_7">Relazione</string>
+	<string id="m_af_8">Azione</string>
+	<string id="m_af_9">[DD/MM/YYYY hh:mm]</string>
+	<string id="m_af_10">[arg0]</string>
+	<string id="m_af_11">Soprannome</string>
+	<string id="m_af_12">Nome PGL</string>
+	<string id="m_af_13">[arg0]</string>
+	<string id="m_af_14">Foto</string>
+	
+	<string id="m_ac_1">Ci sono delle impronte!</string>
+	<string id="m_ac_2">Quando trovi delle impronte sul tappeto della tua casa,
+vai a casa del Pokémon che le ha lasciate per diventare suo sognamico.</string>
+	<string id="m_ac_3">Soprannome</string>
+	<string id="m_ac_4">Nome PGL</string>
+	<string id="m_ac_5">[arg0]</string>
+	<string id="m_ac_6">A.O.</string>
+	<string id="m_ac_7">Livello</string>
+	<string id="m_ac_8">Tipo</string>
+	<string id="m_ac_9">Sesso</string>
+	<string id="m_ac_10">Natura</string>
+	<string id="m_ac_11">[DD/MM/YYYY hh:mm]</string>
+	<string id="m_ac_12">Attività</string>
+	<string id="m_ac_13">Richiesta sognamico</string>
+	<string id="m_ac_14">Annaffiatura</string>
+	<string id="m_ac_15">Scambio</string>
+	<string id="m_ac_16">Vai a casa di questo Pokémon</string>
+	<string id="m_ac_17">Chiudi</string>
+</data>

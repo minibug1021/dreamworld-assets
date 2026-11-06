@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+
+<data locale="ja">
+
+
+	<!--
+
+	-->
+
+	<!--共通-->
+
+	<!--メニュー-->
+	<string id="pg_bc_4">あんしんメール</string>
+	<string id="pg_bc_1">受信メール</string>
+	<string id="pg_bc_2">送信メール</string>
+	<string id="pg_bc_3">メールを送る</string>
+	<string id="pg_bg_5">メールを送るゲームフレンドを選ぶ</string>
+	<string id="pg_bz_5">メールを書く方法を選ぶ</string>
+	<string id="pg_bh_8">言葉を選んでメールを書く</string>
+	<string id="pg_bh_9">質問に答えてメールを書く</string>
+
+	<!--受信メール-->
+	<!--一覧-->
+	<string id="pg_bc_5">[YYYY].[MM].[DD]</string>
+	<string id="pg_bc_6">[メールタイトル]</string>
+	<string id="pg_bc_7">[PGLニックネーム]より</string>
+	<string id="pg_bc_11">[西暦]</string>
+	<string id="pg_bc_12">[月]</string>
+	
+	<!--詳細-->
+	<string id="pg_bd_1">メールを削除</string>
+	<string id="pg_bd_2">返事を書く</string>
+	<string id="pg_bd_3">[YYYY].[MM].[DD]</string>
+	<string id="pg_bd_4">[メールタイトル]</string>
+	<string id="pg_bd_5">[PGLニックネーム]より</string>
+	<string id="pg_bd_9">[メール本文]</string>
+	<string id="pg_be_1">OK</string>
+	<string id="pg_be_2">キャンセル</string>
+	<string id="pg_be_3">このメールを削除しますか？
+一度削除したメールはもどすことができません。</string>
+	
+	
+	<!--送信メール一覧-->
+	<string id="pg_bf_3">[PGLニックネーム]へ</string>
+
+
+	<!--フレンドリスト-->
+	<string id="pg_bg_6">ゲームフレンドリスト・ゆめともリスト</string>
+	<string id="pg_bg_2">名前順</string>
+	<string id="pg_bg_3">かんけい順</string>
+	
+	<string id="pg_bf_4">ともだち</string>
+	<string id="pg_bf_6">しりあい</string>
+	<string id="pg_bf_5">ゆめとも</string>
+	<string id="pg_bg_7">アバター</string>
+	<string id="pg_bg_8">PGLニックネーム</string>
+	<string id="pg_bg_9">かんけい</string>
+	<string id="pg_bg_10">アクション</string>
+	<string id="pg_bg_11">[PGLニックネーム]</string>
+	<string id="pg_bg_15">あんしんメールを送る</string>
+	<string id="pg_bg_16">ゲームフレンド</string>
+	<string id="pg_bg_17">ゆめともリスト</string>
+
+	
+	<!--メールを送る-->
+	<string id="pg_bz_2">ひとつ前にもどる</string>
+	
+	<!--どんな方法でメールを書きますか?-->
+	<string id="pg_bz_1">どんなメールを送りますか？</string>
+	<string id="pg_bz_3">言葉を選んで
+メールを書く</string>
+	<string id="pg_bz_4">質問に答えて
+メールを書く</string>
+
+	<!--言葉を選んでメールを書く-->
+	<string id="pg_bh_6">何についてメールを書きますか？</string>
+	<string id="pg_bh_1">[arg0]
+について</string>
+
+	<!--選択ワードテンプレート選択-->
+	<string id="pg_ca_1">送りたいメールを選んでください。</string>
+	<string id="pg_ca_2">メールタイトル</string>
+	<string id="pg_ca_3">[PGLニックネーム]へ</string>
+	<string id="pg_ca_4">[メール内容]</string>
+
+	<!--選択ワード設定-->
+	<string id="pg_bi_1">[PGLニックネーム]さんへのメール</string>
+	<string id="pg_bi_2">[メールタイトル]</string>
+	<string id="pg_bi_3">[メール内容]</string>
+
+	<string id="pg_bl_1">修正</string>
+	<string id="pg_bl_2">OK</string>
+	<string id="pg_bl_3">この内容で送りますか？</string>
+	
+	<!--選択ワード設定ウィンドー-->
+	<string id="pg_bj_1">[選択肢]</string>
+	<string id="pg_bj_2">[メール内容]</string>
+	
+	<!--質問に答えてメールを書く-->
+	<string id="pg_bh_6">何についてメールを書きますか？</string>
+	<string id="pg_bn_4">[PGLニックネーム]さんへのメール</string>
+	<string id="pg_bn_3">もどる</string>
+	<string id="pg_bxa_1">OK</string>
+	<string id="pg_bxa_2">キャンセル</string>
+
+	<!--メールを送りました。-->
+	<string id="pg_bm_1">メールを送りました。</string>
+
+	<!--質問メール-->
+	<string id="pg_db_5">何についてメールを書きますか？</string>
+	<string id="pg_db_1">学校のこと</string>
+	
+	
+	<!--質問メール - 確認-->
+	<string id="pg_bn_2">[選択肢]</string>
+	<string id="pg_bn_5">[メールタイトル]</string>
+	<string id="pg_bn_6">[質問内容]</string>
+	<string id="pg_bxa_5">[メール内容]</string>
+	
+</data>

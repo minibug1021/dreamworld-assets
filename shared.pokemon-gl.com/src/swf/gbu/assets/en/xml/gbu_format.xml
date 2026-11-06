@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="en">
+	<!-- aa -->
+
+        <string id="B_aa_1" size="9.5" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="0" />
+	<string id="B_aa_2" size="9.5" bold="false" color="0x000000" kerning="true" letterSpacing="0.5" baselineShift="0" />
+	<string id="B_aa_3" size="9.5" bold="false" color="0x000000" kerning="true" letterSpacing="0.5" baselineShift="0" />
+	<string id="B_aa_4" size="14" bold="false" color="0x000000" kerning="true" letterSpacing="-3" baselineShift="2" />
+	<string id="B_aa_5" size="11" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="0" />
+	<string id="B_aa_6" size="11" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="0" />
+	<string id="B_aa_7" size="12" bold="true" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="-1" />
+	<string id="B_aa_8" size="11" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="4" />
+	<!-- 9EE0追加 12/27　-->
+	<string id="B_aa_9" size="18" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="0" />
+	<string id="B_aa_10" size="18" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="0" />
+	<string id="B_aa_11" size="18" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="0" />
+	<string id="B_aa_12" size="18" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+	<string id="B_aa_13" size="18" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="0" />
+	<string id="B_aa_14" size="10" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0.3" baselineShift="2" />
+	<!-- 15EE0追加 12/27　-->
+	<string id="B_aa_15" size="10" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+	<string id="B_aa_16" size="10" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+	<string id="B_aa_17" size="10" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+	<string id="B_aa_18" size="10" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+	<string id="B_aa_19" size="10" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+	<string id="B_aa_20" size="10" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+
+	<string id="B_aa_21" size="10" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0.3" baselineShift="2" />
+
+	<string id="B_aa_25" size="13" bold="true" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+
+	<string id="B_aa_27" size="10" bold="false" color="0x999999" kerning="true" letterSpacing="-0.1" baselineShift="2" />
+
+	<string id="B_aa_29" size="11" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+	<string id="B_aa_30" size="11" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+	<string id="B_aa_31" size="10" bold="true" color="0xFFFFFF" kerning="true" letterSpacing="1" baselineShift="2" />
+	<string id="B_aa_32" size="11" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+
+
+	<!-- ae -->
+	<string id="B_ae_1" size="10" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0.4" baselineShift="2" />
+	<string id="B_ae_3" size="9" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0.5" baselineShift="2" />
+	<string id="B_ae_4" size="13" bold="true" color="0xFFFFFF" kerning="true" letterSpacing="0.7" baselineShift="3" />
+	<string id="B_ae_5" size="10" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0.5" baselineShift="2" />
+	<string id="B_ae_6" size="10" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0.5" baselineShift="2" />
+	<string id="B_ae_7" size="10" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0.5" baselineShift="2" />
+	<string id="B_ae_8" size="10" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0.5" baselineShift="2" />
+	<string id="B_ae_9" size="10" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0.5" baselineShift="2" />
+	<string id="B_ae_10" size="10" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="1" baselineShift="2" />
+
+	<string id="B_ae_15" size="13" bold="true" color="0xFFFFFF" kerning="true" letterSpacing="1" baselineShift="2" />
+	<string id="B_ae_16" size="10" bold="true" color="0xFFFFFF" kerning="true" letterSpacing="1" baselineShift="1" />
+	<string id="B_ae_17" size="10" bold="true" color="0xFFFFFF" kerning="true" letterSpacing="1.5" baselineShift="1" />
+	<string id="B_ae_18" size="11" bold="true" color="0xFFFFFF" kerning="true" letterSpacing="-0.2" baselineShift="0" />
+	<string id="B_ae_25" size="11" bold="true" color="0xFFFFFF" kerning="true" letterSpacing="1.5" baselineShift="1" />
+
+	<string id="B_ae_29" size="9" bold="false" color="0x000000" kerning="true" letterSpacing="0" baselineShift="0" />
+	<string id="B_ae_31" size="9" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0.4" baselineShift="2" />
+	<string id="B_ae_32" size="9" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0.4" baselineShift="2" />
+	<string id="B_ae_33" size="9" bold="false" color="0x000000" kerning="true" letterSpacing="0.4" baselineShift="2" />
+	<string id="B_ae_34" size="9" bold="false" color="0x000000" kerning="true" letterSpacing="0.4" baselineShift="2" />
+
+	<string id="B_ae_35" size="11" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="1" baselineShift="4" />
+
+	<string id="B_ae_40" size="18" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0.5" baselineShift="0" />
+	<string id="B_ae_41" size="9" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="1" baselineShift="2" />
+
+	<!-- ag -->
+	<string id="B_ag_1" size="15" bold="true" color="0xFFFFFF" kerning="true" letterSpacing="0.3" baselineShift="4" />
+	<string id="B_ag_2" size="10" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0.5" baselineShift="1" />
+	<string id="B_ag_3" size="10" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+	<string id="B_ag_4" size="12" bold="true" color="0xFFFFFF" kerning="true" letterSpacing="1" baselineShift="2" />
+	<string id="B_ag_5" size="12" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+	<string id="B_ag_12" size="14" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="4" />
+	<string id="B_ag_13" size="14" bold="true" color="0x000000" kerning="true" letterSpacing="-0.5" baselineShift="4" />
+	<string id="B_ag_15" size="13" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+	<string id="B_ag_16" size="14" bold="true" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="3" />
+	<!-- 12/27追加 -->
+	<string id="B_ag_17" size="12" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="0" />
+
+	<string id="B_aj_1" size="9.5" bold="false" color="0xB5B2B5" kerning="true" letterSpacing="0.8" baselineShift="2" />
+	<string id="B_aj_2" size="9.5" bold="false" color="0x000000" kerning="true" letterSpacing="0.5" baselineShift="1" />
+	<string id="B_aj_3" size="10" bold="false" color="0x000000" kerning="true" letterSpacing="0" baselineShift="2" />
+	<string id="B_aj_4" size="10" bold="false" color="0x000000" kerning="true" letterSpacing="0" baselineShift="2" />
+	<string id="B_aj_5" size="10" bold="false" color="0x000000" kerning="true" letterSpacing="0" baselineShift="2" />
+	<string id="B_aj_6" size="10" bold="false" color="0x000000" kerning="true" letterSpacing="0" baselineShift="2" />
+	<string id="B_aj_7" size="12" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+	<string id="B_aj_8" size="14" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="4" />
+
+
+	<string id="B_ak_1" size="15" bold="true" color="0xFFFFFF" kerning="true" letterSpacing="0.8" baselineShift="4" />
+	<string id="B_ak_2" size="12" bold="true" color="0xFFFFFF" kerning="true" letterSpacing="0.5" baselineShift="1" />
+	<string id="B_ak_3" size="12" bold="true" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="1" />
+	<string id="B_ak_4" size="12" bold="false" color="0x000000" kerning="true" letterSpacing="0" baselineShift="4" />
+	<string id="B_ak_5" size="11" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+	<string id="B_ak_6" size="11" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+	<string id="B_ak_7" size="11" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+	<string id="B_ak_8" size="11" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+	<string id="B_ak_9" size="11" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+	
+	<string id="B_al_1" size="21" bold="true" color="0x000000" kerning="true" letterSpacing="-0.1" baselineShift="2" />
+	<string id="B_al_2" size="15" bold="true" color="0xFFFFFF" kerning="true" letterSpacing="1" baselineShift="2" />
+	<string id="B_al_3" size="21" bold="true" color="0x000000" kerning="true" letterSpacing="-0.1" baselineShift="2" />
+
+	<string id="B_am_1" size="15.5" bold="true" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+	<string id="B_am_2" size="15.5" bold="true" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+
+	<string id="B_an_1" size="15.5" bold="true" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+	<string id="B_an_2" size="10" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+
+	<string id="B_ap_1" size="11" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="1" />
+	<string id="B_ap_2" size="11" bold="false" color="0xFECB1E" kerning="true" letterSpacing="0" baselineShift="1" />
+
+	<string id="B_aq_5" size="12" bold="true" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+	<string id="B_aq_6" size="12" bold="true" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+
+	<string id="B_ar_1" size="15.5" bold="true" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+
+	<!-- B_at_1EE 12/27追加 -->
+	<string id="B_at_1" size="15" bold="true" color="0xFFFFFF" kerning="true" letterSpacing="0.8" baselineShift="2" />
+	<string id="B_at_2" size="14" bold="true" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+	<string id="B_at_3" size="14" bold="true" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="-1" />
+	<string id="B_at_4" size="11" bold="true" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+	<string id="B_at_5" size="11" bold="true" color="0x000000" kerning="true" letterSpacing="0" baselineShift="2" />
+	
+	<!-- フォーマット縺Eみの部刁E-->
+	<!-- Basic format -->
+	<string id="fs10mb" size="10" bold="false" color="0x000000" kerning="true" letterSpacing="0" baselineShift="2" />
+	<string id="fs10bb" size="10" bold="true" color="0x000000" kerning="true" letterSpacing="0" baselineShift="2" />
+	<string id="fs10mw" size="10" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+	<string id="fs10bw" size="10" bold="true" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+	<string id="fs11mb" size="11" bold="false" color="0x000000" kerning="true" letterSpacing="0" baselineShift="2" />
+	<string id="fs11bb" size="11" bold="true" color="0x000000" kerning="true" letterSpacing="0" baselineShift="2" />
+	<string id="fs11mw" size="11" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+	<string id="fs11bw" size="11" bold="true" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+	<string id="fs12mb" size="12" bold="false" color="0x000000" kerning="true" letterSpacing="0" baselineShift="2" />
+	<string id="fs12bb" size="12" bold="true" color="0x000000" kerning="true" letterSpacing="0" baselineShift="2" />
+	<string id="fs12mw" size="12" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+	<string id="fs12bw" size="12" bold="true" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+	<!-- BattleHistoryView -->
+	<string id="B_aa_33" size="12" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+	<string id="area_countryname" size="10" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+	<string id="B_aa_34" size="9" bold="false" color="0x000000" kerning="true" letterSpacing="0" baselineShift="2" />
+	<!-- PlayerBattleDataWindow -->
+	<string id="B_aa_35" size="16" bold="false" color="0x000000" kerning="true" letterSpacing="0" baselineShift="-2" />
+	<string id="B_aa_36" size="18" bold="false" color="0x000000" kerning="true" letterSpacing="0" baselineShift="0" />
+	<string id="B_aa_37" size="11" bold="false" color="0x000000" kerning="true" letterSpacing="0" baselineShift="0" />
+	<string id="B_aa_38" size="11" bold="false" color="0x000000" kerning="true" letterSpacing="0" baselineShift="0" />
+	<!-- PISmallWindow -->
+	<string id="B_aa_39" size="10" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+	<string id="pisw_countryranking" size="10" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+	<!-- TickerControl -->
+	<string id="tckr_textfield" size="10" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+	<!-- PILargeWindow -->
+	<string id="pilw_format1" size="9" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="-1" baselineShift="2" />
+	<string id="B_ae_12" size="9" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="1" baselineShift="2" />
+	<string id="B_ae_14" size="10" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="1" baselineShift="2" />
+	<!-- BattleInfoBtn -->
+	<string id="bbtn_format1" size="9" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="-0.5" baselineShift="2" />
+	<string id="bbtn_format2" size="9" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0.5" baselineShift="2" />
+	<string id="bbtn_format3" size="10" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="-0.7" baselineShift="2" />
+	<!-- PlBattlePlayerWindow -->
+	<string id="pbpw_format1" size="10" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="-0.5" baselineShift="2" />
+	<string id="pbpw_format2" size="10" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="-0.3" baselineShift="2" />
+	<string id="B_ae_39" size="16" bold="false" color="0x000000" kerning="true" letterSpacing="0" baselineShift="2" />
+	<string id="B_ae_40" size="18" bold="false" color="0x000000" kerning="true" letterSpacing="0" baselineShift="2" />
+	<string id="pbpw_format5" size="12" bold="false" color="0x000000" kerning="true" letterSpacing="-2.5" baselineShift="2" />
+	<string id="pbpw_format6" size="9" bold="false" color="0x000000" kerning="true" letterSpacing="0.7" baselineShift="2" />
+	<!-- RankingView -->
+	<string id="B_aq_1" size="13" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+	<string id="rank_format2" size="16" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+	<string id="rank_format3" size="13" bold="false" color="0x000000" kerning="true" letterSpacing="0" baselineShift="2" />
+	<!-- FooterControl -->
+	<string id="B_aa_26" size="11" bold="false" color="0x000000" kerning="true" letterSpacing="0" baselineShift="2" />
+	<string id="B_aa_40" size="11" bold="false" color="0x000000" kerning="true" letterSpacing="0" baselineShift="4" />
+
+        <string id="B_aa_23" size="13" bold="true" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+	<string id="B_aa_24" size="13" bold="true" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+
+	<string id="B_new_1" size="12" bold="true" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="8" />
+	<string id="B_new_2" size="13" bold="true" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="-6" />
+	<string id="B_new_3" size="9" bold="true" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+	<string id="B_new_4" size="10" bold="true" color="0xFFFFFF" kerning="true" letterSpacing="1" baselineShift="-2" />
+	<string id="B_new_5" size="9" bold="true" color="0xFFFFFF" kerning="true" letterSpacing="0.5" baselineShift="2" />
+	<string id="B_new_6" size="12" bold="true" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+	<string id="B_new_7" size="12" bold="true" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+
+	<string id="B_new_8" size="13" bold="true" color="0xFFFFFF" kerning="true" letterSpacing="0.3" baselineShift="0" />
+	<string id="B_new_9" size="15" bold="true" color="0xFFFFFF" kerning="true" letterSpacing="0.3" baselineShift="4" />
+	<string id="B_new_10" size="15" bold="true" color="0xFFFFFF" kerning="true" letterSpacing="0.3" baselineShift="4" />
+	<string id="B_new_11" size="15" bold="true" color="0xFFFFFF" kerning="true" letterSpacing="0.3" baselineShift="-4" />
+	<string id="B_new_12" size="12" bold="false" color="0x000000" kerning="true" letterSpacing="0" baselineShift="4" />
+	<string id="B_new_13" size="9" bold="true" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+
+<string id="B_new_14" size="21" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="4"  baselineShiftMode="mem"/>
+	<string id="B_new_15" size="14" bold="false" color="0x000000" kerning="true" letterSpacing="0" baselineShift="4"  baselineShiftMode="mem"/>
+	<string id="B_new_16" size="11" bold="true" color="0xBE000A" kerning="true" letterSpacing="0" baselineShift="2"  baselineShiftMode="mem"/>
+	<string id="B_new_17" size="12" bold="false" color="0x000000" kerning="true" letterSpacing="0" baselineShift="2"  baselineShiftMode="mem"/>
+	<string id="B_new_18" size="12" bold="false" color="0x000000" kerning="true" letterSpacing="0" baselineShift="2"  baselineShiftMode="mem"/>
+
+	<string id="B_new_28" size="10" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="0" />
+	<string id="B_new_30" size="12" bold="false" color="0x000000" kerning="true" letterSpacing="0" baselineShift="6" />
+	
+	<string id="B_new_31" size="11" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+	
+	<string id="B_new_32" size="11" bold="true" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+	<string id="B_new_33" size="11" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+	<string id="B_new_34" size="11" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+	<string id="B_new_35" size="11" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+	<string id="B_new_36" size="11" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+	
+<string id="B_vs_2" size="11" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="1" baselineShift="1" />
+	<string id="B_vs_3" size="11" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="1" />
+	<string id="B_vs_4" size="12" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="-2" />
+	<string id="B_vs_5" size="12" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="-2" />
+	<string id="B_vs_6" size="12" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="-2" />
+	<string id="B_vs_7" size="12" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="-2" />
+	<string id="B_vs_8" size="12" bold="false" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="-2" />
+	<string id="B_vs_9" size="15" bold="true" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+
+	<string id="B_vs_11" size="10" bold="false" color="0x000000" kerning="true" letterSpacing="0" baselineShift="-1" />
+	<string id="B_vs_12" size="15" bold="true" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+
+	<string id="B_vs_14" size="10" bold="false" color="0x000000" kerning="true" letterSpacing="0.5" baselineShift="2" />
+	<string id="B_vs_15" size="12" bold="false" color="0x000000" kerning="true" letterSpacing="0" baselineShift="2" />
+	<string id="B_vs_16" size="12" bold="false" color="0x000000" kerning="true" letterSpacing="0" baselineShift="2" />
+	<string id="B_vs_17" size="12" bold="false" color="0x000000" kerning="true" letterSpacing="0" baselineShift="2" />
+	<string id="B_vs_18" size="12" bold="false" color="0x000000" kerning="true" letterSpacing="0" baselineShift="2" />
+	<string id="B_vs_19" size="12" bold="false" color="0x000000" kerning="true" letterSpacing="0" baselineShift="2" />
+	<string id="B_vs_20" size="12" bold="false" color="0x000000" kerning="true" letterSpacing="0" baselineShift="2" />
+
+	<string id="B_vs_21" size="14" bold="true" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+	<string id="B_vs_22" size="11" bold="true" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+	<string id="B_vs_23" size="11" bold="true" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+	<string id="B_vs_24" size="11" bold="true" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+	
+	<string id="B_vs_25" size="10" bold="true" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+	<string id="B_vs_26" size="15" bold="true" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+
+</data>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="it">
+
+	<string id="k_ad_15">Solco attuale</string>
+	<string id="k_ad_2">Annaffiatoio in uso</string>
+
+	<string id="k_ad_1">L'orto di [arg0]</string>
+
+	<string id="k_afff_1">Hai piantato [arg0].</string>
+	<string id="k_aff_1">Vuoi piantare la Bacca?</string>
+
+	<string id="k_ag_2">Qui è già piantata
+[arg0]!</string>
+	<string id="k_ai_1">[arg0] è
+germogliata!</string>
+	<string id="k_aj_1">Lo stelo di [arg0]
+è cresciuto!</string>
+	<string id="k_ak_1">Sono spuntati dei fiori
+di [arg0]!</string>
+	<string id="k_al_1">È tempo di raccogliere
+[arg0]!</string>
+	<string id="k_ada_1">Terreno soffice</string>
+	<string id="k_ae_2">Vuoi piantare delle Bacche
+nel terreno soffice?</string>
+	<string id="k_ag_1">Dettagli</string>
+	<string id="k_aha_1">Il terreno è abbastanza umido!</string>
+
+	<string id="k_ama_1">Hai raccolto [arg0].</string>
+	<string id="k_am_1">Hai raccolto [arg0] x [arg1] .</string>
+	<string id="k_am_3">Le Bacche raccolte sono nel baule.</string>
+
+	<string id="k_ca_1">Non ci sono Bacche nel baule.</string>
+	<string id="k_ca_2">Puoi trovare le Bacche sull'Isola dei sogni o
+facendo scambi tramite la Dispensa doni.</string>
+
+	<string id="k_as_1">È apparso Diglett.</string>
+	<string id="k_at_1">Diglett inizia a dissodare
+l'orto di [arg0].</string>
+	<string id="k_au_1">Diglett non c'è più.</string>
+	<string id="k_ar_1">I solchi sono aumentati.</string>
+	<string id="k_asa_1">Grazie a Diglett, i solchi
+sono diventati [arg0].</string>
+
+	<string id="k_ad_4">Annaffiatoio normale per annaffiare le Bacche.</string>
+	<string id="k_ad_14">k_ad_14</string>
+	<string id="k_ad_6">k_ad_6</string>
+	<string id="k_ad_10">k_ad_10</string>
+	<string id="k_ad_12">k_ad_12</string>
+	<string id="k_ad_8">k_ad_8</string>
+
+	<string id="k_ahb_1">L'annaffiatoio è vuoto. Non potrai annaffiare l'orto di nessuno fino a quando non avrai utilizzato nuovamente il Sincrogioco.</string>
+	<string id="k_ahb_2">L'annaffiatoio si riempirà la prossima volta che userai il Sincrogioco.</string>
+	<string id="k_bb_1">Annaffiature rimaste</string>
+	
+	
+	
+</data>

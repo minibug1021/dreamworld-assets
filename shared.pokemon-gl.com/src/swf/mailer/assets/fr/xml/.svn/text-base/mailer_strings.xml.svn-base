@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+
+<data locale="fr">
+
+
+	<!--
+
+	-->
+
+	<!--共通-->
+
+	<!--メニュー-->
+	<string id="pg_bc_4">Facimél</string>
+	<string id="pg_bc_1">Boîte de réception</string>
+	<string id="pg_bc_2">Messages envoyés</string>
+	<string id="pg_bc_3">Envoyer message</string>
+	<string id="pg_bg_5">Choisir un destinataire</string>
+	<string id="pg_bz_5">Méthode d'écriture</string>
+	<string id="pg_bh_8">Choisir les mots du message</string>
+	<string id="pg_bh_9">Répondre à une question</string>
+
+	<!--受信メール-->
+	<!--一覧-->
+	<string id="pg_bc_5">[DD]/[MM]/[YYYY]</string>
+	<string id="pg_bc_6">[メールタイトル]</string>
+	<string id="pg_bc_7">De [PGLニックネーム]</string>
+	<string id="pg_bc_11">[西暦]</string>
+	<string id="pg_bc_12">[月]</string>
+	
+	<!--詳細-->
+	<string id="pg_bd_1">Supprimer</string>
+	<string id="pg_bd_2">Répondre</string>
+	<string id="pg_bd_3">[DD]/[MM]/[YYYY]</string>
+	<string id="pg_bd_4">[メールタイトル]</string>
+	<string id="pg_bd_5">De [PGLニックネーム]</string>
+	<string id="pg_bd_9">[メール本文]</string>
+	<string id="pg_be_1">Confirmer</string>
+	<string id="pg_be_2">Annuler</string>
+	<string id="pg_be_3">Voulez-vous supprimer ce message ?
+Vous ne pourrez plus jamais le récupérer.</string>
+	
+	
+	<!--送信メール一覧-->
+	<string id="pg_bf_3">Pour [PGLニックネーム]</string>
+
+
+	<!--フレンドリスト-->
+	<string id="pg_bg_6">Choisir un Contact ou un Rêvami</string>
+	<string id="pg_bg_2">Tri par nom</string>
+	<string id="pg_bg_3">Tri par relation</string>
+	
+	<string id="pg_bf_4">Ami</string>
+	<string id="pg_bf_6">Copain d'échange</string>
+	<string id="pg_bf_5">Rêvami</string>
+	<string id="pg_bg_7">Avatar</string>
+	<string id="pg_bg_8">Surnom PGL</string>
+	<string id="pg_bg_9">Relation</string>
+	<string id="pg_bg_10">Action</string>
+	<string id="pg_bg_11">[PGLニックネーム]</string>
+	<string id="pg_bg_15">Envoyer un Facimél</string>
+	
+	<!--メールを送る-->
+	<string id="pg_bz_2">Précédent</string>
+	
+	<!--どんな方法でメールを書きますか?-->
+	<string id="pg_bz_1">Comment rédiger le message ?</string>
+	<string id="pg_bz_3">Choisir les mots du message</string>
+	<string id="pg_bz_4">Répondre à des questions</string>
+
+	<!--言葉を選んでメールを書く-->
+	<string id="pg_bh_6">Écrire à propos de quoi ?</string>
+	<string id="pg_bh_1">[arg0]</string>
+
+	<!--選択ワードテンプレート選択-->
+	<string id="pg_ca_1">Choisissez de quoi vous voulez parler</string>
+	<string id="pg_ca_2">[メールタイトル]</string>
+	<string id="pg_ca_3">Pour [PGLニックネーム]</string>
+	<string id="pg_ca_4">[メール内容]</string>
+
+	<!--選択ワード設定-->
+	<string id="pg_bi_1">Message pour [PGLニックネーム]</string>
+	<string id="pg_bi_2">[メールタイトル]</string>
+	<string id="pg_bi_3">[メール内容]</string>
+
+	<string id="pg_bl_1">Modifier</string>
+	<string id="pg_bl_2">Confirmer</string>
+	<string id="pg_bl_3">Envoyer ce message ?</string>
+	
+	<!--選択ワード設定ウィンドー-->
+	<string id="pg_bj_1">[選択肢]</string>
+	<string id="pg_bj_2">[メール内容]</string>
+	
+	<!--質問に答えてメールを書く-->
+	<string id="pg_bh_6">Écrire à propos de quoi ?</string>
+	<string id="pg_bn_4">Message pour [PGLニックネーム]</string>
+	<string id="pg_bn_3">Retour</string>
+	<string id="pg_bxa_1">Confirmer</string>
+	<string id="pg_bxa_2">Annuler</string>
+
+	<!--メールを送りました。-->
+	<string id="pg_bm_1">Message envoyé
+</string>
+
+	<!--質問メール-->
+	<string id="pg_db_5">Écrire à propos de quoi ?</string>
+	<string id="pg_db_1">L'école</string>
+	
+	
+	<!--質問メール - 確認-->
+	<string id="pg_bn_2">[選択肢]</string>
+	<string id="pg_bn_5">[メールタイトル]</string>
+	<string id="pg_bn_6">[質問内容]</string>
+	<string id="pg_bxa_5">[メール内容]</string>
+	
+	<string id="pg_bg_16">Contacts</string>
+	<string id="pg_bg_17">Rêvamis</string>
+</data>

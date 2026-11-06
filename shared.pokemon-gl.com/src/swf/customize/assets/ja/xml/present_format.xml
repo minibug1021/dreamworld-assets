@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data locale="ja">
+	<string id="pg_az_1" size="12" color="0xFFFFFF" kerning="true" letterSpacing="0" baselineShift="2" />
+	<string id="pg_az_2" size="18" color="0xFFFFFF" kerning="true" letterSpacing="0" bold="true" />
+	<string id="pg_az_3" size="16" color="0x4D4D4D" kerning="true" letterSpacing="0" bold="true" baselineShift="3" />
+	<string id="pg_az_5" size="16" color="0x4D4D4D" kerning="true" letterSpacing="0" bold="true" baselineShift="3" />
+	<string id="pg_az_7" size="16" color="0x4D4D4D" kerning="true" letterSpacing="0" bold="true" baselineShift="3" />
+	<string id="pg_az_9" size="13" color="0xFFFFFF" kerning="true" letterSpacing="0" bold="true" baselineShift="1" />
+	<string id="pg_az1_1" size="14" color="0xFFFFFF" kerning="true" letterSpacing="0" />
+	<string id="pg_az1_2" size="20" color="0x000000" kerning="true" letterSpacing="0" bold="true" />
+	<string id="pg_az1_3" size="14" color="0x666666" kerning="true" letterSpacing="0" />
+	<string id="pg_az1_4" size="14" color="0x666666" kerning="true" letterSpacing="0" />
+	<string id="pg_az1_5" size="14" color="0x666666" kerning="true" letterSpacing="0" />
+	<string id="pg_az1_6" size="14" color="0x666666" kerning="true" letterSpacing="0" />
+	<string id="pg_az1_7" size="14" color="0x666666" kerning="true" letterSpacing="0" />
+	<string id="pg_az1_8" size="14" color="0x666666" kerning="true" letterSpacing="0" />
+	<string id="pg_az2_2" size="20" color="0x000000" kerning="true" letterSpacing="0" bold="true" />
+	<string id="pg_az2_1" size="14" color="0xFFFFFF" kerning="true" letterSpacing="0" />
+	<string id="pg_ay_1" size="16" color="0x000000" kerning="true" letterSpacing="0" />
+</data>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="ja">
+	<string id="y_aa_3">ゆめしま　「ちいさな森」</string>
+	<string id="y_za_1">ゆめしまについた。「ちいさな森」を進むことにした。</string>
+
+	<string id="y_aa_4">ゆめしま　「かがやく海」</string>
+	<string id="y_zb_2">ゆめしまについた。「かがやく海」を進むことにした。</string>
+
+	<string id="y_aa_5">ゆめしま　「ひらけた空」</string>
+	<string id="y_zc_3">ゆめしまについた。「ひらけた空」を進むことにした。</string>
+
+
+
+	<string id="y_ad_10">[ポケモン名]はまいごを探しているみたい。</string>
+	<string id="y_ad_11">[ポケモン名]とまいごを探しますか？</string>
+	<string id="y_ag_5">まいごを見つけられなかった。</string>
+	<string id="y_ag_6">まいごさがしをやめた。</string>
+
+	<string id="y_ad_2">[ポケモン名]はおなかを空かせているみたい。</string>
+	<string id="y_ad_4">[ポケモン名]とアイスクリームづくりをしますか？</string>
+	<string id="y_ag_1">アイスクリームづくりに失敗した。</string>
+	<string id="y_ag_2">アイスクリームづくりをやめた。</string>
+
+	<string id="y_ad_7">[ポケモン名]は空を飛びたいみたい。</string>
+	<string id="y_ad_8">[ポケモン名]とひこうレースに参加しますか？</string>
+	<string id="y_ag_3">ひこうレースでゴールできなかった。</string>
+	<string id="y_ag_4">ひこうレースをやめた。</string>
+
+	<string id="y_ad_13">[ポケモン名]はホエルオーの背中で遊びたいみたい。</string>
+	<string id="y_ad_14">[ポケモン名]とホエルオーのところに遊びにいきますか？</string>
+	<string id="y_ag_7">ホエルオーの背中で楽しく遊べなかった。</string>
+	<string id="y_ag_8">ホエルオーの背中で遊ぶのをやめた。</string>
+
+
+	<string id="y_af_2">ポケモン</string>
+	<string id="y_af_3">特性:</string>
+	<string id="y_af_4">タイプ:</string>
+	<string id="y_af_5">性別:</string>
+	<string id="y_af_6">おぼえているわざ:</string>
+
+	<string id="b_ae_3">はい</string>
+	<string id="b_ae_4">いいえ</string>
+
+	<string id="y_aa_6">自分のホームにもどる</string>
+	<string id="y_aa_1">ゆめの木メーター</string>
+	<string id="y_aa_2">ゆめの木まで
+あと[画面数]</string>
+
+	<string id="y_ai_1">[道具名]を見つけた</string>
+	<string id="y_ah_1">[ポケモン名]はいなくなってしまった…</string>
+	<string id="y_aj_1">[道具名]をたからばこにしまった</string>
+	<string id="y_ag_9">[ポケモン名]はざんねんそうだ。</string>
+	<string id="y_af_7">[ポケモン名]はよろこんでいるみたい！</string>
+	<string id="y_ad_1">[ポケモン名]だ！</string>
+	<string id="y_ad_3">必要なきのみは[きのみの個数]コです。</string>
+	<string id="y_af_1">[ポケモン名]となかよくなりました。</string>
+
+	
+	<string id="y_al_1">データの処理中にエラーが発生しました。</string>
+	
+	
+	
+	
+	
+	
+	<string id="y_ag_12">きもだめしでこわがっちゃった。</string>
+	<string id="y_ag_13">ろうそく消しをやめた。</string>
+	<string id="y_zc_4">ゆめしまについた。「古びた洋館」を進むことにした。</string>
+	<string id="y_zc_5">ゆめしまについた。「ごつごつ山」を進むことにした。</string>
+	<string id="y_aa_16">ゆめしま　「古びた洋館」</string>
+	<string id="y_aa_17">ゆめしま　「ごつごつ山」</string>
+	
+	<string id="y_ad_19">[ポケモン名]とろうそく消しをしますか？</string>
+	<string id="y_ad_20">[ポケモン名]は宝石をあつめたいみたい。</string>
+	<string id="y_ad_21">[ポケモン名]と宝石あつめをしますか？</string>
+	<string id="y_ag_14">宝石あつめに失敗した。</string>
+	<string id="y_ag_15">宝石あつめをやめた。</string>
+	<string id="y_ad_18">[ポケモン名]はきもだめしがしたいみたい。</string>
+</data>
+

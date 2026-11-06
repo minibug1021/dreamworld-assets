@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data locale="ko">	
+	<string id="pg_az_1">소프트웨어 커스터마이즈하기</string>
+	<string id="pg_az_2">커스터마이즈</string>
+	<string id="pg_az_3">C기어스킨</string>
+	<string id="pg_az_5">도감스킨</string>
+	<string id="pg_az_7">뮤지컬공연</string>
+	<string id="pg_az_9">돌아가기</string>
+	
+	<string id="pg_az1_1">이 상태로 커스터마이즈 하기</string>
+	<string id="pg_az1_2">이것으로 괜찮겠습니까?</string>
+	<string id="pg_az1_3">C기어스킨</string>
+	<string id="pg_az1_5">도감스킨</string>
+	<string id="pg_az1_7">뮤지컬공연</string>
+	<string id="pg_az1_9">DS 소프트웨어로
+보내지 않기</string>
+	
+	<string id="pg_az2_2">커스터마이즈를 설정했습니다.</string>
+	<string id="pg_az2_1">OK</string>
+	
+	<string id="pg_ay_1">변경된 것이 없습니다.</string>
+	<string id="pg_ay_2">OK</string>
+	<string id="pg_az3_3">「소프트웨어 커스터마이즈하기」를 눌러야 설정이 완료됩니다만 괜찮겠습니까?</string>
+</data>

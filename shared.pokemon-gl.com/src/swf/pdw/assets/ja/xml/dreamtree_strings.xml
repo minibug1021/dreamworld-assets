@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="ja">
+	<string id="s_aa_2">自分のホームにもどる</string>
+	<string id="t_aa_1">ゆめの木</string>
+	<string id="t_ai_1">ゆめの木にねがいごとをしました。</string>
+	<string id="t_ai_3">とじる</string>
+	<string id="t_ap_1">なかよくなったポケモンはいません。</string>
+	<string id="t_ao_1">たからばこにきのみが入っていません。</string>
+	<string id="t_ah_1">このポケモンとなかまになりたいと、ねがいますか？</string>
+	<string id="t_ag_2">ポケモン名</string>
+	<string id="t_ag_3">特性</string>
+	<string id="t_ag_4">性別</string>
+	<string id="t_ag_5">おぼえているわざ</string>
+	<string id="t_ag_1">なかまになりたいポケモンを選んでください。</string>
+	<string id="t_ag_7">t_ag_7</string>
+	<string id="t_ag_8">｛ポケモン名｝</string>
+	<string id="t_ag_9">t_ag_9</string>
+	<string id="t_ag_10">｛性格｝</string>
+	<string id="t_ag_6">このポケモン</string>
+
+	<string id="t_ac_1">ポケモンのニックネーム:</string>
+	<string id="t_ac_2">PGLニックネーム:</string>
+	<string id="t_ac_3">ポケモン:</string>
+	<string id="t_ac_4">親:</string>
+	<string id="t_ac_5">レベル:</string>
+	<string id="t_ac_6">タイプ:</string>
+	<string id="t_ac_7">性別:</string>
+	<string id="t_ac_8">性格:</string>
+	<string id="t_ac_10">つかまえたボール:</string>
+	<string id="t_ad_1">ゆめの木にねがいごとをしますか？きのみが1コ必要です。</string>
+	<string id="t_af_2">このきのみでいいですか？</string>
+	<string id="t_ai_2">[ポケモン名]となかまになりました。
+部屋の中のなかよしボードをチェックしてください。</string>
+	<string id="t_ao_2">ねがいごとにはきのみが1コ必要です。</string>
+
+</data>

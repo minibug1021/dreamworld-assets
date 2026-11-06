@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="ja">
+
+	<string id="p_aa_1">なかよしボード</string>
+
+	<string id="p_aa_6">つれて行くポケモン</string>
+	<string id="p_aa_5">つれて行ったポケモン</string>
+
+	<string id="p_ah_1">なかまになったポケモンはいません。</string>
+	<string id="p_ai_1">ハイリンクに送ったポケモンはいません。</string>
+	<string id="p_aj_1">なかまになったポケモンを送れませんでした。</string>
+	<string id="p_aj_2">選択状態の保持に失敗しました。</string>
+	<string id="p_aj_7">p_aj_7</string>
+	<string id="p_aj_5">「つれて行くポケモン」のいちらんの読みこみに失敗しました。</string>
+	<string id="p_aj_6">送ったポケモンの一覧取得に失敗しました。</string>
+
+	<string id="p_aa_4">つれて行きたいポケモン
+[arg0]/10 ひき</string>
+
+	<string id="p_ab_5">もどる</string>
+	<string id="p_ag_1">くわしく見る</string>
+	<string id="p_af_1">このポケモンをつれて行く</string>
+
+	<string id="p_ab_1">ポケモン:</string>
+	<string id="p_ab_2">とくせい:</string>
+	<string id="p_ab_6">タイプ:</string>
+	<string id="p_ab_3">性別:</string>
+	<string id="p_ab_4">おぼえている
+わざ:</string>
+
+	<string id="p_aj_4">p_aj_4</string>
+</data>
+

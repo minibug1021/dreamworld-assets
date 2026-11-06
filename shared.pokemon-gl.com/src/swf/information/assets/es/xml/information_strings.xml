@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data locale="es">	
+	<string id="pg_aw_0">Todas</string>
+	<string id="pg_aw_2">Pokémon Global Link</string>
+	<string id="pg_aw_3">Pokémon Dream World</string>
+	<string id="pg_aw_4">Global Battle Union</string>
+	<string id="pg_aw_5">Torneos</string>
+	<string id="pg_aw_6">Avisos importantes</string>
+	<string id="pg_aw_7">Noticias</string>
+	<string id="pg_aw_8">Fecha</string>
+	<string id="pg_aw_9">Categoría</string>
+	<string id="pg_aw_10">Título</string>
+	<string id="pg_aw_14">Ordenar por categorías</string>
+	<string id="pg_bx_1">Información detallada</string>
+	<string id="pg_alh_1">No se ha encontrado ninguna información.</string>
+	<string id="pg_alh_2">Volver</string>
+</data>

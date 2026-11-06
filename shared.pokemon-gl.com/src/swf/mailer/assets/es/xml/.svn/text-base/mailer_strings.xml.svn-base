@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+
+<data locale="es">
+
+
+	<!--
+
+	-->
+
+	<!--共通-->
+
+	<!--メニュー-->
+	<string id="pg_bc_4">Correo Simple</string>
+	<string id="pg_bc_1">Recibidos</string>
+	<string id="pg_bc_2">Enviados</string>
+	<string id="pg_bc_3">Enviar</string>
+	<string id="pg_bg_5">Selecciona el destinatario</string>
+	<string id="pg_bz_5">Selecciona el método de escritura</string>
+	<string id="pg_bh_8">Seleccionando palabras</string>
+	<string id="pg_bh_9">Respondiendo preguntas</string>
+
+	<!--受信メール-->
+	<!--一覧-->
+	<string id="pg_bc_5">[DD]/[MM]/[YYYY]</string>
+	<string id="pg_bc_6">[メールタイトル]</string>
+	<string id="pg_bc_7">De [PGLニックネーム]</string>
+	<string id="pg_bc_11">[西暦]</string>
+	<string id="pg_bc_12">[月]</string>
+	
+	<!--詳細-->
+	<string id="pg_bd_1">Borrar</string>
+	<string id="pg_bd_2">Responder</string>
+	<string id="pg_bd_3">[DD]/[MM]/[YYYY]</string>
+	<string id="pg_bd_4">[メールタイトル]</string>
+	<string id="pg_bd_5">De [PGLニックネーム]</string>
+	<string id="pg_bd_9">[メール本文]</string>
+	<string id="pg_be_1">Borrar</string>
+	<string id="pg_be_2">Cancelar</string>
+	<string id="pg_be_3">¿Quieres borrar este mensaje de correo?
+Una vez borrado, no podrás recuperarlo.</string>
+	
+	
+	<!--送信メール一覧-->
+	<string id="pg_bf_3">Para [PGLニックネーム]</string>
+
+
+	<!--フレンドリスト-->
+	<string id="pg_bg_6">Listas de compis de juego y sueñamigos</string>
+	<string id="pg_bg_2">Por nombre</string>
+	<string id="pg_bg_3">Por relación</string>
+	
+	<string id="pg_bf_4">Amigo</string>
+	<string id="pg_bf_6">Conocido</string>
+	<string id="pg_bf_5">Sueñamigo</string>
+	<string id="pg_bg_7">Avatar</string>
+	<string id="pg_bg_8">Apodo en PGL</string>
+	<string id="pg_bg_9">Relación</string>
+	<string id="pg_bg_10">Acción</string>
+	<string id="pg_bg_11">[PGLニックネーム]</string>
+	<string id="pg_bg_15">Enviar Correo Simple</string>
+	
+	<!--メールを送る-->
+	<string id="pg_bz_2">Anterior</string>
+	
+	<!--どんな方法でメールを書きますか?-->
+	<string id="pg_bz_1">¿De qué manera quieres escribir el correo?</string>
+	<string id="pg_bz_3">Seleccionando palabras</string>
+	<string id="pg_bz_4">Respondiendo preguntas</string>
+
+	<!--言葉を選んでメールを書く-->
+	<string id="pg_bh_6">¿Sobre qué quieres escribir?</string>
+	<string id="pg_bh_1">[arg0]</string>
+
+	<!--選択ワードテンプレート選択-->
+	<string id="pg_ca_1">Elige el tipo de correo que quieres enviar.</string>
+	<string id="pg_ca_2">[メールタイトル]</string>
+	<string id="pg_ca_3">Para [PGLニックネーム]</string>
+	<string id="pg_ca_4">[メール内容]</string>
+
+	<!--選択ワード設定-->
+	<string id="pg_bi_1">Correo para [PGLニックネーム]</string>
+	<string id="pg_bi_2">[メールタイトル]</string>
+	<string id="pg_bi_3">[メール内容]</string>
+
+	<string id="pg_bl_1">Corregir</string>
+	<string id="pg_bl_2">Enviar</string>
+	<string id="pg_bl_3">¿Quieres enviar este mensaje?</string>
+	
+	<!--選択ワード設定ウィンドー-->
+	<string id="pg_bj_1">[選択肢]</string>
+	<string id="pg_bj_2">[メール内容]</string>
+	
+	<!--質問に答えてメールを書く-->
+	<string id="pg_bh_6">¿Sobre qué quieres escribir?</string>
+	<string id="pg_bn_4">Correo para [PGLニックネーム]</string>
+	<string id="pg_bn_3">Atrás</string>
+	<string id="pg_bxa_1">Enviar</string>
+	<string id="pg_bxa_2">Atrás</string>
+
+	<!--メールを送りました。-->
+	<string id="pg_bm_1">Tu correo ha sido enviado.</string>
+
+	<!--質問メール-->
+	<string id="pg_db_5">¿Sobre qué quieres escribir?</string>
+	<string id="pg_db_1">Escuela</string>
+	
+	
+	<!--質問メール - 確認-->
+	<string id="pg_bn_2">[選択肢]</string>
+	<string id="pg_bn_5">[メールタイトル]</string>
+	<string id="pg_bn_6">[質問内容]</string>
+	<string id="pg_bxa_5">[メール内容]</string>
+	
+	<string id="pg_bg_16">Compis de juego</string>
+	<string id="pg_bg_17">Sueñamigos</string>
+</data>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="it">
+	<string id="h_ee_10">Legenda</string>
+	<string id="h_ee_11">Nome PGL</string>
+	<string id="h_ee_12">Soprannome del Pokémon</string>
+	<string id="h_ee_13">Nome Allenatore</string>
+	<string id="h_ee_14">Nome Allenatore</string>
+	<string id="h_ee_15">Nome Allenatore</string>
+	<string id="h_ee_16">Nome Allenatore</string>
+	<string id="h_ha_22">h_ha_22</string>
+	<string id="h_ha_3">Le Bacche rimaste troppo a lungo nel baule sono state portate all'albero dei sogni.</string>
+	<string id="h_ha_4">h_ha_4</string>
+	<string id="h_ha_5">h_ha_5</string>
+	<string id="h_ha_6">h_ha_6</string>
+	<string id="h_ha_7">h_ha_7</string>
+	<string id="h_ha_8">h_ha_8</string>
+	<string id="h_ha_9">h_ha_9</string>
+	<string id="h_ha_10">h_ha_10</string>
+	<string id="h_ha_11">h_ha_11</string>
+	<string id="h_ha_12">h_ha_12</string>
+	<string id="h_ha_13">h_ha_13</string>
+	<string id="h_ha_14">h_ha_14</string>
+	<string id="h_ha_15">Le Bacche dentro il tuo baule sono diminuite
+perché sono state portate all'albero dei sogni.</string>
+	<string id="h_ha_16">Al posto delle Bacche, hai ottenuto Punti sogno.</string>
+	<string id="h_ha_17">Punti sogno:</string>
+	<string id="h_ha_18">Bacca</string>
+	<string id="h_ha_19">N.</string>
+	<string id="h_ha_20">* Le Bacche rimanenti sono dentro il baule in casa.</string>
+	<string id="h_ha_21">Chiudi</string>
+
+	<string id="y_aa_18">La Grotta Refrigerio dell'Isola dei sogni</string>
+	<string id="y_ad_22">[ポケモン名] vuole divertirsi sul ghiaccio!</string>
+	<string id="y_ad_23">Vuoi giocare assieme a [ポケモン名]?</string>
+	<string id="y_ag_16">Non hai preso abbastanza dolci.</string>
+	<string id="y_ag_17">Hai rinunciato a giocare.</string>
+	<string id="y_zc_6">Eccoti all'Isola dei sogni. Inizia a esplorare la Grotta Refrigerio!</string>
+
+	<string id="y_aa_19">Il Parco Incanto dell'Isola dei sogni </string>
+	<string id="y_ad_24">[ポケモン名] vuole divertirsi sul lago!</string>
+	<string id="y_ad_25">Vuoi giocare assieme a [ポケモン名]?</string>
+	<string id="y_ag_18">Non ce l'hai fatta.</string>
+	<string id="y_ag_19">Hai rinunciato a giocare.</string>
+	<string id="y_zc_7">Eccoti all'Isola dei sogni. Inizia a esplorare il Parco Incanto!</string>
+
+	<string id="y_ad_26">[ポケモン名] è incuriosito dallo scrigno.</string>
+	<string id="y_ad_27">Vuoi aprire lo scrigno con [ポケモン名]?</string>
+	<string id="y_ad_28">Impossibile aprire lo scrigno.</string>
+	<string id="y_ad_29">Hai rinunciato ad aprire lo scrigno.</string>
+
+	<string id="y_ad_30">[ポケモン名] ha sete.</string>
+	<string id="y_ad_31">Vuoi trasportare le bibite con [ポケモン名]?</string>
+	<string id="y_ad_32">Non hai completato il minigioco.</string>
+
+	<string id="Xz_be_5">Ah! Dimenticavo di dirti una cosa importante!</string>
+	<string id="Xz_be_6"><![CDATA[Se non visiti il <span class='emphasis'>Pokémon Dream World</span> per un lungo periodo, le <span class='emphasis'>Bacche</span> dentro il tuo <span class='emphasis'>baule</span> diminuiranno.]]></string>
+	<string id="Xz_be_7">Dalla mia ricerca ho capito che le Bacche diminuiranno se non giochi per circa 100 giorni. Fai quindi molta attenzione!</string>
+	<string id="y_ad_33">Hai rinunciato a giocare.</string>
+	<string id="b_ae_5">OK</string>
+	<string id="t_ao_3">Qualcosa non ha funzionato.
+Il Pokémon scelto non è ancora diventato tuo amico.
+Prova a esprimere un altro desiderio più tardi.
+Per il momento tornerai alla pagina iniziale. </string>
+	<string id="y_ad_34">Mostra i Compagni di gioco</string>
+	<string id="y_ad_35">Lista compagni di gioco</string>
+	<string id="y_ad_36">Per nome</string>
+	<string id="y_ad_37">Per luogo</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+</data>

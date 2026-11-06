@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="de">
+	
+	<string id="h_ca_1">Insel von [PGLニックネーム]</string>
+	<string id="h_ca_2">Fußmatte</string>
+	<string id="h_ca_5">Garten</string>
+	<string id="h_ca_6">Tauschbörse</string>
+	<string id="h_ca_7">Haus betreten</string>
+	<string id="h_ca_8">Fußmatte ansehen</string>
+	
+	<string id="h_ha_1">Insel</string>
+	<string id="h_ha_2">Traumbrücke</string>
+	<string id="fr_aa_1">Traumfreundschaft beantragen</string>
+	<string id="fr_aa_2">Traumfreundschaft beantragt</string>
+	<string id="fr_aa_3">Traumfreundschaft schließen.</string>
+	<string id="fr_aa_4">Haus betreten</string>
+	<string id="fr_aa_5">Zurück auf deine Insel</string>
+	<string id="fr_aa_6">Traumfreundeskarte ansehen</string>
+	<string id="fr_aa_7">Blockieren</string>
+	
+	<string id="bl_a_1">bl_a_1</string>
+	<string id="bl_a_2">bl_a_2</string>
+	<string id="bl_a_3">bl_a_3</string>
+	<string id="bl_a_4">bl_a_4</string>
+	<string id="bl_a_5">bl_a_5</string>
+	<string id="bl_a_6">bl_a_6</string>
+	<string id="bl_a_7">bl_a_7</string>
+	<string id="bl_a_8">bl_a_8</string>
+	<string id="bl_a_9">bl_a_9</string>
+	<string id="bl_a_11">bl_a_11</string>
+	<string id="bl_a_12">bl_a_12</string>
+	
+	<string id="bl_b_1">bl_b_1</string>
+	<string id="bl_b_2">bl_b_2</string>
+	<string id="bl_b_3">bl_b_3</string>
+	
+	<string id="f_ab_1">Traumfreundschaft beantragen?</string>
+	<string id="f_ab_2">Pokémon-Spitzname:</string>
+	<string id="f_ab_3">PGL-Spitzname:</string>
+	<string id="f_ab_4">f_ab_4</string>
+	<string id="f_ab_5">Finder:</string>
+	<string id="f_ab_6">Level:</string>
+	<string id="f_ab_7">Typ:</string>
+	<string id="f_ab_8">Geschlecht:</string>
+	<string id="f_ab_9">Wesen:</string>
+	
+	
+	<string id="f_ab_12">Zurückstellen</string>
+	<string id="f_ab_13">Traumfreundschaft beantragen</string>
+	
+	<string id="f_ac_1">Traumfreundschaft beantragt.</string>
+	<string id="f_ac_2">Bestätigen</string>
+	<string id="f_ac_3">Bei Annahme erfolgt Benachrichtigung.</string>
+	
+	<string id="f_ag_1">Traumfreundschaft bestätigen?</string>
+	<string id="f_ag_2">Pokémon-Spitzname:</string>
+	<string id="f_ag_3">PGL-Spitzname:</string>
+	<string id="f_ag_4">f_ag_4</string>
+	<string id="f_ag_5">Finder:</string>
+	<string id="f_ag_6">Level:</string>
+	<string id="f_ag_7">Typ:</string>
+	<string id="f_ag_8">Geschlecht:</string>
+	<string id="f_ag_9">Wesen:</string>
+	
+	
+	<string id="f_ag_12">Traumfreunde werden</string>
+	<string id="f_ag_13">Zurückstellen</string>
+	
+	<string id="f_ah_1">Traumfreundschaft bestätigt</string>
+	<string id="f_ah_2">O.K.</string>
+	
+	<string id="h_ee_1">Pokémon-Spitzname:</string>
+	<string id="h_ee_2">PGL-Spitzname:</string>
+	<string id="h_ee_3">Pokémon:</string>
+	<string id="h_ee_4">Finder:</string>
+	<string id="h_ee_5">Lv.:</string>
+	<string id="h_ee_6">Typ:</string>
+	<string id="h_ee_7">Geschlecht:</string>
+	<string id="h_ee_8">Wesen:</string>
+	<string id="h_ee_9">Gefangen mit:</string>
+</data>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="es">
+	<string id="y_aa_3">Isla Ensueño: Bosque Pequeño</string>
+	<string id="y_za_1">Ha llegado a Isla Ensueño y ha ido al Bosque Pequeño.</string>
+
+	<string id="y_aa_4">Isla Ensueño: Mar Brillante</string>
+	<string id="y_zb_2">Ha llegado a Isla Ensueño y ha ido al Mar Brillante.</string>
+
+	<string id="y_aa_5">Isla Ensueño: Alto Cielo</string>
+	<string id="y_zc_3">Ha llegado a Isla Ensueño y ha llegado al Alto Cielo.</string>
+
+
+
+	<string id="y_ad_10">[ポケモン名] está buscando
+a otro Pokémon.</string>
+	<string id="y_ad_11">¿Quieres jugar a Pokémon perdido con [ポケモン名]?</string>
+	<string id="y_ag_5">No has encontrado al Pokémon.</string>
+	<string id="y_ag_6">Has dejado de buscar al Pokémon.</string>
+
+	<string id="y_ad_2">[ポケモン名]
+está hambriento.
+</string>
+	<string id="y_ad_4">¿Quieres jugar a Maestro heladero con [ポケモン名]?</string>
+	<string id="y_ag_1">No has hecho un buen helado.</string>
+	<string id="y_ag_2">Has dejado de hacer helado.</string>
+
+	<string id="y_ad_7">[ポケモン名] quiere
+volar por el cielo.</string>
+	<string id="y_ad_8">¿Quieres jugar a Carrera aérea con [ポケモン名]?</string>
+	<string id="y_ag_3">No has alcanzado la meta.</string>
+	<string id="y_ag_4">Has abandonado la carrera.</string>
+
+	<string id="y_ad_13">[ポケモン名] quiere jugar
+con Wailord.</string>
+	<string id="y_ad_14">¿Quieres jugar a Diversión a chorro con [ポケモン名]?</string>
+	<string id="y_ag_7">No has superado el juego de Wailord.</string>
+	<string id="y_ag_8">Has dejado de jugar con Wailord.</string>
+
+
+	<string id="y_af_2">Pokémon:</string>
+	<string id="y_af_3">Habilidad:</string>
+	<string id="y_af_4">Tipo:</string>
+	<string id="y_af_5">Sexo:</string>
+	<string id="y_af_6">Mov. Aprendidos:</string>
+
+	<string id="b_ae_3">SÍ</string>
+	<string id="b_ae_4">NO</string>
+
+	<string id="y_aa_6">Volver a mi casa</string>
+	<string id="y_aa_1">Cuentapasos</string>
+	<string id="y_aa_2">Hasta el Árbol de los Sueños
+te quedan: [画面数]</string>
+	
+
+	<string id="y_ai_1">Has encontrado [道具名].</string>
+	<string id="y_ah_1">[ポケモン名] se ha marchado.</string>
+	<string id="y_aj_1">Has guardado [道具名] en el cofre.</string>
+	<string id="y_ag_9">[ポケモン名] está decepcionado.</string>
+	<string id="y_af_7">¡[ポケモン名] está contento!</string>
+	<string id="y_ad_1">¡Es un [ポケモン名]!</string>
+	<string id="y_ad_3">Bayas necesarias: [きのみの個数]</string>
+	<string id="y_af_1">Te has hecho amigo de [ポケモン名].</string>
+
+	
+	<string id="y_al_1">Se ha producido un error mientras se estaban procesando los datos.</string>
+	
+	
+	
+	
+	
+	
+	
+	
+	<string id="y_ag_12">Te has asustado.</string>
+	<string id="y_ag_13">Has dejado de apagar velas.</string>
+	<string id="y_zc_4">Has llegado a Isla Ensueño y has ido a la Villa Antigua.</string>
+	<string id="y_zc_5">Has llegado a Isla Ensueño y has ido al Monte Escarpado.</string>
+	<string id="y_aa_16">Isla Ensueño: Villa Antigua</string>
+	<string id="y_aa_17">Isla Ensueño: Monte Escarpado</string>
+	
+	<string id="y_ad_19">¿Quieres apagar velas con [ポケモン名]?</string>
+	<string id="y_ad_20">[ポケモン名] quiere reunir gemas.</string>
+	<string id="y_ad_21">¿Quieres reunir gemas con [ポケモン名]?</string>
+	<string id="y_ag_14">No has encontrado gemas.</string>
+	<string id="y_ag_15">Has dejado de reunir gemas.</string>
+	<string id="y_ad_18">[ポケモン名] quiere probar su valor.</string>
+</data>
+

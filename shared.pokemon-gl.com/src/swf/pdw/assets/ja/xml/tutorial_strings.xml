@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="ja">
+	<string id="Xz_aa_1">ようこそ！</string>
+	<string id="Xz_ab_1"><![CDATA[アタシは <span class='emphasis'>マコモ</span>
+ごらんのとおりの 研究家]]></string>
+	<string id="Xz_ac_1">アタシの　研究の結果
+なんと ポケモンの 見た ゆめを 体験できるように　なったの！</string>
+	<string id="Xz_ad_1"><![CDATA[その名も <span class='emphasis'>ポケモンドリームワールド</span>！]]></string>
+	<string id="Xz_ae_1"><![CDATA[<span class='emphasis'>ゲームシンク</span>って
+ゆめのけむりを りようして
+ねむっている ポケモンの きおくを 取り出せるように なったの！]]></string>
+	<string id="Xz_af_1"><![CDATA[さらに すごいことが わかって
+<span class='emphasis'>ゲームシンク</span>で ねむらせた ポケモンは
+ねむっている あいだに ゆめを見るの]]></string>
+	<string id="Xz_ag_1"><![CDATA[<span class='emphasis'>ゲームシンク</span>で ねむらせた ポケモンを 起こすと
+その ポケモンが 見た ゆめは イッシュ地方の 中心に ある 
+<span class='emphasis'>ハイリンク</span>という 空間で げんじつと なっているのよ！！]]></string>
+	<string id="Xz_ah_1"><![CDATA[<span class='emphasis'>ゲームシンク</span>って すごいでしょ！]]></string>
+	<string id="Xz_ai_1"><![CDATA[この<span class='emphasis'>ポケモンドリームワールド</span>では <span class='emphasis'>ゲームシンクＩＤコード</span>を 
+<span class='emphasis'>ポケモングローバルリンク</span>に 登録すると
+ねむらせた ポケモンが 見ている ゆめの世界を 体験することが できるのよ！]]></string>
+	<string id="Xz_aj_1"><![CDATA[あら あなたはまだ <span class='emphasis'>ゲームシンクＩＤコード</span>を 登録していないようね]]></string>
+	<string id="Xz_ak_1"><![CDATA[<span class='emphasis'>ゲームシンクＩＤコード</span>は『ポケットモンスターブラック・ホワイト』か『ポケットモンスター
+ブラック２・ホワイト２』で <span class='emphasis'>タイトルメニュー</span> → <span class='emphasis'>ゲームシンクせってい</span>から 確認できます
+→<a href='event:MouseEvent' id='about_gamesync_idcode'><span class='emphasis'>ゲームシンクＩＤコード</span><span class='textlink'>についてくわしく読む</span></a>]]></string>
+	<string id="Xz_al_1"><![CDATA[<span class='emphasis'>ゲームシンクＩＤコード</span>を <span class='emphasis'>ポケモングローバルリンク</span>の <span class='emphasis'>マイページ</span>から]]></string>
+	
+	<string id="Xz_ao_1"><![CDATA[<span class='emphasis'>ゲームシンク</span>で ポケモンを ねむらせるためには
+『ポケットモンスターブラック・ホワイト』または
+『ポケットモンスターブラック２・ホワイト２』で <span class='emphasis'>Cギア</span>を 起動してね！]]></string>
+	<string id="Xz_ap_1"><![CDATA[<span class='emphasis'>Cギア</span>の 画面にある <span class='emphasis'>Wi-Fi</span>を タッチして ひょうじされる
+<span class='emphasis'>ゲームシンク</span>という ボタンで ねむらせる ポケモンを えらんでね。]]></string>
+	<string id="Xz_aq_1"><![CDATA[<span class='emphasis'>ポケモンドリームワールド</span>で ゆめの世界を楽しんだあとは
+ねむっている ポケモンを 起こしましょう]]></string>
+	<string id="Xz_ar_1"><![CDATA[<span class='emphasis'>ゲームシンク</span>で ねむらせた ポケモンを 起こしたあと
+<span class='emphasis'>Cギア</span>で <span class='emphasis'>ハイリンク</span>に 行くと 
+ポケモンが 見た ゆめが げんじつに なってるわ！]]></string>
+	<string id="Xz_as_1"><![CDATA[そうそう ひとつだけ 注意しておくね
+<span class='emphasis'>ゲームシンク</span>は 動かすのに ぼうだいな エネルギーを つかうのよ
+だから １日に １回しか ポケモンを ねむらせられないの]]></string>
+	<string id="Xz_at_1">そして この システムは まだ開発中… ねむらせられない ポケモンが いるのよ</string>
+	<string id="Xz_au_1">でも アタシの研究は 世界中の ユーザーが 送ってくれる レポートで 毎日 進んで いるのよ！
+これからも いろいろな ポケモンが ねむれるように していくわ！</string>
+	<string id="Xz_aw_1"><![CDATA[<span class='emphasis'>ポケモンドリームワールド</span>で さいしょに たどり着くのが ここ
+アタシは <span class='emphasis'>ホーム</span>と よんでいるわ]]></string>
+	<string id="Xz_ax_1">アタシから とくべつに 家を プレゼントするわよ！ 大事にしてネ！</string>
+	<string id="Xz_ba_1"><![CDATA[ほかにも <span class='emphasis'>ポケモンドリームワールド</span>では
+<span class='emphasis'>きのみ</span>を 育てたり だれかの<span class='emphasis'>ホーム</span>に あそびに行ったり
+<span class='emphasis'>ゆめしま</span>という ポケモンたちの 住む 島を たんけんできるのよ。]]></string>
+	<string id="Xz_bb_1"><![CDATA[あなたに <span class='emphasis'>きのみ</span>を プレゼントしたので 育ててみてね！]]></string>
+	<string id="Xz_bd_1"><![CDATA[いじょう ゆめ見るおとめの
+<span class='emphasis'>マコモ</span>さんの せつめいでした！]]></string>
+	
+	<string id="Xz_bf_1"><![CDATA[<span class='emphasis'>ゲームシンク</span>で ポケモンを ねむらせるためには
+ゲームソフトで <span class='emphasis'>Cギア</span>を 起動してね！]]></string>
+	<string id="Xz_bg_1"><![CDATA[<span class='emphasis'>Cギア</span>の 画面にある <span class='emphasis'>Wi-Fi</span>を タッチして ひょうじされる
+<span class='emphasis'>ゲームシンク</span>という ボタンで ねむらせる ポケモンを えらんでね。]]></string>
+	<string id="Xz_bh_1"><![CDATA[<span class='emphasis'>ポケモンドリームワールド</span>で ゆめの世界を楽しんだあとは
+ねむっている ポケモンを 起こしましょう]]></string>
+	<string id="Xz_bi_1"><![CDATA[<span class='emphasis'>ゲームシンク</span>で ねむらせた ポケモンを 起こしたあと
+<span class='emphasis'>Cギア</span>で <span class='emphasis'>ハイリンク</span>に 行くと 
+ポケモンが 見た ゆめが げんじつに なってるわ！]]></string>
+	<string id="Xz_bj_1"><![CDATA[そうそう ひとつだけ 注意しておくね
+<span class='emphasis'>ゲームシンク</span>は 動かすのに ぼうだいな エネルギーを つかうのよ
+だから １日に １回しか ポケモンを ねむらせられないの]]></string>
+	<string id="Xz_bk_1">そして この システムは まだ開発中… ねむらせられない ポケモンが いるのよ</string>
+	<string id="Xz_bl_1">でも アタシの研究は 世界中の ユーザーが 送ってくれる レポートで 毎日 進んで いるのよ！
+これからも いろいろな ポケモンが ねむれるように していくわ！</string>
+	<string id="Xz_bm_1"><![CDATA[<span class='emphasis'>ポケモンドリームワールド</span>で さいしょに たどり着くのが ここ
+アタシは <span class='emphasis'>ホーム</span>と よんでいるわ]]></string>
+	<string id="Xz_bn_1">アタシから とくべつに 家を プレゼントするわよ！ 大事にしてネ！</string>
+	<string id="Xz_bo_1"><![CDATA[<span class='emphasis'>ポケモンドリームワールド</span>では
+<span class='emphasis'>きのみ</span>を 育てたり だれかの<span class='emphasis'>ホーム</span>に あそびに行ったり
+<span class='emphasis'>ゆめしま</span>という ポケモンたちの 住む 島を たんけんできるのよ。]]></string>
+	<string id="Xz_bp_1"><![CDATA[あなたに <span class='emphasis'>きのみ</span>を プレゼントしたので 育ててみてね！]]></string>
+	<string id="Xz_bq_1"><![CDATA[いじょう ゆめ見るおとめの
+<span class='emphasis'>マコモ</span>さんの せつめいでした！]]></string>
+	<string id="Xz_br_1">ポケモンたちは いったい
+どんな ゆめを みるのかしらね…？</string>
+	<string id="Xz_bs_1">あなたは まだ ねむらせている ポケモンが いないみたいね…</string>
+	<string id="Xz_bt_1"><![CDATA[<span class='emphasis'>ゲームシンク</span>で ポケモンを ねむらせるためには
+ゲームソフトで <span class='emphasis'>Cギア</span>を 起動してね！]]></string>
+	<string id="Xz_bu_1"><![CDATA[<span class='emphasis'>Cギア</span>の 画面にある <span class='emphasis'>Wi-Fi</span>を タッチして ひょうじされる
+<span class='emphasis'>ゲームシンク</span>という ボタンで ねむらせる ポケモンを えらんでね。]]></string>
+	<string id="Xz_bv_1"><![CDATA[<span class='emphasis'>ポケモンドリームワールド</span>で ゆめの世界を楽しんだあとは
+ねむっている ポケモンを 起こしましょう]]></string>
+	<string id="Xz_bw_1"><![CDATA[<span class='emphasis'>ゲームシンク</span>で ねむらせた ポケモンを 起こしたあと
+<span class='emphasis'>Cギア</span>で <span class='emphasis'>ハイリンク</span>に 行くと 
+ポケモンが 見た ゆめが げんじつに なってるわ！]]></string>
+	<string id="Xz_bx_1"><![CDATA[そうそう ひとつだけ 注意しておくね
+<span class='emphasis'>ゲームシンク</span>は 動かすのに ぼうだいな エネルギーを つかうのよ
+だから １日に １回しか ポケモンを ねむらせられないの]]></string>
+	<string id="Xz_by_1">そして この システムは まだ開発中… ねむらせられない ポケモンが いるのよ</string>
+	<string id="Xz_bz_1">でも アタシの研究は 世界中の ユーザーが 送ってくれる レポートで 毎日 進んで いるのよ！
+これからも いろいろな ポケモンが ねむれるように していくわ！</string>
+	<string id="Xz_ca_1"><![CDATA[ポケモンを ねむらせてから 
+<span class='emphasis'>ポケモンドリームワールド</span>に 来てね]]></string>
+	<string id="Xv_aa_1"><![CDATA[ここが あなたの家
+この島は <span class='emphasis'>ホーム</span>と よばれています]]></string>
+	<string id="Xv_ab_1"><![CDATA[<span class='emphasis'>ホーム</span>では いろいろな ことが できるのよ！]]></string>
+	<string id="Xv_ac_1">←→↑↓ボタンを 押すと 移動できるわ！</string>
+	<string id="Xv_ad_1"><![CDATA[<span class='emphasis'>きのみ</span>を 育てたり]]></string>
+	<string id="Xv_ae_1"><![CDATA[ほかのユーザーと <span class='emphasis'>どうぐ</span>や <span class='emphasis'>きのみ</span>の こうかんを したり できます]]></string>
+	<string id="Xv_af_1"><![CDATA[ほかにも <span class='emphasis'>ゆめしま</span>への かけはしを わたると <span class='emphasis'>ゆめしま</span>に 行くことも できるのよ！]]></string>
+	<string id="Xv_ag_1"><![CDATA[家の <span class='emphasis'>ドア</span>を押すと 部屋の中に 入ることが できるのよ]]></string>
+	<string id="Xv_ah_1"><![CDATA[家の前にあるのは <span class='emphasis'>あしあとマット</span>
+あなたの <span class='emphasis'>ホーム</span>に 遊びに 来た ポケモンの あしあとが つくのよ！]]></string>
+	<string id="Xv_ai_1">左上の 「ゆめともマップを見る」ボタンを 押してみて！</string>
+	<string id="Xv_aj_1"><![CDATA[あなたの <span class='emphasis'>ゆめとも</span>の <span class='emphasis'>ホーム</span>が 見えるわよ！]]></string>
+	<string id="Xv_ak_1"><![CDATA[この「◎」ボタンを 押すと <span class='emphasis'>ポケモンドリームワールド</span>を 終了し
+ポケモンを 起こすことが できます]]></string>
+	<string id="Xv_al_1"><![CDATA[「◎」ボタンを 押さないで <span class='emphasis'>ポケモンドリームワールド</span>から 出てしまうと
+ポケモンを 起こすことが できないので 注意してね！]]></string>
+	<string id="Xv_am_1"><![CDATA[<span class='emphasis'>ポケモンドリームワールド</span>で ポケモンの夢を 楽しんでね！]]></string>
+	<string id="Xe_aa_1"><![CDATA[ここには あなたが <span class='emphasis'>ポケモンドリームワールド</span>で ともだちになった <span class='emphasis'>ゆめとも</span>が ひょうじされます]]></string>
+	<string id="Xe_ab_1">マイページで あなたのプロフィールの公開範囲を 確認してね</string>
+	<string id="Xe_ac_1"><![CDATA[プロフィールの 公開範囲を <span class='emphasis'>「全ユーザーに公開」</span>にすると <span class='emphasis'>ゆめとも</span>と コミュニケーションすることが できます
+ポケモンドリームワールドをあそんでいる <span class='emphasis'>どこかの○○さん</span> とも ゆめともになれる チャンスよ！]]></string>
+	<string id="Xf_aa_1"><![CDATA[ここが あなたの <span class='emphasis'>部屋</span>よ
+使い方を せつめい するわね！]]></string>
+	<string id="Xf_ab_1"><![CDATA[これは <span class='emphasis'>たからばこ</span>]]></string>
+	<string id="Xf_ac_1"><![CDATA[あなたが <span class='emphasis'>ポケモンドリームワールド</span>で 集めた <span class='emphasis'>きのみ</span>や <span class='emphasis'>どうぐ</span>が 入る箱よ]]></string>
+	<string id="Xf_ad_1"><![CDATA[集めた <span class='emphasis'>きのみ</span>や <span class='emphasis'>どうぐ</span>は
+<span class='emphasis'>ハイリンクの森</span>の 入り口にいる 少年に <span class='emphasis'>ゆめのカケラ</span>として 送ることが できるの]]></string>
+	<string id="Xf_ae_1"><![CDATA[ポケモンが ゆめから さめた時 <span class='emphasis'>ハイリンクの森</span>に 行ってみてね！
+森の入り口にいる 少年から <span class='emphasis'>ゆめのカケラ</span>を うけとることが できるわ]]></string>
+	<string id="Xf_af_1"><![CDATA[これは <span class='emphasis'>なかよしボード</span>]]></string>
+	<string id="Xf_ag_1"><![CDATA[<span class='emphasis'>ゆめしま</span>で 出会った ポケモンと 「なかまになりたい」と おねがいすると
+この<span class='emphasis'>なかよしボード</span>に ねがいをこめた ポケモンの 写真が はられるの]]></string>
+	<string id="Xf_ah_1"><![CDATA[<span class='emphasis'>なかよしボード</span>の ポケモンは 
+<span class='emphasis'>ハイリンク</span>の <span class='emphasis'>森の広場</span>に あらわれます]]></string>
+	<string id="Xf_ai_1"><![CDATA[<span class='emphasis'>森の広場</span>に あらわれた ポケモンは
+きっと あなたの なかまに なってくれるわ]]></string>
+	<string id="Xf_aj_1"><![CDATA[そうそう！
+<span class='emphasis'>なかよしボード</span>に はった 写真が 50まいを こえると <span class='emphasis'>ゆめしま</span>に 行けなくなるから 注意してね！]]></string>
+	<string id="Xf_ak_1"><![CDATA[これは <span class='emphasis'>ゆめカタログ</span>
+あなたの<span class='emphasis'>部屋</span>の <span class='emphasis'>インテリア</span>を 買うことが できるのよ！]]></string>
+	<string id="Xf_al_1"><![CDATA[<span class='emphasis'>インテリア</span>は <span class='emphasis'>きのみ</span>と こうかんすることで 買うことが できます]]></string>
+	<string id="Xf_am_1"><![CDATA[[もようがえをする]ボタンで <span class='emphasis'>インテリア</span>を すきなばしょに おくことが できます]]></string>
+	<string id="Xc_aa_1"><![CDATA[ここは <span class='emphasis'>おすそわけ</span>
+ほかのユーザーと <span class='emphasis'>どうぐ</span>や <span class='emphasis'>きのみ</span>の こうかんを することが できます]]></string>
+	<string id="Xc_ab_1">使い方を せつめいするわね！</string>
+	<string id="Xc_ac_1"><![CDATA[たなの 空いている スペースを押すと あなたの<span class='emphasis'>たからばこ</span>が ひらくわ！]]></string>
+	<string id="Xc_ad_1"><![CDATA[<span class='emphasis'>おすそわけ</span>したい もちものを えらんでね]]></string>
+	<string id="Xc_ae_1">たなに おくことが できたわ！
+遊びに来た ユーザーが こうかん してくれると いいわね！</string>
+	<string id="Xd_ab_1"><![CDATA[ここでは ほかのユーザーと <span class='emphasis'>どうぐ</span>や <span class='emphasis'>きのみ</span>の こうかんを することが できます]]></string>
+	<string id="Xd_ac_1">使い方を せつめいするわね！</string>
+	<string id="Xd_ad_1">ほしいものを えらんでね</string>
+	<string id="Xd_ae_1"><![CDATA[あなたの<span class='emphasis'>たからばこ</span>が ひらくので
+こうかんに 出すものを えらんでね]]></string>
+	<string id="Xd_af_1"><![CDATA[<span class='emphasis'>どうぐ</span>や <span class='emphasis'>きのみ</span>は <span class='emphasis'>ゆめしま</span>で ひろうことが できるのよ
+いろいろなユーザーとの こうかんを 楽しんでね！]]></string>
+	<string id="Xg_aa_1"><![CDATA[ここが <span class='emphasis'>ゆめしま</span>です]]></string>
+	<string id="Xg_ab_1"><![CDATA[<span class='emphasis'>ゆめしま</span>は たくさんのポケモン達が くらしている ふしぎな 場所…]]></string>
+	<string id="Xg_ac_1"><![CDATA[いつも ちがう けしきを 歩いても なぜか 大きな木に たどり着くの
+おとずれた ユーザーたちの間では 「ねがいがかなう <span class='emphasis'>ゆめの木</span>」と よばれて いるわ]]></string>
+	<string id="Xg_ad_1">さあ さっそく行ってみましょう！ 
+たくさんのポケモンと出会えるといいわね！</string>
+	<string id="Xg_ae_1">←→↑↓ボタンを 押すと 移動できるわ！</string>
+	<string id="Xg_ag_1">あっ！ なにか動いているわね
+ポケモンが かくれているかも しれないわ！</string>
+	<string id="Xg_ah_1">動いているところを 押してみましょう</string>
+	<string id="Xg_ai_1">ポケモンが なかよくなりたがって いるわね！</string>
+	<string id="Xg_aj_1">ポケモンと いっしょに 遊びましょう！</string>
+	<string id="Xg_ak_1">じょうずに 遊ぶと ポケモンと なかよく なれるわ！</string>
+	<string id="Xg_al_1">キラキラしているところを 押してみましょう</string>
+	<string id="Xg_am_1"><![CDATA[<span class='emphasis'>どうぐ</span>や <span class='emphasis'>きのみ</span>は <span class='emphasis'>ゆめしま</span>で ひろうことが できるわ]]></string>
+	<string id="Xg_an_1"><![CDATA[ここが<span class='emphasis'>ゆめの木</span>よ… きれいね…]]></string>
+	<string id="Xg_ao_1">ここで ねがいを かなえた ポケモンたちが たくさん いるわ！</string>
+	<string id="Xg_ap_1">おねがいごとの やりかたを せつめい するわね</string>
+	<string id="Xg_aq_1"><![CDATA[ほこらを 押して
+<span class='emphasis'>きのみ</span>を 一つ おきましょう]]></string>
+	<string id="Xg_ar_1">あなたが ゆめしまで なかよくなったポケモンを
+ゆめの木が きおくしているわ</string>
+	<string id="Xg_as_1">どのポケモンと なかまになりたいか 聞かれるから
+なかまになりたい ポケモンを えらんでね</string>
+	<string id="Xg_at_1"><![CDATA[おねがいごとが 終わると <span class='emphasis'>ホーム</span>に もどるのよ]]></string>
+	<string id="Xg_au_1"><![CDATA[あら <span class='emphasis'>ゆめしま</span>で ポケモンと なかよくならなかった みたいね]]></string>
+	<string id="Xg_av_1">けしきの中に 動いているところがあったら 押してみましょう
+ポケモンが かくれているかも しれないわ！</string>
+	<string id="Xg_aw_1">ポケモンに 出会ったら  いっしょに 遊びましょう！</string>
+	<string id="Xg_ax_1">じょうずに 遊ぶと ポケモンと なかよく なれるわ！</string>
+	<string id="Xg_ay_1"><![CDATA[一度 <span class='emphasis'>ホーム</span>に もどって また <span class='emphasis'>ゆめの木</span>に きてね]]></string>
+	<string id="Xa_aa_1"><![CDATA[ここは はたけ
+<span class='emphasis'>きのみ</span>を 育てることが できるのよ]]></string>
+	<string id="Xa_ab_1"><![CDATA[<span class='emphasis'>きのみ</span>は <span class='emphasis'>ポケモンドリームワールド</span>で <span class='emphasis'>インテリア</span>と こうかん したり
+<span class='emphasis'>きのみ</span>を つかった ゲームに 参加できるの]]></string>
+	<string id="Xa_ac_1"><![CDATA[<span class='emphasis'>きのみ</span>の 育て方を せつめいするわね！]]></string>
+	<string id="Xa_ad_1"><![CDATA[<span class='emphasis'>ふかふかの土</span>を押すと 持っている <span class='emphasis'>きのみ</span>を 見ることが できます。 ]]></string>
+	<string id="Xa_ae_1"><![CDATA[育てたい <span class='emphasis'>きのみ</span>を えらんでね]]></string>
+	<string id="Xa_af_1"><![CDATA[<span class='emphasis'>きのみ</span>を 植えたわ！]]></string>
+	<string id="Xa_ag_1">土が かわかないように じょうろで 水をあげて 育てましょう！</string>
+	<string id="Xa_ah_1"><![CDATA[<span class='emphasis'>きのみ</span>を 植えた場所を 押すと]]></string>
+	<string id="Xa_ai_1">じょうろで 水をあげることが できます。</string>
+	<string id="Xa_aj_1"><![CDATA[<span class='emphasis'>きのみ</span>が できたら]]></string>
+	<string id="Xa_ak_1"><![CDATA[<span class='emphasis'>きのみ</span>を とってみましょう！]]></string>
+	<string id="Xa_al_1"><![CDATA[とった <span class='emphasis'>きのみ</span>は <span class='emphasis'>たからばこ</span>に 入るわよ]]></string>
+	<string id="Xa_am_1"><![CDATA[<span class='emphasis'>きのみ</span>を たくさん 育てて <span class='emphasis'>ポケモンドリームワールド</span>を 楽しんでね！]]></string>
+	<string id="Xb_aa_1"><![CDATA[これは <span class='emphasis'>ゆめしま</span>への かけはし
+ここを わたって <span class='emphasis'>ゆめしま</span>に 行くことが できます]]></string>
+	<string id="Xb_ab_1"><![CDATA[<span class='emphasis'>ゆめしま</span>は たくさんのポケモン達が くらしている ふしぎな 場所…]]></string>
+	<string id="Xb_ac_1">ポケモンたちが ゆめの中で どんなくらしを しているのか アタシも まだ研究とちゅう…</string>
+	<string id="Xb_ad_1">あなたが レポートを おくってくれると 研究を 進めることが できるのよ
+これからヨロシクね！</string>
+	<string id="Xz_am_3">いますぐ登録する</string>
+	<string id="Xz_am_4">いまは登録しない</string>
+	<string id="Xz_am_2"><![CDATA[<span class='emphasis'>［ゲームソフトの登録］</span> で登録してね]]></string>
+	<string id="Xz_be_2"><![CDATA[あなた ためしに <span class='emphasis'>ムンナ</span>のゆめを みてみる？]]></string>
+	<string id="Xz_be_3">はい</string>
+	<string id="Xz_be_4">せつめいをもう一度きく</string>
+</data>

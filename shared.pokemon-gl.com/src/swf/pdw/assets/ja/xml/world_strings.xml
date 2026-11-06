@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="ja">
+	<string id="h_da_1">どこかの
+[PGLニックネーム]さん</string>
+	<string id="h_da_2">ゆめともを見る</string>
+	<string id="h_da_3">自分のホームにもどる</string>
+	<string id="h_da_4">[PGLニックネーム]のゆめともマップ</string>
+	
+	<string id="h_db_1">ゆめともリスト</string>
+	<string id="h_db_2">遊びに来た順</string>
+	<string id="h_db_3">名前順</string>
+	<string id="h_db_4">地域順</string>
+</data>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data locale="ja">	
+	<string id="pg_ame_1">問題が起こりました。</string>
+	<string id="pg_amf_1">長いあいだサーバーと通信できませんでした。画面を読みこみなおします。</string>
+	<string id="pg_amg_1">ローカルストレージが必要です。ブラウザをリフレッシュします。</string>	
+	<string id="pg_amb_1">このコンテンツを楽しむためには、「ポケモングローバルリンク」でゲームシンクIDコードを登録してください。</string>
+	<string id="pg_amb_2">ゲームシンクIDコードは、『ポケットモンスターブラック・ホワイト』『ポケットモンスターブラック２・ホワイト２』である程度冒険を進めてCギアを受け取ったあと、初めて「ゲームシンク」をするときに発行されます。
+Cギアの「Wi-Fi」から「ゲームシンク」をタッチして、進めてください。
+発行されたゲームシンクIDコードは、「マイページ」の中にある「ゲームソフトの登録」を選ぶと、「ポケモングローバルリンク」に登録できます。登録は、ポケモンをねむらせた状態でおこなってください。</string>
+	<string id="pg_amb_3">とじる</string>	
+	<string id="pg_amb_4">登録する</string>	
+	<string id="pg_ama_4">pg_ama_4</string>
+	<string id="pg_ama_5">pg_ama_5</string>
+	<string id="pg_ama_1">もどる</string>
+	<string id="pg_ay_2">OK</string>
+	<string id="pg_opa_1">読みこみ中です。</string>
+</data>

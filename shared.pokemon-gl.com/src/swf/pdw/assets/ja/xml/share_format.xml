@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="ja">
+	<string id="s_aj_3" size="12" bold="true" letterSpacing="0"></string>
+	<string id="s_aj_4" size="12" bold="true" letterSpacing="0"></string>
+	<string id="s_an_4" size="12" bold="true" letterSpacing="0"></string>
+	<string id="fs_ab_3" size="12" bold="true" letterSpacing="0"></string>
+
+	<string id="s_aa_1" size="18" bold="true" letterSpacing="0"></string>
+
+	<string id="s_ad_1" size="18" letterSpacing="0"></string>
+
+	<string id="s_af_1" size="18" letterSpacing="0"></string>
+
+	<string id="s_ag_1" size="18" letterSpacing="0"></string>
+	<string id="s_ml_1" size="18" letterSpacing="0"></string>
+
+	<string id="s_ag_3" size="12" letterSpacing="0"></string>
+	<string id="s_ag_4" size="12" letterSpacing="0"></string>
+
+	<string id="s_ac_1" size="11" letterSpacing="0"></string>
+	<string id="s_al_1" size="11" letterSpacing="0"></string>
+	<string id="fs_ad_1" size="11" letterSpacing="0"></string>
+
+	<string id="s_ai_2" size="11" letterSpacing="0"></string>
+	<string id="s_ap_1" size="18" letterSpacing="0"></string>
+	<string id="s_ap_2" size="12" letterSpacing="0"></string>
+	<string id="s_ao_1" size="18" letterSpacing="0"></string>
+	<string id="s_aq_1" size="18" letterSpacing="0"></string>
+	<string id="s_aq_2" size="12" letterSpacing="0"></string>
+	<string id="fs_ad_6" size="12" letterSpacing="0"></string>
+
+	<string id="s_aq_3" size="18" letterSpacing="0"></string>
+	<string id="s_aq_4" size="14" letterSpacing="0"></string>
+
+
+
+	<string id="s_ai_1" size="11" letterSpacing="0"></string>
+
+	<string id="s_aj_1" size="14" letterSpacing="0"></string>
+	<string id="s_aj_2" size="12" letterSpacing="0"></string>
+
+	<string id="s_ag_7" size="12" letterSpacing="0"></string>
+	<string id="s_ag_8" size="12" letterSpacing="0"></string>
+	<string id="s_ag_9" size="12" letterSpacing="0"></string>
+	<string id="s_ag_10" size="12" letterSpacing="0"></string>
+	<string id="s_ag_5" size="11" letterSpacing="0"></string>
+
+
+</data>

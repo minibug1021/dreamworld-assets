@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="es">
+	<string id="s_aa_3">Volver a la casa especial</string>
+	<string id="h_ca_20">Ver el mapa de la casa especial</string>
+	<string id="fr_aa_8">Ir a la casa especial</string>
+	<string id="y_aa_8">Volver a la casa especial</string>
+	<string id="h_ca_11">Ver el tablón</string>
+	<string id="h_ca_12">Más información</string>
+	<string id="sp2_pokemon_comment_01">Es el Purrloin de la casa especial "Película Pokémon". ¡Parece que se divierte con Minccino!</string>
+	<string id="sp2_pokemon_comment_02">Es el Minccino de la casa especial "Película Pokémon". ¡Parece que se divierte con Purrloin!</string>
+	<string id="sp2_pokemon_comment_03">Es el Sigilyph de la casa especial "Película Pokémon".</string>
+	<string id="sp2_pokemon_comment_04">Es el Deerling de la casa especial "Película Pokémon". Parece que le llama la atención lo que hay sobre esa tela.</string>
+	<string id="sp2_pokemon_comment_05">Es el Scraggy de la casa especial "Película Pokémon". ¡Parece muy contento de que venga gente a verlo!</string>
+	<string id="sp2_pokemon_comment_06">Es el Emolga de la casa especial "Película Pokémon". ¡Está mirando hacia atrás!</string>
+	<string id="h_da_5">Ir a la casa especial</string>
+	<string id="h_da_7">Mapa de la casa especial</string>
+	<string id="dialog_36">Cerrar</string>
+
+	<string id="sp2_interior_1_doll">¡Es un muñeco Victini! ¡La contraseña es "Película Pokémon"!</string>
+
+	<string id="y_aa_10"></string>
+	<string id="y_aa_11">Has llegado a Isla Ensueño. ¿Es aquel Victini?</string>
+	<string id="y_aa_12">A [ポケモン名] le llama la atención ese cofre.</string>
+	<string id="y_aa_13">¡Ayuda a [ポケモン名]!</string>
+	<string id="y_aa_14">No has podido abrir el cofre.</string>
+	<string id="y_aa_15">No has abierto el cofre.</string>
+
+	<string id="h_ca_21">Ver el tráiler</string>
+	
+	<string id="fr_aa_16">Entrar</string>
+
+</data>
+
+

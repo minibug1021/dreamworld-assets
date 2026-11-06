@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="de">
+	<string id="b_af_1">Items zur Versendung in die Kontaktebene </string>
+	<string id="b_af_2">Drücke „Pokémon DW verlassen“ und wecke dein Pokémon per Spielsynchro über deine Spielesoftware auf, um vom Jungen am Eingang des Kontaktebenenhains Items zu erhalten.</string>
+	<string id="b_ai_1">Itemliste wurde gelöscht.</string>
+	<string id="b_ah_1">Itemliste löschen?</string>
+	<string id="b_ae_1">Items in die Kontaktebene schicken?</string>
+	<string id="b_ae_2">Drück „Pokémon DW verlassen“ und weck dein
+Pokémon auf, um vom Jungen am Eingang
+des „Kontaktebenenhains“ Items zu erhalten.</string>
+
+	<string id="b_ad_1">Itemsendung in die Kontaktebene</string>
+	<string id="b_ad_2" >Itemname</string>
+	<string id="b_ad_3" >Anzahl</string>
+	<string id="b_ad_4" >Beerenname</string>
+
+	<string id="b_aa_1" >Datum</string>
+	<string id="b_aa_2" >Name</string>
+	<string id="b_aa_3" >Sorte</string>
+	<string id="b_aa_4" >Senden</string>
+
+	<string id="b_az_1">Schließen</string>
+	<string id="b_ae_4">Nein</string>
+	<string id="b_ad_6">Bestätigen</string>
+	<string id="b_ad_7">Abbrechen</string>
+	<string id="b_ae_3">Ja</string>
+	<string id="b_ae_4">Nein</string>
+
+	<string id="k_af_1">Anzahl deiner Beeren</string>
+	<string id="b_aa_6">Schatztruhe</string>
+</data>
+

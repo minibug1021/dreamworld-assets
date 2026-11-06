@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="es">
+	<string id="Xz_aa_1">¡Hola!</string>
+	<string id="Xz_ab_1"><![CDATA[Soy <span class='emphasis'>Oryza</span>.
+Como puedes ver, soy una científica.]]></string>
+	<string id="Xz_ac_1">Aunque parezca increíble, gracias a mis investigaciones, ¡es posible ver y experimentar lo que sueñan los Pokémon!</string>
+	<string id="Xz_ad_1"><![CDATA[¡Podemos acceder a lo que yo he llamado <span class='emphasis'>Pokémon Dream World</span>!]]></string>
+	<string id="Xz_ae_1"><![CDATA[La función <span class='emphasis'>Sincronizar Juego</span> permite extraer los pensamientos de los Pokémon dormidos
+gracias al Humo Onírico.]]></string>
+	<string id="Xz_af_1"><![CDATA[¡Además, he descubierto algo sorprendente!
+¡Los Pokémon que se duermen mediante la función <span class='emphasis'>Sincronizar Juego</span> sueñan un montón de cosas!]]></string>
+	<string id="Xz_ag_1"><![CDATA[Y, al despertar a un Pokémon que se ha dormido usando <span class='emphasis'>Sincronizar Juego</span>, ¡lo que ha soñado se materializa en la Zona Nexo, en el corazón de Teselia!]]></string>
+	<string id="Xz_ah_1"><![CDATA[La función <span class='emphasis'>Sincronizar Juego</span> es asombrosa, ¿verdad?]]></string>
+	<string id="Xz_ai_1"><![CDATA[Si registras tu <span class='emphasis'>Id para Sincronizar</span> en Pokémon Global Link, ¡podrás experimentar los sueños
+de tus Pokémon dormidos en Pokémon Dream World!]]></string>
+	<string id="Xz_aj_1"><![CDATA[Ah, tú todavía no has registrado tu <span class='emphasis'>Id para Sincronizar </span>...]]></string>
+	<string id="Xz_ak_1"><![CDATA[Para comprobar tu <span class='emphasis'>ID para Sincronizar</span>, selecciona <span class='emphasis'>"CONFIG. SINCRONIZAR JUEGO"</span> en el <span class='emphasis'>menú de inicio</span> de tu juego Pokémon Edición Negra, Pokémon Edición Blanca, Pokémon Edición Negra 2 o Pokémon Edición Blanca 2.
+<a href='event:MouseEvent' id='about_gamesync_idcode'><span class='textlink'>Leer información acerca del</span> <span class='emphasis'>ID para Sincronizar.</span></a>]]></string>
+	<string id="Xz_al_1"><![CDATA[Registra tu <span class='emphasis'>ID para Sincronizar</span> en la <span class='emphasis'>página de tu perfil</span>
+de <span class='emphasis'>Pokémon Global Link</span>.
+]]></string>
+	
+	<string id="Xz_ao_1"><![CDATA[Para acostar a un Pokémon mediante la función <span class='emphasis'>Sincronizar Juego</span>, debes tener activado el <span class='emphasis'>C-Gear</span> de tu juego Pokémon Edición Negra, Pokémon Edición Blanca, Pokémon Edición Negra 2 o Pokémon Edición Blanca 2.]]></string>
+	<string id="Xz_ap_1"><![CDATA[Toca <span class='emphasis'>EN LÍNEA</span> en la pantalla del <span class='emphasis'>C-Gear</span>.
+A continuación, toca el botón <span class='emphasis'>SINCRO. JUEGO</span> y selecciona el Pokémon que quieres acostar.]]></string>
+	<string id="Xz_aq_1"><![CDATA[Después de jugar en <span class='emphasis'>Pokémon Dream World</span>, debes despertar a tu Pokémon dormido.]]></string>
+	<string id="Xz_ar_1"><![CDATA[Tras despertar a tu Pokémon con la función <span class='emphasis'>Sincronizar Juego</span>, usa el <span class='emphasis'>C-Gear</span> para ir a la <span class='emphasis'>Zona Nexo</span> y verás como los sueños de tu Pokémon se han materializado.]]></string>
+	<string id="Xz_as_1"><![CDATA[Ah, debería avisarte de algo. La función <span class='emphasis'>Sincronizar Juego</span> consume una cantidad enorme de energía, así que solo se puede utilizar una vez al día para dormir a un Pokémon.]]></string>
+	<string id="Xz_at_1">Además, todavía tengo que perfeccionar el sistema...
+Con algunos Pokémon, aún no he conseguido que funcione.</string>
+	<string id="Xz_au_1">Pero cada día recibo datos de usuarios de todo el mundo, así que ¡seguro que pronto lograré que funcione con más Pokémon!</string>
+	<string id="Xz_aw_1"><![CDATA[Esta isla es el primer lugar al que llegas al entrar en <span class='emphasis'>Pokémon Dream World</span>.
+Un lugar que podrías considerar tu <span class='emphasis'>casa</span>.]]></string>
+	<string id="Xz_ax_1">¡Y es que viene con una casa de regalo incluida!
+Cortesía de una servidora.</string>
+	<string id="Xz_ba_1"><![CDATA[Además, en <span class='emphasis'>Pokémon Dream World</span> puedes visitar las <span class='emphasis'>casas</span>
+de otros jugadores, plantar <span class='emphasis'>Bayas</span> o irte a explorar
+<span class='emphasis'>Isla Ensueño</span>, donde viven muchos Pokémon.]]></string>
+	<string id="Xz_bb_1"><![CDATA[Tienes unas cuantas <span class='emphasis'>Bayas</span> de regalo. ¡Aprovéchalas!]]></string>
+	<string id="Xz_bd_1">Y hasta aquí la explicación de Oryza,
+¡la especialista en sueños!</string>
+	
+	<string id="Xz_bf_1"><![CDATA[Para acostar a un Pokémon mediante la función <span class='emphasis'>Sincronizar Juego</span>,
+debes tener activado el <span class='emphasis'>C-Gear</span> de tu juego Pokémon Edición Negra,
+Pokémon Edición Blanca, Pokémon Edición Negra 2 o Pokémon Edición Blanca 2.]]></string>
+	<string id="Xz_bg_1"><![CDATA[Toca <span class='emphasis'>EN LÍNEA</span> en la pantalla del <span class='emphasis'>C-Gear</span>.
+A continuación, toca el botón <span class='emphasis'>SINCRO. JUEGO</span> y selecciona el Pokémon que quieres acostar.]]></string>
+	<string id="Xz_bh_1"><![CDATA[Después de jugar en <span class='emphasis'>Pokémon Dream World</span>, debes despertar a tu Pokémon dormido.]]></string>
+	<string id="Xz_bi_1"><![CDATA[Tras despertar a tu Pokémon con la función <span class='emphasis'>Sincronizar Juego</span>, usa el <span class='emphasis'>C-Gear</span> para ir a la <span class='emphasis'>Zona Nexo</span> y verás como los sueños de tu Pokémon se han materializado.]]></string>
+	<string id="Xz_bj_1"><![CDATA[Ah, debería avisarte de algo. La función <span class='emphasis'>Sincronizar Juego</span> consume una cantidad enorme de energía, así que solo se puede utilizar una vez al día para dormir a un Pokémon.]]></string>
+	<string id="Xz_bk_1">Además, todavía tengo que perfeccionar el sistema...
+Con algunos Pokémon, aún no he conseguido que funcione.</string>
+	<string id="Xz_bl_1">Pero cada día recibo datos de usuarios de todo el mundo, así que ¡seguro que pronto lograré que funcione con más Pokémon!</string>
+	<string id="Xz_bm_1"><![CDATA[Esta isla es el primer lugar al que llegas al entrar en <span class='emphasis'>Pokémon Dream World</span>.
+Un lugar que podrías considerar tu <span class='emphasis'>casa</span>.]]></string>
+	<string id="Xz_bn_1">¡Y es que viene con una casa de regalo incluida!
+Cortesía de una servidora.</string>
+	<string id="Xz_bo_1"><![CDATA[En <span class='emphasis'>Pokémon Dream World</span> puedes visitar las <span class='emphasis'>casas</span> de otros jugadores, plantar <span class='emphasis'>Bayas</span> o irte a explorar <span class='emphasis'>Isla Ensueño</span>, donde viven muchos Pokémon.]]></string>
+	<string id="Xz_bp_1"><![CDATA[Tienes unas cuantas <span class='emphasis'>Bayas</span> de regalo. ¡Aprovéchalas!]]></string>
+	<string id="Xz_bq_1">Y hasta aquí la explicación de Oryza, ¡la especialista en sueños!</string>
+	<string id="Xz_br_1">¿Qué clase de sueños tendrán los Pokémon?</string>
+	<string id="Xz_bs_1">Tú todavía no has acostado a ningún Pokémon, ¿no?</string>
+	<string id="Xz_bt_1"><![CDATA[Para acostar a un Pokémon mediante la función <span class='emphasis'>Sincronizar Juego</span>,
+debes tener activado el <span class='emphasis'>C-Gear</span> de tu juego Pokémon Edición Negra,
+Pokémon Edición Blanca, Pokémon Edición Negra 2 o Pokémon Edición Blanca 2.]]></string>
+	<string id="Xz_bu_1"><![CDATA[Toca <span class='emphasis'>EN LÍNEA</span> en la pantalla del <span class='emphasis'>C-Gear</span>.
+A continuación, toca el botón <span class='emphasis'>SINCRO. JUEGO</span> y selecciona el Pokémon que quieres acostar.]]></string>
+	<string id="Xz_bv_1"><![CDATA[Después de jugar en <span class='emphasis'>Pokémon Dream World</span>, debes despertar a tu Pokémon dormido.]]></string>
+	<string id="Xz_bw_1"><![CDATA[Tras despertar a tu Pokémon con la función <span class='emphasis'>Sincronizar Juego</span>,
+usa el <span class='emphasis'>C-Gear</span> para ir a la <span class='emphasis'>Zona Nexo</span> y verás como los sueños de tu Pokémon se han materializado.]]></string>
+	<string id="Xz_bx_1"><![CDATA[Ah, debería avisarte de algo. La función <span class='emphasis'>Sincronizar Juego</span> consume una cantidad enorme de energía, así que solo se puede utilizar una vez al día para dormir a un Pokémon.]]></string>
+	<string id="Xz_by_1">Además, todavía tengo que perfeccionar el sistema...
+Con algunos Pokémon, aún no he conseguido que funcione.</string>
+	<string id="Xz_bz_1">Pero cada día recibo datos de usuarios de todo el mundo, así que ¡seguro que pronto lograré que funcione con más Pokémon!</string>
+	<string id="Xz_ca_1"><![CDATA[Vuelve a <span class='emphasis'>Pokémon Dream World</span> cuando hayas acostado a algún Pokémon.]]></string>
+	<string id="Xv_aa_1"><![CDATA[Esta isla es tu <span class='emphasis'>casa</span>.]]></string>
+	<string id="Xv_ab_1"><![CDATA[Hay varias cosas que puedes hacer en tu <span class='emphasis'>casa</span>.]]></string>
+	<string id="Xv_ac_1">Haz clic en los botones ←→↑↓ para desplazarte.</string>
+	<string id="Xv_ad_1"><![CDATA[Plantar <span class='emphasis'>Bayas</span>...]]></string>
+	<string id="Xv_ae_1"><![CDATA[Intercambiar <span class='emphasis'>Bayas</span> y otros <span class='emphasis'>objetos</span>...]]></string>
+	<string id="Xv_af_1"><![CDATA[¡O cruzar el Puente Onírico para ir a <span class='emphasis'>Isla Ensueño</span>!]]></string>
+	<string id="Xv_ag_1"><![CDATA[Haz clic en la <span class='emphasis'>puerta</span> para entrar.]]></string>
+	<string id="Xv_ah_1"><![CDATA[Si otro Pokémon ha venido a visitarte, ¡verás sus huellas en el <span class='emphasis'>felpudo</span> de entrada!]]></string>
+	<string id="Xv_ai_1"><![CDATA[Haz clic en el botón <img/> en la esquina superior izquierda.]]></string>
+	<string id="Xv_aj_1"><![CDATA[¡Mira! ¡Puedes ver las <span class='emphasis'>casas</span> de tus <span class='emphasis'>sueñamigos</span>!]]></string>
+	<string id="Xv_ak_1"><![CDATA[Para salir de <span class='emphasis'>Pokémon Dream World</span> y despertar a tu Pokémon, haz clic en el botón <img/>.]]></string>
+	<string id="Xv_al_1"><![CDATA[Ten cuidado porque, si no haces clic en el botón <img/>, no saldrás correctamente de <span class='emphasis'>Pokémon Dream World</span> y no podrás despertar a tu Pokémon.]]></string>
+	<string id="Xv_am_1"><![CDATA[¡Espero que te diviertas con los sueños de los Pokémon en <span class='emphasis'>Pokémon Dream World</span>!]]></string>
+	<string id="Xe_aa_1"><![CDATA[Aquí verás a tus <span class='emphasis'>sueñamigos</span>, aquellos que has conocido en <span class='emphasis'>Pokémon Dream World</span>.]]></string>
+	<string id="Xe_ab_1">Comprueba las opciones de privacidad de tu perfil.</string>
+	<string id="Xe_ac_1"><![CDATA[Si configuras el nivel de privacidad de tu perfil como <span class='emphasis'>perfil público</span>, podrás comunicarte con <span class='emphasis'>sueñamigos</span> y otros usuarios.]]></string>
+	<string id="Xf_aa_1"><![CDATA[Este es el <span class='emphasis'>interior de tu casa</span>.
+¡Voy a explicarte todo lo que puedes hacer!]]></string>
+	<string id="Xf_ab_1"><![CDATA[Esto es tu <span class='emphasis'>cofre</span>.]]></string>
+	<string id="Xf_ac_1"><![CDATA[Aquí puedes guardar <span class='emphasis'>Bayas</span> y <span class='emphasis'>objetos</span> que hayas conseguido
+en Pokémon Dream World.]]></string>
+	<string id="Xf_ad_1"><![CDATA[Las <span class='emphasis'>Bayas</span> y los <span class='emphasis'>objetos</span> que hayas obtenido puedes enviárselos en forma de <span class='emphasis'>fragmentos de sueño</span> al chico que hay a la entrada del <span class='emphasis'>Bosque Nexo</span>.]]></string>
+	<string id="Xf_ae_1">Ve al Bosque Nexo tras despertar a tu Pokémon y pídele los fragmentos de sueño al chico que hay a la entrada.</string>
+	<string id="Xf_af_1"><![CDATA[Esto es el <span class='emphasis'>Tablón de Pokémon amigos</span>.]]></string>
+	<string id="Xf_ag_1"><![CDATA[Cada vez que pidas un deseo para llevarte contigo uno de los Pokémon que te has encontrado en <span class='emphasis'>Isla Ensueño</span>, su foto aparecerá en el <span class='emphasis'>Tablón de Pokémon amigos</span>.]]></string>
+	<string id="Xf_ah_1"><![CDATA[Los Pokémon del <span class='emphasis'>Tablón de Pokémon amigos</span> aparecerán en un <span class='emphasis'>claro</span> <span class='emphasis'>del Bosque Nexo</span>.]]></string>
+	<string id="Xf_ai_1"><![CDATA[Los Pokémon que aparecen en los <span class='emphasis'>claros del Bosque Nexo</span> tendrán muchas ganas de ser tus amigos.]]></string>
+	<string id="Xf_aj_1"><![CDATA[¡Ah, sí!
+Si tienes 50 fotos en el <span class='emphasis'>Tablón de Pokémon amigos</span>, no podrás ir a <span class='emphasis'>Isla Ensueño</span>, ¡así que ten cuidado!]]></string>
+	<string id="Xf_ak_1"><![CDATA[Esto es el <span class='emphasis'>Catálogo Ensueño</span>.
+¡Puedes elegir y adquirir <span class='emphasis'>diseños</span> para tu <span class='emphasis'>casa</span>!]]></string>
+	<string id="Xf_al_1"><![CDATA[Puedes comprar los <span class='emphasis'>diseños</span> que te gusten a cambio de <span class='emphasis'>Bayas</span>.]]></string>
+	<string id="Xf_am_1"><![CDATA[Si haces clic en el botón <img/>, podrás cambiar de sitio los <span class='emphasis'>diseños</span> que hayas comprado.]]></string>
+	<string id="Xc_aa_1"><![CDATA[Esto es el <span class='emphasis'>expositor</span>.
+Te permite intercambiar <span class='emphasis'>Bayas</span> y <span class='emphasis'>objetos</span> con otros jugadores.]]></string>
+	<string id="Xc_ab_1">Voy a explicarte cómo se utiliza.</string>
+	<string id="Xc_ac_1"><![CDATA[Haz clic en un espacio libre y verás una lista del contenido de tu <span class='emphasis'>cofre</span>.]]></string>
+	<string id="Xc_ad_1"><![CDATA[Elige la <span class='emphasis'>Baya</span> o el <span class='emphasis'>objeto</span> que quieras dejar en el expositor.]]></string>
+	<string id="Xc_ae_1">¡Una vez depositado, otros jugadores pueden intercambiarlo por otra cosa!</string>
+	<string id="Xd_ab_1"><![CDATA[Aquí puedes intercambiar <span class='emphasis'>Bayas</span> y <span class='emphasis'>objetos</span>
+con el otro jugador.]]></string>
+	<string id="Xd_ac_1">Voy a explicarte cómo se utiliza.</string>
+	<string id="Xd_ad_1">Elige lo que quieras llevarte.</string>
+	<string id="Xd_ae_1">A continuación, se abrirá la lista del contenido de tu cofre.
+Elige lo que quieras dejar a cambio.</string>
+	<string id="Xd_af_1"><![CDATA[En <span class='emphasis'>Isla Ensueño</span> puedes encontrar numerosos <span class='emphasis'>objetos</span> y <span class='emphasis'>Bayas</span>.
+¡Ya verás qué divertido es hacer intercambios con otros jugadores!]]></string>
+	<string id="Xg_aa_1"><![CDATA[Esto es <span class='emphasis'>Isla Ensueño</span>.]]></string>
+	<string id="Xg_ab_1">Es un lugar misterioso donde montones de Pokémon viven en armonía.</string>
+	<string id="Xg_ac_1"><![CDATA[Elijas el camino que elijas, al final siempre llegas a un gran árbol.
+Muchos de los que han visitado este lugar lo llaman el <span class='emphasis'>Árbol de los Sueños</span>, que dicen que concede deseos.]]></string>
+	<string id="Xg_ad_1">¡Venga, ve a explorarla tú también!
+¡Seguro que te encuentras con montones de Pokémon!</string>
+	<string id="Xg_ae_1">Haz clic en los botones ←→↑↓ para desplazarte.</string>
+	<string id="Xg_ag_1">¡Ah! ¡Algo se mueve!
+¡Quizá sea un Pokémon escondido!</string>
+	<string id="Xg_ah_1">Haz clic en la zona que se mueve.</string>
+	<string id="Xg_ai_1">¡Parece que le caes bien a este Pokémon!</string>
+	<string id="Xg_aj_1">¡Venga, juega con él!</string>
+	<string id="Xg_ak_1">¡Si lo haces bien, conseguirás que sea tu amigo!</string>
+	<string id="Xg_al_1">Haz clic en las zonas donde veas unos destellos.</string>
+	<string id="Xg_am_1"><![CDATA[En <span class='emphasis'>Isla Ensueño</span> puedes recoger <span class='emphasis'>Bayas</span> y <span class='emphasis'>objetos</span>.]]></string>
+	<string id="Xg_an_1"><![CDATA[Este es el <span class='emphasis'>Árbol de los Sueños</span>.
+Es precioso, ¿verdad?]]></string>
+	<string id="Xg_ao_1">En este árbol verás muchos otros Pokémon que también han pedido deseos.</string>
+	<string id="Xg_ap_1">Voy a explicarte cómo pedir un deseo.</string>
+	<string id="Xg_aq_1"><![CDATA[Haz clic en el hueco del árbol y deja una <span class='emphasis'>Baya</span>.]]></string>
+	<string id="Xg_ar_1"><![CDATA[Verás una lista de los Pokémon con los que hayas trabado amistad en <span class='emphasis'>Isla Ensueño</span>.
+]]></string>
+	<string id="Xg_as_1">Elige el Pokémon que quieras llevarte contigo.</string>
+	<string id="Xg_at_1"><![CDATA[Después de pedir un deseo, volverás a tu <font>casa</font>. Si no hay Pokémon en la lista cuando <span class='emphasis'>hagas clic</span> en el hueco del árbol, volverás a tu <font>casa</font> sin poder pedir un deseo.]]></string>
+	<string id="Xg_au_1"><![CDATA[Oh... Parece que no has trabado amistad con ningún Pokémon de <span class='emphasis'>Isla Ensueño</span>.]]></string>
+	<string id="Xg_av_1">Si ves algún elemento del paisaje moviéndose, haz clic sobre él.
+¡Es posible que haya un Pokémon escondido detrás!</string>
+	<string id="Xg_aw_1">¡Cuando te encuentres con algún Pokémon, juega con él!</string>
+	<string id="Xg_ax_1">¡Si lo haces bien, conseguirás que sea tu amigo!</string>
+	<string id="Xg_ay_1"><![CDATA[Regresa a tu casa y vuelve al <span class='emphasis'>Árbol de los Sueños</span>.]]></string>
+	<string id="Xa_aa_1"><![CDATA[Esto es la huerta, donde puedes plantar <span class='emphasis'>Bayas</span>.]]></string>
+	<string id="Xa_ab_1"><![CDATA[En <span class='emphasis'>Pokémon Dream World</span> puedes usar las <span class='emphasis'>Bayas</span> para participar en minijuegos o intercambiarlas por <span class='emphasis'>diseños</span>.]]></string>
+	<string id="Xa_ac_1"><![CDATA[Voy a explicarte cómo se cultivan las <span class='emphasis'>Bayas</span>.]]></string>
+	<string id="Xa_ad_1"><![CDATA[Haz clic en uno de los <span class='emphasis'>hoyos de tierra blanda</span> y verás una lista de las <span class='emphasis'>Bayas</span> que tienes.]]></string>
+	<string id="Xa_ae_1"><![CDATA[Elige la <span class='emphasis'>Baya</span> que quieras plantar.]]></string>
+	<string id="Xa_af_1">¡Y ya está plantada! ¡Así de fácil!</string>
+	<string id="Xa_ag_1">Procura regar la tierra para que no esté seca.</string>
+	<string id="Xa_ah_1"><![CDATA[Para usar la regadera, haz clic en el lugar donde está plantada la <span class='emphasis'>Baya</span>.]]></string>
+	<string id="Xa_ai_1">¡No podría ser más sencillo!</string>
+	<string id="Xa_aj_1"><![CDATA[Verás que muy pronto aparecerán nuevas <span class='emphasis'>Bayas</span>.]]></string>
+	<string id="Xa_ak_1">¡Y podrás recolectarlas!</string>
+	<string id="Xa_al_1"><![CDATA[Las <span class='emphasis'>Bayas</span> recolectadas se guardarán en el <span class='emphasis'>cofre</span>.]]></string>
+	<string id="Xa_am_1"><![CDATA[¡En <span class='emphasis'>Pokémon Dream World</span> puedes cultivar <span class='emphasis'>Bayas</span> a montones!]]></string>
+	<string id="Xb_aa_1"><![CDATA[Este es el puente que te lleva a <span class='emphasis'>Isla Ensueño</span>.]]></string>
+	<string id="Xb_ab_1"><![CDATA[<span class='emphasis'>Isla Ensueño</span> es un lugar misterioso donde montones de Pokémon
+viven en armonía.]]></string>
+	<string id="Xb_ac_1">Todavía estoy estudiando el comportamiento de los Pokémon en sus sueños.</string>
+	<string id="Xb_ad_1">Y tú puedes echarme una mano en mis investigaciones.
+Cada vez que sincronices tu juego Pokémon, me proporcionarás nuevos datos. ¡Muchas gracias por tu ayuda!</string>
+	<string id="Xz_am_3">Registrar ahora</string>
+	<string id="Xz_am_4">Registrar luego</string>
+	<string id="Xz_am_2"><![CDATA[Haz clic en <span class='emphasis'>"Registrar tarjeta de juego"</span>.]]></string>
+	<string id="Xz_be_2"><![CDATA[¿Te gustaría ver los sueños de este <span class='emphasis'>Munna</span> para probar?]]></string>
+	<string id="Xz_be_3">Sí</string>
+	<string id="Xz_be_4">Escuchar de nuevo</string>
+</data>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="ja">
+	<fonts>
+		<font id="f01" name="FFF Compact" ></font>
+		<font id="f02" name="FFF Corporate Bold" ></font>
+	</fonts>
+
+	<string id="h_cb_1" size="12" bold="true"  letterSpacing="0" baselineShift="2" />
+	<string id="h_cb_2" size="18" bold="true"  letterSpacing="0"/>
+	<string id="h_cb_3" size="12" bold="true"  letterSpacing="0" baselineShift="2" />
+	<string id="h_cc_1" size="16" bold="true"  letterSpacing="0"/>
+	<string id="h_cc_2" size="12" bold="true"  letterSpacing="0" baselineShift="3" />
+	<string id="h_cc_3" size="12" bold="true"  letterSpacing="0" baselineShift="3" />
+	<string id="h_cc_4" size="12" bold="true"  letterSpacing="0"/>
+	
+</data>

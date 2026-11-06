@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="en">
+	<fonts>
+		<font id="f01" name="FFF Compact"></font>
+		<font id="f02" name="FFF Corporate Bold"></font>
+                <font id="f03" font="advanced" gridFitType="pixel" sharpness="0" thickness="156" ></font>
+                <font id="f04" font="advanced" gridFitType="pixel" sharpness="0" thickness="100" ></font>
+
+	</fonts>
+
+	<string id="p0011" size="8" color="0xff0000" kerning="true" letterSpacing="7"/>
+	<string id="p0012" size="10" bold="true" color="0x00ff00" kerning="true" letterSpacing="5"/>
+	<string id="p0013" size="12" color="0x0000ff" kerning="true" letterSpacing="3"/>
+	<string id="p0014" size="18" bold="true" color="0x999999" kerning="true" letterSpacing="1"/>
+
+	<string id="p0021" size="8" color="0xff0000" kerning="true" letterSpacing="7"/>
+	<string id="p0022" size="10" bold="true" color="0x00ff00" kerning="true" letterSpacing="5"/>
+	<string id="p0023" size="12" color="0x0000ff" kerning="true" letterSpacing="3"/>
+	<string id="p0024" size="18" bold="true" color="0x999999" kerning="true" letterSpacing="1"/>
+
+	<string id="p0031" size="8" color="0xff0000" kerning="true" letterSpacing="7"/>
+	<string id="p0032" size="10" bold="true" color="0x00ff00" kerning="true" letterSpacing="5"/>
+	<string id="p0033" size="12" color="0xff00ff" kerning="true" letterSpacing="3"/>
+	<string id="p0034" size="11" bold="true" color="0xff0000" kerning="true" letterSpacing="1"/>
+
+	<string id="p0041" size="8" letterSpacing="1"/>
+	<string id="p0042" size="10" letterSpacing="1"/>
+	<string id="p0043" size="12" letterSpacing="1"/>
+	<string id="p0044" size="18" letterSpacing="1"/>
+	
+	//メニュー
+	<string id="pg_bc_4" bold="true" size="18" letterSpacing="1" font="f03"/>
+	<string id="pg_bc_1" bold="true" size="42" letterSpacing="1" font="f03"/>
+	<string id="pg_bc_2" bold="true" size="42" letterSpacing="1" font="f03"/>
+	<string id="pg_bc_3" bold="true" size="42" letterSpacing="1" font="f03"/>
+	<string id="pg_bg_5" bold="true" size="18" letterSpacing="1" font="f03"/>
+	<string id="pg_bz_5" bold="true" size="18" letterSpacing="1" font="f03"/>
+	<string id="pg_bh_8" bold="true" size="18" letterSpacing="1" font="f03"/>
+	<string id="pg_bh_9" bold="true" size="18" letterSpacing="1" font="f03"/>
+
+
+	<!--受信メール-->
+	<!--一覧-->
+	<string id="pg_bc_5" size="11" letterSpacing="1"/>
+	<string id="pg_bc_6" size="18" letterSpacing="1" font="f04"/>
+	<string id="pg_bc_7" size="10" letterSpacing="1"/>
+	<string id="pg_bc_11" bold="true" size="13" letterSpacing="1"/>
+	<string id="pg_bc_12" size="33" letterSpacing="1"/>
+	
+	
+	
+	<!--詳細-->
+	<string id="pg_bd_1" size="12" />
+	<string id="pg_bd_2" size="12" />
+	<string id="pg_be_1" size="12" />
+	<string id="pg_be_2" size="12" />
+	<string id="pg_be_3" size="12" />
+	
+	<!--送信メール-->
+	<string id="mailer_sent_0001" size="11" />
+
+	<!--メールを送る-->
+	<string id="pg_bz_2" size="12" />
+
+	<!--フレンドリスト-->
+	<string id="pg_bg_6" bold="true" size="18" />
+	<string id="pg_bg_2" size="11" baselineShift="-2" />
+	<string id="pg_bg_3" size="11" baselineShift="-2" />
+	<string id="pg_bf_4" size="11" />
+	<string id="pg_bf_6" size="11" />
+	<string id="pg_bf_5" size="11" />
+	<string id="pg_bg_7" size="11" />
+	<string id="pg_bg_8" size="11" />
+	<string id="pg_bg_9" size="11" />
+	<string id="pg_bg_10" size="11" />
+	<string id="pg_bg_15" size="11" />
+
+	<string id="pg_bg_16" />
+	<string id="pg_bg_17" />
+
+	<!--どんな方法でメールを書きますか?-->
+	<string id="pg_bz_1" bold="true" size="22" />
+	<string id="pg_bz_3" size="28" font="f04" baselineShift="5" />
+	<string id="pg_bz_4" size="28" font="f04" baselineShift="5" />
+
+	<!--言葉を選んでメールを書く-->
+	<string id="pg_bh_6" bold="true" size="22" />
+	<string id="mailer_make_select_word_0002">について</string>
+	<string id="pg_bn_4" size="14" />
+	<string id="pg_ca_1" bold="true" size="22" />
+	<string id="pg_bi_1" size="14" />
+	<string id="pg_bl_1" size="12" baselineShift="2" />
+	<string id="pg_bl_2" size="12" baselineShift="1" />
+	
+	<!--質問に答えてメールを書く-->
+	<string id="pg_db_5" bold="true" size="22" />
+	
+	
+	<string id="mailer_make_select_question_0002" size="11" />
+	<string id="pg_bn_3" size="12" baselineShift="1" />
+	<string id="pg_bl_3" size="24" />
+	<string id="pg_bxa_1" size="12" baselineShift="1" />
+	<string id="pg_bxa_2" size="12" baselineShift="1" />
+
+	<!--メールを送りました。-->
+	<string id="pg_bm_1" bold="true" size="18" />
+
+	<!--ダイナミックテキスト-->
+	<!--受信メール-->
+
+	<!--送信メール-->
+	<string id="pg_bf_3" size="10"/>
+
+	<!--メール本文-->
+	<string id="pg_bd_9" bold="true" size="14" />
+	<string id="pg_bd_3" size="11" />
+	<string id="pg_bd_5" size="10" />
+	<string id="pg_bd_4" size="22" />
+
+	<!--メール作成　友達選択-->
+	<string id="pg_bg_11" size="12" />
+		
+	<!--メール作成-->	
+	
+	<!--選択メール-->
+	<string id="pg_db_1" bold="true" size="27" font="f04"/>
+	<string id="pg_bh_1" bold="true" size="25" font="f04"/>
+	
+	<!--選択ワードテンプレート選択-->
+	<string id="pg_ca_2" size="22" />
+	<string id="pg_ca_3" size="12" />
+	<string id="pg_ca_4" size="12" leading="-2" />
+
+
+	<!--選択ワード一覧のタイトル-->
+	<string id="pg_bj_2" size="18" />
+	<string id="pg_bj_1" bold="true" size="17" font="f04"/>
+
+	<!--選択メール　確認-->
+	<string id="pg_bi_2" size="20" />
+	<string id="pg_bi_3" size="14" />
+	<string id="pg_ca_3" size="14" />
+	<string id="pg_ca_4" size="14" leading="-2" />
+
+
+	<!--質問メール-->
+	<string id="pg_db_1" bold="true" size="27" font="f04"/>
+	
+	
+	<!--質問メール - 確認-->
+	<string id="pg_bn_2" size="18" />
+	<string id="pg_bn_6" size="21" />
+	<string id="pg_bn_5" size="15" />
+	<string id="pg_bn_4" size="14" />
+	<string id="pg_bxa_4" size="14" />
+	<string id="pg_bxa_5" size="15" />
+	
+	
+	
+</data>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data locale="ko">	
+	<string id="pg_ame_1">예상치 못한 에러가 발생했습니다</string>
+	<string id="pg_amf_1">오랫동안 서버와 통신하지 못했습니다. 브라우저를 새로 고침합니다.</string>
+	<string id="pg_amg_1">로컬스토리지가 필요합니다. 브라우저를 새로 고침합니다.</string>
+	<string id="pg_ay_2">OK</string>
+	<string id="pg_amb_1">이 콘텐츠를 즐기기 위해서는 ｢포켓몬 글로벌 링크｣에 게임싱크 ID 코드를 등록해 주십시오.</string>
+	<string id="pg_amb_2">게임싱크 ID 코드는 「포켓몬스터 블랙·화이트」「포켓몬스터 블랙2·화이트2」에서 어느 정도 모험을 진행하여 C기어를 받은 후 「게임싱크」를 실행하면 발행됩니다.
+C기어의 「Wi-Fi」에서 「게임싱크」를 터치해 주십시오.
+발행 된 게임싱크 ID 코드는「마이페이지」안에 있는「게임 소프트웨어 등록」을 선택하면 「포켓몬 글로벌 링크」에 등록할 수 있습니다. 등록은 포켓몬을 재운 상태에서 실행해 주십시오.</string>
+	<string id="pg_amb_3">닫기</string>
+	<string id="pg_amb_4">등록하기</string>
+	<string id="pg_ama_4">pg_ama_4</string>
+	<string id="pg_ama_5">pg_ama_5</string>
+	<string id="pg_ama_1">돌아가기</string>
+	<string id="pg_opa_1">로딩</string>
+</data>

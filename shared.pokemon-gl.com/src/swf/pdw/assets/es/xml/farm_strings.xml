@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="es">
+
+	<string id="k_ad_15">Hilera seleccionada</string>
+	<string id="k_ad_2">Regadera en uso</string>
+
+	<string id="k_ad_1">Huerta de [arg0]</string>
+
+	<string id="k_afff_1">Has plantado
+una [arg0].</string>
+	<string id="k_aff_1">¿Plantar esta Baya?</string>
+
+	<string id="k_ag_2">Hay una [arg0]
+plantada.</string>
+	<string id="k_ai_1">
+¡La [arg0] está brotando!</string>
+	<string id="k_aj_1">
+¡La [arg0] crece!</string>
+	<string id="k_ak_1">
+¡La [arg0] está en flor!</string>
+	<string id="k_al_1">
+¡La [arg0] ha dado frutos!</string>
+	<string id="k_ada_1">Hoyos de tierra blanda</string>
+	<string id="k_ae_2">¿Plantar una Baya
+en el hoyo?</string>
+	<string id="k_ag_1">Ver detalles</string>
+	<string id="k_aha_1">¡Ya está regada!</string>
+
+	<string id="k_ama_1">Has recolectado una [arg0].</string>
+	<string id="k_am_1">Has recolectado [arg1] [arg0].</string>
+	<string id="k_am_3">Las Bayas se han guardado en el cofre.</string>
+
+	<string id="k_ca_1">No tienes Bayas en el cofre.</string>
+	<string id="k_ca_2">Puedes conseguir Bayas en
+Isla Ensueño o intercambiándolas.</string>
+
+	<string id="k_as_1">¡Ha aparecido un Diglett!</string>
+	<string id="k_at_1">Diglett se ha puesto a arar
+la huerta de [arg0].</string>
+	<string id="k_au_1">Diglett se ha marchado.</string>
+	<string id="k_ar_1">Se han añadido hileras.</string>
+	<string id="k_asa_1">Gracias a Diglett, ahora
+hay [arg0] hileras.</string>
+
+	<string id="k_ad_4">Una regadera para regar
+las Bayas.</string>
+	<string id="k_ad_14">k_ad_14</string>
+	<string id="k_ad_6">k_ad_6</string>
+	<string id="k_ad_10">k_ad_10</string>
+	<string id="k_ad_12">k_ad_12</string>
+	<string id="k_ad_8">k_ad_8</string>
+
+	<string id="k_ahb_1">Tu regadera está vacía, por lo que no podrás regar las huertas de otros usuarios hasta que uses de nuevo la función Sincronizar Juego.</string>
+	<string id="k_ahb_2">Tu regadera volverá a llenarse la próxima vez que uses la función Sincronizar Juego.</string>
+	<string id="k_bb_1">Agua disponible durante esta visita</string>
+	
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	
+	
+</data>

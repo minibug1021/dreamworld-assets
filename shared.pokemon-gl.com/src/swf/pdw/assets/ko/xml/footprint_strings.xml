@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="ko">
+	<string id="m_aa_1">발자국매트</string>
+	<string id="m_aa_2">더 보기</string>
+	
+	<string id="f_af_1">꿈친구를 신청받았습니다.</string>
+	<string id="f_af_2">이 포켓몬의 홈에서 꿈친구가 될 수 있습니다.
+이 포켓몬의 홈에 가겠습니까?</string>
+	<string id="f_af_3">포켓몬 닉네임:</string>
+	<string id="f_af_4">PGL 닉네임:</string>
+	<string id="f_af_5">[arg0]</string>
+	<string id="f_af_6">어버이:</string>
+	<string id="f_af_7">레벨:</string>
+	<string id="f_af_8">타입:</string>
+	<string id="f_af_9">성별:</string>
+	<string id="f_af_10">성격:</string>
+	<string id="f_af_12">[YYYY/MM/DD hh:mm]</string>
+	<string id="f_af_13">한 일:</string>
+	<string id="f_af_14">꿈친구를 신청</string>
+	<string id="f_af_15">물주기</string>
+	<string id="f_af_16">교환</string>
+	<string id="f_af_17">닫기</string>
+	<string id="f_af_18">이 포켓몬의 홈에 가기</string>
+	
+	<string id="m_af_1">상세내용 보기</string>
+	<string id="m_af_2">매트 보기</string>
+	<string id="m_af_3">방문 기록</string>
+	<string id="m_af_4">날짜</string>
+	<string id="m_af_5">포켓몬</string>
+	<string id="m_af_6">닉네임</string>
+	<string id="m_af_7">관계</string>
+	<string id="m_af_8">행동</string>
+	<string id="m_af_9">[YYYY/MM/DD hh:mm]</string>
+	<string id="m_af_10">[arg0]</string>
+	<string id="m_af_11">포켓몬 닉네임:</string>
+	<string id="m_af_12">PGL 닉네임:</string>
+	<string id="m_af_13">[arg0] 예)꿈친구</string>
+	<string id="m_af_14">m_af_14</string>
+	
+	<string id="m_ac_1">발자국이 있었습니다</string>
+	<string id="m_ac_2">발자국을 남긴 포켓몬에게 꿈친구를 신청할 수 있습니다.
+이 포켓몬의 홈에 가서 신청해 봅시다.</string>
+	<string id="m_ac_3">포켓몬 닉네임:</string>
+	<string id="m_ac_4">PGL 닉네임:</string>
+	<string id="m_ac_5">[arg0]</string>
+	<string id="m_ac_6">어버이:</string>
+	<string id="m_ac_7">레벨:</string>
+	<string id="m_ac_8">타입:</string>
+	<string id="m_ac_9">성별:</string>
+	<string id="m_ac_10">성격:</string>
+	<string id="m_ac_11">[YYYY/MM/DD hh:mm]</string>
+	<string id="m_ac_12">한 일:</string>
+	<string id="m_ac_13">꿈친구를 신청</string>
+	<string id="m_ac_14">물주기</string>
+	<string id="m_ac_15">교환</string>
+	<string id="m_ac_16">이 포켓몬의 홈에 가기</string>
+	<string id="m_ac_17">닫기</string>
+</data>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data locale="ko">	
+	<string id="pg_aw_0">전부</string>
+	<string id="pg_aw_2">포켓몬 글로벌 링크</string>
+	<string id="pg_aw_3">PDW</string>
+	<string id="pg_aw_4">글로벌 배틀 유니언</string>
+	<string id="pg_aw_5">대회</string>
+	<string id="pg_aw_6">중요한 알림</string>
+	<string id="pg_aw_7">인포메이션 일람</string>
+	<string id="pg_aw_8">날짜</string>
+	<string id="pg_aw_9">카테고리</string>
+	<string id="pg_aw_10">타이틀</string>
+	<string id="pg_aw_14">카테고리별로 정렬</string>
+	<string id="pg_bx_1">자세한 것은 여기</string>
+	<string id="pg_alh_1">인포메이션을 찾을 수 없습니다.</string>
+	<string id="pg_alh_2">닫기</string>
+</data>

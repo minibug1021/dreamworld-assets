@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data locale="en">	
+	<string id="pg_az_1">Customize Game</string>
+	<string id="pg_az_2">Customize</string>
+	<string id="pg_az_3">C-Gear Skin</string>
+	<string id="pg_az_5">Pokédex Skin</string>
+	<string id="pg_az_7">Musical Show</string>
+	<string id="pg_az_9">Back</string>
+	
+	<string id="pg_az1_1">Customize with these</string>
+	<string id="pg_az1_2">Are you OK with these?</string>
+	<string id="pg_az1_3">C-Gear Skin</string>
+	<string id="pg_az1_5">Pokédex Skin</string>
+	<string id="pg_az1_7">Musical Show</string>
+	<string id="pg_az1_9">Data won't be sent to the DS Game Card.</string>
+	
+	<string id="pg_az2_2">Customization finished.</string>
+	<string id="pg_az2_1">OK</string>
+	
+	<string id="pg_ay_1">Nothing has been changed.</string>
+	<string id="pg_ay_2">OK</string>
+	<string id="pg_az3_3">The settings will not be updated 
+unless you click "Customize Game." 
+OK to continue?</string>
+</data>

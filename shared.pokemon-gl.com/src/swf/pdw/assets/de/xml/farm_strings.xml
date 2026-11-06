@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="de">
+
+	<string id="k_ad_15">Aktuelle Beetreihe</string>
+	<string id="k_ad_2">Aktuelle Kanne</string>
+
+	<string id="k_ad_1">Garten von [arg0]</string>
+
+	<string id="k_afff_1">[arg0]
+eingepflanzt.</string>
+	<string id="k_aff_1">Diese Beere einpflanzen?</string>
+
+	<string id="k_ag_2">[arg0] wurde gepflanzt!</string>
+	<string id="k_ai_1">Ein [arg0]-
+Sprössling!</string>
+	<string id="k_aj_1">[arg0]-
+Spross wächst!</string>
+	<string id="k_ak_1">[arg0]-
+Spross blüht!</string>
+	<string id="k_al_1">[arg0]
+trägt Frucht!</string>
+	<string id="k_ada_1">Lehmboden</string>
+	<string id="k_ae_2">Beere in den
+Lehmboden pflanzen?</string>
+	<string id="k_ag_1">Einzelheiten</string>
+	<string id="k_aha_1">Der Garten ist ausreichend bewässert!</string>
+
+	<string id="k_ama_1">[arg0] geerntet!</string>
+	<string id="k_am_1">[arg1] [arg0] geerntet.</string>
+	<string id="k_am_3">Geerntete Beeren in Schatztruhe gelegt.</string>
+
+	<string id="k_ca_1">Keine Beeren in der Truhe.</string>
+	<string id="k_ca_2">Beeren erhältst du über die Tausch-
+börse oder auf der Trauminsel.</string>
+
+	<string id="k_as_1">Ein Digda erscheint!</string>
+	<string id="k_at_1">Digda pflegt den Garten von
+[arg0].</string>
+	<string id="k_au_1">Digda hat sich aus dem Staub gemacht.</string>
+	<string id="k_ar_1">Eine neue Beetreihe!</string>
+	<string id="k_asa_1">Durch die Gartenarbeit des Digda hast du
+nun [arg0] Beetreihen.</string>
+
+	<string id="k_ad_4">Gießkanne
+für Beeren</string>
+	<string id="k_ad_14">k_ad_14</string>
+	<string id="k_ad_6">k_ad_6</string>
+	<string id="k_ad_10">k_ad_10</string>
+	<string id="k_ad_12">k_ad_12</string>
+	<string id="k_ad_8">k_ad_8</string>
+
+	<string id="k_ahb_1">Dein Bewässerungssystem ist erschöpft, sodass du den Garten eines anderen Nutzers erst wieder beim nächsten Gebrauch der Spielsynchro bewässern kannst.</string>
+	<string id="k_ahb_2">Dein Bewässerungssystem wird beim nächsten Gebrauch
+der Spielsynchro wieder aufgefüllt.</string>
+	<string id="k_bb_1">Für diesen Besuch verbleibende Wassermenge</string>
+
+	
+</data>

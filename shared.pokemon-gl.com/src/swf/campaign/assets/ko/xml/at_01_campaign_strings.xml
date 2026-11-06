@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data locale="ko">	
+	<string id="c_bi_2">이 캠페인에 참가하기 위해서는 「포켓몬스터 블랙2」의 게임싱크 ID 코드가 필요합니다.</string>
+	<string id="c_bi_3">이 캠페인에 참가하기 위해서는 「포켓몬스터 화이트2」의 게임싱크 ID 코드가 필요합니다.</string>
+	<string id="c_bi_4">이 캠페인에 참가하기 위해서는 「포켓몬스터 블랙2」 또는 「포켓몬스터 화이트2」의 게임싱크 ID 코드가 필요합니다.</string>
+	<string id="c_bi_5">이 캠페인에 참가하기 위해서는 「포켓몬스터 블랙·화이트」 또는 「포켓몬스터 블랙2·화이트2」의 게임싱크 ID 코드가 필요합니다.</string>
+	<string id="c_bi_6">포켓몬을 선택하고 「다음」을 눌러 주십시오.</string>
+</data>

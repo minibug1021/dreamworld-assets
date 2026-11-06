@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data locale="fr">	
+	<string id="pg_az_1">Personnaliser votre version</string>
+	<string id="pg_az_2">Personnaliser</string>
+	<string id="pg_az_3">Thème du C-Gear</string>
+	<string id="pg_az_5">Thème du Pokédex</string>
+	<string id="pg_az_7">Programme du Musical</string>
+	<string id="pg_az_9">Retour</string>
+	
+	<string id="pg_az1_1">Personnaliser maintenant</string>
+	<string id="pg_az1_2">Ce thème est-il à votre goût ?</string>
+	<string id="pg_az1_3">Thème du C-Gear</string>
+	<string id="pg_az1_5">Thème du Pokédex</string>
+	<string id="pg_az1_7">Programme du Musical</string>
+	<string id="pg_az1_9">Ne pas envoyer vers la console</string>
+	
+	<string id="pg_az2_2">Personnalisation effectuée.</string>
+	<string id="pg_az2_1">Confirmer</string>
+	
+	<string id="pg_ay_1">Ne rien changer</string>
+	<string id="pg_ay_2">Confirmer</string>
+</data>

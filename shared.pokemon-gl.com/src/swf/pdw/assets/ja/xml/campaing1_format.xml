@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="ja">
+	<string id="s_aa_3" size="10" baselineShift="3" letterSpacing="0"  baselineMode="mem" />
+	<string id="h_ca_20" size="12" bold="true" letterSpacing="0" baselineShift="1" />
+	<string id="fr_aa_8" size="12" bold="true" letterSpacing="0" baselineShift="2" />
+	<string id="y_aa_9" bold="true" letterSpacing="0"  baselineMode="mem" />
+	<string id="y_zd_4" letterSpacing="0"  baselineMode="mem" />
+	<string id="y_aa_8" size="10" baselineShift="2" letterSpacing="0"  baselineMode="mem" />
+	<string id="h_ca_11" size="12" bold="true" letterSpacing="0" baselineShift="1" />
+	<string id="h_ca_12" size="12" bold="true" letterSpacing="0" baselineShift="1" baselineMode="mem" />
+	<string id="sp_pokemon_comment_01" size="10" />
+	<string id="sp_pokemon_comment_02" size="10" />
+	<string id="sp_pokemon_comment_03" size="10" />
+	<string id="h_da_5" size="12" bold="true" letterSpacing="0" baselineShift="2" />
+	<string id="h_da_7" size="12" bold="true" letterSpacing="0" baselineShift="2" />
+	<string id="dialog_36" size="12" bold="true" letterSpacing="0" baselineShift="2"  baselineMode="mem"/>
+
+	<string id="sp_interior_0_mat" size="10" />
+	<string id="sp_interior_1_table" size="10" />
+	<string id="sp_interior_2_cushon" size="10" />
+	<string id="sp_interior_3_coffee" size="10" />
+	<string id="sp_interior_4_redcup" size="10" />
+	<string id="sp_interior_5_greencup" size="10" />
+	<string id="sp_interior_6_bluecup" size="10" />
+
+	<string id="y_ad_15" letterSpacing="0"  baselineMode="mem" />
+	<string id="y_ad_16" letterSpacing="0" baselineShift="3"  baselineMode="mem" />
+	<string id="y_ag_10" letterSpacing="0"  baselineMode="mem" />
+	<string id="y_ag_11" letterSpacing="0"  baselineMode="mem" />
+</data>
+
+

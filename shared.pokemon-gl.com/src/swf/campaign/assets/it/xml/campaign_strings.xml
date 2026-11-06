@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data locale="it">	
+	<string id="c_ad_1">Iniziative</string>
+	<string id="c_ad_2">Data</string>
+	<string id="c_ad_3">Stato</string>
+	<string id="c_ad_4">Titolo</string>
+	<string id="c_ad_11">Come partecipare</string>
+	<string id="c_aa_1">Ulteriori informazioni</string>
+	<string id="c_aa_3">Invia</string>
+	<string id="c_aa_4">Per i partecipanti all'iniziativa</string>
+	<string id="c_bb_3">Periodo iniziativa: [DD1]/[MM1]/[YYYY1] [hh1]:[mm1] - [DD2]/[MM2]/[YYYY2] [hh2]:[mm2]</string>
+	<string id="c_ba_1">Per partecipare è necessario un account del Club Allenatori di Pokémon.
+Se ne possiedi già uno, puoi effettuare l'accesso dalla pagina iniziale.</string>
+	<string id="c_ba_2">Se è la tua prima visita, clicca qui.</string>
+	<string id="c_ba_3">Registrati</string>
+	<string id="c_bb_1">Per partecipare alla promozione devi ottenere la qualificazione dal Club Allenatori di Pokémon.
+Verifica tramite il sito.</string>
+	<string id="c_bb_7">Indietro</string>
+	<string id="c_bd_1">Questa promozione inizierà a breve.</string>
+	<string id="c_be_1">Questa promozione è terminata.</string>
+	<string id="c_bf_1">Grazie per la partecipazione.</string>
+	<string id="c_bg_1">Per partecipare a questa promozione è necessario l'ID Sincrogioco di Pokémon Nero.</string>
+	<string id="c_bh_1">Per partecipare a questa promozione è necessario l'ID Sincrogioco di Pokémon Bianco.</string>
+	<string id="c_bi_1">Per partecipare a questa promozione è necessario l'ID Sincrogioco di Pokémon Nero o Pokémon Bianco.</string>
+	<string id="c_bj_1">La bacheca è piena. Trasferisci qualche Pokémon nell'Intramondo.</string>
+	<string id="c_bk_1">Il Bosco Intramondo è pieno e non potrai inviarvi altri Pokémon.
+Vai a prendere i tuoi nuovi amici nel Bosco per fare spazio.</string>
+	<string id="c_bl_1">Non ci sono iniziative in corso.</string>
+</data>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data locale="es">	
+	<string id="pg_ame_1">Se ha producido un error inesperado.</string>
+	<string id="pg_amf_1">No se ha podido establecer la comunicación con el servidor por un espacio de tiempo prolongado. Actualiza la página de tu navegador.</string>
+	<string id="pg_amg_1">Se necesita almacenar datos localmente. Actualiza la página de tu navegador.</string>
+	<string id="pg_ay_2">Vale</string>
+	<string id="pg_amb_1">Para disfrutar de este contenido, debes registrar el ID para Sincronizar de tu juego en Pokémon Global Link.</string>
+	<string id="pg_amb_2">Una vez que hayas avanzado lo suficiente en tu aventura, tras conseguir el C-Gear, utiliza la función Sincronizar Juego en Pokémon Edición Negra, Pokémon Edición Blanca, Pokémon Edición Negra 2 o Pokémon Edición Blanca 2 para saber cuál es tu ID para Sincronizar. 
+Accede a la función Sincronizar Juego desde la pantalla "EN LÍNEA" del C-Gear. 
+Para registrar el ID para Sincronizar en PGL, selecciona "Registrar tarjeta de juego" en la página de tu perfil e introduce tu ID para Sincronizar. Para ello, es necesario que tu Pokémon esté acostado.</string>
+	<string id="pg_amb_3">Cerrar</string>
+	<string id="pg_amb_4">Registrar</string>
+	<string id="pg_ama_4">pg_ama_4</string>
+	<string id="pg_ama_5">pg_ama_5</string>
+	<string id="pg_ama_1">Atrás</string>
+	<string id="pg_opa_1">Cargando...</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+</data>

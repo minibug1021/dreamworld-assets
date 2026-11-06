@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="ko">
+
+	<string id="B_aa_1">USER</string>
+	<string id="B_aa_2">PGL 닉네임: [arg0]</string>
+	<string id="B_aa_3">트레이너 이름: [arg0]</string>
+	<string id="B_aa_4">[arg0]</string>
+	<string id="B_aa_5">레이팅:</string>
+	<string id="B_aa_6">랭킹:</string>
+	<string id="B_aa_7">이 유저의 대전 기록 보기</string>
+	<string id="B_aa_8">당신의 대전 기록</string>
+	<string id="B_aa_9">싱글배틀</string>
+	<string id="B_aa_10">더블배틀</string>
+	<string id="B_aa_11">트리플배틀</string>
+	<string id="B_aa_12">슈터배틀</string>
+	<string id="B_aa_13">로테이션배틀</string>
+	<string id="B_aa_14">대전 룰별 랭킹</string>
+	<string id="B_aa_15">싱글</string>
+	<string id="B_aa_16">더블</string>
+	<string id="B_aa_17">트리플</string>
+	<string id="B_aa_18">슈터</string>
+	<string id="B_aa_19">로테이션</string>
+	<string id="B_aa_20">[arg0]위</string>
+	<string id="B_aa_21">지역별 랭킹</string>
+	<string id="B_aa_22">[arg0]</string>
+	<string id="B_aa_23">자세히</string>
+	<string id="B_aa_24">랭킹</string>
+	<string id="B_aa_25">대회정보</string>
+	<string id="B_aa_26">[arg0]위</string>
+	<string id="B_aa_27">[YYYY-MM-DD hh:mm] 시점</string>
+	<string id="B_aa_28">VS</string>
+	<string id="B_aa_29">등록 중</string>
+	<string id="B_aa_30">참가 중</string>
+	<string id="B_aa_31">종합 랭킹 TOP3</string>
+	<string id="B_aa_32">접수 중</string>
+
+	
+	<string id="B_ab_1">BATTLE</string>
+
+	<string id="B_ac_1">WIN</string>
+	<string id="B_ac_2">LOSE</string>
+
+	<string id="B_ad_1">CONGRATULATIONS!! YOU ARE THE GBU SINGLE BATTLE WINNER!!</string>
+	<string id="B_ad_2">CONGRATULATIONS!! YOU ARE THE GBU DOUBLE BATTLE WINNER!!</string>
+	<string id="B_ad_3">CONGRATULATIONS!! YOU ARE THE GBU TRIPLE BATTLE WINNER!!</string>
+	<string id="B_ad_4">CONGRATULATIONS!! YOU ARE THE GBU LAUNCHER BATTLE WINNER!!</string>
+	<string id="B_ad_5">CONGRATULATIONS!! YOU ARE THE GBU ROTATION BATTLE WINNER!!</string>
+	
+
+	<string id="B_ae_1">대전 룰별 랭킹</string>
+	<string id="B_ae_2">레이팅:</string>
+	<string id="B_ae_3">[YYYY-MM-DD hh:mm]</string>
+	<string id="B_ae_4">당신의 대전 기록</string>
+	<string id="B_ae_5">싱글</string>
+	<string id="B_ae_6">더블</string>
+	<string id="B_ae_7">트리플</string>
+	<string id="B_ae_8">슈터</string>
+	<string id="B_ae_9">로테이션</string>
+	<string id="B_ae_10">지역별 트레이너 랭킹</string>
+	<string id="B_ae_11">랭킹:</string>
+	<string id="B_ae_12">[YYYY-MM-DD hh:mm]</string>
+	<string id="B_ae_13">[arg0]</string>
+	<string id="B_ae_14">[arg0]위</string>
+	<string id="B_ae_15">닫기</string>
+	<string id="B_ae_16">[arg0]</string>
+	<string id="B_ae_17">싱글배틀</string>
+	<string id="B_ae_18">[arg0]</string>
+	<string id="B_ae_19">더블배틀</string>
+	<string id="B_ae_20">[arg0]</string>
+	<string id="B_ae_21">트리플배틀</string>
+	<string id="B_ae_22">[arg0]</string>
+	<string id="B_ae_23">슈터배틀</string>
+	<string id="B_ae_24">[arg0]</string>
+	<string id="B_ae_25">로테이션배틀</string>
+	<string id="B_ae_26">[arg0]</string>
+	<string id="B_ae_27">USER</string>
+	<string id="B_ae_29">트레이너 이름: [arg0]</string>
+	<string id="B_ae_30">[arg0]</string>
+	<string id="B_ae_31">레이팅</string>
+	<string id="B_ae_32">랭킹</string>
+	<string id="B_ae_33">[arg0]</string>
+	<string id="B_ae_34">[arg0]위</string>
+	<string id="B_ae_35">대전 상대</string>
+	<string id="B_ae_36">VS</string>
+	<string id="B_ae_37">WIN</string>
+	<string id="B_ae_38">LOSE</string>
+	<string id="B_ae_39">DRAW</string>
+	<string id="B_ae_40">대전 기록이 없습니다</string>
+	<string id="B_ae_41">프로필 페이지 보기</string>
+	<string id="B_ae_42">대회</string>
+
+	<string id="B_aea_1">[arg0]님의 대전 기록</string>
+
+	<string id="B_ag_1">랭킹</string>
+	<string id="B_ag_2">랭킹 최종 갱신 일시</string>
+	<string id="B_ag_3">[YYYY-MM-DD hh:mm]</string>
+	<string id="B_ag_4">대전 룰</string>
+	<string id="B_ag_5">종합 랭킹</string>
+	<string id="B_ag_6">싱글배틀</string>
+	<string id="B_ag_7">더블배틀</string>
+	<string id="B_ag_8">트리플배틀</string>
+	<string id="B_ag_9">슈터배틀</string>
+	<string id="B_ag_10">로테이션배틀</string>
+	<string id="B_ag_12">다음</string>
+	<string id="B_ag_13">마이 랭킹</string>
+	<string id="B_ag_14">PGL 닉네임: [arg0]</string>
+	<string id="B_ag_15">00000001</string>
+	<string id="B_ag_16">돌아가기</string>
+
+	<string id="B_aj_1">PGL 닉네임</string>
+	<string id="B_aj_2">트레이너 이름</string>
+	<string id="B_aj_3">레이팅:</string>
+	<string id="B_aj_4">랭킹:</string>
+	<string id="B_aj_5">[arg0]</string>
+	<string id="B_aj_6">[arg0]위</string>
+	<string id="B_aj_7">이 유저의 대전 기록 보기</string>
+	<string id="B_aj_8">이전</string>
+
+	<string id="B_ak_1">대회정보</string>
+	<string id="B_ak_2">개최 중인 대회</string>
+	<string id="B_ak_3">과거 대회</string>
+	<string id="B_ak_4">[YYYY.MM.DD]</string>
+	<string id="B_ak_5">접수 중</string>
+	<string id="B_ak_6">등록 완료</string>
+	<string id="B_ak_7">접수종료</string>
+	<string id="B_ak_8">참가 중</string>
+	<string id="B_ak_9">참가취소</string>
+
+	<string id="B_al_1">개최 중인 대회는 없습니다.</string>
+	<string id="B_al_2">과거 대회 보기</string>
+	<string id="B_al_3">과거 대회는 없습니다.</string>
+
+	<string id="B_am_1">이 대회에 등록하기</string>
+	<string id="B_am_2">중간 랭킹 보기</string>
+
+	<string id="B_aq_1">[arg0]</string>
+	<string id="B_aq_2">랭킹</string>
+	<string id="B_aq_3">랭킹 최종 갱신 일시</string>
+	<string id="B_aq_4">[YYYY-MM-DD hh:mm]</string>
+	<string id="B_aq_5">규칙</string>
+	<string id="B_aq_6">[arg0]</string>
+
+	<string id="B_an_1">이 대회에 등록하기</string>
+	<string id="B_an_2">상세내용은 여기</string>
+
+	<string id="B_as_1">이 대회에 등록하겠습니까?</string>
+	<string id="B_as_2">확인</string>
+
+	<string id="B_ap_1">대회 종료</string>
+	<string id="B_ap_2">종료(참가)</string>
+
+	<string id="B_ar_1">랭킹 보기</string>
+	<string id="B_ac_3">DRAW</string>
+	<string id="B_at_1">지역으로 정렬</string>
+	<string id="B_at_2">모두 표시</string>
+	<string id="B_at_3">결정하기</string>
+	<string id="B_at_4">[arg0]</string>
+	<string id="B_ag_17">지역으로 정렬</string>
+	<string id="B_ag_18">종합 랭킹</string>
+	<string id="B_ag_19">싱글배틀</string>
+	<string id="B_ag_20">더블배틀</string>
+	<string id="B_ag_21">트리플배틀</string>
+	<string id="B_ag_22">슈터배틀</string>
+	<string id="B_ag_23">로테이션배틀</string>
+	<string id="B_new_1">확인・갱신</string>
+	<string id="B_new_2">랭킹
+시즌[N]</string>
+	<string id="B_new_3">시즌[N]:  [DATE_FROM] - [DATE_TO]</string>
+	<string id="B_new_4">랭킹에 대해서 자세한 것은 여기</string>
+	<string id="B_new_5">※대전 결과와 레이팅 반영에
+시간이 걸리는 경우가 있습니다.</string>
+	<string id="B_new_6">시즌[N]:  [DATE_FROM] - [DATE_TO]</string>
+	<string id="">시즌[N]</string>
+	<string id="">시즌[N]</string>
+	<string id="">시즌[N]</string>
+	<string id="">시즌[N]</string>
+	<string id="">시즌[N]</string>
+	<string id="">시즌[N]</string>
+	<string id="">시즌[N]</string>
+	<string id="">시즌[N]</string>
+	<string id="">시즌[N]</string>
+	<string id="">시즌[N]</string>
+	<string id="">시즌[N]</string>
+	<string id="">시즌[N]</string>
+	<string id="B_new_7">[DATE_FROM] － [DATE_TO]</string>
+	<string id="B_new_8">과거 랭킹</string>
+	<string id="B_new_9">랭킹 최종 결과</string>
+	<string id="B_new_10">시즌[N]</string>
+	
+	
+	<string id="B_vs_3">랭킹 공개</string>
+	<string id="B_vs_4">등록 기간</string>
+	<string id="B_vs_5">대회 개최기간</string>
+	<string id="B_vs_6">대회정보</string>
+	<string id="B_vs_7">중요사항/규칙</string>
+	<string id="B_vs_8">게임 소프트웨어 설정・조작</string>
+	<string id="B_vs_9">등록하러 가기</string>
+	
+	<string id="B_vs_11">중요사항/규칙에 동의했습니다</string>
+	<string id="B_vs_12">등록</string>
+	
+	<string id="B_vs_14">※등록 가능・등록 중인 대회가 표시됩니다. 대전한 대회는 대회 종료 후에도 랭킹 공개에서 일정 기간 표시됩니다.</string>
+	<string id="B_vs_15">이 대회 접수는 종료되었습니다.</string>
+	
+	
+	<string id="B_vs_18">대회는 종료되었습니다. 현재 랭킹 집계 중입니다. 결과 발표까지 잠시 기다려 주세요.</string>
+	<string id="B_vs_19">대회는 종료되었습니다. 랭킹을 「랭킹 보기」에서 확인할 수 있습니다.</string>
+	<string id="B_vs_20">이 대회를 참가취소 했습니다. 이미 대전한 경우 랭킹 대상이 됩니다.</string>
+	<string id="B_vs_21">대회개요</string>
+	<string id="B_vs_22">개최일시</string>
+	<string id="B_vs_23">대전 룰</string>
+	<string id="B_vs_24">참가자 수</string>
+	<string id="B_vs_25">과거 대회</string>
+	<string id="B_vs_26">랭킹 보기</string>
+	<string id="B_new_11">과거 랭킹</string>
+	<string id="B_new_12">시즌[N]</string>
+	<string id="B_new_13">시즌[N]:  [DATE_FROM] - [DATE_TO]</string>
+	<string id="B_new_28">참가 가능한 대회가 있습니다.</string>
+	<string id="B_new_30">대회 개최기간</string>
+	
+	<string id="">시즌[N]</string>
+	<string id="">시즌[N]</string>
+	<string id="">시즌[N]</string>
+	<string id="">시즌[N]</string>
+	<string id="">시즌[N]</string>
+	<string id="">시즌[N]</string>
+	<string id="">시즌[N]</string>
+	<string id="">시즌[N]</string>
+	<string id="">시즌[N]</string>
+	<string id="">시즌[N]</string>
+	<string id="">시즌[N]</string>
+	<string id="">시즌[N]</string>
+	<string id="">시즌[N]</string>
+	<string id="">시즌[N]</string>
+	<string id="">시즌[N]</string>
+	<string id="">시즌[N]</string>
+	<string id="">시즌[N]</string>
+	<string id="">시즌[N]</string>
+	<string id="">시즌[N]</string>
+	<string id="">시즌[N]</string>
+	<string id="">시즌[N]</string>
+	<string id="">시즌[N]</string>
+	<string id="">시즌[N]</string>
+	<string id="">시즌[N]</string>
+	<string id="">시즌[N]</string>
+	<string id="">시즌[N]</string>
+	<string id="">시즌[N]</string>
+	<string id="">시즌[N]</string>
+	<string id="">시즌[N]</string>
+	<string id="">시즌[N]</string>
+	<string id="">시즌[N]</string>
+	<string id="">시즌[N]</string>
+	<string id="B_vs_17">이 대회에 참가 중입니다. 게임 소프트웨어로 대전할 수 있습니다.</string>
+</data>

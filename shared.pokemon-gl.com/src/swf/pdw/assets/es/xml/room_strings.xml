@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="es">
+
+	<string id="i_aj_1">Decidir ubicación</string>
+	<string id="h_ea_1">Redecorar</string>
+	<string id="h_ea_2">Cofre</string>
+	<string id="h_ea_3">Catálogo Ensueño</string>
+	<string id="h_ea_4">Tablón de Pokémon amigos</string>
+	<string id="h_ea_5">Salir</string>
+
+	<string id="h_ea_7">Cofre</string>
+	<string id="h_ea_6">Catálogo Ensueño</string>
+	<string id="h_ea_8">Tablón de Pokémon amigos</string>
+	<string id="h_ea_9">Salir</string>
+
+	<string id="i_an_1">Retirar diseños</string>
+	<string id="h_ea_10">Mirar al lado</string>
+	<string id="i_aj_3">No se puede mover.</string>
+
+	<string id="h_ea_11">En la casa de [arg0]</string>
+
+	<string id="i_aj_2">Colocar en la pantalla contigua</string>
+
+	<string id="s_ah_1">No hay ningún objeto en el cofre.</string>
+	<string id="s_ah_2">Puedes encontrar objetos en Isla Ensueño.</string>
+
+	<string id="i_ae_1">¿Quieres comprar este diseño?</string>
+	<string id="i_bb_1">¿Adquirir este diseño?</string>
+	<string id="i_ae_6">: [arg0]</string>
+	<string id="i_ae_7">(tienes [arg0])</string>
+
+	<string id="i_bc_1">Has adquirido la [arg0].
+</string>
+	<string id="i_bca_2">Puedes cambiarlo haciendo clic
+en "Intercambiar" en el Catálogo Ensueño.</string>
+	<string id="i_bc_2">Puedes cambiar de regadera en el
+menú superior izquierdo de la huerta.</string>
+
+	<string id="i_ba_1">¿Retirar [arg0]?</string>
+	<string id="i_ah_1">Has retirado [arg0].
+</string>
+	<string id="i_ah_3">Si haces clic en "Colocar", podrás
+poner objetos del Catálogo Ensueño en tu casa.</string>
+
+	<string id="i_am_1">No tienes espacio suficiente en tu casa.</string>
+	<string id="i_am_2">Ordena tu casa.</string>
+
+	<string id="i_bcc_1">¿Cambiar por [arg0]?</string>
+	<string id="i_bcd_1">Cambiado por [arg0].</string>
+
+	<string id="i_ab_3">Catálogo Ensueño</string>
+
+	<string id="i_ab_2">Elegir un Catálogo Ensueño</string>
+
+	<string id="i_ac_1">Índice</string>
+	<string id="i_ad_8">Índice</string>
+	<string id="i_ad_18">Índice</string>
+
+	<string id="i_ad_4">Por tiempo limitado</string>
+	<string id="i_ad_5">Muebles</string>
+	<string id="i_ad_6">Nuevos objetos</string>
+
+	<string id="i_ad_2">[arg0]: [arg1]</string>
+	<string id="i_ad_16">Gratis</string>
+
+	<string id="i_ad_10">No tienes suficientes Bayas</string>
+	<string id="i_ad_11">Comprar</string>
+	<string id="i_ad_15">Regalo</string>
+	<string id="i_az_1">Disponible</string>
+	<string id="i_ad_17">Colocado</string>
+	<string id="i_ad_12">Colocar</string>
+	<string id="i_ad_14">Cambiar</string>
+	<string id="i_ad_13">Retirar</string>
+
+	<string id="i_ada_1">Cofre</string>
+	<string id="i_ada_2">Otros</string>
+	<string id="i_ada_3">Tablón de Pokémon amigos</string>
+
+</data>

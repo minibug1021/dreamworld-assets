@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data locale="it">	
+	<string id="pg_amd_1">Non c'è nessun Pokémon addormentato.</string>
+	<string id="pg_amd_3">pg_amd_3</string>
+	<string id="pg_amd_2">Chiudi</string>
+	<string id="pg_amc_1">Non hai ancora recuperato i Pokémon e gli strumenti inviati alla tua scheda di gioco: prepara il Pokémon addormentato al risveglio cliccando sul pulsante qui sotto e sveglialo con il Sincrogioco, quindi potrai ricevere i Pokémon e gli strumenti inviati nell'Intramondo.</string>
+	<string id="pg_amc_2">Chiudi</string>
+	<string id="pg_amc_3">Sveglia il Pokémon</string>
+	<string id="pg_amh_1">Ciao! Sei nel Pokémon Dream World!</string>
+	<string id="pg_amh_2">Potrai giocare al Pokémon DW per un'ora.</string>
+	<string id="pg_amh_3">Dopo un'ora di gioco, il Pokémon Dream World si chiude automaticamente.
+Quando questo accade, i dati di gioco potrebbero non essere salvati. Esci quando compare l'annuncio che il tempo è scaduto.</string>
+	<string id="pg_amh_4">Chiudi</string>
+	<string id="pg_ade_1">In questo momento il Pokémon DW sta
+registrando un alto volume di traffico.
+Riprova più tardi.
+
+- Versione demo -
+Le versione demo del Pokémon DW
+non è più disponibile.
+È impossibile accedere al servizio.</string>
+	<string id="pg_ade_2">Per giocare con il Pokémon Dream World, metti a dormire un Pokémon tramite il Sincrogioco ed effettua nuovamente l'accesso.</string>
+	<string id="pg_ade_3">Clicca su Sveglia il Pokémon, per preparare il Pokémon al risveglio con il Sincrogioco.</string>
+	<string id="pg_ade_4">Chiudi</string>
+	<string id="pg_ade_5">Sveglia il Pokémon</string>
+	
+	<string id="pg_adi_1">Il tuo ultimo accesso è stato
+il giorno [DD]/[MM] alle ore [HH1].
+Potrai accedere di nuovo tra [HH2] h.</string>
+	<string id="pg_adi_2">Il tuo ultimo accesso è stato
+il giorno [DD]/[MM] alle ore [HH1].
+Potrai accedere di nuovo tra [HH2] min.</string>
+	<string id="pg_adi_3">Il tuo ultimo accesso è stato
+il giorno [DD]/[MM] alle ore [HH1].
+Potrai accedere di nuovo tra meno di un minuto.</string>
+	<string id="pg_adi_4">A volte, malgrado siano trascorse 24 ore, l'accesso potrebbe essere limitato perché il server è occupato. In tal caso, aspetta qualche momento prima di tentare un altro accesso.</string>
+	<string id="pg_adi_5">Clicca su Sveglia il Pokémon, per preparare il Pokémon al risveglio con il Sincrogioco.</string>
+	<string id="pg_adi_6">Chiudi</string>
+	<string id="pg_adi_7">Sveglia il Pokémon</string>
+	<string id="pg_ala_1">pg_ala_1</string>
+	<string id="pg_ala_2">pg_ala_2</string>
+	<string id="pg_alc_1">Aggiornamento dati del Pokémon Dream World in corso. Riprova ad accedere più tardi.</string>
+	<string id="pg_alc_2">Chiudi</string>
+	<string id="pg_ald_1">Stiamo processando i tuoi dati per la registrazione. 
+Questa procedura potrebbe richiedere cinque o più minuti. Riprova più tardi.</string>
+	<string id="pg_ald_2">Chiudi</string>
+	<string id="pg_alf_1">Nessuno dei tuoi Pokémon sta sognando in questo momento: usa il Sincrogioco per mettere a dormire un Pokémon.
+Per giocare di nuovo al Pokémon Dream World, metti a dormire un Pokémon con il Sincrogioco.</string>
+	<string id="pg_alf_2">* Il Sincrogioco può essere usato una sola volta  al giorno.</string>
+	<string id="pg_alf_3">Chiudi</string>
+	<string id="pg_ale_1">Nessuno dei tuoi Pokémon sta sognando in questo momento: usa il Sincrogioco per mettere a dormire un Pokémon.</string>
+	<string id="pg_ale_2">Chiudi</string>
+	<string id="pg_alg_1">Stiamo processando i tuoi dati per il Pokémon Dream World. 
+Questa procedura potrebbe richiedere cinque o più minuti. 
+Riprova più tardi.</string>
+	<string id="pg_alg_2">* A volte tra quando metti a dormire il Pokémon nel Sincrogioco e quando comincia a sognare passa qualche minuto. Riprova più tardi.</string>
+	<string id="pg_alg_3">Chiudi</string>
+	<string id="pg_amb_1">Per usufruire dei vari contenuti, registra il tuo ID Sincrogioco nel Pokémon Global Link.</string>
+	<string id="pg_amb_2">Il tuo ID Sincrogioco sarà emesso la prima volta che usi il Sincrogioco, dopo aver ottenuto il C-Gear in Pokémon Versione Nera, Pokémon Versione Bianca, Pokémon Versione Nera 2 o Pokémon Versione Bianca 2. Scegli ONLINE e quindi SINCROGIOCO (per collegarti alla Nintendo® Wi-Fi Connection), oppure toccando OPZIONI SINCROGIOCO dal menu di avvio. Dopo l’emissione, potrai verificare l’ID Sincrogioco in qualsiasi momento dal menu di avvio toccando OPZIONI SINCROGIOCO.
+
+Puoi registrare l’ID Sincrogioco cliccando su Registra una scheda di gioco, dal tuo profilo. Effettua la registrazione solo dopo aver messo a dormire un Pokémon.</string>
+	<string id="pg_amb_3">Chiudi</string>
+	<string id="pg_amb_4">Registra</string>
+	<string id="pg_amk_1">Poiché hai chiuso il Pokémon Dream World dopo aver preparato il Pokémon al risveglio, puoi usare il Sincrogioco e provvedere a svegliarlo.</string>
+	<string id="pg_amk_2">pg_amk_2</string>
+	<string id="pg_amk_3">pg_amk_3</string>
+	<string id="pg_amk_4">pg_amk_4</string>
+</data>

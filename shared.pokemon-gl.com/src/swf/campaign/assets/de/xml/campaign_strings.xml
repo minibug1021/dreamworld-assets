@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data locale="de">	
+	<string id="c_ad_1">Aktionen</string>
+	<string id="c_ad_2">Datum</string>
+	<string id="c_ad_3">Status</string>
+	<string id="c_ad_4">Titel</string>
+	<string id="c_ad_11">Teilnahmerichtlinien</string>
+	<string id="c_aa_1">Einzelheiten</string>
+	<string id="c_aa_3">Weiter</string>
+	<string id="c_aa_4">An alle Aktionsteilnehmer</string>
+	<string id="c_bb_3">Aktionsdauer: [DD1].[MM1].[YYYY1],　[hh1]:[mm1] Uhr - [DD2].[MM2].[YYYY2],　[hh2]:[mm2] Uhr</string>
+	<string id="c_ba_1">Zur Aktionsteilnahme brauchst du ein Konto im Pokémon Trainer Club. Mit dieser kannst du dich auf der Homepage anmelden.</string>
+	<string id="c_ba_2">Hinweise für neue Nutzer</string>
+	<string id="c_ba_3">Mitglied werden</string>
+	<string id="c_bb_1">Teilnahme nur mit Teilnahmeberechtigung.
+Näheres hierzu beim Pokémon Trainer Club.</string>
+	<string id="c_bb_7">Zurück</string>
+	<string id="c_bd_1">Diese Aktion startet in Kürze.</string>
+	<string id="c_be_1">Diese Aktion ist bereits beendet.</string>
+	<string id="c_bf_1">Vielen Dank für deine Teilnahme an dieser Aktion.</string>
+	<string id="c_bg_1">Die Aktionsteilnahme ist nur möglich mit der 
+Spielsynchro ID von Pokémon Schwarze Edition.</string>
+	<string id="c_bh_1">Die Aktionsteilnahme ist nur möglich mit der 
+Spielsynchro ID von Pokémon Weiße Edition.</string>
+	<string id="c_bi_1">Die Aktionsteilnahme ist nur möglich mit der Spielsynchro ID von
+Pokémon Schwarze Edition oder Pokémon Weiße Edition.</string>
+	<string id="c_bj_1">Deine Spielfreundestafel ist voll.
+Du musst zunächst Pokémon in die Kontaktebene bringen.</string>
+	<string id="c_bk_1">Im Kontaktebenenhain ist kein Platz mehr für weitere Pokémon.
+Triff dich dort zunächst mit ein paar Pokémon!</string>
+	<string id="c_bl_1">Aktionsspiel nicht auffindbar.</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+</data>

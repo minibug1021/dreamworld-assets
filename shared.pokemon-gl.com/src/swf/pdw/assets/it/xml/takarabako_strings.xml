@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="it">
+	<string id="b_af_1">Hai selezionato gli strumenti da inviare nell'Intramondo.</string>
+	<string id="b_af_2">Scegli l'opzione Esci dal Pokémon DW e, dopo aver svegliato
+il tuo Pokémon con il Sincrogioco, vai nel Bosco Intramondo
+per ricevere dal ragazzo all'ingresso gli strumenti inviati.</string>
+	<string id="b_ai_1">Selezione eliminata.</string>
+	<string id="b_ah_1">Vuoi eliminare la selezione degli strumenti da inviare nell'Intramondo?</string>
+	<string id="b_ae_1">Inviare nell'Intramondo?</string>
+	<string id="b_ae_2">b_ae_2</string>
+
+	<string id="b_ad_1">Strumenti da inviare nell'Intramondo</string>
+	<string id="b_ad_2" >Nome strumento</string>
+	<string id="b_ad_3" >N.</string>
+	<string id="b_ad_4" >Bacca</string>
+
+	<string id="b_aa_1" >Per data</string>
+	<string id="b_aa_2" >Per nome</string>
+	<string id="b_aa_3" >Per tipo</string>
+	<string id="b_aa_4" >Invia</string>
+
+	<string id="b_az_1">Chiudi</string>
+	<string id="b_ae_4">No</string>
+	<string id="b_ad_6">Ok</string>
+	<string id="b_ad_7">Annulla</string>
+	<string id="b_ae_3">Sì</string>
+	<string id="b_ae_4">No</string>
+
+	<string id="k_af_1">Bacche possedute</string>
+	<string id="b_aa_6">Baule</string>
+</data>
+

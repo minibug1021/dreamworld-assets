@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="ja">
+	<string id="h_ee_10">アイコンの説明</string>
+	<string id="h_ee_11">PGLニックネーム</string>
+	<string id="h_ee_12">ポケモンのニックネーム</string>
+	<string id="h_ee_13">トレーナーネーム</string>
+	<string id="h_ee_14">トレーナーネーム:</string>
+	<string id="h_ee_15">トレーナーネーム:</string>
+	<string id="h_ee_16">トレーナーネーム:</string>
+	<string id="h_ha_22">h_ha_22</string>
+	<string id="h_ha_3">しばらくのあいだ たからばこに入ったままだったきのみが、ゆめの木にはこばれました。</string>
+	<string id="h_ha_4">h_ha_4</string>
+	<string id="h_ha_5">h_ha_5</string>
+	<string id="h_ha_6">h_ha_6</string>
+	<string id="h_ha_7">h_ha_7</string>
+	<string id="h_ha_8">h_ha_8</string>
+	<string id="h_ha_9">h_ha_9</string>
+	<string id="h_ha_10">h_ha_10</string>
+	<string id="h_ha_11">h_ha_11</string>
+	<string id="h_ha_12">h_ha_12</string>
+	<string id="h_ha_13">h_ha_13</string>
+	<string id="h_ha_14">h_ha_14</string>
+	<string id="h_ha_15">たからばこの中のきのみがゆめの木にはこばれたため、
+減ってしまいました。</string>
+	<string id="h_ha_16">減ったきのみのぶん、ゆめポイントが追加されました。</string>
+	<string id="h_ha_17">ふえたゆめポイント：</string>
+	<string id="h_ha_18">きのみ名</string>
+	<string id="h_ha_19">個数</string>
+	<string id="h_ha_20">※残ったきのみは、部屋の中の「たからばこ」から確認してください。</string>
+	<string id="h_ha_21">とじる</string>
+
+	<string id="y_aa_18">ゆめしま　「ひんやり穴」</string>
+	<string id="y_ad_22">[ポケモン名]は氷の上で遊びたいみたい。</string>
+	<string id="y_ad_23">[ポケモン名]と氷の上で遊びますか？</string>
+	<string id="y_ag_17">スイーツキャッチをやめた。</string>
+	<string id="y_zc_6">ゆめしまについた。「ひんやり穴」を進むことにした。</string>
+
+	<string id="y_aa_19">ゆめしま　「ゆめパーク」</string>
+	<string id="y_ad_24">[ポケモン名]は湖で遊びたいみたい。</string>
+	<string id="y_ad_25">[ポケモン名]と湖で遊びますか？</string>
+	<string id="y_ag_18">ボード遊びに失敗した。</string>
+	<string id="y_ag_19">ボード遊びをやめた。</string>
+	<string id="y_zc_7">ゆめしまについた。「ゆめパーク」を進むことにした。</string>
+
+	<string id="y_ad_26">[ポケモン名]は宝箱に興味があるみたい。</string>
+	<string id="y_ad_27">[ポケモン名]と宝箱を開けますか？</string>
+	<string id="y_ad_28">宝箱開けに失敗した。</string>
+	<string id="y_ad_29">宝箱開けをやめた。</string>
+
+	<string id="y_ad_30">[ポケモン名]はのどがかわいているみたい。</string>
+	<string id="y_ad_31">[ポケモン名]とドリンクはこびをしますか？</string>
+	<string id="y_ad_32">ドリンクはこびに失敗した。</string>
+	<string id="y_ad_33">ドリンクはこびをやめた。</string>
+
+	<string id="Xz_be_5">そうそう！
+ひとつ 大事なことを 言いわすれていたわ</string>
+	<string id="Xz_be_6"><![CDATA[ずっと「ポケモンドリームワールド」に 遊びに来ないでいると
+たからばこの中の <span class='emphasis'>きのみ</span>が 減ってしまうの]]></string>
+	<string id="Xz_be_7">アタシの研究だと 100日ほど遊びに来ないと
+減ってしまうみたいだから 気をつけて！</string>
+	<string id="y_ag_16">スイーツキャッチに失敗した。</string>
+	<string id="b_ae_5">OK</string>
+	<string id="t_ao_3">ねがいごとができませんでした。
+選んだポケモンはまだ なかまになっていません。
+また後でねがいごとをして、なかまにすることができます。
+一度ホームにもどります。</string>
+	<string id="y_ad_34">ゲームフレンドを見る</string>
+	<string id="y_ad_35">ゲームフレンドリスト</string>
+	<string id="y_ad_36">名前順</string>
+	<string id="y_ad_37">地域順</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+</data>

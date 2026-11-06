@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data locale="en">	
+	<string id="pg_amd_1">It seems no Pokémon is sleeping.</string>
+	<string id="pg_amd_3">pg_amd_3</string>
+	<string id="pg_amd_2">Close</string>
+	<string id="pg_amc_1">You haven't received the Pokémon and items that you sent to your Game Card last time.
+Wake up your Pokémon with the button below and use Game Sync to receive them.</string>
+	<string id="pg_amc_2">Close</string>
+	<string id="pg_amc_3">Wake up!</string>
+	<string id="pg_amh_1">Welcome to the Pokémon Dream World.</string>
+	<string id="pg_amh_2">You can play in the Pokémon DW for one hour.</string>
+	<string id="pg_amh_3">You can only play for an hour in the Pokémon Dream World, then it stops automatically. It’s a good idea to stop playing and save your data when asked, so you can be sure your data gets saved properly.</string>
+	<string id="pg_amh_4">Continue</string>
+	<string id="pg_ade_1">The Pokémon Dream World is currently very busy—please try again later. We apologize for the inconvenience.
+
+Demo Version
+The demo version of Pokémon Dream World is no longer available.</string>
+	<string id="pg_ade_2">Please log in to the Pokémon Global Link after tucking in a Pokémon to enjoy the Pokémon Dream World.</string>
+	<string id="pg_ade_3">Click "Wake up!" to get your Pokémon ready to wake up.</string>
+	<string id="pg_ade_4">Close</string>
+	<string id="pg_ade_5">Wake up!</string>
+	<string id="pg_adi_1">You had access at [HH1]:00 on [MM]/[DD].
+You'll have access again in [HH2] hour(s).</string>
+	<string id="pg_adi_2">You had access at [HH1]:00 on [MM]/[DD].
+You'll have access again in [HH2] minutes.</string>
+	<string id="pg_adi_3">You had access at [HH1]:00 on [MM]/[DD].
+You'll have access again in a minute.</string>
+	<string id="pg_adi_4">The Pokémon Dream World may be too busy to access.
+Sorry about that! Please try again later.</string>
+	<string id="pg_adi_5">Select "Wake up!" to get your Pokémon ready to wake up.</string>
+	<string id="pg_adi_6">Close</string>
+	<string id="pg_adi_7">Wake up!</string>
+	<string id="pg_ala_1">pg_ala_1</string>
+	<string id="pg_ala_2">pg_ala_2</string>
+	<string id="pg_alc_1">Your data in the Pokémon DW is being
+processed. Please try again later.</string>
+	<string id="pg_alc_2">Close</string>
+	<string id="pg_ald_1">Processing registration data. 
+Please wait before trying again. 
+It may take five minutes or longer to complete the process.</string>
+	<string id="pg_ald_2">Close</string>
+	<string id="pg_alf_1">No Pokémon is dreaming. Use
+Game Sync to wake a Pokémon.
+To play in the Pokémon DW 
+again, tuck in a Pokémon.</string>
+	<string id="pg_alf_2">*Use Game Sync to tuck in a Pokémon only once a day.</string>
+	<string id="pg_alf_3">Close</string>
+	<string id="pg_ale_1">No Pokémon is asleep. Tuck in
+a Pokémon using Game Sync.</string>
+	<string id="pg_ale_2">Close</string>
+	<string id="pg_alg_1">Processing your data for the Pokémon Dream World. 
+Please wait before trying again. 
+It may take five minutes or longer to complete the process.</string>
+	<string id="pg_alg_2">*It may take a while for a Pokémon to start dreaming after you tuck in the Pokémon with Game Sync.</string>
+	<string id="pg_alg_3">Close</string>
+	<string id="pg_amb_1">Register your Game Sync ID in the
+Pokémon Global Link to use this feature. </string>
+	<string id="pg_amb_2">You can get your Game Sync ID after you've reached a certain point in your adventure and have received the C-Gear in your Pokémon Black Version,  Pokémon White Version, Pokémon Black Version 2 or Pokémon White Version 2 game. Here's how to get your ID. On your C-Gear, tap "ONLINE," then "GAME SYNC," or select "GAME SYNC SETTINGS" from the main menu. Once you have your ID, you can check it by selecting "GAME SYNC SETTINGS" from the main menu.
+ 
+Please register your ID when a Pokémon has been tucked in.
+You can register your Game Sync ID by clicking “My Page” and then “Game Registration.”</string>
+	<string id="pg_amb_3">Close</string>
+	<string id="pg_amb_4">Register</string>
+	<string id="pg_amk_1">The Pokemon is ready to wake up.</string>
+	<string id="pg_amk_2">You can play in the Pokémon DW for [MM2] minute(s)
+if you access it within [MM1] minute(s).</string>
+	<string id="pg_amk_3">Even during the given time, the Pokémon DW might be busy.
+If you were unable to play, try again in [arg0] hours.</string>
+	<string id="pg_amk_4">Close</string>
+</data>

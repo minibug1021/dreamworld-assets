@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data locale="ja">
+	<!-- このキャンペーンに参加いただくためにはポケットモンスターブラック２のゲームシンクIDコードがひつようです。 -->
+	<string id="c_bi_2" size="15" color="0xE98C22" kerning="true" letterSpacing="0" bold="true" />
+	
+	<!-- このキャンペーンに参加いただくためにはポケットモンスターホワイト２のゲームシンクIDコードがひつようです。 -->
+	<string id="c_bi_3" size="15" color="0xE98C22" kerning="true" letterSpacing="0" bold="true" />
+	
+	<!-- このキャンペーンに参加いただくためにはポケットモンスターブラック２かホワイト２のゲームシンクIDコードがひつようです。 -->
+	<string id="c_bi_4" size="15" color="0xE98C22" kerning="true" letterSpacing="0" bold="true" />	
+
+	<!-- このキャンペーンに参加するためには、「ポケットモンスターブラック・ホワイト」もしくは「ポケットモンスターブラック２・ホワイト２」のゲームシンクIDコードが必要です -->
+	<string id="c_bi_5" size="15" color="0xE98C22" kerning="true" letterSpacing="0" bold="true" />
+</data>

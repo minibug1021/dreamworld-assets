@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="it">
+
+	<string id="B_aa_1">UTENTE</string>
+	<string id="B_aa_2">Nome PGL: [arg0]</string>
+	<string id="B_aa_3">Nome Allenatore: [arg0]</string>
+	<string id="B_aa_4">[arg0]</string>
+	<string id="B_aa_5">Punteggio:</string>
+	<string id="B_aa_6">Posizione:</string>
+	<string id="B_aa_7">Guarda i suoi dati</string>
+	<string id="B_aa_8">Guarda i tuoi dati</string>
+	<string id="B_aa_9">Lotta in Singolo</string>
+	<string id="B_aa_10">Lotta in Doppio</string>
+	<string id="B_aa_11">Lotta in Triplo</string>
+	<string id="B_aa_12">Lotta con Lancio</string>
+	<string id="B_aa_13">Lotta a Rotazione</string>
+	<string id="B_aa_14">Classifiche</string>
+	<string id="B_aa_15">Singolo</string>
+	<string id="B_aa_16">Doppio</string>
+	<string id="B_aa_17">Triplo</string>
+	<string id="B_aa_18">Lancio</string>
+	<string id="B_aa_19">Rotazione</string>
+	<string id="B_aa_20">[arg0]</string>
+	<string id="B_aa_21">Classifica per area</string>
+	<string id="B_aa_22">[arg0]</string>
+	<string id="B_aa_23">Dettagli</string>
+	<string id="B_aa_24">Classifica</string>
+	<string id="B_aa_25">Info Gare</string>
+	<string id="B_aa_26">[arg0]</string>
+	<string id="B_aa_27">Al [DD/MM/YYYY］</string>
+	<string id="B_aa_28">VS</string>
+	<string id="B_aa_29">Partecipante</string>
+	<string id="B_aa_30">In gara</string>
+	<string id="B_aa_31">Top 3 della classifica generale</string>
+	<string id="B_aa_32">Iscrizioni aperte</string>
+
+	
+	<string id="B_ab_1">LOTTA</string>
+
+	<string id="B_ac_1">VINCE</string>
+	<string id="B_ac_2">PERDE</string>
+
+	<string id="B_ad_1">COMPLIMENTI! HAI VINTO UNA LOTTA IN SINGOLO!</string>
+	<string id="B_ad_2">COMPLIMENTI! HAI VINTO UNA LOTTA IN DOPPIO!</string>
+	<string id="B_ad_3">COMPLIMENTI! HAI VINTO UNA LOTTA IN TRIPLO!</string>
+	<string id="B_ad_4">COMPLIMENTI! HAI VINTO UNA LOTTA CON LANCIO!</string>
+	<string id="B_ad_5">COMPLIMENTI! HAI VINTO UNA LOTTA A ROTAZIONE!</string>
+	
+
+	<string id="B_ae_1">Classifica in base al tipo di lotta</string>
+	<string id="B_ae_2">Punteggio:</string>
+	<string id="B_ae_3">[DD/MM/YYYY hh:mm]</string>
+	<string id="B_ae_4">Guarda i tuoi dati</string>
+	<string id="B_ae_5">Singolo</string>
+	<string id="B_ae_6">Doppio</string>
+	<string id="B_ae_7">Triplo</string>
+	<string id="B_ae_8">Mirabilancere</string>
+	<string id="B_ae_9">Rotazione</string>
+	<string id="B_ae_10">Classifica per area geografica</string>
+	<string id="B_ae_11">Posizione:</string>
+	<string id="B_ae_12">[DD/MM/YYYY]</string>
+	<string id="B_ae_13">[arg0]</string>
+	<string id="B_ae_14">[arg0]° posto</string>
+	<string id="B_ae_15">Chiudi</string>
+	<string id="B_ae_16">[arg0]</string>
+	<string id="B_ae_17">In Singolo</string>
+	<string id="B_ae_18">[arg0]</string>
+	<string id="B_ae_19">In Doppio</string>
+	<string id="B_ae_20">[arg0]</string>
+	<string id="B_ae_21">In Triplo</string>
+	<string id="B_ae_22">[arg0]</string>
+	<string id="B_ae_23">Mirabilancere</string>
+	<string id="B_ae_24">[arg0]</string>
+	<string id="B_ae_25">A Rotazione</string>
+	<string id="B_ae_26">[arg0]</string>
+	<string id="B_ae_27">UTENTE</string>
+	<string id="B_ae_29">Nome Allenatore: [arg0]</string>
+	<string id="B_ae_30">[arg0]</string>
+	<string id="B_ae_31">Punteggio</string>
+	<string id="B_ae_32">Posizione</string>
+	<string id="B_ae_33">[arg0]</string>
+	<string id="B_ae_34">[arg0]° posto</string>
+	<string id="B_ae_35">Avversario</string>
+	<string id="B_ae_36">VS</string>
+	<string id="B_ae_37">VINCE</string>
+	<string id="B_ae_38">PERDE</string>
+	<string id="B_ae_39">PAREGGIO</string>
+	<string id="B_ae_40">Non ci sono dati di lotte passate.</string>
+	<string id="B_ae_41">Guarda il profilo</string>
+	<string id="B_ae_42">Gare</string>
+
+	<string id="B_aea_1">Registro lotte di [arg0]</string>
+
+	<string id="B_ag_1">Posizione</string>
+	<string id="B_ag_2">Ultimo aggiornamento</string>
+	<string id="B_ag_3">[DD/MM/YYYY]</string>
+	<string id="B_ag_4">Tipo di lotta</string>
+	<string id="B_ag_5">Classifica generale</string>
+	<string id="B_ag_6">Lotta in Singolo</string>
+	<string id="B_ag_7">Lotta in Doppio</string>
+	<string id="B_ag_8">Lotta in Triplo</string>
+	<string id="B_ag_9">Lotta con Lancio</string>
+	<string id="B_ag_10">Lotta a Rotazione</string>
+	<string id="B_ag_12">Avanti</string>
+	<string id="B_ag_13">La mia posizione</string>
+	<string id="B_ag_14">Nome PGL: [arg0]</string>
+	<string id="B_ag_15">00000001</string>
+	<string id="B_ag_16">Indietro</string>
+
+	<string id="B_aj_1">Nome PGL</string>
+	<string id="B_aj_2">Nome Allenatore</string>
+	<string id="B_aj_3">Punteggio:</string>
+	<string id="B_aj_4">Posizione:</string>
+	<string id="B_aj_5">[arg0]</string>
+	<string id="B_aj_6">[arg0]° posto</string>
+	<string id="B_aj_7">Guarda i suoi dati</string>
+	<string id="B_aj_8">Indietro</string>
+
+	<string id="B_ak_1">Info Gare</string>
+	<string id="B_ak_2">Gare in corso</string>
+	<string id="B_ak_3">Gare passate</string>
+	<string id="B_ak_4">[DD/MM/YYYY]</string>
+	<string id="B_ak_5">Registrazione...</string>
+	<string id="B_ak_6">Iscrizione: OK</string>
+	<string id="B_ak_7">Iscrizioni chiuse</string>
+	<string id="B_ak_8">In gara</string>
+	<string id="B_ak_9">Annulla partecipazione</string>
+
+	<string id="B_al_1">Non è stata indetta nessuna Gara.</string>
+	<string id="B_al_2">Guarda le Gare passate</string>
+	<string id="B_al_3">Non ci sono Gare passate.</string>
+
+	<string id="B_am_1">Iscriviti a questa Gara</string>
+	<string id="B_am_2">Classifica provvisoria</string>
+
+	<string id="B_aq_1">[arg0]</string>
+	<string id="B_aq_2">Posizione</string>
+	<string id="B_aq_3">Ultimo aggiornamento</string>
+	<string id="B_aq_4">[DD/MM/YYYY hh:mm]</string>
+	<string id="B_aq_5">Regole</string>
+	<string id="B_aq_6">[arg0]</string>
+
+	<string id="B_an_1">Iscriviti a questa Gara</string>
+	<string id="B_an_2">Info</string>
+
+	<string id="B_as_1">Ti iscrivi a questa Gara?</string>
+	<string id="B_as_2">Conferma</string>
+
+	<string id="B_ap_1">Gara conclusa</string>
+	<string id="B_ap_2">Termina</string>
+
+	<string id="B_ar_1">Guarda la classifica</string>
+	<string id="B_ac_3">PAREGGIO</string>
+	<string id="B_at_1">Per area geografica</string>
+	<string id="B_at_2">Mostra tutto</string>
+	<string id="B_at_3">Conferma</string>
+	<string id="B_at_4">[arg0]</string>
+	<string id="B_ag_17">Per area geografica</string>
+	<string id="B_ag_18">Classifica generale</string>
+	<string id="B_ag_19">Lotta in Singolo</string>
+	<string id="B_ag_20">Lotta in Doppio</string>
+	<string id="B_ag_21">Lotta in Triplo</string>
+	<string id="B_ag_22">Lotta con Lancio</string>
+	<string id="B_ag_23">Lotta a Rotazione</string>
+	<string id="B_new_1">Dettagli</string>
+	<string id="B_new_2">Classifica 
+stagione [N]</string>
+	<string id="B_new_3">Stagione [N]:  [DATE_FROM] - [DATE_TO]</string>
+	<string id="B_new_4">Altre informazioni sui punteggi▼</string>
+	<string id="B_new_5">* L'aggiornamento dei risultati delle lotte in link e dei punteggi può richiedere del tempo.</string>
+	<string id="B_new_6">Stagione [N]:  [DATE_FROM] - [DATE_TO]</string>
+	<string id="">Stagione [N]</string>
+	<string id="">Stagione [N]</string>
+	<string id="">Stagione [N]</string>
+	<string id="">Stagione [N]</string>
+	<string id="">Stagione [N]</string>
+	<string id="">Stagione [N]</string>
+	<string id="">Stagione [N]</string>
+	<string id="">Stagione [N]</string>
+	<string id="">Stagione [N]</string>
+	<string id="">Stagione [N]</string>
+	<string id="">Stagione [N]</string>
+	<string id="">Stagione [N]</string>
+	<string id="B_new_7">[DATE_FROM] － [DATE_TO]</string>
+	<string id="B_new_8">Classifiche passate</string>
+	<string id="B_new_9">Classifica finale</string>
+	<string id="B_new_10">Stagione [N]</string>
+	
+	
+	<string id="B_vs_3">Classifiche</string>
+	<string id="B_vs_4">Periodo d'iscrizione</string>
+	<string id="B_vs_5">Periodo della gara</string>
+	<string id="B_vs_6">Informazioni sulla gara</string>
+	<string id="B_vs_7">Avvisi e regolamento</string>
+	<string id="B_vs_8">Impostazioni e comandi del software</string>
+	<string id="B_vs_9">Procedi con l'iscrizione</string>
+	
+	<string id="B_vs_11">Hai accettato avvisi e regolamento.</string>
+	<string id="B_vs_12">Iscriviti</string>
+	
+	<string id="B_vs_14">* Vedrai le gare a cui stai partecipando o per le quali ti qualifichi. I risultati precedenti sono visibili nelle Classifiche.</string>
+	<string id="B_vs_15">Le iscrizioni a questa gara sono chiuse.</string>
+	
+	
+	<string id="B_vs_18">La gara è conclusa. Stiamo calcolando le classifiche. Pazienta fino alla pubblicazione dei risultati.</string>
+	<string id="B_vs_19">La gara è conclusa. Puoi vedere i risultati cliccando su "Guarda la classifica".</string>
+	<string id="B_vs_20">Hai abbandonato questa gara.
+* Se hai partecipato al numero minimo di sfide previsto dal regolamento, il tuo punteggio sarà calcolato in classifica.</string>
+	<string id="B_vs_21">Uno sguardo sulla gara</string>
+	<string id="B_vs_22">Periodo della gara</string>
+	<string id="B_vs_23">Regole delle sfide</string>
+	<string id="B_vs_24">Numero partecipanti</string>
+	<string id="B_vs_25">Gare precedenti</string>
+	<string id="B_vs_26">Guarda la classifica</string>
+	<string id="B_new_11">Classifiche passate</string>
+	<string id="B_new_12">Stagione [N]</string>
+	<string id="B_new_13">Stagione [N]:  [DATE_FROM] - [DATE_TO]</string>
+	<string id="B_new_28">C'è almeno una gara
+a cui puoi partecipare.</string>
+	<string id="B_new_30">Periodo della gara:</string>
+	
+	<string id="">Stagione [N]</string>
+	<string id="">Stagione [N]</string>
+	<string id="">Stagione [N]</string>
+	<string id="">Stagione [N]</string>
+	<string id="">Stagione [N]</string>
+	<string id="">Stagione [N]</string>
+	<string id="">Stagione [N]</string>
+	<string id="">Stagione [N]</string>
+	<string id="">Stagione [N]</string>
+	<string id="">Stagione [N]</string>
+	<string id="">Stagione [N]</string>
+	<string id="">Stagione [N]</string>
+	<string id="">Stagione [N]</string>
+	<string id="">Stagione [N]</string>
+	<string id="">Stagione [N]</string>
+	<string id="">Stagione [N]</string>
+	<string id="">Stagione [N]</string>
+	<string id="">Stagione [N]</string>
+	<string id="">Stagione [N]</string>
+	<string id="">Stagione [N]</string>
+	<string id="">Stagione [N]</string>
+	<string id="">Stagione [N]</string>
+	<string id="">Stagione [N]</string>
+	<string id="">Stagione [N]</string>
+	<string id="">Stagione [N]</string>
+	<string id="">Stagione [N]</string>
+	<string id="">Stagione [N]</string>
+	<string id="">Stagione [N]</string>
+	<string id="">Stagione [N]</string>
+	<string id="">Stagione [N]</string>
+	<string id="">Stagione [N]</string>
+	<string id="">Stagione [N]</string>
+	<string id="B_vs_17">Stai partecipando alla gara. Ora puoi lottare con la tua scheda di gioco per Nintendo DS.</string>
+</data>

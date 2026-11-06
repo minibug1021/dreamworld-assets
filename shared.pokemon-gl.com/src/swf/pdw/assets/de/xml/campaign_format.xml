@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="de">
+	<string id="s_aa_3" size="10" baselineShift="3" letterSpacing="0"  baselineMode="mem" />
+	<string id="h_ca_20" size="12" bold="true" letterSpacing="0" baselineShift="1" />
+	<string id="fr_aa_8" size="12" bold="true" letterSpacing="0" baselineShift="2" />
+	<string id="y_aa_9" bold="true" letterSpacing="0"  baselineMode="mem" />
+	<string id="y_zd_4" letterSpacing="0"  baselineMode="mem" />
+	<string id="y_aa_8" size="10" baselineShift="2" letterSpacing="0"  baselineMode="mem" />
+	<string id="h_ca_11" size="12" bold="true" letterSpacing="0" baselineShift="1" />
+	<string id="h_ca_12" size="12" bold="true" letterSpacing="0" baselineShift="1" baselineMode="mem" />
+	<string id="sp2_pokemon_comment_01" size="10" />
+	<string id="sp2_pokemon_comment_02" size="10" />
+	<string id="sp2_pokemon_comment_03" size="10" />
+	<string id="sp2_pokemon_comment_04" size="10" />
+	<string id="sp2_pokemon_comment_05" size="10" />
+	<string id="sp2_pokemon_comment_06" size="10" />
+	<string id="h_da_5" size="12" bold="true" letterSpacing="0" baselineShift="2" />
+	<string id="h_da_7" size="12" bold="true" letterSpacing="0" baselineShift="2" />
+	<string id="dialog_36" size="12" bold="true" letterSpacing="0" baselineShift="2"  baselineMode="mem"/>
+
+	<string id="sp2_interior_1_doll" size="10" />
+
+	<string id="y_aa_10" bold="true" letterSpacing="0"  baselineMode="mem" />
+	<string id="y_aa_11" letterSpacing="0"  baselineMode="mem" />
+	<string id="y_aa_12" letterSpacing="0"  baselineMode="mem" />
+	<string id="y_aa_13" letterSpacing="0" baselineShift="3"  baselineMode="mem" />
+	<string id="y_aa_14" letterSpacing="0"  baselineMode="mem" />
+	<string id="y_aa_15" letterSpacing="0"  baselineMode="mem" />
+
+	<string id="h_ca_21" size="12" bold="true" letterSpacing="0" baselineShift="1" />
+	<string id="fr_aa_16" size="12" bold="true" letterSpacing="0" baselineShift="2" />
+
+</data>
+
+

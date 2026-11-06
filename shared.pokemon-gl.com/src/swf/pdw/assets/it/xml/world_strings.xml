@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="it">
+	<string id="h_da_1">Casa di [PGLニックネーム]</string>
+	<string id="h_da_2">Sognamici</string>
+	<string id="h_da_3">Torna alla tua pagina iniziale</string>
+	<string id="h_da_4">Sognamici di [PGLニックネーム]</string>
+	
+	<string id="h_db_1">Lista sognamici</string>
+	<string id="h_db_2">Per visite</string>
+	<string id="h_db_3">Per nome</string>
+	<string id="h_db_4">Per luogo</string>
+</data>

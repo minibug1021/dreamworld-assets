@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<data locale="ja">	
+	<string id="pg_az_1">あなたのソフトをカスタマイズする</string>
+	<string id="pg_az_2">カスタマイズ</string>
+	<string id="pg_az_3">Cギアのスキン</string>
+	<string id="pg_az_5">図鑑のスキン</string>
+	<string id="pg_az_7">ミュージカルの演目</string>
+	<string id="pg_az_9">もどる</string>
+	
+	<string id="pg_az1_1">このじょうたいでカスタマイズする</string>
+	<string id="pg_az1_2">こちらでよろしいですか？</string>
+	<string id="pg_az1_3">Cギアのスキン</string>
+	<string id="pg_az1_5">図鑑のスキン</string>
+	<string id="pg_az1_7">ミュージカルの演目</string>
+	<string id="pg_az1_9">DSに送らない</string>
+	
+	<string id="pg_az2_2">カスタマイズを設定しました。</string>
+	<string id="pg_az2_1">OK</string>
+	
+	<string id="pg_ay_1">何も変更されていません。</string>
+	<string id="pg_ay_2">OK</string>
+</data>

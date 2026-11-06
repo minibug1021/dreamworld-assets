@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="en">
+	<string id="h_da_1">Home of
+[PGLニックネーム].</string>
+	<string id="h_da_2">Check Dream Pals</string>
+	<string id="h_da_3">Return to your home.</string>
+	<string id="h_da_4">[PGLニックネーム]'s Dream Pal map</string>
+	
+	<string id="h_db_1">Dream Pal list</string>
+	<string id="h_db_2">Sort by visit</string>
+	<string id="h_db_3">Sort by name</string>
+	<string id="h_db_4">Sort by region</string>
+</data>

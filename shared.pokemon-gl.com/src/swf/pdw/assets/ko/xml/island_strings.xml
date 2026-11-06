@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="ko">
+	<string id="y_aa_3">꿈섬 「작은 숲」</string>
+	<string id="y_za_1">꿈섬에 도착했다. 작은 숲에 가려 한다.</string>
+
+	<string id="y_aa_4">꿈섬 「빛나는 바다」</string>
+	<string id="y_zb_2">꿈섬에 도착했다. 빛나는 바다에 가려 한다.</string>
+
+	<string id="y_aa_5">꿈섬 「드넓은 하늘」</string>
+	<string id="y_zc_3">꿈섬에 도착했다. 드넓은 하늘에 가려 한다.</string>
+
+
+
+	<string id="y_ad_10">[ポケモン名]는(은) 미아를 찾고 싶어 한다.</string>
+	<string id="y_ad_11">[ポケモン名]와(과) 미아를 찾겠습니까?</string>
+	<string id="y_ag_5">미아를 찾지 못했다.</string>
+	<string id="y_ag_6">미아찾기를 끝냈다.</string>
+
+	<string id="y_ad_2">[ポケモン名]는(은) 배가 고픈것 같다.</string>
+	<string id="y_ad_4">[ポケモン名]와(과) 아이스크림 만들기를 하겠습니까?</string>
+	<string id="y_ag_1">아이스크림 만들기에 실패했다.</string>
+	<string id="y_ag_2">아이스크림 만들기를 끝냈다.</string>
+
+	<string id="y_ad_7">[ポケモン名]는(은) 하늘을 날고 싶어 한다.</string>
+	<string id="y_ad_8">[ポケモン名]와(과) 플라잉 레이스에 참가하시겠습니까?</string>
+	<string id="y_ag_3">플라잉 레이스에서 골인하지 못했다.</string>
+	<string id="y_ag_4">플라잉 레이스를 끝냈다.</string>
+
+	<string id="y_ad_13">[ポケモン名]는(은) 고래왕 등에서 놀고 싶어 한다.</string>
+	<string id="y_ad_14">[ポケモン名]와(과) 고래왕이 있는 곳에 놀러 가겠습니까?</string>
+	<string id="y_ag_7">고래왕 등에서 재미있게 못 놀았다.</string>
+	<string id="y_ag_8">고래왕 등에서 놀기를 끝냈다.</string>
+
+
+	<string id="y_af_2">포켓몬:</string>
+	<string id="y_af_3">특성:</string>
+	<string id="y_af_4">타입:</string>
+	<string id="y_af_5">성별:</string>
+	<string id="y_af_6">알고 있는 기술:</string>
+
+	<string id="b_ae_3">예</string>
+	<string id="b_ae_4">아니오</string>
+
+	<string id="y_aa_6">내 홈으로 돌아가기</string>
+	<string id="y_aa_1">꿈의나무 미터</string>
+	<string id="y_aa_2">꿈의나무까지
+앞으로 [画面数]</string>
+	
+
+	<string id="y_ai_1">[道具名]를(을) 찾았다</string>
+	<string id="y_ah_1">[ポケモン名]는(은) 사라졌다…</string>
+	<string id="y_aj_1">[道具名]를(을) 보물상자에 넣었다</string>
+	<string id="y_ag_9">[ポケモン名]는(은) 아쉬워 보인다.</string>
+	<string id="y_af_7">[ポケモン名]는(은) 기뻐하는 것 같다!</string>
+	<string id="y_ad_1">[ポケモン名](이)다!</string>
+	<string id="y_ad_3">필요한 나무열매는 [きのみの個数]개입니다.</string>
+	<string id="y_af_1">[ポケモン名]와(과) 사이가 좋아졌습니다.</string>
+
+	<string id="y_al_1">데이터 처리 중 에러가 발생했습니다.</string>
+	
+	
+	
+	
+	
+	
+	
+	
+	<string id="y_ag_12">담력테스트에서 겁을 먹었다.</string>
+	<string id="y_ag_13">촛불 끄기를 끝냈다.</string>
+	<string id="y_zc_4">꿈섬에 도착했다. 오래된 양옥에 가려 한다.</string>
+	<string id="y_zc_5">꿈섬에 도착했다. 울퉁불퉁 산에 가려 한다.</string>
+	<string id="y_aa_16">꿈섬 「오래된 양옥」</string>
+	<string id="y_aa_17">꿈섬 「울퉁불퉁 산」</string>
+	
+	<string id="y_ad_19">[ポケモン名]와(과) 촛불 끄기를 하겠습니까?</string>
+	<string id="y_ad_20">[ポケモン名]는(은) 보석을 모으고 싶은 것 같다.</string>
+	<string id="y_ad_21">[ポケモン名]와(과) 보석을 모으겠습니까?</string>
+	<string id="y_ag_14">보석 모으기에 실패했다.</string>
+	<string id="y_ag_15">보석 모으기를 끝냈다.</string>
+	<string id="y_ad_18">[ポケモン名]는(은) 담력테스트를 하고 싶은 것 같다.</string>
+</data>
+

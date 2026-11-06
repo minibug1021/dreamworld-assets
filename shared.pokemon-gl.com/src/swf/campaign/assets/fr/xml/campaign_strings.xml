@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data locale="fr">	
+	<string id="c_ad_1">Liste des offres</string>
+	<string id="c_ad_2">Date</string>
+	<string id="c_ad_3">Statut</string>
+	<string id="c_ad_4">Titre</string>
+	<string id="c_ad_11">Comment profiter des offres</string>
+	<string id="c_aa_1">Pour plus de détails :</string>
+	<string id="c_aa_3">Suivant</string>
+	<string id="c_aa_4">À tous les participants :</string>
+	<string id="c_bb_3">Durée de l'offre : du [DD1]/[MM1]/[YYYY1] à [hh1]:[mm1] jusqu'au [DD2]/[MM2]/[YYYY2] à [hh2]:[mm2]</string>
+	<string id="c_ba_1">Pour participer aux offres, vous devez obligatoirement avoir un compte au Club des Dresseurs Pokémon.
+Si vous possédez déjà un compte, veuillez vous identifier depuis la page d’accueil.</string>
+	<string id="c_ba_2">S'inscrire pour la première fois</string>
+	<string id="c_ba_3">Création d'un nouveau compte</string>
+	<string id="c_bb_1">Pour participer aux offres, vous devez en obtenir le droit via le Club des Dresseurs Pokémon. 
+Veuillez vérifier ce point auprès du Club des Dresseurs Pokémon.</string>
+	<string id="c_bb_7">Retour</string>
+	<string id="c_bd_1">Cette offre sera bientôt disponible.</string>
+	<string id="c_be_1">Cette offre est déjà terminée.</string>
+	<string id="c_bf_1">Merci d'avoir participé à cette offre.</string>
+	<string id="c_bg_1">Pour participer à cette offre, vous devez enregistrer 
+un ID de Synchro-Jeu pour Pokémon Version Noire.</string>
+	<string id="c_bh_1">Pour participer à cette offre, vous devez enregistrer 
+un ID de Synchro-Jeu pour Pokémon Version Blanche.</string>
+	<string id="c_bi_1">Pour participer à cette offre, vous devez enregistrer un ID de Synchro-Jeu 
+pour Pokémon Version Noire ou pour Pokémon Version Blanche.</string>
+	<string id="c_bj_1">Votre panneau des compagnons est plein.
+Emmenez quelques Pokémon dans le Heylink !</string>
+	<string id="c_bk_1">La Forêt du Heylink est pleine, et ne peut plus accueillir davantage de Pokémon.
+Allez voir les Pokémon dans la forêt !</string>
+	<string id="c_bl_1">Impossible de trouver le jeu relatif à l'offre.</string>
+</data>

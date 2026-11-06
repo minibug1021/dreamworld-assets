@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="de">
+	<string id="m_aa_1">Fußmatte</string>
+	<string id="m_aa_2">Mehr anzeigen</string>
+	
+	<string id="f_af_1">Traumfreundschaftsanfrage eingegangen</string>
+	<string id="f_af_2">Dieses Pokémon hat deine Traumfreundschaftsanfrage bestätigt.
+Willst du das Pokémon zu Hause besuchen?</string>
+	<string id="f_af_3">Spitzname:</string>
+	<string id="f_af_4">PGL-Spitzname:</string>
+	<string id="f_af_5">[arg0]</string>
+	<string id="f_af_6">Finder:</string>
+	<string id="f_af_7">Level:</string>
+	<string id="f_af_8">Typ:</string>
+	<string id="f_af_9">Geschlecht:</string>
+	<string id="f_af_10">Wesen:</string>
+	<string id="f_af_12">[DD.MM.YYYY,　hh:mm Uhr]</string>
+	<string id="f_af_13">Aktivitäten:</string>
+	<string id="f_af_14">Traumfreundschaft beantragen</string>
+	<string id="f_af_15">Bewässern</string>
+	<string id="f_af_16">Austausch</string>
+	<string id="f_af_17">Ende</string>
+	<string id="f_af_18">Pokémon zu Hause besuchen</string>
+	
+	<string id="m_af_1">Detailansicht</string>
+	<string id="m_af_2">Fußmatte ansehen</string>
+	<string id="m_af_3">Besucherliste</string>
+	<string id="m_af_4">Datum</string>
+	<string id="m_af_5">Pokémon</string>
+	<string id="m_af_6">Spitzname des Pokémon</string>
+	<string id="m_af_7">Status</string>
+	<string id="m_af_8">Handlung</string>
+	<string id="m_af_9">[DD.MM.YYYY,　hh:mm Uhr]</string>
+	<string id="m_af_10">[arg0]</string>
+	<string id="m_af_11">Spitzname:</string>
+	<string id="m_af_12">PGL-Spitzname:</string>
+	<string id="m_af_13">[arg0]</string>
+	<string id="m_af_14">Foto</string>
+	
+	<string id="m_ac_1">Fußabdrücke entdeckt!</string>
+	<string id="m_ac_2">Du kannst ein Pokémon, das bei dir Fußabdrücke hinterlassen hat,
+zu Hause besuchen und eine Traumfreundschaftsanfrage stellen.</string>
+	<string id="m_ac_3">Spitzname:</string>
+	<string id="m_ac_4">PGL-Spitzname:</string>
+	<string id="m_ac_5">[arg0]</string>
+	<string id="m_ac_6">Finder:</string>
+	<string id="m_ac_7">Level:</string>
+	<string id="m_ac_8">Typ:</string>
+	<string id="m_ac_9">Geschlecht:</string>
+	<string id="m_ac_10">Wesen:</string>
+	<string id="m_ac_11">[DD.MM.YYYY,　hh:mm Uhr]</string>
+	<string id="m_ac_12">Aktivitäten:</string>
+	<string id="m_ac_13">Traumfreundschaftsanfrage</string>
+	<string id="m_ac_14">Bewässern</string>
+	<string id="m_ac_15">Austausch</string>
+	<string id="m_ac_16">Pokémon zu Hause besuchen</string>
+	<string id="m_ac_17">Schließen</string>
+</data>

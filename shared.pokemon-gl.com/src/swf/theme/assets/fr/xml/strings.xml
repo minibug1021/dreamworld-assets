@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data locale="fr">	
+	<string id="pg_ame_1">Erreur inattendue.</string>
+	<string id="pg_amf_1">Connexion avec le serveur interrompue. Rafraîchissement du navigateur…</string>
+	<string id="pg_amg_1">Espace local insuffisant. Rafraîchissement du navigateur…</string>
+	<string id="pg_ay_2">Confirmer</string>
+	<string id="pg_amb_1">Pour profiter pleinement du Pokémon Global Link, il vous faut y enregistrer votre ID de Synchro-Jeu.</string>
+	<string id="pg_amb_2">Vous recevrez votre ID de Synchro-Jeu la première fois que vous utiliserez la Synchro-Jeu sur votre C-Gear, que vous pouvez obtenir durant votre aventure dans les jeux Pokémon Version Noire, Pokémon Version Blanche, Pokémon Version Noire 2 ou Pokémon Version Blanche 2. Touchez SYNCHRO-JEU dans le menu INTERNET du C-Gear, puis entrez votre ID de Synchro-Jeu en allant sur votre profil puis en choisissant "ID de Synchro-Jeu". Attention : un Pokémon doit être endormi lorsque vous effectuez ces opérations.</string>
+	<string id="pg_amb_3">Fermer</string>
+	<string id="pg_amb_4">Enregistrer</string>
+	<string id="pg_ama_4">pg_ama_4</string>
+	<string id="pg_ama_5">pg_ama_5</string>
+	<string id="pg_ama_1">Retour</string>
+	<string id="pg_opa_1">Chargement en cours...</string>
+</data>

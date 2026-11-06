@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="fr">
+	<string id="s_aa_2">Retourner chez soi</string>
+	<string id="t_aa_1">L'Arbre des Rêves</string>
+	<string id="t_ai_1">Vous avez fait un vœu à l'Arbre des Rêves.</string>
+	<string id="t_ai_3">Fermer</string>
+	<string id="t_ap_1">Aucun Pokémon ne vous apprécie assez.</string>
+	<string id="t_ao_1">Il n'y a pas de Baie dans le coffre.</string>
+	<string id="t_ah_1">Voulez-vous faire le vœu de devenir ami
+avec ce Pokémon ?</string>
+	<string id="t_ag_2">Nom du Pokémon</string>
+	<string id="t_ag_3">Capacité spéciale</string>
+	<string id="t_ag_4">Sexe</string>
+	<string id="t_ag_5">Capacités apprises</string>
+	<string id="t_ag_1">Choisissez le Pokémon avec qui vous voulez devenir ami.</string>
+	<string id="t_ag_7">t_ag_7</string>
+	<string id="t_ag_8">Nom du Pokémon</string>
+	<string id="t_ag_9">t_ag_9</string>
+	<string id="t_ag_10">Capacité spéciale</string>
+	<string id="t_ag_6">Ce Pokémon</string>
+
+	<string id="t_ac_1">Surnom du Pokémon</string>
+	<string id="t_ac_2">Surnom PGL</string>
+	<string id="t_ac_3">Pokémon</string>
+	<string id="t_ac_4">Dresseur d'origine</string>
+	<string id="t_ac_5">Niveau</string>
+	<string id="t_ac_6">Type</string>
+	<string id="t_ac_7">Sexe</string>
+	<string id="t_ac_8">Nature</string>
+	<string id="t_ac_10">Attrapé avec une</string>
+	<string id="t_ad_1">Voulez-vous faire un vœu sur l'Arbre des Rêves ? Vous aurez besoin d'une Baie.</string>
+	<string id="t_af_2">Voulez-vous utiliser cette Baie ?</string>
+	<string id="t_ai_2">Le [ポケモン名] est devenu 
+votre ami. Rentrez chez vous 
+regarder votre panneau des compagnons.</string>
+	<string id="t_ao_2">Vous avez besoin d'une Baie pour faire un vœu.</string>
+
+</data>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="en">
+
+	<string id="k_ad_15">Current garden bed</string>
+	<string id="k_ad_2">In use</string>
+
+	<string id="k_ad_1">[arg0]'s garden</string>
+
+	<string id="k_afff_1">Planted the
+[arg0].</string>
+	<string id="k_aff_1">Plant this Berry?</string>
+
+	<string id="k_ag_2">[arg0]!
+It's planted!</string>
+	<string id="k_ai_1">[arg0]!
+It's sprouting!</string>
+	<string id="k_aj_1">[arg0]!
+It's growing!</string>
+	<string id="k_ak_1">[arg0]!
+It's blooming!</string>
+	<string id="k_al_1">[arg0]!
+It has Berries!</string>
+	<string id="k_ada_1">Soft soil</string>
+	<string id="k_ae_2">Plant a Berry
+in the garden?</string>
+	<string id="k_ag_1">See Details</string>
+	<string id="k_aha_1">The soil is 
+very moist.</string>
+
+	<string id="k_ama_1">Harvested [arg0].</string>
+	<string id="k_am_1">[arg0] Harvested: [arg1]</string>
+	<string id="k_am_3">Berries were put in the Treasure Chest.</string>
+
+	<string id="k_ca_1">No Berries in the Treasure Chest.</string>
+	<string id="k_ca_2">Find Berries on the Island of
+Dreams or trade for them. </string>
+
+	<string id="k_as_1">Diglett showed up!</string>
+	<string id="k_at_1">Diglett started plowing
+[arg0]'s garden.</string>
+	<string id="k_au_1">Diglett left the garden.</string>
+	<string id="k_ar_1">A garden bed has been added.</string>
+	<string id="k_asa_1">There are [arg0] garden beds
+now, thanks to Diglett.</string>
+
+	<string id="k_ad_4">A Watering Can
+to water Berries!</string>
+	<string id="k_ad_14">k_ad_14</string>
+	<string id="k_ad_6">k_ad_6</string>
+	<string id="k_ad_10">k_ad_10</string>
+	<string id="k_ad_12">k_ad_12</string>
+	<string id="k_ad_8">k_ad_8</string>
+
+	<string id="k_ahb_1">Your watering system is empty, so you can’t water anyone else’s garden until the next time you use Game Sync.</string>
+	<string id="k_ahb_2">Your watering system will be refilled the next time you use Game Sync.</string>
+	<string id="k_bb_1">Water remaining for this visit</string>
+	
+	
+	
+</data>

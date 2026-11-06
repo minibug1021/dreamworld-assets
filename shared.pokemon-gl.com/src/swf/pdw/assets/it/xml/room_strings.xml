@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="it">
+
+	<string id="i_aj_1">Finito</string>
+	<string id="h_ea_1">Arreda la casa</string>
+	<string id="h_ea_2">Baule</string>
+	<string id="h_ea_3">Cataloghi dei sogni</string>
+	<string id="h_ea_4">Bacheca</string>
+	<string id="h_ea_5">Esci</string>
+
+	<string id="h_ea_7">Baule</string>
+	<string id="h_ea_6">Cataloghi dei sogni</string>
+	<string id="h_ea_8">Bacheca</string>
+	<string id="h_ea_9">Esci</string>
+
+	<string id="i_an_1">Riponi</string>
+	<string id="h_ea_10">Guardati intorno</string>
+	<string id="i_aj_3">Non si sposta.</string>
+
+	<string id="h_ea_11">Casa di [arg0]</string>
+
+	<string id="i_aj_2">Sposta</string>
+
+	<string id="s_ah_1">Nel baule non c'è niente.</string>
+	<string id="s_ah_2">Puoi trovare degli strumenti nell'Isola dei sogni.</string>
+
+	<string id="i_ae_1">Vuoi scambiare il pezzo con delle Bacche?</string>
+	<string id="i_bb_1">Vuoi questo pezzo?</string>
+	<string id="i_ae_6">: [arg0]</string>
+	<string id="i_ae_7">(ne possiedi [arg0])</string>
+
+	<string id="i_bc_1">Hai scambiato [arg0].</string>
+	<string id="i_bca_2">Puoi fare cambio dall'opzione
+Scambia nel Catalogo dei sogni.</string>
+	<string id="i_bc_2">Puoi cambiare annaffiatoio dal menu
+in alto a sinistra nell'orto.</string>
+
+	<string id="i_ba_1">[arg0], vuoi riporre
+questo pezzo di arredamento?</string>
+	<string id="i_ah_1">Hai riposto [arg0].</string>
+	<string id="i_ah_3">Dal catalogo, clicca su Colloca in casa
+per posizionare questo pezzo.</string>
+
+	<string id="i_am_1">Non c'è più spazio in casa.</string>
+	<string id="i_am_2">Metti in ordine la casa!</string>
+
+	<string id="i_bcc_1">Hai scelto [arg0], va bene?</string>
+	<string id="i_bcd_1">Cambio avvenuto.</string>
+
+	<string id="i_ab_3">Catalogo dei sogni</string>
+
+	<string id="i_ab_2">Scegli un Catalogo dei sogni</string>
+
+	<string id="i_ac_1">Indice</string>
+	<string id="i_ad_8">Indice</string>
+	<string id="i_ad_18">Indice</string>
+
+	<string id="i_ad_4">Tempo limitato</string>
+	<string id="i_ad_5">Design</string>
+	<string id="i_ad_6">Novità</string>
+
+	<string id="i_ad_2">[arg0] x [arg1]</string>
+	<string id="i_ad_16">Gratis</string>
+
+	<string id="i_ad_10">Bacche insufficienti</string>
+	<string id="i_ad_11">Scambia con Bacche</string>
+	<string id="i_ad_15">Regalo</string>
+	<string id="i_az_1">Disponibile</string>
+	<string id="i_ad_17">In uso</string>
+	<string id="i_ad_12">Colloca in casa</string>
+	<string id="i_ad_14">Sostituisci</string>
+	<string id="i_ad_13">Riponi</string>
+
+	<string id="i_ada_1">Baule</string>
+	<string id="i_ada_2">Altro</string>
+	<string id="i_ada_3">Bacheca</string>
+
+</data>

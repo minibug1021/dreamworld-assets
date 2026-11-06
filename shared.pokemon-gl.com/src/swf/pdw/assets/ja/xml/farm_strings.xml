@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="ja">
+
+	<string id="k_ad_15">いまいる、うね</string>
+	<string id="k_ad_2">使っているじょうろ</string>
+
+	<string id="k_ad_1">[arg0]のはたけ</string>
+
+	<string id="k_afff_1">[arg0]を植えました。</string>
+	<string id="k_aff_1">このきのみを植えますか？</string>
+
+	<string id="k_ag_2">[arg0]が植えてある！</string>
+	<string id="k_ai_1">[arg0]の芽がでてきた！</string>
+	<string id="k_aj_1">[arg0]のみきが大きくなってきた！</string>
+	<string id="k_ak_1">[arg0]の花がさいている！</string>
+	<string id="k_al_1">[arg0]ができている！</string>
+	<string id="k_ada_1">ふかふかの土</string>
+	<string id="k_ae_2">ふかふかの土に
+きのみを植えますか？</string>
+	<string id="k_ag_1">くわしく見る</string>
+	<string id="k_aha_1">土はじゅうぶん、
+しめっているみたい！</string>
+
+	<string id="k_ama_1">[arg0]を取りました。</string>
+	<string id="k_am_1">[arg0]を[arg1]コ取りました。</string>
+	<string id="k_am_3">しゅうかくしたきのみを、たからばこに入れました。</string>
+
+	<string id="k_ca_1">たからばこにきのみがありません。</string>
+	<string id="k_ca_2">きのみは、ゆめしまで見つけるか、おすそわけでどうぐと交換すると手に入ります。</string>
+
+	<string id="k_as_1">ディグダがあらわれた。</string>
+	<string id="k_at_1">ディグダが[arg0]のはたけをたがやしはじめた。</string>
+	<string id="k_au_1">ディグダが去っていった。</string>
+	<string id="k_ar_1">はたけのうねが増えました。</string>
+	<string id="k_asa_1">ディグダがはたけをたがやしてくれたので、はたけのうねが[arg0]段になった。</string>
+
+	<string id="k_ad_4">きのみに水をやれる、ふつうのじょうろ。</string>
+	<string id="k_ad_14">k_ad_14</string>
+	<string id="k_ad_6">k_ad_6</string>
+	<string id="k_ad_10">k_ad_10</string>
+	<string id="k_ad_12">k_ad_12</string>
+	<string id="k_ad_8">k_ad_8</string>
+
+	<string id="k_ahb_1">じょうろが からっぽです。
+他のユーザーのはたけでは
+水やりができません。</string>
+	<string id="k_ahb_2">次にゲームシンクすると
+また水やりができるようになります。</string>
+	<string id="k_bb_1">今回の水やり</string>
+	<string id="k_bb_2">回</string>
+</data>

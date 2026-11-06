@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="en">
+
+	<string id="s_aj_3">Place in the Treasure Chest.</string>
+	<string id="s_aj_4">Switch items.</string>
+	<string id="s_an_4">See sharing history.</string>
+	<string id="fs_ab_3">Swap</string>
+
+	<string id="s_aa_1">[arg0]'s Share Shelf</string>
+
+	<string id="s_ad_1">Placed the [arg0]
+on the Share Shelf.</string>
+
+	<string id="s_af_1">Stored the [arg0].</string>
+
+	<string id="s_ag_1">Swapped the [arg1]
+for the [arg0].</string>
+	<string id="s_ml_1">Switched the [arg1]
+for the [arg0].</string>
+
+	<string id="s_ag_3">Nickname</string>
+	<string id="s_ag_4">PGL Nickname</string>
+
+	<string id="s_ac_1">Place the item on the Share Shelf?</string>
+	<string id="s_al_1">Make the switch?</string>
+	<string id="fs_ad_1">Swap this item?</string>
+	
+	<string id="s_ai_2">Place items to share.</string>
+	<string id="s_ap_1">You already have at least one [arg0].</string>
+	<string id="s_ap_2">You cannot receive another of an item you already have.</string>
+	<string id="s_ao_1">You offered this item, so please swap for a different item. </string>
+	<string id="s_aq_1">s_aq_1</string>
+	<string id="s_aq_2">If you register your Game Sync ID in the Pokémon Global Link, you can use Share Shelves to swap items with other users.</string>
+
+	<string id="fs_ad_6">Once you place it on the Share Shelf, you can't return it to your Treasure Chest. </string>
+
+	<string id="s_aq_3">Playing the demo version!</string>
+	<string id="s_aq_4">Can't use Share Shelves with the demo version.</string>
+</data>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data locale="de">	
+	<string id="pg_ame_1">Ein unvorhergesehener Fehler ist aufgetreten.</string>
+	<string id="pg_amf_1">Es war länger kein Datenautausch
+mit dem Server möglich. Das Browserfenster wird aktualisiert.</string>
+	<string id="pg_amg_1">Ein lokaler Datenträger wird
+benötigt. Das Browserfenster wird aktualisiert. </string>
+	<string id="pg_ay_2">O.K.</string>
+	<string id="pg_amb_1">Um auf diesen Inhalt zurückzugreifen, musst
+du beim PGL eine Spielsynchro ID registrieren.</string>
+	<string id="pg_amb_2">Sobald du an einem bestimmten Punkt deines Abenteuers das C-Gear erhalten hast, kannst du dir eine Spielsynchro ID ausstellen lassen, indem du aus dem Nintendo® Wi-Fi Connection-Bereich des C-Gears die Option SPIELSYNCHRO wählst oder indem du aus dem Titelmenü den Punkt EINST. DER SPIELSYNCHRO-FUNKT. berührst. Nachdem deine Spielsynchro ID ausgestellt wurde, kannst du sie jederzeit im Titelmenü unter EINST. DER SPIELSYNCHRO-FUNKT. abrufen. Registriere deine Spielsynchro ID bitte im Bereich „Meine Seite“ und klicke dort auf „Spielesoftware registrieren“.</string>
+	<string id="pg_amb_3">Schließen</string>
+	<string id="pg_amb_4">Registrieren</string>
+	<string id="pg_ama_4">pg_ama_4</string>
+	<string id="pg_ama_5">pg_ama_5</string>
+	<string id="pg_ama_1">Zurück</string>
+	<string id="pg_opa_1">Lädt</string>
+</data>

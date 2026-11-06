@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="it">
+	<fonts>
+		<font id="f01" name="FFF Compact"></font>
+		<font id="f02" name="FFF Corporate Bold"></font>
+	</fonts>
+	
+	<string id="h_ca_1" size="12" bold="true"  letterSpacing="1" />
+	<string id="h_ca_2" size="12" bold="true" letterSpacing="1" baselineShift="1" />
+	<string id="h_ca_5" size="12" bold="true" letterSpacing="1" />
+	<string id="h_ca_6" size="12" bold="true" letterSpacing="1"  />
+	<string id="h_ca_7" size="12" bold="true" letterSpacing="1" baselineShift="1" />
+	<string id="h_ca_8" size="12" bold="true" letterSpacing="1" baselineShift="1" />
+	
+	<string id="h_ha_1" size="12" bold="true" letterSpacing="1" />
+	<string id="h_ha_2" size="12" bold="true" letterSpacing="1" />
+	
+	<string id="fr_aa_1" size="12" bold="true" letterSpacing="1" baselineShift="6" />
+	<string id="fr_aa_2" size="12" bold="true" letterSpacing="1" baselineShift="2" />
+	<string id="fr_aa_3" size="12" bold="true" letterSpacing="1" baselineShift="6" />
+	<string id="fr_aa_4" size="12" bold="true" letterSpacing="1" baselineShift="1" />
+	<string id="fr_aa_5" size="12" bold="true" letterSpacing="1" baselineShift="1" />
+	<string id="fr_aa_6" size="12" bold="true" letterSpacing="1" baselineShift="1" />
+	<string id="fr_aa_7" size="12" bold="true" letterSpacing="1" />
+	
+	<string id="bl_a_1" size="12" bold="true" letterSpacing="1" />
+	<string id="bl_a_2" size="12" bold="true" letterSpacing="1" />
+	<string id="bl_a_3" size="12" bold="true" letterSpacing="1" />
+	<string id="bl_a_4" size="12" bold="true" letterSpacing="1" />
+	<string id="bl_a_5" size="12" bold="true" letterSpacing="1" />
+	<string id="bl_a_6" size="12" bold="true" letterSpacing="1" />
+	<string id="bl_a_7" size="12" bold="true" letterSpacing="1" />
+	<string id="bl_a_8" size="12" bold="true" letterSpacing="1" />
+	<string id="bl_a_9" size="12" bold="true" letterSpacing="1" />
+	<string id="bl_a_11" size="12" bold="true" letterSpacing="1" />
+	<string id="bl_a_12" size="12" bold="true" letterSpacing="1" />
+	<string id="bl_a_13" size="12" bold="true" letterSpacing="1" />
+	
+	<string id="bl_b_1" size="12" bold="true" letterSpacing="1" />
+	<string id="bl_b_2" size="12" bold="true" letterSpacing="1" />
+	<string id="bl_b_3" size="12" bold="true" letterSpacing="1" />
+	
+	<string id="f_ab_1" size="16" bold="true" letterSpacing="1" />
+	<string id="f_ab_2" size="12" bold="true" letterSpacing="1" baselineShift="2" />
+	<string id="f_ab_3" size="12" bold="true" letterSpacing="1" baselineShift="2" />
+	<string id="f_ab_4" size="12" bold="true" letterSpacing="1" />
+	<string id="f_ab_5" size="12" bold="true" letterSpacing="1" baselineShift="2" />
+	<string id="f_ab_6" size="12" bold="true" letterSpacing="1" baselineShift="2" />
+	<string id="f_ab_7" size="12" bold="true" letterSpacing="1" baselineShift="2" />
+	<string id="f_ab_8" size="12" bold="true" letterSpacing="1" baselineShift="2" />
+	<string id="f_ab_9" size="12" bold="true" letterSpacing="1" />
+	<string id="f_ab_10" size="12" bold="true" letterSpacing="1" />
+	<string id="f_ab_11" size="12" bold="true" letterSpacing="1" />
+	<string id="f_ab_12" size="12" bold="true" letterSpacing="1" />
+	<string id="f_ab_13" size="12" bold="true" letterSpacing="1" />
+	
+	<string id="f_ac_1" size="12" bold="true" letterSpacing="1" />
+	<string id="f_ac_1" size="12" bold="true" letterSpacing="1" />
+	
+	<string id="f_ag_1" size="12" bold="true" letterSpacing="1" />
+	<string id="f_ag_2" size="12" bold="true" letterSpacing="1" />
+	<string id="f_ag_3" size="12" bold="true" letterSpacing="1" />
+	<string id="f_ag_4" size="12" bold="true" letterSpacing="1" />
+	<string id="f_ag_5" size="12" bold="true" letterSpacing="1" />
+	<string id="f_ag_6" size="12" bold="true" letterSpacing="1" />
+	<string id="f_ag_7" size="12" bold="true" letterSpacing="1" />
+	<string id="f_ag_8" size="12" bold="true" letterSpacing="1" />
+	<string id="f_ag_9" size="12" bold="true" letterSpacing="1" />
+	<string id="f_ag_10" size="12" bold="true" letterSpacing="1" />
+	<string id="f_ag_11" size="12" bold="true" letterSpacing="1" />
+	<string id="f_ag_12" size="12" bold="true" letterSpacing="1" />
+	<string id="f_ag_13" size="12" bold="true" letterSpacing="1" />
+	
+	<string id="f_ah_1" size="12" bold="true" letterSpacing="1" />
+	<string id="f_ah_2" size="12" bold="true" letterSpacing="1" />
+	
+	<string id="h_ee_1" size="12" bold="true"  />
+	<string id="h_ee_2" size="12" bold="true"  />
+	<string id="h_ee_3" size="12" bold="true"  />
+	<string id="h_ee_4" size="12" bold="true"  />
+	<string id="h_ee_5" size="12" bold="true"  />
+	<string id="h_ee_6" size="12" bold="true"  />
+	<string id="h_ee_7" size="12" bold="true"  />
+	<string id="h_ee_8" size="12" bold="true"  />
+	<string id="h_ee_9" size="12" bold="true"  />
+</data>

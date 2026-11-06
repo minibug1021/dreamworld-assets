@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="ja">
+	
+	
+	<string id="Xz_an_1">「ポケモンドリームワールド」をちゅうだんし、
+「マイページ」にいどうしますが、よろしいですか？</string>
+	<string id="h_cc_2">はい</string>
+	<string id="h_cc_3">いいえ</string>
+	
+	<string id="h_ca_9">お知らせを見る</string>
+	<string id="h_ca_10">ポケモンドリームワールドを終了する</string>
+	
+	<string id="h_ee_1">ポケモンのニックネーム:</string>
+	<string id="h_ee_2">PGLニックネーム:</string>
+	<string id="h_ee_3">ポケモン:</string>
+	<string id="h_ee_4">おや:</string>
+	<string id="h_ee_5">レベル:</string>
+	<string id="h_ee_6">タイプ:</string>
+	<string id="h_ee_7">せいべつ:</string>
+	<string id="h_ee_8">せいかく:</string>
+	<string id="h_ee_9">つかまえたボール:</string>
+	<string id="da_aa_1">ポケモンドリームワールドを終了します。</string>
+	<string id="da_aa_2">ポケモンを起こす準備をして終了</string>
+	<string id="da_aa_3">ゲームソフトで「ゲームシンク」をしてポケモンを起こせるようにするため、ゆめからさめさせて、「ポケモンドリームワールド」を終了します。
+引きつづき、連れて行くポケモンやハイリンクに送るどうぐを確認します。</string>
+	<string id="da_aa_4">ポケモンを起こす準備をしないで終了</string>
+	<string id="da_aa_5">ポケモンを起こす準備をして終了する場合</string>
+	<string id="da_aa_6">ポケモンを起こす準備をしないで終了する場合</string>
+	
+	<string id="da_ab_1">いったん終了する場合やポケモンを起こさずにつづきを楽しみたい場合は、こちらを選びます。</string>
+	<string id="da_ab_2">[！]ゆめの木でねがいごとをして、なかよくなったポケモンがいると、つづけて遊ぶときに虹がかからず、ゆめしまへ行くことができません。</string>
+	<string id="da_ab_3">※ポケモンドリームワールドは、遊びはじめてから1時間たつと、自動的に終了します。注意してください。</string>
+	<string id="da_ab_4">ポケモンドリームワールドをつづける</string>
+	
+	<string id="da_ad_1">ポケモンドリームワールドを遊び始めて1時間たちます。</string>
+	<string id="da_ad_2">どちらかのボタンを選んで、ポケモンドリームワールドを終了してください。</string>
+	<string id="da_ad_6">ポケモンを起こさずに、次回利用時に続きをお楽しみいただく場合、こちらです。</string>
+	
+	<string id="da_af_1">ポケモンドリームワールドを遊びはじめてから、1時間たちました。</string>
+	<string id="da_af_2">どちらかのボタンを選んで、ポケモンドリームワールドを終了してください。</string>
+	
+	
+	<string id="dc_aa_1">連れて行くポケモン</string>
+	<string id="dc_aa_2">連れて行くポケモンには、ゲームソフトで「ゲームシンク」をしてポケモンを起こしたあと、ハイリンクへ行くと、ハイリンクのもりの中で出会えます。</string>
+	<string id="dc_aa_3">※ほかに連れて行きたいポケモンがいる場合は、[もどる]ボタンを押して、ホームの部屋の中にあるなかよしボードを確認してください。</string>
+	<string id="dc_aa_4">※ゆめの木でねがいごとをしてなかよくなったポケモンは、時間がたたないと、なかよしボードに反映されない場合があります。</string>
+	<string id="dc_aa_5">つぎへ</string>
+	<string id="dc_aa_6">もどる</string>
+	
+	<string id="dc_ac_1">ハイリンクに送るどうぐ</string>
+	<string id="dc_ac_2">ハイリンクに送るどうぐは、ゲームソフトで「ゲームシンク」をしてポケモンを起こしたあと、ハイリンクへ行くと、ハイリンクのもりの入り口にいる少年から「ゆめのカケラ」として受け取ることができます。</string>
+	<string id="dc_ac_3">※送るどうぐを変更したい場合は、[もどる]ボタンを押して、ホームの部屋の中にあるたからばこから、ハイリンクに送るどうぐを選びなおしてください。</string>
+	<string id="dc_ac_4">ポケモンドリームワールドを終了する</string>
+	
+	<string id="dc_ae_2">連れて行くポケモンはいません。</string>
+	
+	<string id="dc_af_2">ハイリンクに送るどうぐはありません。</string>
+	
+	<string id="dialog_33">ポケモンドリームワールドを終了しますか？</string>
+	<string id="o_ak_1">「ポケモンドリームワールド」の世界を楽しめましたか？
+『ポケットモンスターブラック・ホワイト』や『ポケットモンスター
+ブラック２・ホワイト２』のゲームシンクIDコードを登録すると、
+ゲームソフトへポケモンを連れて行ったり、どうぐを持ち帰ったりできます。
+また、遊びにきてください。</string>
+	<string id="o_ak_2">はい</string>
+	<string id="o_ak_3">いいえ</string>
+	
+	<string id="dialog_35">とじる</string>
+	
+	<string id="o_abb_1">ポケモンドリームワールドを終了しました。
+ゲームソフトで「ゲームシンク」をして、ポケモンを起こすことができます。</string>
+	<string id="o_az_1">ポケモンドリームワールドを終了しました。</string>
+	
+	<string id="lo_a_1">読みこみ中です。</string>
+	
+	<string id="dialog_30">接続に問題が起こりました。お使いのブラウザの更新ボタンを押してもアクセスできない場合は、しばらく時間がたってから、もう一度おためしください。</string>
+	<string id="dialog_31">ブラウザを更新</string>
+	<string id="new_home_3">お知らせはありません。</string>
+	<string id="de_ad_1">ポケモンドリームワールドを遊びはじめてから、
+1時間たちました。</string>
+	<string id="de_ad_2">ポケモンドリームワールドを終了してください。</string>
+	<string id="de_ad_3">「ポケモンドリームワールド」の世界を楽しめましたか？
+『ポケットモンスターブラック・ホワイト』や『ポケットモンスターブラック２・ホワイト２』のゲームシンクIDコードを登録すると、ゲームソフトへポケモンを連れて行ったり、どうぐを持ち帰ったりできます。また、遊びにきてください。</string>
+	<string id="de_ad_4">ポケモンドリームワールドを終了する</string>
+	<string id="de_af_1">ポケモンドリームワールドを遊び始めて1時間たちます。</string>
+	<string id="de_af_2">ポケモンドリームワールドを終了してください。</string>
+	<string id="de_af_3">「ポケモンドリームワールド」の世界を楽しめましたか？
+『ポケットモンスターブラック・ホワイト』や『ポケットモンスターブラック２・ホワイト２』のゲームシンクIDコードを登録すると、ゲームソフトへポケモンを連れて行ったり、どうぐを持ち帰ったりできます。また、遊びにきてください。</string>
+	<string id="de_af_4">ポケモンドリームワールドを終了する</string>
+	<string id="de_af_5">ポケモンドリームワールドをつづける</string>
+	<string id="h_ca_13">現在、とくべつなホームはありません</string>
+
+</data>

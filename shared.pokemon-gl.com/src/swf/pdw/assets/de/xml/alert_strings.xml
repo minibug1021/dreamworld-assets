@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data locale="de">	
+	<string id="pg_amd_1">Es scheint kein Pokémon zu schlafen.</string>
+	<string id="pg_amd_3">Solltest du noch kein Pokémon schlafen gelegt haben, führe bitte eine Spielsynchro über deine Spielesoftware durch und hole dies nach.
+Manchmal kann es eine Weile dauern, bis das per Spielsynchro schlafen gelegte Pokémon im Pokémon Global Link zu träumen beginnt. In diesem Fall ist es ratsam, zu einem späteren Zeitpunkt noch einmal auf den Pokémon Global Link zuzugreifen.
+
+Solltest du beim letztmaligen Verlassen der Pokémon DW den Weckvorgang deines Pokémon in die Wege geleitet haben, musst du zunächst eine Spielsynchro durchführen, um das Pokémon zu wecken.</string>
+	<string id="pg_amd_2">Schließen</string>
+	<string id="pg_amc_1">Pokémon bzw. Items, die du bei deiner letzten Partie verschickt hast, wurden noch nicht in deiner Spielesoftware abgeholt. Wecke das Pokémon mithilfe des untenstehenden Knopfes auf und nimm deine Pokémon bzw. Items über die Spielsynchro in Empfang.</string>
+	<string id="pg_amc_2">Schließen</string>
+	<string id="pg_amc_3">Pokémon aufwecken</string>
+	<string id="pg_amh_1">Willkommen in der Pokémon Dream World!</string>
+	<string id="pg_amh_2">Ab jetzt hast du eine Stunde Zeit, um dich in der Pokémon DW zu vergnügen.</string>
+	<string id="pg_amh_3">Nach Ablauf einer Stunde verlässt du die Pokémon DW automatisch.
+Wenn dein Pokémon DW-Aufenthalt automatisch beendet wird, kann es vorkommen, dass die Daten deiner aktuellen Spielpartie nicht vollständig gespeichert werden. Es ist daher ratsam, die Pokémon DW zum Zeitpunkt der Benachrichtigung nach Ablauf einer Stunde selbständig zu verlassen.</string>
+	<string id="pg_amh_4">Schließen</string>
+	<string id="pg_ade_1">Die Pokémon DW erfährt gerade ein extrem
+hohes Datenaufkommen. Bitte
+versuche es später noch einmal.
+
+Demoversion
+Die Demoversion der Pokémon DW ist nicht mehr verfügbar. Es ist kein Zugriff auf die Pokémon DW mehr möglich.</string>
+	<string id="pg_ade_2">Leg vor der Anmeldung beim PGL ein Pokémon schlafen,
+um Zugang zur Pokémon DW zu erhalten.</string>
+	<string id="pg_ade_3">Wenn du über die mit „Pokémon aufwecken“ beschriftete Schaltfläche unten auf dem Bildschirm den Weckvorgang deines Pokémon einleitest, kannst du es per Spielsynchro über die Spielesoftware wieder wecken.</string>
+	<string id="pg_ade_4">Schließen</string>
+	<string id="pg_ade_5">Pokémon aufwecken</string>
+	<string id="pg_adi_1">Der letzte Zugang erfolgte am [DD].[MM]. um [HH1] Uhr.
+Nächster Einlass ist in [HH2] Stunde(n).</string>
+	<string id="pg_adi_2">Der letzte Zugang erfolgte am [DD].[MM]. um [HH1] Uhr.
+Nächster Einlass ist in [HH2] Minuten.</string>
+	<string id="pg_adi_3">Der letzte Zugang erfolgte am [DD].[MM]. um [HH1] Uhr.
+Nächster Einlass ist innerhalb einer Minute.</string>
+	<string id="pg_adi_4">Es kann vorkommen, dass du aufgrund von hohem Datenaufkommen trotz ausreichender Wartezeit seit deinem letzten Besuch keinen Zugang zur Pokémon Dream World gewährt bekommst. Sollte dieser Fall eintreten, bitten wir dich um etwas Geduld.</string>
+	<string id="pg_adi_5">Wenn du über die mit „Pokémon aufwecken“ beschriftete Schaltfläche unten auf dem Bildschirm den Weckvorgang deines Pokémon einleitest, kannst du es per Spielsynchro über die Spielesoftware wieder wecken.</string>
+	<string id="pg_adi_6">Schließen</string>
+	<string id="pg_adi_7">Pokémon aufwecken</string>
+	<string id="pg_ala_1">pg_ala_1</string>
+	<string id="pg_ala_2">pg_ala_2</string>
+	<string id="pg_alc_1">Spieldaten der Pokémon Dream World werden bearbeitet. Bitte gedulde dich einen Moment und versuche es später erneut.</string>
+	<string id="pg_alc_2">Schließen</string>
+	<string id="pg_ald_1">Bearbeitung der Registrierungsdaten. 
+Bitte warte, bevor du es erneut versuchst. 
+Die Bearbeitung kann fünf Minuten oder länger dauern.</string>
+	<string id="pg_ald_2">Schließen</string>
+	<string id="pg_alf_1">Zurzeit träumt keines deiner Pokémon. Du kannst schlafende Pokémon jetzt per Spielsynchro über deine Spielesoftware aufwecken. Um dich in der Pokémon DW zu vergnügen, musst du anschließend erneut eine Spielsynchro durchführen und ein Pokémon schlafen legen.</string>
+	<string id="pg_alf_2">*Die Spielsynchro kann lediglich einmal pro Tag genutzt werden.</string>
+	<string id="pg_alf_3">Schließen</string>
+	<string id="pg_ale_1">Zurzeit träumt keines deiner Pokémon. Lege bitte ein Pokémon per Spielsynchro über deine Spielesoftware schlafen.</string>
+	<string id="pg_ale_2">Schließen</string>
+	<string id="pg_alg_1">Deine Daten für die Pokémon Dream World werden bearbeitet. 
+Bitte warte, bevor du es erneut versuchst. 
+Die Bearbeitung kann fünf Minuten oder länger dauern.</string>
+	<string id="pg_alg_2">*Es kann ein wenig dauern, bis das Pokémon zu träumen beginnt, nachdem du es per Spielsynchro schlafen gelegt hast.</string>
+	<string id="pg_alg_3">Schließen</string>
+	<string id="pg_amb_1">Um auf diesen Inhalt zurückzugreifen, musst
+du beim PGL eine Spielsynchro ID registrieren.</string>
+	<string id="pg_amb_2">Sobald du an einem bestimmten Punkt deines Abenteuers in Pokémon Schwarze Edition, Pokémon Weiße Edition, Pokémon Schwarze Edition 2 oder Pokémon Weiße Edition 2 das C-Gear erhalten hast, kannst du dir eine Spielsynchro ID ausstellen lassen, indem du aus dem Nintendo® Wi-Fi Connection-Bereich des C-Gears die Option SPIELSYNCHRO wählst oder indem du aus dem Titelmenü den Punkt EINST. DER SPIELSYNCHRO-FUNKT. berührst. Nachdem deine Spielsynchro ID ausgestellt wurde, kannst du sie jederzeit im Titelmenü unter EINST. DER SPIELSYNCHRO-FUNKT. abrufen. 
+Bitte lege vor der Registrierung ein Pokémon schlafen. 
+Registriere deine Spielsynchro ID bitte im Bereich „Meine Seite“ und klicke dort auf „Spielesoftware registrieren“.</string>
+	<string id="pg_amb_3">Schließen</string>
+	<string id="pg_amb_4">Registrieren</string>
+	<string id="pg_amk_1">Da du beim Verlassen der Pokémon DW den Weckvorgang eingeleitet hast, kannst du das Pokémon nun per Spielsynchro wecken.</string>
+	<string id="pg_amk_2">In [MM1] Minute(n) kannst du die Pokémon DW wieder
+betreten und [MM2] Minute(n) lang spielen.</string>
+	<string id="pg_amk_3">Je nach Auslastung der Seite kann es vorkommen, dass du auch zum oben genannten Zeitpunkt keinen Zugang zur Seite erhältst.
+Wenn du nicht zur oben genannten Zeit auf die Seite gehst, erhältst du [arg0] Stunden später erneut Zugang.</string>
+	<string id="pg_amk_4">Schließen</string>
+</data>

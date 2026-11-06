@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="ko">
+	
+	
+	<string id="Xz_an_1">PDW를 중단하여 「마이페이지」로 이동합니다만, 괜찮겠습니까?</string>
+	<string id="h_cc_2">예</string>
+	<string id="h_cc_3">아니오</string>
+	
+	<string id="h_ca_9">알림 보기</string>
+	<string id="h_ca_10">PDW를 종료한다</string>
+	
+	<string id="h_ee_1">포켓몬 닉네임:</string>
+	<string id="h_ee_2">PGL 닉네임:</string>
+	<string id="h_ee_3">포켓몬:</string>
+	<string id="h_ee_4">어버이:</string>
+	<string id="h_ee_5">레벨:</string>
+	<string id="h_ee_6">타입:</string>
+	<string id="h_ee_7">성별:</string>
+	<string id="h_ee_8">성격:</string>
+	<string id="h_ee_9">잡은 몬스터볼:</string>
+	
+	
+	
+	
+	<string id="da_aa_1">PDW를 종료합니다.</string>
+	<string id="da_aa_2">포켓몬을 깨울 준비를 하고 종료</string>
+	<string id="da_aa_3">포켓몬을 깨울 준비를 하고 PDW를 종료합니다.
+게임 소프트웨어에서 ｢게임싱크｣를 하여 포켓몬을 깨울 수 있게 됩니다.
+계속해서 데리고 갈 포켓몬 및 하일링크에 보낼 도구를 확인합니다.</string>
+	<string id="da_aa_4">포켓몬을 재운 상태로 종료</string>
+	<string id="da_aa_5">포켓몬을 깨울 준비를 하고 종료할 경우</string>
+	<string id="da_aa_6">포켓몬을 재운 상태로 종료할 경우</string>
+	
+	<string id="da_ab_1">일시종료할 경우는 이쪽입니다.</string>
+	<string id="da_ab_2">[!]꿈의나무에서 소원을 빌어 사이가 좋아진 포켓몬이 보드에 있는 상태로는 계속 즐길 때 꿈섬으로 가는 무지개가 나타나지 않습니다.</string>
+	<string id="da_ab_3">PDW는 즐기기 시작해서 1시간이 지나면 자동으로 종료됩니다. 주의해 주십시오.</string>
+	<string id="da_ab_4">PDW를 계속하기</string>
+	
+	<string id="da_ad_1">PDW를 즐기기 시작한 지 1시간 지났습니다.</string>
+	<string id="da_ad_2">PDW를 즐기기 시작해서 1시간이 지났습니다.
+한 가지 버튼을 선택하여 PDW를 종료해 주십시오.</string>
+	<string id="da_ad_6">일시종료할 경우는 이쪽입니다.</string>
+	
+	<string id="da_af_1">PDW를 즐기기 시작한 지 1시간이 지났습니다.</string>
+	<string id="da_af_2">한 가지 버튼을 선택하여 PDW를 종료해 주십시오.</string>
+	
+	
+	<string id="dc_aa_1">데리고 갈 포켓몬 리스트</string>
+	<string id="dc_aa_2">데리고 갈 포켓몬은 게임 소프트웨어에서 ｢게임싱크｣를 하여 포켓몬을 깨운 후 하일링크에 가면 숲의 광장에서 만날 수 있습니다.</string>
+	<string id="dc_aa_3">그 외 데리고 가고 싶은 포켓몬이 있는 경우 「돌아가기」버튼을 클릭하고 홈의 방 안에서
+단짝보드를 확인해 주십시오.</string>
+	<string id="dc_aa_4">꿈의나무에 소원을 빌어 사이가 좋아진 포켓몬은 바로 「단짝보드」에
+반영되지 않는 경우가 있습니다.</string>
+	<string id="dc_aa_5">다음</string>
+	<string id="dc_aa_6">돌아가기</string>
+	
+	<string id="dc_ac_1">하일링크에 보낼 도구</string>
+	<string id="dc_ac_2">하일링크에 보낼 도구는 게임 소프트웨어에서 「게임싱크」를 해서 포켓몬을 깨우고 하일링크에 가면 하일링크의 숲 입구에 있는 소년에게 「꿈조각」으로 받을 수 있습니다.</string>
+	<string id="dc_ac_3">변경하고 싶은 경우 「PDW로 돌아가기」버튼을 클릭하고 홈의 방안에 있는 보물상자에서 하일링크로 보낼 도구를 선택해 주십시오.</string>
+	<string id="dc_ac_4">PDW를 종료하기</string>
+	
+	<string id="dc_ae_2">데리고 갈 포켓몬이 없습니다.</string>
+	
+	<string id="dc_af_2">하일링크에 보낼 도구가 없습니다.</string>
+	
+	<string id="dialog_33">PDW를 종료하겠습니까?</string>
+	<string id="o_ak_1">PDW의 세계를 재미있게 즐기셨나요?
+「포켓몬스터 블랙・화이트」 나 「포켓몬스터 블랙2・화이트2」의 게임싱크 ID 코드를 등록하면 게임 소프트웨어로 포켓몬을 데리고 가거나 도구를 가지고 갈 수 있습니다.
+또 놀러 와 주십시오.</string>
+	<string id="o_ak_2">예</string>
+	<string id="o_ak_3">아니오</string>
+	
+	<string id="dialog_35">닫기</string>
+	
+	<string id="o_abb_1">PDW를 종료했습니다. 게임 소프트웨어에서 ｢게임싱크｣를 하여 포켓몬을 깨울 수 있습니다.</string>
+	<string id="o_az_1">PDW를 종료했습니다.</string>
+	
+	<string id="lo_a_1">로딩</string>
+	
+	<string id="dialog_30">접속 에러.
+재시도해도 접속되지 않는 경우
+잠시 후 다시 접속해 주십시오.</string>
+	<string id="dialog_31">재시도</string>
+	<string id="new_home_3">알림이 없습니다.</string>
+	<string id="de_ad_1">PDW를 즐기기 시작한 지 1시간이 지났습니다.</string>
+	<string id="de_ad_2">PDW를 종료해 주십시오.</string>
+	<string id="de_ad_3">PDW의 세계를 재미있게 즐기셨나요?
+「포켓몬스터 블랙・화이트」 나 「포켓몬스터 블랙2・화이트2」의 게임싱크 ID 코드를 등록하면 게임 소프트웨어로 포켓몬을 데리고 가거나 도구를 가지고 갈 수 있습니다.
+또 놀러 와 주십시오.</string>
+	<string id="de_ad_4">PDW를 종료한다</string>
+	<string id="de_af_1">PDW를 즐기기 시작한 지 1시간 지났습니다.</string>
+	<string id="de_af_2">PDW를 종료해 주십시오.</string>
+	<string id="de_af_3">PDW의 세계를 재미있게 즐기셨나요?
+「포켓몬스터 블랙・화이트」 나 「포켓몬스터 블랙2・화이트2」의 게임싱크 ID 코드를 등록하면 게임 소프트웨어로 포켓몬을 데리고 가거나 도구를 가지고 갈 수 있습니다.
+또 놀러 와 주십시오.</string>
+	<string id="de_af_4">PDW를 종료한다</string>
+	<string id="de_af_5">PDW를 계속하기</string>
+	<string id="h_ca_13">지금은 특별한 홈이 없습니다</string>
+</data>

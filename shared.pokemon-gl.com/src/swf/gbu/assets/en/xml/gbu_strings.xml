@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="en">
+
+	<string id="B_aa_1">User</string>
+	<string id="B_aa_2">PGL Nickname: [arg0]</string>
+	<string id="B_aa_3">Trainer Name: [arg0]</string>
+	<string id="B_aa_4">[arg0]</string>
+	<string id="B_aa_5">Rating: </string>
+	<string id="B_aa_6">Ranking:</string>
+	<string id="B_aa_7">Check Battle Records</string>
+	<string id="B_aa_8">Battle Records</string>
+	<string id="B_aa_9">Single Battle</string>
+	<string id="B_aa_10">Double Battle</string>
+	<string id="B_aa_11">Triple Battle</string>
+	<string id="B_aa_12">Launcher Battle</string>
+	<string id="B_aa_13">Rotation Battle</string>
+	<string id="B_aa_14">Ranking by Format</string>
+	<string id="B_aa_15">Single </string>
+	<string id="B_aa_16">Double </string>
+	<string id="B_aa_17">Triple </string>
+	<string id="B_aa_18">Launcher </string>
+	<string id="B_aa_19">Rotation </string>
+	<string id="B_aa_20">No. [arg0]</string>
+	<string id="B_aa_21">Ranking by Area</string>
+	<string id="B_aa_22">[arg0]</string>
+	<string id="B_aa_23">Details</string>
+	<string id="B_aa_24">Ranking</string>
+	<string id="B_aa_25">Competition Info</string>
+	<string id="B_aa_26">No. [arg0]</string>
+	<string id="B_aa_27">As of [MM/DD/YYYY]</string>
+	<string id="B_aa_28">VS</string>
+	<string id="B_aa_29">Entered</string>
+	<string id="B_aa_30">Participating</string>
+	<string id="B_aa_31">Overall Ranking: Top 3</string>
+	<string id="B_aa_32">Accepting</string>
+
+	
+	<string id="B_ab_1">BATTLE</string>
+
+	<string id="B_ac_1">WIN</string>
+	<string id="B_ac_2">LOSE</string>
+
+	<string id="B_ad_1">CONGRATULATIONS!! YOU ARE THE GBU SINGLE BATTLE WINNER!!</string>
+	<string id="B_ad_2">CONGRATULATIONS!! YOU ARE THE GBU DOUBLE BATTLE WINNER!!</string>
+	<string id="B_ad_3">CONGRATULATIONS!! YOU ARE THE GBU TRIPLE BATTLE WINNER!!</string>
+	<string id="B_ad_4">CONGRATULATIONS!! YOU ARE THE GBU LAUNCHER BATTLE WINNER!!</string>
+	<string id="B_ad_5">CONGRATULATIONS!! YOU ARE THE GBU ROTATION BATTLE WINNER!!</string>
+	
+
+	<string id="B_ae_1">Ranking by Format</string>
+	<string id="B_ae_2">Rating: </string>
+	<string id="B_ae_3">[MM-DD-YYYY hh:mm]</string>
+	<string id="B_ae_4">Your Battle Records</string>
+	<string id="B_ae_5">Single</string>
+	<string id="B_ae_6">Double</string>
+	<string id="B_ae_7">Triple</string>
+	<string id="B_ae_8">Launcher</string>
+	<string id="B_ae_9">Rotation</string>
+	<string id="B_ae_10">Ranking by Area</string>
+	<string id="B_ae_11">Ranking:</string>
+	<string id="B_ae_12">[MM-DD-YYYY hh:mm]</string>
+	<string id="B_ae_13">[arg0]</string>
+	<string id="B_ae_14">No. [arg0]</string>
+	<string id="B_ae_15">Close</string>
+	<string id="B_ae_16">[arg0]</string>
+	<string id="B_ae_17">Single</string>
+	<string id="B_ae_18">[arg0]</string>
+	<string id="B_ae_19">Double</string>
+	<string id="B_ae_20">[arg0]</string>
+	<string id="B_ae_21">Triple</string>
+	<string id="B_ae_22">[arg0]</string>
+	<string id="B_ae_23">Launcher</string>
+	<string id="B_ae_24">[arg0]</string>
+	<string id="B_ae_25">Rotation</string>
+	<string id="B_ae_26">[arg0]</string>
+	<string id="B_ae_27">User</string>
+	<string id="B_ae_29">Trainer Name: [arg0]</string>
+	<string id="B_ae_30">[arg0]</string>
+	<string id="B_ae_31">Rating: </string>
+	<string id="B_ae_32">Ranking:</string>
+	<string id="B_ae_33">[arg0]</string>
+	<string id="B_ae_34">No. [arg0]</string>
+	<string id="B_ae_35">Opponent</string>
+	<string id="B_ae_36">VS</string>
+	<string id="B_ae_37">WIN</string>
+	<string id="B_ae_38">LOSE</string>
+	<string id="B_ae_39">DRAW</string>
+	<string id="B_ae_40">Sorry. There are no battle records.</string>
+	<string id="B_ae_41">See Profile</string>
+	<string id="B_ae_42">Competition</string>
+
+	<string id="B_aea_1">[arg0]'s Battle Records</string>
+
+	<string id="B_ag_1">Ranking</string>
+	<string id="B_ag_2">Last Update:</string>
+	<string id="B_ag_3">[MM-DD-YYYY hh:mm]</string>
+	<string id="B_ag_4">Battle Formats</string>
+	<string id="B_ag_5">Overall Ranking</string>
+	<string id="B_ag_6">Single Battle</string>
+	<string id="B_ag_7">Double Battle</string>
+	<string id="B_ag_8">Triple Battle</string>
+	<string id="B_ag_9">Launcher Battle</string>
+	<string id="B_ag_10">Rotation Battle</string>
+	<string id="B_ag_12">Next</string>
+	<string id="B_ag_13">My Ranking</string>
+	<string id="B_ag_14">PGL Nickname: [arg0]</string>
+	<string id="B_ag_15">00000001</string>
+	<string id="B_ag_16">Back</string>
+
+	<string id="B_aj_1">PGL Nickname</string>
+	<string id="B_aj_2">Trainer Name:</string>
+	<string id="B_aj_3">Rating: </string>
+	<string id="B_aj_4">Ranking:</string>
+	<string id="B_aj_5">[arg0]</string>
+	<string id="B_aj_6">No. [arg0]</string>
+	<string id="B_aj_7">Check Battle Records</string>
+	<string id="B_aj_8">Previous</string>
+
+	<string id="B_ak_1">Competition Info</string>
+	<string id="B_ak_2">Ongoing</string>
+	<string id="B_ak_3">Past</string>
+	<string id="B_ak_4">[MM/DD/YYYY]</string>
+	<string id="B_ak_5">Accepting</string>
+	<string id="B_ak_6">Entry Complete</string>
+	<string id="B_ak_7">Entry ended</string>
+	<string id="B_ak_8">Participating</string>
+	<string id="B_ak_9">Cancel</string>
+
+	<string id="B_al_1">There are no ongoing competitions.</string>
+	<string id="B_al_2">See past competitions.</string>
+	<string id="B_al_3">Sorry. There are no past competitions.</string>
+
+	<string id="B_am_1">Enter this competition.</string>
+	<string id="B_am_2">See the current Ranking.</string>
+
+	<string id="B_aq_1">[arg0]</string>
+	<string id="B_aq_2">Ranking</string>
+	<string id="B_aq_3">Last Update:</string>
+	<string id="B_aq_4">[MM-DD-YYYY hh:mm]</string>
+	<string id="B_aq_5">Regulation</string>
+	<string id="B_aq_6">[arg0]</string>
+
+	<string id="B_an_1">Enter this competition.</string>
+	<string id="B_an_2">See details</string>
+
+	<string id="B_as_1">Enter this competition?</string>
+	<string id="B_as_2">Confirm</string>
+
+	<string id="B_ap_1">Competition Ended</string>
+	<string id="B_ap_2">Participated</string>
+
+	<string id="B_ar_1">See the Ranking</string>
+	<string id="B_ac_3">DRAW</string>
+	<string id="B_at_1">Filter by Area</string>
+	<string id="B_at_2">All Areas</string>
+	<string id="B_at_3">Confirm</string>
+	<string id="B_at_4">[arg0]</string>
+	<string id="B_ag_17">Filter by Area</string>
+	<string id="B_ag_18">Overall Ranking</string>
+	<string id="B_ag_19">Single Battle</string>
+	<string id="B_ag_20">Double Battle</string>
+	<string id="B_ag_21">Triple Battle</string>
+	<string id="B_ag_22">Launcher Battle</string>
+	<string id="B_ag_23">Rotation Battle</string>
+	<string id="B_new_1">Details</string>
+	<string id="B_new_2">Ranking
+Season [N]</string>
+	<string id="B_new_3">Season [N]  [DATE_FROM] – [DATE_TO]</string>
+	<string id="B_new_4">Please check here for details about Ranking</string>
+	<string id="B_new_5">*It may take a while for battle results and Ratings to be updated.</string>
+	<string id="B_new_6">Season [N]  [DATE_FROM] – [DATE_TO]</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="B_new_7">[DATE_FROM] － [DATE_TO]</string>
+	<string id="B_new_8">Past Rankings</string>
+	<string id="B_new_9">Final Ranking Results</string>
+	<string id="B_new_10">Season [N]</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	<string id="">?</string>
+	
+	
+	<string id="B_vs_3">Rankings Released</string>
+	<string id="B_vs_4">Entry Period</string>
+	<string id="B_vs_5">Competition Period</string>
+	<string id="B_vs_6">Competition Info</string>
+	<string id="B_vs_7">Notes and Regulations</string>
+	<string id="B_vs_8">Game Settings and Operation</string>
+	<string id="B_vs_9">Go to Entry Page</string>
+	
+	<string id="B_vs_11">I agree to the Notes and Regulations.</string>
+	<string id="B_vs_12">Entry</string>
+	
+	<string id="B_vs_14">*Competitions you can enter or have entered are shown. Competitions you battled in are shown for some time after the competition. </string>
+	<string id="B_vs_15">The entry period for this competition has ended.</string>
+	
+	
+	<string id="B_vs_18">The competition has ended and Rankings are being calculated now. Please wait for the announcement.</string>
+	<string id="B_vs_19">The competition has ended. Go to "See the Rankings" to check the Rankings.</string>
+	<string id="B_vs_20">Participation in this competition has been canceled. 
+*If you've had the number of battles required in the regulations, you are qualified for Ranking.</string>
+	<string id="B_vs_21">Competition Overview</string>
+	<string id="B_vs_22">Competition Period</string>
+	<string id="B_vs_23">Battle Format</string>
+	<string id="B_vs_24">Number of Participants</string>
+	<string id="B_vs_25">Past Competitions</string>
+	<string id="B_vs_26">See the Rankings</string>
+	<string id="B_new_11">Past Rankings</string>
+	<string id="B_new_12">Season [N]</string>
+	<string id="B_new_13">Season [N]  [DATE_FROM] – [DATE_TO]</string>
+	<string id="B_new_28">Available Competition(s)</string>
+	<string id="B_new_30">Competition Period</string>
+	
+	<string id="B_vs_17">You are participating in this competition. You can battle with your Nintendo DS game.</string>
+</data>

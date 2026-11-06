@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<data locale="ko">
+
+	<string id="p_aa_1" >단짝보드</string>
+
+	<string id="p_aa_6">데리고 갈 포켓몬</string>
+	<string id="p_aa_5">동료가 된 포켓몬</string>
+
+	<string id="p_ah_1">사이가 좋아진 포켓몬이 없습니다.</string>
+	<string id="p_ai_1">하일링크로 보낸 포켓몬이 없습니다.</string>
+	<string id="p_aj_1">사이가 좋아진 포켓몬을 보내지 못했습니다.</string>
+	<string id="p_aj_2">선택상태 보관에 실패했습니다.</string>
+	
+	<string id="p_aj_7">p_aj_7</string>
+	<string id="p_aj_5">「데리고 갈 포켓몬」 일람 로딩에 실패했습니다.</string>
+	<string id="p_aj_6">보낸 포켓몬 일람취득에 실패했습니다.</string>
+
+	<string id="p_aa_4">데리고 가고 싶은 포켓몬
+[arg0]/10마리</string>
+
+	<string id="p_ab_5">돌아가기</string>
+	<string id="p_ag_1">자세히 보기</string>
+	<string id="p_af_1">이 포켓몬을 데리고 가기</string>
+
+	<string id="p_ab_1">포켓몬:</string>
+	<string id="p_ab_2">특성:</string>
+	<string id="p_ab_6">타입:</string>
+	<string id="p_ab_3">성별:</string>
+	<string id="p_ab_4">알고 있는 기술:</string>
+
+	<string id="p_aj_4">p_aj_4</string>
+</data>
