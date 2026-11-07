@@ -445,12 +445,12 @@ $.extend(PGL.prototype, {
     this.pdw.updateLinkMessage(this.data.member.nextstart_remaintime);
     setTimeout($.proxy(this.updatePDWBusyStatus, this), 60 * 1000);
   },
-  onPDWClick: function() {
+  onPDWClick: function(event) {
     if (this.level == PGL.NOT_SIGNED_UP) {
       this.showDialog(PGL.Text.get('new_pdwstart_1'), { ok:true }); // 非会員
       return false;
     } else if (this.level == PGL.INTERIM_REGISTERED) {
-      this.show_dialog(PGL.Text.get('dialog_29'), { ok:true }); // 仮登録
+      this.showDialog(PGL.Text.get('dialog_29'), { ok:true }); // 仮登録
       return false;
     } else {
       var that = this;
@@ -508,7 +508,7 @@ $.extend(PGL.PDW.prototype, {
     var can_re_enter = remains > PGL.PDW.INTERMISSION - PGL.PDW.RE_ENTER_DURATION;
     var can_enter    = remains <= 0;
     if (can_enter || can_re_enter) {
-//      $('#pdw-link-message .text').text(PGL.Text.get('pgltop.accept_time.4')).show();
+      //$('#pdw-link-message .text').text(PGL.Text.get('pgltop.accept_time.4')).show();
     } else {
       var text;
       if (remains <= 60) {
@@ -518,7 +518,7 @@ $.extend(PGL.PDW.prototype, {
       } else {
         text = PGL.Text.get('pgltop.accept_time.1').replace(/\[HH\]/, Math.ceil(remains / 3600));
       }
-//      $('#pdw-link-message .text').text(text).show();
+      //$('#pdw-link-message .text').text(text).show();
     }
 
 

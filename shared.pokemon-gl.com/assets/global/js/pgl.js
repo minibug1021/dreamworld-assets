@@ -47,8 +47,8 @@ PGL.prototype = {
       //console && console.log('pgl.top.init', data);
       $.proxy(that._setState, that)(data);
       
-      if (that.level == PGL.NOT_SIGNED_UP && !/^\/(register|support)\//.test(location.pathname)) {
-        top.location = '/register/';
+      if (that.level == PGL.NOT_SIGNED_UP && !/^\/(register|support|about\/[es]_notice)\//.test(location.pathname)) {
+        location = '/register/';
       }
     })
     .error(function(e) {
