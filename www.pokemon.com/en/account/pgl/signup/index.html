@@ -35,7 +35,7 @@
                 function disableSubmitListener(){
                     return disableSubmit(this);
                 }
-            
+
                 for( var i in subButtons ){
                     if( subButtons[i].addEventListener ){
                         subButtons[i].addEventListener('click',disableSubmitListener, false);
@@ -73,7 +73,7 @@
                         pwConfirmField.attachEvent('onkeyup', updatePasswordMatchIndicator);
                     }
                 }
-            
+
                 var pglRadios = document.getElementsByTagName('div');
                 for (var i = 0; i < pglRadios.length; i++) {
                     if (pglRadios[i].className.indexOf('pgl_radio') === -1) { continue; }
@@ -91,13 +91,13 @@
                     }
                 }
             }
-            
+
             if (window.addEventListener){
                 window.addEventListener('load', onLoad, false);
             } else if (window.attachEvent){
                 window.attachEvent('onload', onLoad );
             }
-            
+
         </script>
     </head>
     <body class="en">
@@ -281,8 +281,8 @@
                                 <ol>
                                     <li>
                                         <label for="id_username">Username</label>
-                                        <input id="id_username" type="text" class="required" name="username" required="required" minlength="3" maxlength="15" pattern="[A-Za-z0-9_]{3,15}" title="3 to 15 letters, numbers, or underscores" />
-                                        <span class="subInput">(Example: Trainer123. 3 to 15 letters, numbers, or underscores. Please do not use your real name in your username.)</span>
+                                        <input id="id_username" type="text" class="required" name="username" required="required" minlength="4" maxlength="15" pattern="[A-Za-z0-9]{4,15}" title="4 to 15 letters or numbers" />
+                                        <span class="subInput">(Example: Trainer123. 4 to 15 letters or numbers. Please do not use your real name in your username.)</span>
                                     </li>
                                 </ol>
                             </div>
@@ -296,12 +296,12 @@
                                 <ol>
                                     <li>
                                         <label for="id_password">Password</label>
-                                        <input id="id_password" type="password" class="required" name="password" required="required" minlength="6" maxlength="15" />
+                                        <input id="id_password" type="password" class="required" name="password" required="required" minlength="6" />
                                     </li>
                                     <li>
                                         <label for="id_password_confirm">Confirm Password</label>
-                                        <input id="id_password_confirm" type="password" class="required" name="password_confirm" required="required" minlength="6" maxlength="15" />
-                                        <span class="subInput">The length must be between 6 and 15 characters.</span>
+                                        <input id="id_password_confirm" type="password" class="required" name="password_confirm" required="required" minlength="6" />
+                                        <span class="subInput">Password must be at least 6 characters long.</span>
                                         <span id="passwordMatchIndicator" style="display:none; font-weight:bold;"></span>
                                     </li>
                                 </ol>
@@ -470,7 +470,7 @@
                 var globalNavJson = '/api/_global_nav.json';
                 var cmsAssetsRootVirtual = 'https://assets.pokemon.com/assets/';
                 var avatarAssetPath = cmsAssetsRootVirtual+'cms/swf/avatar/components/';
-            
+
                 var pokemonPaths = {
                     avatar:{
                         configSrc:rootVirtual+"swf/global-dashboard/DashboardAvatarShell.swf",
@@ -495,7 +495,7 @@
                         advanced:'/en/pokemon-trading-card-game/database/advanced/'
                     }
                 };
-            
+
                         /*
                  * There are 3 versions of this list that must be synchronized:
                  * - /main/app/templates/exitWarningWhitelist.html
@@ -531,17 +531,17 @@
                           'www.pokemonconquest.com',
                           'www.pokedex3d.com',
                           'www.pokeparkwii.com'
-            
+
                     ];
-            
+
                 var noNewWindowWhitelist = [
                     'www.pokemon.com',
                     /(.+\.)?pokemon-gl\.com/,
                     /(.+\.)?pokemontcg.com/,
                     /(.+\.)pokemon\.dev/
                 ];
-            
-            //]]> 
+
+            //]]>
         </script>
     </body>
 </html>
