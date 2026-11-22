@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<title>Inicio de sesión en el Club de Entrenadores Pokémon</title>
+<link rel="stylesheet" href="pgl.css">
+</head>
+<body>
+
+<div class="pgl-login-widget">
+
+  <p class="pgl-heading">Si ya tienes una cuenta del Club de Entrenadores Pokémon, inicia la sesión aquí.</p>
+
+  <form class="pgl-form" id="pgl-login-form" method="post">
+
+    <div class="pgl-field">
+      <input class="pgl-input" type="text" name="username" size="30" placeholder="Escribe tu nombre de usuario" autocomplete="username">
+      <div class="pgl-help-link">
+        <a href="https://www.pokemon.com/es/account/pgl/forgot-username" target="_blank">¿Has olvidado tu nombre de usuario?</a>
+      </div>
+    </div>
+
+    <div class="pgl-field">
+      <input class="pgl-input" type="password" name="password" size="30" placeholder="Escribe tu contraseña" autocomplete="current-password">
+      <div class="pgl-help-link">
+        <a href="https://www.pokemon.com/es/account/pgl/forgot-password" target="_blank">¿Has olvidado tu contraseña?</a>
+      </div>
+    </div>
+
+    <p class="pgl-error" id="pgl-login-error" hidden></p>
+
+    <input class="pgl-login-button" type="submit" name="Login" value="Iniciar sesión">
+  </form>
+
+  <p class="pgl-heading">¿Eres nuevo en pokemon.es? ¡Regístrate ahora para obtener una cuenta!</p>
+
+  <div class="pgl-signup-wrap">
+    <a class="pgl-signup-button" href="https://www.pokemon.com/es/account/pgl/signup/" target="_blank">¡Regístrate!</a>
+  </div>
+
+</div>
+
+<script src="pgl.js"></script>
+</body>
+</html>

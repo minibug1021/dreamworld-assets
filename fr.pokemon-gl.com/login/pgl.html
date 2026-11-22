@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<title>Connexion au Club des Dresseurs Pokémon</title>
+<link rel="stylesheet" href="pgl.css">
+</head>
+<body>
+
+<div class="pgl-login-widget">
+
+  <p class="pgl-heading">Si vous possédez déjà un compte au Club des Dresseurs Pokémon, veuillez vous connecter ici.</p>
+
+  <form class="pgl-form" id="pgl-login-form" method="post">
+
+    <div class="pgl-field">
+      <input class="pgl-input" type="text" name="username" size="30" placeholder="Saisissez votre nom d'utilisateur" autocomplete="username">
+      <div class="pgl-help-link">
+        <a href="https://www.pokemon.com/fr/account/pgl/forgot-username" target="_blank">Vous avez oublié votre nom d'utilisateur ?</a>
+      </div>
+    </div>
+
+    <div class="pgl-field">
+      <input class="pgl-input" type="password" name="password" size="30" placeholder="Saisissez votre mot de passe" autocomplete="current-password">
+      <div class="pgl-help-link">
+        <a href="https://www.pokemon.com/fr/account/pgl/forgot-password" target="_blank">Vous avez oublié votre mot de passe ?</a>
+      </div>
+    </div>
+
+    <p class="pgl-error" id="pgl-login-error" hidden></p>
+
+    <input class="pgl-login-button" type="submit" name="Login" value="Connexion">
+  </form>
+
+  <p class="pgl-heading">Nouveau sur pokemon.fr ? Créez votre compte dès maintenant !</p>
+
+  <div class="pgl-signup-wrap">
+    <a class="pgl-signup-button" href="https://www.pokemon.com/fr/account/pgl/signup/" target="_blank">S'inscrire !</a>
+  </div>
+
+</div>
+
+<script src="pgl.js"></script>
+</body>
+</html>
