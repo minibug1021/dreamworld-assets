@@ -19,7 +19,7 @@ table, caption, tbody, tfoot, thead, tr, th, td {
 }
 html
 {
-	background: #BDBDBD url(/en.pokemon-gl.com/src/swf/assets/global/images/body-bg.png) center top repeat;
+	background: #BDBDBD url(/src/swf/assets/global/images/body-bg.png) center top repeat;
 }
 
 body {

@@ -1,6 +1,6 @@
 /* AUTO-GENERATED PGL STUB: /en.pokemon-gl.com/help/assets/js/help.js */
 (function (global) {
-  var path = "/en.pokemon-gl.com/help/assets/js/help.js";
+  var path = "/help/assets/js/help.js";
   if (!global.__PGL_MISSING_JS__) {
     global.__PGL_MISSING_JS__ = [];
   }
