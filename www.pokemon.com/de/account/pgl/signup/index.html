@@ -1,0 +1,632 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="de" lang="de">
+    <head>
+        <title>Pokémon Trainer Club</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta http-equiv="Content-Language" content="de" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+        <link rel="shortcut icon" href="https://assets.pokemon.com/static/img/favicon.ico" />
+        <link rel="stylesheet" type="text/css" media="screen" href="https://assets.pokemon.com/static_op/pgl/css/reset.css">
+        <link rel="stylesheet" type="text/css" media="screen" href="https://assets.pokemon.com/static_op/pgl/css/gus.css">
+        <link rel="stylesheet" type="text/css" media="screen" href="https://assets.pokemon.com/static_op/css/pgl-prefs.css">
+        <link rel="stylesheet" type="text/css" media="screen" href="https://assets.pokemon.com/static_op/css/jquery-ui-1.7.2.custom.css">
+        <link rel="stylesheet" type="text/css" media="screen" href="https://assets.pokemon.com/static_op/pgl/css/style.css">
+        <!--[if lte IE 7]>
+        <link rel="stylesheet" type="text/css" media="screen" href="https://assets.pokemon.com/static_op/pgl/css/ie7.css">
+        <![endif]-->
+        <script type="text/javascript" src="https://ssl.google-analytics.com/ga.js" charset="utf-8"></script>
+        <script type="text/javascript" src="https://assets.pokemon.com/static/de/js/compiled.https.js" charset="utf-8"></script>
+        <script type="text/javascript" src="https://assets.pokemon.com/static_op/js/op_compressed.js" charset="utf-8"></script>
+        <style type="text/css">
+            #account .error-inline { clear: both; }
+        </style>
+        <script type='text/javascript' charset='utf-8'>
+            function onLoad(){
+                var subButtons = document.getElementsByName('btn-accept');
+                function disableSubmit(inputVar){
+                    if (inputVar.form.reportValidity && !inputVar.form.reportValidity()) {
+                        return false;
+                    }
+                    inputVar.disabled=true;
+                    if (inputVar.form.getAttribute('submitted') == 'true') {
+                        return false;
+                    }
+                    inputVar.form.submit();
+                    inputVar.form.setAttribute('submitted', 'true');
+                    return false;
+                }
+                function disableSubmitNonListener(){
+                    return disableSubmit(event.srcElement);
+                }
+                function disableSubmitListener(){
+                    return disableSubmit(this);
+                }
+
+                for( var i in subButtons ){
+                    if( subButtons[i].addEventListener ){
+                        subButtons[i].addEventListener('click',disableSubmitListener, false);
+                    }else if(subButtons[i].attachEvent){
+                        subButtons[i].attachEvent('onclick',disableSubmitNonListener );
+                    }
+                }
+
+                var pwField = document.getElementById('id_password');
+                var pwConfirmField = document.getElementById('id_password_confirm');
+                var pwIndicator = document.getElementById('passwordMatchIndicator');
+                function updatePasswordMatchIndicator(){
+                    if (!pwField || !pwConfirmField || !pwIndicator) {
+                        return;
+                    }
+                    if (pwConfirmField.setCustomValidity) {
+                        var mismatched = pwConfirmField.value !== '' && pwField.value !== pwConfirmField.value;
+                        pwConfirmField.setCustomValidity(mismatched ? 'Die Passwörter stimmen nicht überein.' : '');
+                    }
+                    if (pwConfirmField.value === '') {
+                        pwIndicator.style.display = 'none';
+                        return;
+                    }
+                    pwIndicator.style.display = 'inline';
+                    if (pwField.value === pwConfirmField.value) {
+                        pwIndicator.innerHTML = '&#10003; Passwörter stimmen überein';
+                        pwIndicator.style.color = '#2a7a2a';
+                    } else {
+                        pwIndicator.innerHTML = '&#9888; Passwörter stimmen nicht überein';
+                        pwIndicator.style.color = '#cc0000';
+                    }
+                }
+                if (pwField && pwConfirmField) {
+                    if (pwField.addEventListener) {
+                        pwField.addEventListener('input', updatePasswordMatchIndicator, false);
+                        pwConfirmField.addEventListener('input', updatePasswordMatchIndicator, false);
+                    } else if (pwField.attachEvent) {
+                        pwField.attachEvent('onkeyup', updatePasswordMatchIndicator);
+                        pwConfirmField.attachEvent('onkeyup', updatePasswordMatchIndicator);
+                    }
+                }
+
+                var pglRadios = document.getElementsByTagName('div');
+                for (var i = 0; i < pglRadios.length; i++) {
+                    if (pglRadios[i].className.indexOf('pgl_radio') === -1) { continue; }
+                    var labels = pglRadios[i].getElementsByTagName('label');
+                    for (var j = 0; j < labels.length; j++) {
+                        labels[j].onclick = (function(container){
+                            return function(){
+                                var allLabels = container.getElementsByTagName('label');
+                                for (var k = 0; k < allLabels.length; k++) {
+                                    allLabels[k].className = allLabels[k].className.replace(/\bon\b/, '').replace(/\s+$/,'');
+                                }
+                                this.className = (this.className + ' on').replace(/\s+/g,' ').replace(/^\s+/,'');
+                            };
+                        })(pglRadios[i]);
+                    }
+                }
+
+                showSignupResult(window.SIGNUP_RESULT);
+            }
+
+            function showSignupResult(result){
+                if (!result) {
+                    return;
+                }
+                var form = document.getElementById('account');
+
+                for (var i = 0; i < form.elements.length; i++) {
+                    var element = form.elements[i];
+                    if (!result.values.hasOwnProperty(element.name)) {
+                        continue;
+                    }
+                    if (element.type === 'radio') {
+                        element.checked = element.value === result.values[element.name];
+                        element.parentNode.className = element.checked ? 'on' : '';
+                    } else {
+                        element.value = result.values[element.name];
+                    }
+                }
+
+                for (var name in result.errors) {
+                    if (!result.errors.hasOwnProperty(name)) {
+                        continue;
+                    }
+                    var field = form.elements[name];
+                    if (!field) {
+                        continue;
+                    }
+                    if (!field.nodeName) {
+                        field = field[0];
+                    }
+                    var item = field.parentNode;
+                    while (item && !(item.nodeName === 'LI' && item.parentNode.nodeName === 'OL')) {
+                        item = item.parentNode;
+                    }
+                    var error = document.createElement('p');
+                    error.className = 'error-inline';
+                    error.textContent = result.errors[name];
+                    (item || field.parentNode).appendChild(error);
+                }
+
+                var alert = document.createElement('div');
+                alert.className = 'alert';
+                alert.textContent = result.alert;
+                form.parentNode.insertBefore(alert, form);
+                alert.scrollIntoView();
+            }
+
+            if (window.addEventListener){
+                window.addEventListener('load', onLoad, false);
+            } else if (window.attachEvent){
+                window.attachEvent('onload', onLoad );
+            }
+
+        </script>
+    </head>
+    <body class="de">
+        <iframe id="gus" src="https://edgecastcdn.net/002759/origin/gus.pokemon/de/" border="0" frameborder="0" allowtransparency="true" scrolling="no" marginwidth="0" marginheight="0"></iframe>
+        <div id="background">
+            <div id="container">
+                <div id="header">
+                </div>
+                <div id="content">
+                    <h2>Neues Pokémon Trainer Club-Konto erstellen</h2>
+                    <p class="intro">
+                        Fülle die folgenden Felder aus, um dein Pokémon Trainer Club-Konto zu erstellen.
+                    </p>
+                    <form id="account" method="post">
+                        <fieldset>
+                            <legend>Land und Geburtsmonat</legend>
+                            <div class="top">
+                                <span class="visibleLegend">Land und Geburtsmonat</span>
+                            </div>
+                            <div class="bot">
+                                <ol>
+                                    <li>
+                                        <label for="id_country">Land</label>
+                                        <select id="id_country" style="width:245px;" class="required" name="country" required="required">
+                                            <option value="176">Vereinigte Staaten</option>
+                                            <option value="1">Afghanistan</option>
+                                            <option value="52">Ägypten</option>
+                                            <option value="2">Algerien</option>
+                                            <option value="4">Andorra</option>
+                                            <option value="5">Angola</option>
+                                            <option value="6">Antigua und Barbuda</option>
+                                            <option value="54">Äquatorial-Guinea</option>
+                                            <option value="7">Argentinien</option>
+                                            <option value="8">Armenien</option>
+                                            <option value="9">Aruba</option>
+                                            <option value="12">Aserbaidschan</option>
+                                            <option value="57">Äthiopien</option>
+                                            <option value="10">Australien</option>
+                                            <option value="164">Bahama-Inseln</option>
+                                            <option value="13">Bahrain</option>
+                                            <option value="15">Barbados</option>
+                                            <option value="17">Belgien</option>
+                                            <option value="18">Belize</option>
+                                            <option value="19">Benin</option>
+                                            <option value="22">Bolivien</option>
+                                            <option value="23">Botswana</option>
+                                            <option value="24">Brasilien</option>
+                                            <option value="26">Bulgarien</option>
+                                            <option value="27">Burkina Faso</option>
+                                            <option value="28">Burundi</option>
+                                            <option value="33">Cayman-Inseln</option>
+                                            <option value="36">Chile</option>
+                                            <option value="37">China</option>
+                                            <option value="41">Cook-Inseln</option>
+                                            <option value="42">Costa Rica</option>
+                                            <option value="47">Dänemark</option>
+                                            <option value="63">Deutschland</option>
+                                            <option value="49">Dominica</option>
+                                            <option value="50">Dominikanische Republik</option>
+                                            <option value="51">Ecuador</option>
+                                            <option value="53">El Salvador</option>
+                                            <option value="55">Eritrea</option>
+                                            <option value="56">Estland</option>
+                                            <option value="59">Finnland</option>
+                                            <option value="60">Frankreich</option>
+                                            <option value="61">Gabun</option>
+                                            <option value="165">Gambia</option>
+                                            <option value="62">Georgien</option>
+                                            <option value="64">Ghana</option>
+                                            <option value="67">Grenada</option>
+                                            <option value="65">Griechenland</option>
+                                            <option value="175">Großbritannien (Vereinigtes Königreich)</option>
+                                            <option value="68">Guam</option>
+                                            <option value="69">Guatemala</option>
+                                            <option value="71">Guinea-Bissau</option>
+                                            <option value="72">Guyana</option>
+                                            <option value="73">Haiti</option>
+                                            <option value="74">Honduras</option>
+                                            <option value="75">Hongkong</option>
+                                            <option value="78">Indien</option>
+                                            <option value="79">Indonesien</option>
+                                            <option value="80">Irland</option>
+                                            <option value="77">Island</option>
+                                            <option value="81">Israel</option>
+                                            <option value="82">Italien</option>
+                                            <option value="83">Jamaika</option>
+                                            <option value="999">Japan</option>
+                                            <option value="184">Jemen</option>
+                                            <option value="84">Jordanien</option>
+                                            <option value="183">Jungferninseln (Amerikanisch)</option>
+                                            <option value="182">Jungferninseln (Britisch)</option>
+                                            <option value="30">Kamerun</option>
+                                            <option value="31">Kanada</option>
+                                            <option value="85">Kasachstan</option>
+                                            <option value="86">Kenia</option>
+                                            <option value="38">Kolumbien</option>
+                                            <option value="39">Komoren</option>
+                                            <option value="40">Kongo, Demokratische Republik</option>
+                                            <option value="44">Kroatien</option>
+                                            <option value="89">Kuwait</option>
+                                            <option value="92">Lettland</option>
+                                            <option value="93">Libanon</option>
+                                            <option value="95">Liechtenstein</option>
+                                            <option value="96">Litauen</option>
+                                            <option value="97">Luxemburg</option>
+                                            <option value="98">Madagaskar</option>
+                                            <option value="99">Malawi</option>
+                                            <option value="100">Malaysia</option>
+                                            <option value="102">Mali</option>
+                                            <option value="103">Malta</option>
+                                            <option value="111">Marokko</option>
+                                            <option value="104">Mauretanien</option>
+                                            <option value="105">Mauritius</option>
+                                            <option value="106">Mexiko</option>
+                                            <option value="108">Moldawien, Republik</option>
+                                            <option value="109">Monaco</option>
+                                            <option value="186">Montenegro</option>
+                                            <option value="112">Mozambique</option>
+                                            <option value="113">Namibia</option>
+                                            <option value="118">Neuseeland</option>
+                                            <option value="119">Nicaragua</option>
+                                            <option value="116">Niederlande</option>
+                                            <option value="117">Niederländische Antillen</option>
+                                            <option value="120">Niger</option>
+                                            <option value="121">Nigeria</option>
+                                            <option value="122">Norwegen</option>
+                                            <option value="123">Oman</option>
+                                            <option value="11">Österreich</option>
+                                            <option value="126">Panamá</option>
+                                            <option value="128">Paraguay</option>
+                                            <option value="129">Peru</option>
+                                            <option value="130">Philippinen</option>
+                                            <option value="131">Polen</option>
+                                            <option value="132">Portugal</option>
+                                            <option value="133">Qatar</option>
+                                            <option value="136">Ruanda</option>
+                                            <option value="134">Rumänien</option>
+                                            <option value="135">Russische Föderation</option>
+                                            <option value="185">Sambia</option>
+                                            <option value="142">Sao Tomé und Príncipe</option>
+                                            <option value="143">Saudi-Arabien</option>
+                                            <option value="158">Schweden</option>
+                                            <option value="159">Schweiz</option>
+                                            <option value="144">Senegal</option>
+                                            <option value="145">Serbien</option>
+                                            <option value="146">Seychellen</option>
+                                            <option value="147">Sierra Leone</option>
+                                            <option value="148">Singapur</option>
+                                            <option value="149">Slowakei (Slowakische Republik)</option>
+                                            <option value="150">Slowenien</option>
+                                            <option value="152">Somalia</option>
+                                            <option value="154">Spanien</option>
+                                            <option value="137">St. Kitts und Nevis</option>
+                                            <option value="138">St. Lucia</option>
+                                            <option value="139">St. Vincent und die Grenadinen</option>
+                                            <option value="153">Südafrika</option>
+                                            <option value="156">Surinam</option>
+                                            <option value="161">Tadschikistan</option>
+                                            <option value="160">Taiwan</option>
+                                            <option value="162">Tansania, Vereinigte Republik</option>
+                                            <option value="163">Thailand</option>
+                                            <option value="166">Togo</option>
+                                            <option value="168">Trinidad und Tobago</option>
+                                            <option value="35">Tschad</option>
+                                            <option value="46">Tschechische Republik</option>
+                                            <option value="169">Tunesien</option>
+                                            <option value="170">Türkei</option>
+                                            <option value="171">Turkmenistan</option>
+                                            <option value="172">Uganda</option>
+                                            <option value="173">Ukraine</option>
+                                            <option value="76">Ungarn</option>
+                                            <option value="177">Uruguay</option>
+                                            <option value="178">Usbekistan</option>
+                                            <option value="180">Venezuela</option>
+                                            <option value="174">Vereinigte Arabische Emirate</option>
+                                            <option value="34">Zentralafrikanische Republik</option>
+                                            <option value="45">Zypern</option>
+                                        </select>
+                                    </li>
+                                    <li>
+                                        <label for="id_birth_month">Geburtsmonat</label>
+                                        <select id="id_birth_month" class="required" name="birth_month" required="required">
+                                            <option value="">-- Monat auswählen --</option>
+                                            <option value="1">Januar</option>
+                                            <option value="2">Februar</option>
+                                            <option value="3">März</option>
+                                            <option value="4">April</option>
+                                            <option value="5">Mai</option>
+                                            <option value="6">Juni</option>
+                                            <option value="7">Juli</option>
+                                            <option value="8">August</option>
+                                            <option value="9">September</option>
+                                            <option value="10">Oktober</option>
+                                            <option value="11">November</option>
+                                            <option value="12">Dezember</option>
+                                        </select>
+                                    </li>
+                                </ol>
+                            </div>
+                        </fieldset>
+                        <fieldset>
+                            <legend>Benutzername</legend>
+                            <div class="top">
+                                <span class="visibleLegend">Benutzername</span>
+                            </div>
+                            <div class="bot">
+                                <ol>
+                                    <li>
+                                        <label for="id_username">Benutzername</label>
+                                        <input id="id_username" type="text" class="required" name="username" required="required" minlength="4" maxlength="15" pattern="[A-Za-z0-9]{4,15}" title="4 bis 15 Buchstaben oder Ziffern" />
+                                        <span class="subInput">(Beispiel: Trainer123. 4 bis 15 Buchstaben oder Ziffern. Verwende nicht deinen wirklichen Namen als Benutzernamen.)</span>
+                                    </li>
+                                </ol>
+                            </div>
+                        </fieldset>
+                        <fieldset>
+                            <legend>Passwort</legend>
+                            <div class="top">
+                                <span class="visibleLegend">Passwort</span>
+                            </div>
+                            <div class="bot">
+                                <ol>
+                                    <li>
+                                        <label for="id_password">Passwort</label>
+                                        <input id="id_password" type="password" class="required" name="password" required="required" minlength="6" />
+                                    </li>
+                                    <li>
+                                        <label for="id_password_confirm">Passwort bestätigen</label>
+                                        <input id="id_password_confirm" type="password" class="required" name="password_confirm" required="required" minlength="6" />
+                                        <span class="subInput">Das Passwort muss mindestens 6 Zeichen lang sein.</span>
+                                        <span id="passwordMatchIndicator" style="display:none; font-weight:bold;"></span>
+                                    </li>
+                                </ol>
+                            </div>
+                        </fieldset>
+                        <fieldset>
+                            <legend>E-Mail-Adresse</legend>
+                            <div class="top">
+                                <span class="visibleLegend">E-Mail-Adresse</span>
+                            </div>
+                            <div class="bot">
+                                <ol>
+                                    <li>
+                                        <label for="id_email">E-Mail-Adresse</label>
+                                        <input id="id_email" type="email" class="required" name="email" required="required" maxlength="254" />
+                                        <span class="subInput">(Beispiel: johnsmith@gmail.com)</span>
+                                    </li>
+                                </ol>
+                            </div>
+                        </fieldset>
+                        <fieldset>
+                            <legend>Pokémon Global Link Einstellungen</legend>
+                            <div class="top">
+                                <span class="visibleLegend">Pokémon Global Link Einstellungen</span>
+                            </div>
+                            <div class="bot">
+                                <ol>
+                                    <li>
+                                        <div>Entscheide, wer dein PGL-Profil sehen darf:</div>
+                                        <div class="pgl_radio">
+                                            <ul>
+                                                <li>
+                                                    <label class="on" for="id_pgl_privacy_everyone">
+                                                    <input type="radio" id="id_pgl_privacy_everyone" name="pgl_privacy" value="everyone" checked="checked" required="required" />
+                                                    Alle
+                                                    </label>
+                                                </li>
+                                                <li>
+                                                    <label for="id_pgl_privacy_friends">
+                                                    <input type="radio" id="id_pgl_privacy_friends" name="pgl_privacy" value="friends" required="required" />
+                                                    Nur Spielfreunde
+                                                    </label>
+                                                </li>
+                                                <li>
+                                                    <label for="id_pgl_privacy_nobody">
+                                                    <input type="radio" id="id_pgl_privacy_nobody" name="pgl_privacy" value="nobody" required="required" />
+                                                    Niemand
+                                                    </label>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div>Entscheide, wer deine Spiel- und Traumfreundesliste sehen darf:</div>
+                                        <div class="pgl_radio">
+                                            <ul>
+                                                <li>
+                                                    <label class="on" for="id_dw_privacy_everyone">
+                                                    <input type="radio" id="id_dw_privacy_everyone" name="dw_privacy" value="everyone" checked="checked" required="required" />
+                                                    Alle
+                                                    </label>
+                                                </li>
+                                                <li>
+                                                    <label for="id_dw_privacy_friends">
+                                                    <input type="radio" id="id_dw_privacy_friends" name="dw_privacy" value="friends" required="required" />
+                                                    Nur Spielfreunde
+                                                    </label>
+                                                </li>
+                                                <li>
+                                                    <label for="id_dw_privacy_nobody">
+                                                    <input type="radio" id="id_dw_privacy_nobody" name="dw_privacy" value="nobody" required="required" />
+                                                    Niemand
+                                                    </label>
+                                                </li>
+                                            </ul>
+                                        </div>
+                                    </li>
+                                </ol>
+                            </div>
+                        </fieldset>
+                        <li class="buttons">
+                            <input type="submit" value="Absenden" class="submit" name="btn-accept" />
+                        </li>
+                    </form>
+                    <hr class="orange" />
+                    <p class="orange_box center contains_button">Wenn du bereits ein Konto hast, <a href="http://de.pokemon-gl.com/">melde dich jetzt an</a>.</p>
+                </div>
+            </div>
+        </div>
+        <div id="footer">
+        <a href="http://www.pokemon.com/de" id="pokemon-company-logo"></a>
+        <div id="footer-links">
+            <a href="/de/support">Kundendienst</a>
+            <a href="/de/parents/">Pokémon-Ratgeber für Eltern</a>
+            <a href="/de/about/">Über TPCi</a>
+            <a href="/de/site-map/">Sitemap</a>
+            <a href="/countryselect">Land auswählen <img src="https://assets.pokemon.com/static/de/img/icons/flag.gif" width="11" height="9"/></a>
+        </div>
+        <div id="esrb">
+            <a href="http://www.pokemon.com/us/privacy-policy/#kids" id="esrb-kids"></a>
+        </div>
+        <div id="footer-legal">
+            <div id="footer-legal-links">
+                <a href="/de/terms-of-use/">Nutzungsbedingungen</a>
+                <span class="footer-legal-links-separator">|</span>
+                <a href="/de/privacy-policy/">Datenschutzrichtlinie</a>
+                <span class="footer-legal-links-separator">|</span>
+                <a href="/de/about/legal/">Rechtliche Hinweise</a>
+                <div>
+                    <p id="copyright">© 2012 Pokémon.</p>
+                </div>
+            </div>
+        </div>
+        <div class="genericTooltip">
+            <div class="top"></div>
+            <div class="content"></div>
+            <div class="bottom"></div>
+            <div class="arrow"></div>
+        </div>
+        <div id="exitWarning">
+            <p class="din">Du bist dabei, <strong>pokemon.com</strong> zu verlassen!</p>
+            <div class="content">
+                <p class="legal">
+                    The Pokémon Company International ist nicht für die Inhalte verlinkter Websites verantwortlich, die nicht von ihr betrieben werden. Bitte beachte, dass die Datenschutz- und Sicherheitsrichtlinien dieser Websites von den Standards von The Pokémon Company International abweichen können.
+                </p>
+                <div class="clear"></div>
+                <div class="left">
+                    <a class="btn btn-bgb" href="#" >
+                    <span class="left"></span>
+                    <span class="mid">Weiter</span>
+                    <span class="right"></span>
+                    </a>
+                    <div class="clear"></div>
+                    <a class="btn btn-lbwhite" href="#" >
+                    <span class="left"></span>
+                    <span class="mid">Abbrechen</span>
+                    <span class="right"></span>
+                    </a>
+                    <div class="clear"></div>
+                </div>
+                <div class="right"></div>
+                <div class="clear"></div>
+            </div>
+        </div>
+        <div id="ie6warning">
+            <div class="inside">
+                <a href="#" class="close"><span class="offscreen">Fenster schließen</span></a>
+                <div class="clear"></div>
+                <div class="warning">
+                    <p><strong>Bitte beachte, dass einige Bereiche von pokemon.com in deinem Browser möglicherweise nicht richtig angezeigt werden.</strong></p>
+                    <p>Aktualisiere deinen Browser:</p>
+                    <p class="continue"><a href="#" class="minilink">Klicke hier, um pokemon.com weiter mit deinem aktuellen Browser zu nutzen.</a></p>
+                </div>
+                <ul>
+                    <li class="ie"><a target="_blank" href="http://www.microsoft.com/windows/Internet-explorer/default.aspx">IE8</a></li>
+                    <li class="firefox"><a target="_blank" href="http://www.mozilla.com/en-US/firefox/">Firefox</a></li>
+                    <li class="safari"><a target="_blank" href="http://www.apple.com/safari/">Safari</a></li>
+                </ul>
+                <div class="clear"></div>
+            </div>
+        </div>
+        <script type="text/javascript">
+            //<![CDATA[
+                var rootVirtual = 'https://assets.pokemon.com/static/_ui/';
+                var assetRoot = 'https://assets.pokemon.com/assets/';
+                var globalNavJson = '/api/_global_nav.json';
+                var cmsAssetsRootVirtual = 'https://assets.pokemon.com/assets/';
+                var avatarAssetPath = cmsAssetsRootVirtual+'cms/swf/avatar/components/';
+
+                var pokemonPaths = {
+                    avatar:{
+                        configSrc:rootVirtual+"swf/global-dashboard/DashboardAvatarShell.swf",
+                        appFile:rootVirtual+"swf/global-dashboard/DashboardAvatarApplication.swf",
+                        swfPath:avatarAssetPath,
+                        imagePath:rootVirtual+"img/flash-assets/",
+                        link:'/de/pokemon-fun-zone/pokemon-trainer-builder/',
+                        configFile:"/de/api/pokemon/favoritePokemon.xml",
+                        errFilePath:rootVirtual+"swf/global-dashboard/error-codes.xml"
+                    },
+                    globalDashboard:{
+                        smallPokemon:rootVirtual+'img/flash-assets/pokemon/small/'
+                    },
+                    videoPlayer:{
+                        src:rootVirtual+"swf/pokemonVideoPlayerNonDelve.swf"
+                    },
+                    tvPlayer:{
+                        src:rootVirtual+"swf/tv-episodes-watch/pokemonVideoPlayer.swf"
+                    },
+                    cardDatabase:{
+                        basic:'/de/pokemon-trading-card-game/database/basic/',
+                        advanced:'/de/pokemon-trading-card-game/database/advanced/'
+                    }
+                };
+
+                        /*
+                 * There are 3 versions of this list that must be synchronized:
+                 * - /main/app/templates/exitWarningWhitelist.html
+                 * - /op/app/templates/exitWarningWhitelist.html
+                 * - /WebContent/WEB-INF/view/jsp/pokemon/ui/fullpage/casLoginView.jsp
+                 */
+                    var exitWarningWhitelist = [
+                          /(.+\.)?pokemon\.com/,
+                          /(.+\.)?go-pokemon\.com/,
+                          /(.+\.)?pokemon-gl\.com/,
+                          /(.+\.)?basementfactorysystems\.com/,
+                          /(.+\.)?pokemontcg.com/,
+                          /(.+\.)?pokemon-tcg.com/,
+                          /(.+\.)?pokemon\.dev/,
+                          'edgecastcdn.net',
+                          'www.darkrai.com',
+                          'www.pokemonarceus.com',
+                          'www.pokemonbattlerevolution.com',
+                          'www.pokemonblackwhite.com',
+                          'www.pokemondiamond.com',
+                          'www.pokemongiratina.com',
+                          'www.pokemongiratinamovie.com',
+                          'www.pokemongoldsilver.com',
+                          'www.pokemonmysterydungeon.com',
+                          'www.pokemonpearl.com',
+                          'www.pokemonplatinum.com',
+                          'www.pokemonranger.com',
+                          'www.pokemonrumble.com',
+                          'www.pokemonthemovie.com',
+                          'www.pokemontrozei.com',
+                          'www.pokemonvgc.com',
+                          'www.pokemonworldchampionships.com',
+                          'www.pokemonconquest.com',
+                          'www.pokedex3d.com',
+                          'www.pokeparkwii.com'
+
+                    ];
+
+                var noNewWindowWhitelist = [
+                    'www.pokemon.com',
+                    /(.+\.)?pokemon-gl\.com/,
+                    /(.+\.)?pokemontcg.com/,
+                    /(.+\.)pokemon\.dev/
+                ];
+
+            //]]>
+        </script>
+    </body>
+</html>
